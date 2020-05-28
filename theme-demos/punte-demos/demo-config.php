@@ -507,6 +507,66 @@ function punte_demo_config(){
 					),
 				),
 
+				'online-store' => array(
+					'demo_name'			=> esc_html__('Online Store','access-demo-importer'),
+					'xml_file'     		=> $git_url . 'online-store/online-store.xml',
+					'theme_settings' 	=> $git_url . 'online-store/online-store.dat',
+					'widgets_file'  	=> $git_url . 'online-store/online-store.wie',
+					'import_redux'		=> array(
+											'file_url'		=> $git_url .'online-store/online-store.json',
+											'option_name' 	=> 'punte_options',
+										),
+					'screen'			=> $git_url . 'online-store/online-store.jpg',
+					'preview_url'		=> 'https://demo.thepunte.com/punte/store/',
+					'home_title'  		=> 'Home',
+					'menus'				=> array(
+											'primary' => 'Main Menu',
+											),
+					'required_plugins'  => array(
+						'free' => array(
+							array(
+								'slug'  	=> 'elementor',
+								'init'  	=> 'elementor/elementor.php',
+								'name'  	=> 'Elementor',
+							),
+							array(
+								'slug'  	=> 'redux-framework',
+								'init'  	=> 'redux-framework/redux-framework.php',
+								'name'  	=> 'Redux Framework',
+							),
+							array(
+								'slug'  	=> 'ap-companion',
+								'init'  	=> 'ap-companion/ap-companion.php',
+								'name'  	=> 'AP Companion',
+							),
+							array(
+								'slug'  	=> 'contact-form-7',
+								'init'  	=> 'contact-form-7/wp-contact-form-7.php',
+								'name'  	=> 'Contact Form 7',
+							),
+							array(
+								'slug'  	=> 'woocommerce',
+								'init'  	=> 'woocommerce/woocommerce.php',
+								'name'  	=> 'WooCommerce',
+							),
+							array(
+								'slug'  	=> 'yith-woocommerce-quick-view',
+								'init'  	=> 'yith-woocommerce-quick-view/init.php',
+								'name'  	=> 'YITH WooCommerce Quick View',
+							),
+							array(
+								'slug'  	=> 'yith-woocommerce-wishlist',
+								'init'  	=> 'yith-woocommerce-wishlist/init.php',
+								'name'  	=> 'YITH WooCommerce Wishlist',
+							),
+							
+						),
+						'premium' => array(
+							
+						),
+					),
+				),
+
 
 
 			);
