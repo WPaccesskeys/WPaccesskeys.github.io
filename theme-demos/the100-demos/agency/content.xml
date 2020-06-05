@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.4.1" created="2020-06-05 07:19" -->
+	<!-- generator="WordPress/5.4.1" created="2020-06-05 07:58" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>The100 - Agency</title>
 	<link>https://8degreethemes.com/demo/the100/agency</link>
 	<description>Just another The100 Sites site</description>
-	<pubDate>Fri, 05 Jun 2020 07:19:34 +0000</pubDate>
+	<pubDate>Fri, 05 Jun 2020 07:58:26 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://8degreethemes.com/demo/the100/</wp:base_site_url>
@@ -1420,61 +1420,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Archive List Medium Image</title>
-		<link>https://8degreethemes.com/demo/the100/agency/2020/05/31/archive-list-medium-image/</link>
-		<pubDate>Sun, 31 May 2020 07:46:41 +0000</pubDate>
-		<dc:creator><![CDATA[AccessAdmin]]></dc:creator>
-		<guid isPermaLink="false">https://8degreethemes.com/demo/the100/agency/2020/05/31/archive-list-medium-image/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>477</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-31 07:46:41]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-31 07:46:41]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[archive-list-medium-image]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>8</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[467]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>Default Kit</title>
 		<link>https://8degreethemes.com/demo/the100/agency/?elementor_library=default-kit</link>
 		<pubDate>Mon, 01 Jun 2020 08:16:13 +0000</pubDate>
@@ -1841,6 +1786,191 @@ for your entire team.</a></h2>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
+					<item>
+		<title>Agency Final Demo Layout</title>
+		<link>https://8degreethemes.com/demo/the100/agency/?elementor_library=agency-final-demo-layout</link>
+		<pubDate>Fri, 05 Jun 2020 07:57:09 +0000</pubDate>
+		<dc:creator><![CDATA[AccessAdmin]]></dc:creator>
+		<guid isPermaLink="false">https://8degreethemes.com/demo/the100/agency/?elementor_library=agency-final-demo-layout</guid>
+		<description></description>
+		<content:encoded><![CDATA[CREATIVITY		
+			<h2>Help us Bring
+<br>
+the Change we Need</h2>		
+			<a href="#" role="button">
+						Read More
+					</a>
+			<figure><a href="#"><img width="58" height="54" src="https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/3.png" alt="" /></a></figure><h3><a href="#">Risk Management</a></h3><p>A special service  company</p>		
+			<figure><a href="#"><img width="46" height="58" src="https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/4.png" alt="" /></a></figure><h3><a href="#">Risk Management</a></h3><p>A special service  company</p>		
+			<figure><a href="#"><img width="58" height="58" src="https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/5.png" alt="" /></a></figure><h3><a href="#">Query Management</a></h3><p>A special service  company</p>		
+										<img width="502" height="680" src="https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/6.png" alt="" srcset="https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/6.png 502w, https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/6-221x300.png 221w" sizes="(max-width: 502px) 100vw, 502px" />											
+			<figure><a href="#"><img width="67" height="53" src="https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/01-.png" alt="" /></a></figure><h3><a href="#">Ideas Casting</a></h3><p>To cast a an idea and turn it into an official design, it's easy to keep things together, work with your partners and figure out the best plan possible.</p>		
+			<figure><a href="#"><img width="89" height="53" src="https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/02.png" alt="" /></a></figure><h3><a href="#">Ideas Casting</a></h3><p>To cast a an idea and turn it into an official design, it's easy to keep things together, work with your partners and figure out the best plan possible.</p>		
+			<figure><a href="#"><img width="85" height="54" src="https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/03.png" alt="" /></a></figure><h3><a href="#">Ideas Casting</a></h3><p>To cast a an idea and turn it into an official design, it's easy to keep things together, work with your partners and figure out the best plan possible.</p>		
+			<h2>Providing Our Customers With A Great Investing Experience</h2>		
+		After all, as described in Web Design Trends, vision dominates a lot of our subconscious interpretation of the world around us. Rounding up a bunch of specific designs and talking about the merits of each! The development business plan.		
+			<figure><a href="#"><img width="133" height="47" src="https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/s20.png" alt="" /></a></figure><a href="#">Martin Hope</a><p>Director Planning</p>		
+			<h2><a href="#">A Creative Designer
+<br>
+Based In New York.</a></h2>		
+		<p>To cast a an idea and turn it into an official design, it's easy to keep<br />things together, work with your partners and figure out the best plan possible.</p>		
+			<figure><a href="#"><img width="570" height="511" src="https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/8.jpg" alt="" srcset="https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/8.jpg 570w, https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/8-300x269.jpg 300w" sizes="(max-width: 570px) 100vw, 570px" /></a></figure><h3><a href="#">Management Mockups</a></h3><p>Branding</p>		
+			<figure><a href="#"><img width="570" height="511" src="https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/9.jpg" alt="" srcset="https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/9.jpg 570w, https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/9-300x269.jpg 300w" sizes="(max-width: 570px) 100vw, 570px" /></a></figure><h3><a href="#">Management Mockups</a></h3><p>Branding</p>		
+			<figure><a href="#"><img width="570" height="511" src="https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/10.jpg" alt="" srcset="https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/10.jpg 570w, https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/10-300x269.jpg 300w" sizes="(max-width: 570px) 100vw, 570px" /></a></figure><h3><a href="#">Management Mockups</a></h3><p>Branding</p>		
+			<figure><a href="#"><img width="570" height="511" src="https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/9.jpg" alt="" srcset="https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/9.jpg 570w, https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/9-300x269.jpg 300w" sizes="(max-width: 570px) 100vw, 570px" /></a></figure><h3><a href="#">Management Mockups</a></h3><p>Branding</p>		
+			<h2><a href="#">Creative collaboration
+<br>
+for your entire team.</a></h2>		
+		To cast a an idea and turn it into an official design, it's easy to keep things together, work with your partners and figure out the best plan possible.		
+					<ul>
+							<li >
+					<a href="#">						
+										Is it Appropriate to Have a Personal Brand?
+											</a>
+									</li>
+								<li >
+					<a href="#">						
+										How to Build Branded Photography Studio?
+											</a>
+									</li>
+								<li >
+					<a href="#">						
+										 The Call to Courage Netflix Special
+											</a>
+									</li>
+								<li >
+					<a href="#">						
+										Fast, accurate and professional team
+											</a>
+									</li>
+						</ul>
+			<a href="#" role="button">
+						LEARN MORE
+					</a>
+		https://www.youtube.com/watch?v=XHOmBV4js_E		
+			<h2><a href="#">Don't miss our monthly updates</a></h2>		
+		[contact-form-7 id="486" title="Home Newsletter"]		
+			<h2><a href="#">Featured News and Insights</a></h2>		
+		To cast a an idea and turn it into an official design, it's easy to keep things together,
+<br> work with your partners and figure out the best plan possible.		
+										<img width="370" height="290" src="https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/14.jpg" alt="" srcset="https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/14.jpg 370w, https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/14-300x235.jpg 300w" sizes="(max-width: 370px) 100vw, 370px" />											
+			<a href="#">January 24, 2020</a>		
+			<h4><a href="#">After finalizing the design operation plan</a></h4>		
+			<a href="#" role="button">
+						Read More
+					</a>
+										<img width="370" height="290" src="https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/13.jpg" alt="" srcset="https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/13.jpg 370w, https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/13-300x235.jpg 300w" sizes="(max-width: 370px) 100vw, 370px" />											
+			<a href="#">January 24, 2020</a>		
+			<h4><a href="#">After finalizing the design operation plan</a></h4>		
+			<a href="#" role="button">
+						Read More
+					</a>
+										<img width="370" height="290" src="https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/12.jpg" alt="" srcset="https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/12.jpg 370w, https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/12-300x235.jpg 300w" sizes="(max-width: 370px) 100vw, 370px" />											
+			<a href="#">January 24, 2020</a>		
+			<h4><a href="#">After finalizing the design operation plan</a></h4>		
+			<a href="#" role="button">
+						Read More
+					</a>
+				<figure><img src="https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/18.png" alt="18" /></figure><figure><img src="https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/17.png" alt="17" /></figure><figure><img src="https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/16.png" alt="16" /></figure><figure><img src="https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/19.png" alt="19" /></figure>			
+			<h2><a href="#">Start Your Journey to Better Business</a></h2>		
+			<a href="#" role="button">
+						Get in Touch
+					</a>
+			<figure><a href="#"><img width="46" height="58" src="https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/4.png" alt="" /></a></figure><h3><a href="#">27 Division St, New York <br> NY 10002, USA </a></h3>		
+			<figure><a href="#"><img width="58" height="58" src="https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/5.png" alt="" /></a></figure><h3><a href="#">zik_zag.mail@mail.com</a></h3>		
+			<figure><a href="#"><img width="58" height="54" src="https://8degreethemes.com/demo/the100/agency/wp-content/uploads/sites/7/2020/06/3.png" alt="" /></a></figure><h3><a href="#">  +1 (800) 123 456 789</a></h3>		
+					<ul>
+							<li >
+					<a href="#">					Group Profile
+											</a>
+									</li>
+								<li >
+					<a href="#">					Vision &amp; Values
+											</a>
+									</li>
+								<li >
+					<a href="#">					History
+											</a>
+									</li>
+								<li >
+					<a href="#">					Awards
+											</a>
+									</li>
+								<li >
+					<a href="#">					Leadership
+											</a>
+									</li>
+								<li >
+					<a href="#">					Spotlight
+											</a>
+									</li>
+						</ul>
+					<ul>
+							<li >
+					<a href="#">					CSR
+											</a>
+									</li>
+								<li >
+					<a href="#">					Sustainability
+											</a>
+									</li>
+								<li >
+					<a href="#">					Careers
+											</a>
+									</li>
+								<li >
+					<a href="#">					Media
+											</a>
+									</li>
+								<li >
+					<a href="#">					Services
+											</a>
+									</li>
+								<li >
+					<a href="#">					Products
+											</a>
+									</li>
+						</ul>
+			<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=London%20Eye&amp;t=m&amp;z=17&amp;output=embed&amp;iwloc=near" aria-label="London Eye"></iframe>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>538</wp:post_id>
+		<wp:post_date><![CDATA[2020-06-05 07:57:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-06-05 07:57:09]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[agency-final-demo-layout]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[elementor_library]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="elementor_library_type" nicename="page"><![CDATA[page]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2.9.11]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[elementor_header_footer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[{"id":"689614ce","elType":"section","settings":{"stretch_section":"section-stretched","background_background":"slideshow","background_slideshow_slide_transition":"slide_left","background_slideshow_background_position_mobile":"center right","padding":{"unit":"em","top":"15","right":"0","bottom":"15","left":"0","isLinked":false},"padding_tablet":{"unit":"em","top":"7","right":"0","bottom":"7","left":"0","isLinked":false},"padding_mobile":{"unit":"em","top":"5","right":"0","bottom":"5","left":"0","isLinked":false},"background_slideshow_gallery":[{"id":497,"url":"https:\/\/8degreethemes.com\/demo\/the100\/agency\/wp-content\/uploads\/sites\/7\/2020\/06\/2.jpg"},{"id":496,"url":"https:\/\/8degreethemes.com\/demo\/the100\/agency\/wp-content\/uploads\/sites\/7\/2020\/06\/2.2.jpg"}]},"elements":[{"id":"4f93e6ad","elType":"column","settings":{"_column_size":100,"_inline_size":null,"space_between_widgets":40},"elements":[{"id":"5a8698f8","elType":"widget","settings":{"title":"CREATIVITY","header_size":"div","title_color":"#FFFFFF","typography_typography":"custom","typography_font_family":"Muli","typography_font_size":{"unit":"px","size":24,"sizes":[]},"typography_font_size_mobile":{"unit":"px","size":18,"sizes":[]},"typography_letter_spacing":{"unit":"px","size":22,"sizes":[]},"typography_letter_spacing_mobile":{"unit":"px","size":10,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"7dc6aa46","elType":"widget","settings":{"title":"Help us Bring\n<br>\nthe Change we Need","title_color":"#FFFFFF","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":70,"sizes":[]},"typography_font_size_mobile":{"unit":"px","size":40,"sizes":[]},"typography_font_weight":"700"},"elements":[],"widgetType":"heading"},{"id":"28f469c5","elType":"widget","settings":{"text":"Read More","typography_typography":"custom","typography_font_family":"Muli","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"700","button_text_color":"#FFFFFF","background_color":"#4593FF","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"2be6084b","elType":"section","settings":{"stretch_section":"section-stretched","structure":"30","background_background":"classic","background_color":"#E6F3FA","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true}},"elements":[{"id":"10401cb8","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"29853457","elType":"widget","settings":{"title_text":"Risk Management","description_text":"A special service  company","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"position":"left","content_vertical_alignment":"middle","title_color":"#001D7B","title_typography_typography":"custom","title_typography_font_family":"Josefin Sans","title_typography_font_size":{"unit":"px","size":24,"sizes":[]},"title_typography_line_height":{"unit":"em","size":0.6999999999999999555910790149937383830547332763671875,"sizes":[]},"description_color":"#444444","description_typography_typography":"custom","description_typography_font_family":"Muli","description_typography_font_size":{"unit":"px","size":17,"sizes":[]},"description_typography_line_height":{"unit":"em","size":0.1000000000000000055511151231257827021181583404541015625,"sizes":[]},"_margin":{"unit":"px","top":"-50","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true},"_background_background":"classic","_background_color":"#FFFFFF","title_typography_font_weight":"400","image":{"url":"https:\/\/8degreethemes.com\/demo\/the100\/agency\/wp-content\/uploads\/sites\/7\/2020\/06\/3.png","id":499},"title_bottom_space_tablet":{"unit":"px","size":5,"sizes":[]},"title_typography_line_height_tablet":{"unit":"em","size":1,"sizes":[]},"description_typography_line_height_tablet":{"unit":"em","size":1,"sizes":[]},"hover_animation":"float"},"elements":[],"widgetType":"image-box"}],"isInner":false},{"id":"38e111fb","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"476b5901","elType":"widget","settings":{"title_text":"Risk Management","description_text":"A special service  company","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"position":"left","content_vertical_alignment":"middle","title_color":"#001D7B","title_typography_typography":"custom","title_typography_font_family":"Josefin Sans","title_typography_font_size":{"unit":"px","size":24,"sizes":[]},"title_typography_line_height":{"unit":"em","size":0.6999999999999999555910790149937383830547332763671875,"sizes":[]},"description_color":"#444444","description_typography_typography":"custom","description_typography_font_family":"Muli","description_typography_font_size":{"unit":"px","size":17,"sizes":[]},"description_typography_line_height":{"unit":"em","size":0.1000000000000000055511151231257827021181583404541015625,"sizes":[]},"_margin":{"unit":"px","top":"-50","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true},"_background_background":"classic","_background_color":"#FFFFFF","title_typography_font_weight":"400","image":{"url":"https:\/\/8degreethemes.com\/demo\/the100\/agency\/wp-content\/uploads\/sites\/7\/2020\/06\/4.png","id":500},"title_bottom_space_tablet":{"unit":"px","size":5,"sizes":[]},"title_typography_line_height_tablet":{"unit":"em","size":1,"sizes":[]},"description_typography_line_height_tablet":{"unit":"em","size":1,"sizes":[]},"hover_animation":"float"},"elements":[],"widgetType":"image-box"}],"isInner":false},{"id":"61b4045d","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"45b7e0b2","elType":"widget","settings":{"title_text":"Query Management","description_text":"A special service  company","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"position":"left","content_vertical_alignment":"middle","title_color":"#001D7B","title_typography_typography":"custom","title_typography_font_family":"Josefin Sans","title_typography_font_size":{"unit":"px","size":24,"sizes":[]},"title_typography_line_height":{"unit":"em","size":0.6999999999999999555910790149937383830547332763671875,"sizes":[]},"description_color":"#444444","description_typography_typography":"custom","description_typography_font_family":"Muli","description_typography_font_size":{"unit":"px","size":17,"sizes":[]},"description_typography_line_height":{"unit":"em","size":0.1000000000000000055511151231257827021181583404541015625,"sizes":[]},"_margin":{"unit":"px","top":"-50","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true},"_background_background":"classic","_background_color":"#FFFFFF","title_typography_font_weight":"400","image":{"url":"https:\/\/8degreethemes.com\/demo\/the100\/agency\/wp-content\/uploads\/sites\/7\/2020\/06\/5.png","id":501},"title_bottom_space_tablet":{"unit":"px","size":5,"sizes":[]},"title_typography_line_height_tablet":{"unit":"em","size":1,"sizes":[]},"description_typography_line_height_tablet":{"unit":"em","size":1,"sizes":[]},"hover_animation":"float"},"elements":[],"widgetType":"image-box"}],"isInner":false}],"isInner":false},{"id":"3f44618d","elType":"section","settings":{"stretch_section":"section-stretched","structure":"20","background_background":"classic","background_color":"#E6F3FA","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true}},"elements":[{"id":"33fdd680","elType":"column","settings":{"_column_size":50,"_inline_size":47.89500000000000312638803734444081783294677734375,"content_position":"center"},"elements":[{"id":"7c201992","elType":"widget","settings":{"width":{"unit":"%","size":100,"sizes":[]},"_padding":{"unit":"%","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"image":{"url":"https:\/\/8degreethemes.com\/demo\/the100\/agency\/wp-content\/uploads\/sites\/7\/2020\/06\/6.png","id":502},"_padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"70e4944f","elType":"column","settings":{"_column_size":50,"_inline_size":52.10499999999999687361196265555918216705322265625,"content_position":"center","space_between_widgets":60,"space_between_widgets_tablet":25},"elements":[{"id":"1e12b094","elType":"widget","settings":{"title_text":"Ideas Casting","description_text":"To cast a an idea and turn it into an official design, it's easy to keep things together, work with your partners and figure out the best plan possible.","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"position":"left","content_vertical_alignment":"middle","title_bottom_space":{"unit":"px","size":15,"sizes":[]},"title_color":"#001D7B","title_typography_typography":"custom","title_typography_font_family":"Josefin Sans","title_typography_font_size":{"unit":"px","size":28,"sizes":[]},"title_typography_font_weight":"400","title_typography_line_height":{"unit":"em","size":1,"sizes":[]},"description_color":"#444444","description_typography_typography":"custom","description_typography_font_family":"Muli","description_typography_font_size":{"unit":"px","size":17,"sizes":[]},"description_typography_line_height":{"unit":"px","size":28,"sizes":[]},"_background_color":"#FFFFFF","_css_classes":"after-title-vertical-separator","image":{"url":"https:\/\/8degreethemes.com\/demo\/the100\/agency\/wp-content\/uploads\/sites\/7\/2020\/06\/01-.png","id":493},"title_bottom_space_tablet":{"unit":"px","size":5,"sizes":[]},"description_typography_line_height_tablet":{"unit":"em","size":1.399999999999999911182158029987476766109466552734375,"sizes":[]}},"elements":[],"widgetType":"image-box"},{"id":"674db4af","elType":"widget","settings":{"title_text":"Ideas Casting","description_text":"To cast a an idea and turn it into an official design, it's easy to keep things together, work with your partners and figure out the best plan possible.","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"position":"left","content_vertical_alignment":"middle","title_bottom_space":{"unit":"px","size":15,"sizes":[]},"title_color":"#001D7B","title_typography_typography":"custom","title_typography_font_family":"Josefin Sans","title_typography_font_size":{"unit":"px","size":28,"sizes":[]},"title_typography_font_weight":"400","title_typography_line_height":{"unit":"em","size":1,"sizes":[]},"description_color":"#444444","description_typography_typography":"custom","description_typography_font_family":"Muli","description_typography_font_size":{"unit":"px","size":17,"sizes":[]},"description_typography_line_height":{"unit":"px","size":28,"sizes":[]},"_background_color":"#FFFFFF","_css_classes":"after-title-vertical-separator","image":{"url":"https:\/\/8degreethemes.com\/demo\/the100\/agency\/wp-content\/uploads\/sites\/7\/2020\/06\/02.png","id":495},"title_bottom_space_tablet":{"unit":"px","size":5,"sizes":[]},"description_typography_line_height_tablet":{"unit":"em","size":1.399999999999999911182158029987476766109466552734375,"sizes":[]}},"elements":[],"widgetType":"image-box"},{"id":"22e51568","elType":"widget","settings":{"title_text":"Ideas Casting","description_text":"To cast a an idea and turn it into an official design, it's easy to keep things together, work with your partners and figure out the best plan possible.","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"position":"left","content_vertical_alignment":"middle","title_bottom_space":{"unit":"px","size":15,"sizes":[]},"title_color":"#001D7B","title_typography_typography":"custom","title_typography_font_family":"Josefin Sans","title_typography_font_size":{"unit":"px","size":28,"sizes":[]},"title_typography_font_weight":"400","title_typography_line_height":{"unit":"em","size":1,"sizes":[]},"description_color":"#444444","description_typography_typography":"custom","description_typography_font_family":"Muli","description_typography_font_size":{"unit":"px","size":17,"sizes":[]},"description_typography_line_height":{"unit":"px","size":28,"sizes":[]},"_background_color":"#FFFFFF","_css_classes":"after-title-vertical-separator","image":{"url":"https:\/\/8degreethemes.com\/demo\/the100\/agency\/wp-content\/uploads\/sites\/7\/2020\/06\/03.png","id":498},"title_bottom_space_tablet":{"unit":"px","size":5,"sizes":[]},"description_typography_line_height_tablet":{"unit":"em","size":1.399999999999999911182158029987476766109466552734375,"sizes":[]}},"elements":[],"widgetType":"image-box"}],"isInner":false}],"isInner":false},{"id":"41c58bc4","elType":"section","settings":{"stretch_section":"section-stretched","structure":"20","background_background":"classic","background_image":{"id":503,"url":"https:\/\/8degreethemes.com\/demo\/the100\/agency\/wp-content\/uploads\/sites\/7\/2020\/06\/7.jpg"},"background_position_tablet":"initial","background_xpos_tablet":{"unit":"%","size":35,"sizes":[]},"background_repeat_tablet":"no-repeat","background_size_tablet":"cover"},"elements":[{"id":"730e8e8c","elType":"column","settings":{"_column_size":50,"_inline_size":null,"hide_mobile":"hidden-phone"},"elements":[],"isInner":false},{"id":"27479136","elType":"column","settings":{"_column_size":50,"_inline_size":null,"background_background":"classic","background_color":"#4594FF","margin":{"unit":"px","top":"100","right":"0","bottom":"-100","left":"0","isLinked":false},"padding":{"unit":"px","top":"50","right":"50","bottom":"50","left":"50","isLinked":true},"margin_mobile":{"unit":"px","top":"50","right":"10","bottom":"50","left":"10","isLinked":false},"padding_mobile":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true}},"elements":[{"id":"bcecd05","elType":"widget","settings":{"title":"Providing Our Customers With A Great Investing Experience","title_color":"#FFFFFF","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":28,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"px","size":36,"sizes":[]},"typography_font_size_mobile":{"unit":"px","size":25,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"3fa68b22","elType":"widget","settings":{"editor":"After all, as described in Web Design Trends, vision dominates a lot of our subconscious interpretation of the world around us. Rounding up a bunch of specific designs and talking about the merits of each! The development business plan.","text_color":"#FFFFFF","typography_typography":"custom","typography_font_family":"Muli","typography_font_size":{"unit":"px","size":17,"sizes":[]},"typography_line_height":{"unit":"px","size":"","sizes":[]}},"elements":[],"widgetType":"text-editor"},{"id":"2731f20a","elType":"widget","settings":{"title_text":"Martin Hope","description_text":"Director Planning","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"title_size":"div","image_space":{"unit":"px","size":0,"sizes":[]},"image_size":{"unit":"%","size":100,"sizes":[]},"text_align":"left","title_color":"#FFFFFF","title_typography_typography":"custom","title_typography_font_family":"Muli","title_typography_font_size":{"unit":"px","size":18,"sizes":[]},"title_typography_line_height":{"unit":"px","size":"","sizes":[]},"description_color":"#FFFFFF","description_typography_typography":"custom","description_typography_font_family":"Muli","description_typography_font_size":{"unit":"px","size":18,"sizes":[]},"image":{"url":"https:\/\/8degreethemes.com\/demo\/the100\/agency\/wp-content\/uploads\/sites\/7\/2020\/06\/s20.png","id":492}},"elements":[],"widgetType":"image-box"}],"isInner":false}],"isInner":false},{"id":"61692527","elType":"section","settings":{"padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false},"css_classes":"img-content-on-hover"},"elements":[{"id":"18643151","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"5876ece6","elType":"widget","settings":{"title":"A Creative Designer\n<br>\nBased In New York.","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"title_color":"#001D7B","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":38,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"px","size":42,"sizes":[]},"align_tablet":"center","typography_font_size_mobile":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"c04bfbb","elType":"widget","settings":{"editor":"<p>To cast a an idea and turn it into an official design, it's easy to keep<br \/>things together, work with your partners and figure out the best plan possible.<\/p>","text_color":"#444343","typography_typography":"custom","typography_font_family":"Muli","typography_font_size":{"unit":"px","size":17,"sizes":[]},"typography_line_height":{"unit":"px","size":"","sizes":[]},"align_tablet":"center"},"elements":[],"widgetType":"text-editor"},{"id":"13be0569","elType":"section","settings":{"structure":"20"},"elements":[{"id":"2466e16","elType":"column","settings":{"_column_size":50,"_inline_size":null,"padding":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"18d23129","elType":"widget","settings":{"title_text":"Management Mockups","description_text":"Branding","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"image_size":{"unit":"%","size":100,"sizes":[]},"text_align":"left","title_bottom_space":{"unit":"px","size":0,"sizes":[]},"title_color":"#FFFFFF","title_typography_typography":"custom","title_typography_font_family":"Josefin Sans","title_typography_font_size":{"unit":"px","size":28,"sizes":[]},"title_typography_font_weight":"400","description_color":"#FFFFFF","description_typography_typography":"custom","description_typography_font_family":"Muli","description_typography_font_size":{"unit":"px","size":17,"sizes":[]},"image_space":{"unit":"px","size":0,"sizes":[]},"image":{"url":"https:\/\/8degreethemes.com\/demo\/the100\/agency\/wp-content\/uploads\/sites\/7\/2020\/06\/8.jpg","id":504},"title_typography_font_size_mobile":{"unit":"px","size":25,"sizes":[]},"description_typography_font_size_mobile":{"unit":"px","size":14,"sizes":[]}},"elements":[],"widgetType":"image-box"}],"isInner":true},{"id":"117f515c","elType":"column","settings":{"_column_size":50,"_inline_size":null,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"margin_mobile":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"4014402c","elType":"widget","settings":{"title_text":"Management Mockups","description_text":"Branding","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"image_size":{"unit":"%","size":100,"sizes":[]},"text_align":"left","title_bottom_space":{"unit":"px","size":0,"sizes":[]},"title_color":"#FFFFFF","title_typography_typography":"custom","title_typography_font_family":"Josefin Sans","title_typography_font_size":{"unit":"px","size":28,"sizes":[]},"title_typography_font_weight":"400","description_color":"#FFFFFF","description_typography_typography":"custom","description_typography_font_family":"Muli","description_typography_font_size":{"unit":"px","size":17,"sizes":[]},"image_space":{"unit":"px","size":"","sizes":[]},"image":{"url":"https:\/\/8degreethemes.com\/demo\/the100\/agency\/wp-content\/uploads\/sites\/7\/2020\/06\/9.jpg","id":505},"title_typography_font_size_mobile":{"unit":"px","size":24,"sizes":[]},"description_typography_font_size_mobile":{"unit":"px","size":13,"sizes":[]}},"elements":[],"widgetType":"image-box"}],"isInner":true}],"isInner":true},{"id":"336c85ba","elType":"section","settings":{"structure":"20","margin":{"unit":"px","top":"30","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"37bb037c","elType":"column","settings":{"_column_size":50,"_inline_size":null,"padding":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"774ca179","elType":"widget","settings":{"title_text":"Management Mockups","description_text":"Branding","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"image_size":{"unit":"%","size":100,"sizes":[]},"text_align":"left","title_bottom_space":{"unit":"px","size":0,"sizes":[]},"title_color":"#FFFFFF","title_typography_typography":"custom","title_typography_font_family":"Josefin Sans","title_typography_font_size":{"unit":"px","size":28,"sizes":[]},"title_typography_font_weight":"400","description_color":"#FFFFFF","description_typography_typography":"custom","description_typography_font_family":"Muli","description_typography_font_size":{"unit":"px","size":17,"sizes":[]},"image_space":{"unit":"px","size":"","sizes":[]},"image":{"url":"https:\/\/8degreethemes.com\/demo\/the100\/agency\/wp-content\/uploads\/sites\/7\/2020\/06\/10.jpg","id":506},"title_typography_font_size_mobile":{"unit":"px","size":24,"sizes":[]},"description_typography_font_size_mobile":{"unit":"px","size":13,"sizes":[]}},"elements":[],"widgetType":"image-box"}],"isInner":true},{"id":"9426947","elType":"column","settings":{"_column_size":50,"_inline_size":null,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"margin_mobile":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"17aecd0f","elType":"widget","settings":{"title_text":"Management Mockups","description_text":"Branding","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"image_size":{"unit":"%","size":100,"sizes":[]},"text_align":"left","title_bottom_space":{"unit":"px","size":0,"sizes":[]},"title_color":"#FFFFFF","title_typography_typography":"custom","title_typography_font_family":"Josefin Sans","title_typography_font_size":{"unit":"px","size":28,"sizes":[]},"title_typography_font_weight":"400","description_color":"#FFFFFF","description_typography_typography":"custom","description_typography_font_family":"Muli","description_typography_font_size":{"unit":"px","size":17,"sizes":[]},"image_space":{"unit":"px","size":"","sizes":[]},"image":{"url":"https:\/\/8degreethemes.com\/demo\/the100\/agency\/wp-content\/uploads\/sites\/7\/2020\/06\/9.jpg","id":505},"title_typography_font_size_mobile":{"unit":"px","size":24,"sizes":[]},"description_typography_font_size_mobile":{"unit":"px","size":13,"sizes":[]}},"elements":[],"widgetType":"image-box"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"5beb8d8b","elType":"section","settings":{"padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false},"css_classes":"img-content-on-hover","structure":"20","background_background":"classic","background_color":"#E6F3FA","padding_tablet":{"unit":"px","top":"50","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[{"id":"7a65b58a","elType":"column","settings":{"_column_size":50,"_inline_size":45.965000000000003410605131648480892181396484375,"content_position":"center"},"elements":[{"id":"20c7485f","elType":"widget","settings":{"title":"Creative collaboration\n<br>\nfor your entire team.","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"title_color":"#001D7B","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":38,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"px","size":42,"sizes":[]},"typography_font_size_mobile":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"39945392","elType":"widget","settings":{"editor":"To cast a an idea and turn it into an official design, it's easy to keep things together, work with your partners and figure out the best plan possible.","text_color":"#444343","typography_typography":"custom","typography_font_family":"Muli","typography_font_size":{"unit":"px","size":17,"sizes":[]},"typography_line_height":{"unit":"px","size":"","sizes":[]}},"elements":[],"widgetType":"text-editor"},{"id":"1ee6c40a","elType":"widget","settings":{"icon_list":[{"text":"Is it Appropriate to Have a Personal Brand?","selected_icon":{"value":"fas fa-check","library":"fa-solid"},"_id":"c3aa20a","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"How to Build Branded Photography Studio?","selected_icon":{"value":"fas fa-check","library":"fa-solid"},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"b160a77"},{"text":" The Call to Courage Netflix Special","selected_icon":{"value":"fas fa-check","library":"fa-solid"},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"9a81a64"},{"text":"Fast, accurate and professional team","selected_icon":{"value":"fas fa-check","library":"fa-solid"},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"a503bcc"}],"icon_color":"#1B368A","text_color":"#444343","icon_typography_typography":"custom","icon_typography_font_family":"Muli","icon_typography_font_size":{"unit":"px","size":17,"sizes":[]},"icon_typography_line_height":{"unit":"px","size":38,"sizes":[]}},"elements":[],"widgetType":"icon-list"},{"id":"12b7f841","elType":"widget","settings":{"text":"LEARN MORE","button_text_color":"#000000","background_color":"rgba(2, 1, 1, 0)","border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#AAAAAA","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"text_padding":{"unit":"px","top":"15","right":"0","bottom":"5","left":"0","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"e9b34da","elType":"column","settings":{"_column_size":50,"_inline_size":54.034999999999996589394868351519107818603515625,"content_position":"center","padding":{"unit":"%","top":"0","right":"0","bottom":"0","left":"10","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"410d0307","elType":"widget","settings":{"youtube_url":"https:\/\/www.youtube.com\/watch?v=XHOmBV4js_E","vimeo_url":"https:\/\/vimeo.com\/235215203","dailymotion_url":"https:\/\/www.dailymotion.com\/video\/x6tqhqb","show_image_overlay":"yes","lightbox":"yes","css_filters_css_filter":"custom","play_icon_color":"#000000","play_icon_text_shadow_text_shadow_type":"yes","_css_classes":"white-play-icon","image_overlay":{"url":"https:\/\/8degreethemes.com\/demo\/the100\/agency\/wp-content\/uploads\/sites\/7\/2020\/06\/15.jpg","id":511}},"elements":[],"widgetType":"video"}],"isInner":false}],"isInner":false},{"id":"67743c86","elType":"section","settings":{"padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false},"css_classes":"img-content-on-hover","background_background":"gradient","background_color":"#FFFFFF","background_color_stop":{"unit":"%","size":55,"sizes":[]},"background_color_b":"#E6F3FA","background_color_b_stop":{"unit":"%","size":55,"sizes":[]},"padding_tablet":{"unit":"px","top":"50","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[{"id":"2d46d038","elType":"column","settings":{"_column_size":100,"_inline_size":null,"content_position":"center","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"7dc9a2f","elType":"section","settings":{"structure":"20"},"elements":[{"id":"6520c19f","elType":"column","settings":{"_column_size":50,"_inline_size":null,"content_position":"center","_inline_size_tablet":100},"elements":[{"id":"1a008de4","elType":"widget","settings":{"title":"Don't miss our monthly updates","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"title_color":"#001D7B","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":38,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"px","size":"","sizes":[]},"align_tablet":"center","typography_font_size_mobile":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":true},{"id":"18594a13","elType":"column","settings":{"_column_size":50,"_inline_size":null,"content_position":"center","_inline_size_tablet":100},"elements":[{"id":"3cbd5602","elType":"widget","settings":{"shortcode":"[contact-form-7 id=\"486\" title=\"Home Newsletter\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":true}],"isInner":true},{"id":"3a14b673","elType":"widget","settings":{"text":"Divider","color":"#DDDDDD","gap":{"unit":"px","size":50,"sizes":[]},"gap_tablet":{"unit":"px","size":25,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"3b60570f","elType":"widget","settings":{"title":"Featured News and Insights","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"title_color":"#001D7B","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":38,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"px","size":42,"sizes":[]},"align":"center","_margin":{"unit":"px","top":"0","right":"0","bottom":"-10","left":"0","isLinked":false},"typography_font_size_mobile":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"23b31519","elType":"widget","settings":{"editor":"To cast a an idea and turn it into an official design, it's easy to keep things together,\n<br> work with your partners and figure out the best plan possible.","text_color":"#444343","typography_typography":"custom","typography_font_family":"Muli","typography_font_size":{"unit":"px","size":17,"sizes":[]},"typography_line_height":{"unit":"px","size":"","sizes":[]},"align":"center","_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"4ba7dbdd","elType":"section","settings":{"structure":"30"},"elements":[{"id":"3cfd7596","elType":"column","settings":{"_column_size":33,"_inline_size":null,"background_background":"classic","background_color":"#FFFFFF","margin":{"unit":"px","top":"0","right":"20","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"693fb9f","elType":"widget","settings":{"width":{"unit":"%","size":100,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"-30","bottom":"0","left":"-30","isLinked":false},"image":{"url":"https:\/\/8degreethemes.com\/demo\/the100\/agency\/wp-content\/uploads\/sites\/7\/2020\/06\/14.jpg","id":510}},"elements":[],"widgetType":"image"},{"id":"15fc3430","elType":"widget","settings":{"title":"January 24, 2020","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"header_size":"span","title_color":"#4594FF","typography_typography":"custom","typography_font_family":"Muli","typography_font_size":{"unit":"px","size":16,"sizes":[]},"typography_font_weight":"700"},"elements":[],"widgetType":"heading"},{"id":"4d934f9b","elType":"widget","settings":{"title":"After finalizing the design operation plan","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"header_size":"h4","title_color":"#001D7B","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":28,"sizes":[]},"typography_line_height":{"unit":"px","size":32,"sizes":[]},"typography_font_size_tablet":{"unit":"px","size":23,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"6fb09516","elType":"widget","settings":{"text":"Read More","typography_typography":"custom","typography_font_family":"Muli","typography_font_size":{"unit":"px","size":17,"sizes":[]},"typography_line_height":{"unit":"px","size":28,"sizes":[]},"button_text_color":"#444343","background_color":"rgba(2, 1, 1, 0)","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"text_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":true},{"id":"4b256529","elType":"column","settings":{"_column_size":33,"_inline_size":null,"background_background":"classic","background_color":"#FFFFFF","margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false},"padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"4c849b3b","elType":"widget","settings":{"width":{"unit":"%","size":100,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"-30","bottom":"0","left":"-30","isLinked":false},"image":{"url":"https:\/\/8degreethemes.com\/demo\/the100\/agency\/wp-content\/uploads\/sites\/7\/2020\/06\/13.jpg","id":509}},"elements":[],"widgetType":"image"},{"id":"5dffc73a","elType":"widget","settings":{"title":"January 24, 2020","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"header_size":"span","title_color":"#4594FF","typography_typography":"custom","typography_font_family":"Muli","typography_font_size":{"unit":"px","size":16,"sizes":[]},"typography_font_weight":"700"},"elements":[],"widgetType":"heading"},{"id":"2e244454","elType":"widget","settings":{"title":"After finalizing the design operation plan","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"header_size":"h4","title_color":"#001D7B","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":28,"sizes":[]},"typography_line_height":{"unit":"px","size":32,"sizes":[]},"typography_font_size_tablet":{"unit":"px","size":23,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"58c96583","elType":"widget","settings":{"text":"Read More","typography_typography":"custom","typography_font_family":"Muli","typography_font_size":{"unit":"px","size":17,"sizes":[]},"typography_line_height":{"unit":"px","size":28,"sizes":[]},"button_text_color":"#444343","background_color":"rgba(2, 1, 1, 0)","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"text_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":true},{"id":"576640a7","elType":"column","settings":{"_column_size":33,"_inline_size":null,"background_background":"classic","background_color":"#FFFFFF","margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"20","isLinked":false},"padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"90a48c5","elType":"widget","settings":{"width":{"unit":"%","size":100,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"-30","bottom":"0","left":"-30","isLinked":false},"image":{"url":"https:\/\/8degreethemes.com\/demo\/the100\/agency\/wp-content\/uploads\/sites\/7\/2020\/06\/12.jpg","id":508}},"elements":[],"widgetType":"image"},{"id":"793eb494","elType":"widget","settings":{"title":"January 24, 2020","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"header_size":"span","title_color":"#4594FF","typography_typography":"custom","typography_font_family":"Muli","typography_font_size":{"unit":"px","size":16,"sizes":[]},"typography_font_weight":"700"},"elements":[],"widgetType":"heading"},{"id":"37382c88","elType":"widget","settings":{"title":"After finalizing the design operation plan","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"header_size":"h4","title_color":"#001D7B","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":28,"sizes":[]},"typography_line_height":{"unit":"px","size":32,"sizes":[]},"typography_font_size_tablet":{"unit":"px","size":23,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"2783380","elType":"widget","settings":{"text":"Read More","typography_typography":"custom","typography_font_family":"Muli","typography_font_size":{"unit":"px","size":17,"sizes":[]},"typography_line_height":{"unit":"px","size":28,"sizes":[]},"button_text_color":"#444343","background_color":"rgba(2, 1, 1, 0)","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"text_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":true},{"id":"5710b14c","elType":"section","settings":{"margin":{"unit":"px","top":"100","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"448ebc21","elType":"column","settings":{"_column_size":100,"_inline_size":null,"content_position":"center"},"elements":[{"id":"79239733","elType":"widget","settings":{"thumbnail_size":"full","slides_to_show":"4","navigation":"none","gallery_vertical_align":"center","carousel":[{"id":514,"url":"https:\/\/8degreethemes.com\/demo\/the100\/agency\/wp-content\/uploads\/sites\/7\/2020\/06\/18.png"},{"id":513,"url":"https:\/\/8degreethemes.com\/demo\/the100\/agency\/wp-content\/uploads\/sites\/7\/2020\/06\/17.png"},{"id":512,"url":"https:\/\/8degreethemes.com\/demo\/the100\/agency\/wp-content\/uploads\/sites\/7\/2020\/06\/16.png"},{"id":491,"url":"https:\/\/8degreethemes.com\/demo\/the100\/agency\/wp-content\/uploads\/sites\/7\/2020\/06\/19.png"}],"slides_to_show_tablet":"3","slides_to_show_mobile":"2"},"elements":[],"widgetType":"image-carousel"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"40074684","elType":"section","settings":{"stretch_section":"section-stretched","structure":"20","background_background":"classic","background_color":"#0C1820","padding":{"unit":"px","top":"50","right":"0","bottom":"30","left":"0","isLinked":false}},"elements":[{"id":"28b57b01","elType":"column","settings":{"_column_size":50,"_inline_size":62.89500000000000312638803734444081783294677734375,"content_position":"center"},"elements":[{"id":"217f39df","elType":"widget","settings":{"title":"Start Your Journey to Better Business","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"title_color":"#FFFFFF","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":28,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"px","size":"","sizes":[]},"align_mobile":"center"},"elements":[],"widgetType":"heading"}],"isInner":false},{"id":"5fb72908","elType":"column","settings":{"_column_size":50,"_inline_size":37.06099999999999994315658113919198513031005859375,"content_position":"center"},"elements":[{"id":"23a3db83","elType":"widget","settings":{"text":"Get in Touch","align":"right","button_text_color":"#FFFFFF","background_color":"#4594FF","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"typography_typography":"custom","typography_font_family":"Muli","typography_font_size":{"unit":"px","size":16,"sizes":[]},"align_mobile":"center"},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"6b7d44b0","elType":"section","settings":{"stretch_section":"section-stretched","structure":"40","background_background":"classic","background_color":"#0C1820","padding":{"unit":"px","top":"50","right":"0","bottom":"30","left":"0","isLinked":false},"border_border":"solid","border_width":{"unit":"px","top":"1","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#202B32"},"elements":[{"id":"468fa773","elType":"column","settings":{"_column_size":25,"_inline_size":25,"_inline_size_tablet":50},"elements":[{"id":"3e8600fe","elType":"widget","settings":{"title_text":"27 Division St, New York <br> NY 10002, USA ","description_text":"","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"position":"left","title_color":"#FFFFFF","title_typography_typography":"custom","title_typography_font_family":"Josefin Sans","title_typography_font_size":{"unit":"px","size":17,"sizes":[]},"description_color":"#444444","description_typography_typography":"custom","description_typography_font_family":"Muli","description_typography_font_size":{"unit":"px","size":17,"sizes":[]},"description_typography_line_height":{"unit":"em","size":0.1000000000000000055511151231257827021181583404541015625,"sizes":[]},"_background_color":"#FFFFFF","title_typography_font_weight":"400","image_size":{"unit":"%","size":10,"sizes":[]},"image":{"url":"https:\/\/8degreethemes.com\/demo\/the100\/agency\/wp-content\/uploads\/sites\/7\/2020\/06\/4.png","id":500}},"elements":[],"widgetType":"image-box"},{"id":"5ab9ed37","elType":"widget","settings":{"title_text":"zik_zag.mail@mail.com","description_text":"","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"position":"left","title_color":"#FFFFFF","title_typography_typography":"custom","title_typography_font_family":"Josefin Sans","title_typography_font_size":{"unit":"px","size":17,"sizes":[]},"description_color":"#444444","description_typography_typography":"custom","description_typography_font_family":"Muli","description_typography_font_size":{"unit":"px","size":17,"sizes":[]},"description_typography_line_height":{"unit":"em","size":0.1000000000000000055511151231257827021181583404541015625,"sizes":[]},"_background_color":"#FFFFFF","title_typography_font_weight":"400","image_size":{"unit":"%","size":10,"sizes":[]},"image":{"url":"https:\/\/8degreethemes.com\/demo\/the100\/agency\/wp-content\/uploads\/sites\/7\/2020\/06\/5.png","id":501}},"elements":[],"widgetType":"image-box"},{"id":"6920f8f4","elType":"widget","settings":{"title_text":"  +1 (800) 123 456 789","description_text":"","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"position":"left","title_color":"#FFFFFF","title_typography_typography":"custom","title_typography_font_family":"Josefin Sans","title_typography_font_size":{"unit":"px","size":22,"sizes":[]},"description_color":"#444444","description_typography_typography":"custom","description_typography_font_family":"Muli","description_typography_font_size":{"unit":"px","size":17,"sizes":[]},"description_typography_line_height":{"unit":"em","size":0.1000000000000000055511151231257827021181583404541015625,"sizes":[]},"_background_color":"#FFFFFF","title_typography_font_weight":"400","image_size":{"unit":"%","size":10,"sizes":[]},"image":{"url":"https:\/\/8degreethemes.com\/demo\/the100\/agency\/wp-content\/uploads\/sites\/7\/2020\/06\/3.png","id":499}},"elements":[],"widgetType":"image-box"}],"isInner":false},{"id":"31965ff5","elType":"column","settings":{"_column_size":25,"_inline_size":15,"_inline_size_tablet":25},"elements":[{"id":"788a0429","elType":"widget","settings":{"icon_list":[{"text":"Group Profile","selected_icon":{"value":"","library":""},"_id":"4740952","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Vision &amp; Values","selected_icon":{"value":"","library":""},"_id":"c421863","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"History","selected_icon":{"value":"","library":""},"_id":"5be703b","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Awards","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"f4fa2a7"},{"text":"Leadership","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"9541ee5"},{"text":"Spotlight","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"38b118b"}],"space_between":{"unit":"px","size":10,"sizes":[]},"text_color":"#FFFFFF","icon_typography_typography":"custom","icon_typography_font_family":"Muli","icon_typography_font_size":{"unit":"px","size":17,"sizes":[]},"icon_typography_line_height":{"unit":"px","size":"","sizes":[]},"icon_align_mobile":"center"},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"743e01f1","elType":"column","settings":{"_column_size":25,"_inline_size":15,"_inline_size_tablet":25},"elements":[{"id":"71bbc042","elType":"widget","settings":{"icon_list":[{"text":"CSR","selected_icon":{"value":"","library":""},"_id":"4740952","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Sustainability","selected_icon":{"value":"","library":""},"_id":"c421863","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Careers","selected_icon":{"value":"","library":""},"_id":"5be703b","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Media","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"f4fa2a7"},{"text":"Services","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"9541ee5"},{"text":"Products","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"38b118b"}],"space_between":{"unit":"px","size":10,"sizes":[]},"text_color":"#FFFFFF","icon_typography_typography":"custom","icon_typography_font_family":"Muli","icon_typography_font_size":{"unit":"px","size":17,"sizes":[]},"icon_typography_line_height":{"unit":"px","size":"","sizes":[]},"icon_align_mobile":"center"},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"ae3e860","elType":"column","settings":{"_column_size":25,"_inline_size":45,"_inline_size_tablet":100},"elements":[{"id":"63e877e3","elType":"widget","settings":{"address":"London Eye","zoom":{"unit":"px","size":17,"sizes":[]},"height":{"unit":"px","size":204,"sizes":[]}},"elements":[],"widgetType":"google_maps"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:13:{s:7:"heading";a:3:{s:5:"count";i:14;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:6:{s:5:"title";i:14;s:11:"header_size";i:7;s:4:"link";i:11;s:12:"align_tablet";i:2;s:5:"align";i:1;s:12:"align_mobile";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:10:{s:11:"title_color";i:14;s:21:"typography_typography";i:14;s:22:"typography_font_family";i:14;s:20:"typography_font_size";i:14;s:27:"typography_font_size_mobile";i:7;s:25:"typography_letter_spacing";i:1;s:32:"typography_letter_spacing_mobile";i:1;s:22:"typography_font_weight";i:10;s:22:"typography_line_height";i:9;s:27:"typography_font_size_tablet";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:6;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:3:{s:4:"text";i:6;s:5:"align";i:1;s:12:"align_mobile";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:12:{s:21:"typography_typography";i:5;s:22:"typography_font_family";i:5;s:20:"typography_font_size";i:5;s:22:"typography_font_weight";i:1;s:17:"button_text_color";i:6;s:16:"background_color";i:6;s:13:"border_radius";i:6;s:13:"border_border";i:1;s:12:"border_width";i:1;s:12:"border_color";i:1;s:12:"text_padding";i:4;s:22:"typography_line_height";i:3;}}}}s:6:"column";a:3:{s:5:"count";i:28;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:5:{s:12:"_inline_size";i:28;s:21:"space_between_widgets";i:2;s:16:"content_position";i:10;s:28:"space_between_widgets_tablet";i:1;s:19:"_inline_size_tablet";i:6;}}s:8:"advanced";a:2:{s:19:"_section_responsive";a:1:{s:11:"hide_mobile";i:1;}s:16:"section_advanced";a:5:{s:6:"margin";i:4;s:7:"padding";i:10;s:13:"margin_mobile";i:7;s:14:"padding_mobile";i:5;s:14:"padding_tablet";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:2:{s:21:"background_background";i:4;s:16:"background_color";i:4;}}}}s:7:"section";a:3:{s:5:"count";i:14;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:15:"stretch_section";i:6;}s:17:"section_structure";a:1:{s:9:"structure";i:10;}}s:5:"style";a:2:{s:18:"section_background";a:13:{s:21:"background_background";i:8;s:37:"background_slideshow_slide_transition";i:1;s:47:"background_slideshow_background_position_mobile";i:1;s:28:"background_slideshow_gallery";i:1;s:16:"background_color";i:6;s:16:"background_image";i:1;s:26:"background_position_tablet";i:1;s:22:"background_xpos_tablet";i:1;s:24:"background_repeat_tablet";i:1;s:22:"background_size_tablet";i:1;s:21:"background_color_stop";i:1;s:18:"background_color_b";i:1;s:23:"background_color_b_stop";i:1;}s:14:"section_border";a:3:{s:13:"border_border";i:1;s:12:"border_width";i:1;s:12:"border_color";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:5:{s:7:"padding";i:8;s:14:"padding_tablet";i:3;s:14:"padding_mobile";i:1;s:6:"margin";i:4;s:11:"css_classes";i:3;}}}}s:9:"image-box";a:3:{s:5:"count";i:14;s:15:"control_percent";i:6;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:6:{s:10:"title_text";i:14;s:16:"description_text";i:14;s:4:"link";i:14;s:8:"position";i:9;s:5:"image";i:14;s:10:"title_size";i:1;}}s:5:"style";a:2:{s:21:"section_style_content";a:19:{s:26:"content_vertical_alignment";i:6;s:11:"title_color";i:14;s:27:"title_typography_typography";i:14;s:28:"title_typography_font_family";i:14;s:26:"title_typography_font_size";i:14;s:28:"title_typography_line_height";i:7;s:17:"description_color";i:14;s:33:"description_typography_typography";i:14;s:34:"description_typography_font_family";i:14;s:32:"description_typography_font_size";i:14;s:34:"description_typography_line_height";i:9;s:28:"title_typography_font_weight";i:13;s:25:"title_bottom_space_tablet";i:6;s:35:"title_typography_line_height_tablet";i:3;s:41:"description_typography_line_height_tablet";i:6;s:18:"title_bottom_space";i:7;s:10:"text_align";i:5;s:33:"title_typography_font_size_mobile";i:4;s:39:"description_typography_font_size_mobile";i:4;}s:19:"section_style_image";a:3:{s:15:"hover_animation";i:3;s:11:"image_space";i:5;s:10:"image_size";i:8;}}s:8:"advanced";a:2:{s:14:"_section_style";a:3:{s:7:"_margin";i:3;s:8:"_padding";i:3;s:12:"_css_classes";i:3;}s:19:"_section_background";a:2:{s:22:"_background_background";i:3;s:17:"_background_color";i:9;}}}}s:5:"image";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:5:"style";a:1:{s:19:"section_style_image";a:1:{s:5:"width";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:3:{s:8:"_padding";i:1;s:15:"_padding_tablet";i:1;s:7:"_margin";i:3;}}s:7:"content";a:1:{s:13:"section_image";a:1:{s:5:"image";i:4;}}}}s:11:"text-editor";a:3:{s:5:"count";i:4;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:4;}}s:5:"style";a:1:{s:13:"section_style";a:7:{s:10:"text_color";i:4;s:21:"typography_typography";i:4;s:22:"typography_font_family";i:4;s:20:"typography_font_size";i:4;s:22:"typography_line_height";i:4;s:12:"align_tablet";i:1;s:5:"align";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:9:"icon-list";a:3:{s:5:"count";i:3;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:12:"section_icon";a:1:{s:9:"icon_list";i:3;}}s:5:"style";a:3:{s:18:"section_icon_style";a:1:{s:10:"icon_color";i:1;}s:18:"section_text_style";a:5:{s:10:"text_color";i:3;s:26:"icon_typography_typography";i:3;s:27:"icon_typography_font_family";i:3;s:25:"icon_typography_font_size";i:3;s:27:"icon_typography_line_height";i:3;}s:17:"section_icon_list";a:2:{s:13:"space_between";i:2;s:17:"icon_align_mobile";i:2;}}}}s:5:"video";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:21:"section_image_overlay";a:3:{s:18:"show_image_overlay";i:1;s:8:"lightbox";i:1;s:13:"image_overlay";i:1;}}s:5:"style";a:1:{s:19:"section_video_style";a:3:{s:22:"css_filters_css_filter";i:1;s:15:"play_icon_color";i:1;s:38:"play_icon_text_shadow_text_shadow_type";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:12:"_css_classes";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}s:7:"divider";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:5:"style";a:1:{s:21:"section_divider_style";a:3:{s:5:"color";i:1;s:3:"gap";i:1;s:10:"gap_tablet";i:1;}}}}s:14:"image-carousel";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:22:"section_image_carousel";a:6:{s:14:"thumbnail_size";i:1;s:14:"slides_to_show";i:1;s:10:"navigation";i:1;s:8:"carousel";i:1;s:21:"slides_to_show_tablet";i:1;s:21:"slides_to_show_mobile";i:1;}}s:5:"style";a:1:{s:19:"section_style_image";a:1:{s:22:"gallery_vertical_align";i:1;}}}}s:11:"google_maps";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:11:"section_map";a:3:{s:7:"address";i:1;s:4:"zoom";i:1;s:6:"height";i:1;}}}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title>Sample Page</title>
 		<link>https://8degreethemes.com/demo/the100/agency/sample-page/</link>
@@ -2381,44 +2511,58 @@ Dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt u
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Left Sidebar</title>
-		<link>https://8degreethemes.com/demo/the100/agency/left-sidebar/</link>
-		<pubDate>Thu, 10 Aug 2017 05:07:11 +0000</pubDate>
+		<title>Archive List Medium Image</title>
+		<link>https://8degreethemes.com/demo/the100/agency/2020/05/31/archive-list-medium-image/</link>
+		<pubDate>Sun, 31 May 2020 07:46:41 +0000</pubDate>
 		<dc:creator><![CDATA[AccessAdmin]]></dc:creator>
-		<guid isPermaLink="false">http://8degreethemes.com/demo/the100/classic/?page_id=439</guid>
+		<guid isPermaLink="false">https://8degreethemes.com/demo/the100/agency/2020/05/31/archive-list-medium-image/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<h2>CEO: Metrica Ridima</h2>
-<img class="size-large wp-image-146 alignleft" src="http://localhost/8degree/the100/classic/wp-content/uploads/2017/07/team2-1024x725.jpg" alt="" width="640" height="453" />This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
-<blockquote>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like piña coladas. (And gettin' caught in the rain.)</blockquote>
-...or something like this:
-<blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
-As a new WordPress user, you should go to <a href="http://localhost/8degree/the100/classic/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-&nbsp;
-<h2>MD: EvaAngelina Matridon</h2>
-Dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation <img class="size-large wp-image-145 alignright" src="http://localhost/8degree/the100/classic/wp-content/uploads/2017/07/team1-1024x725.jpg" alt="" width="640" height="453" />ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>439</wp:post_id>
-		<wp:post_date><![CDATA[2017-08-10 05:07:11]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-08-10 05:07:11]]></wp:post_date_gmt>
+		<wp:post_id>477</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-31 07:46:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-31 07:46:41]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[left-sidebar]]></wp:post_name>
+		<wp:post_name><![CDATA[archive-list-medium-image]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:menu_order>8</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[the100_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[left-sidebar]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[467]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3263,28 +3407,46 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow ugc">Gr
 										<category domain="category" nicename="client"><![CDATA[Client]]></category>
 						</item>
 					<item>
-		<title>Napster</title>
-		<link>https://8degreethemes.com/demo/the100/agency/2017/07/14/napster/</link>
-		<pubDate>Fri, 14 Jul 2017 04:35:06 +0000</pubDate>
+		<title>Left Sidebar</title>
+		<link>https://8degreethemes.com/demo/the100/agency/left-sidebar/</link>
+		<pubDate>Thu, 10 Aug 2017 05:07:11 +0000</pubDate>
 		<dc:creator><![CDATA[AccessAdmin]]></dc:creator>
-		<guid isPermaLink="false">http://8degreethemes.com/demo/the100/classic/?p=223</guid>
+		<guid isPermaLink="false">http://8degreethemes.com/demo/the100/classic/?page_id=439</guid>
 		<description></description>
-		<content:encoded><![CDATA[Nullam mollis ullamcorper felis. Nam ultricies commodo varius. Fusce at commodo massa. Aenean sit amet sem tellus. Nulla eget suscipit dui. Curabitur placerat pretium tincidunt. Aenean iaculis luctus diam, aliquet finibus ante congue mattis. Mauris sit amet eros commodo diam mollis porta. Sed euismod nec eros sed consequat. Proin sed pulvinar nunc.]]></content:encoded>
+		<content:encoded><![CDATA[<h2>CEO: Metrica Ridima</h2>
+<img class="size-large wp-image-146 alignleft" src="http://localhost/8degree/the100/classic/wp-content/uploads/2017/07/team2-1024x725.jpg" alt="" width="640" height="453" />This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
+<blockquote>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like piña coladas. (And gettin' caught in the rain.)</blockquote>
+...or something like this:
+<blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
+As a new WordPress user, you should go to <a href="http://localhost/8degree/the100/classic/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+&nbsp;
+<h2>MD: EvaAngelina Matridon</h2>
+Dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation <img class="size-large wp-image-145 alignright" src="http://localhost/8degree/the100/classic/wp-content/uploads/2017/07/team1-1024x725.jpg" alt="" width="640" height="453" />ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>223</wp:post_id>
-		<wp:post_date><![CDATA[2017-07-14 04:35:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-07-14 04:35:06]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[napster]]></wp:post_name>
+		<wp:post_id>439</wp:post_id>
+		<wp:post_date><![CDATA[2017-08-10 05:07:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-08-10 05:07:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[left-sidebar]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="client"><![CDATA[Client]]></category>
-						</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[the100_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[left-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title>No Sidebar</title>
 		<link>https://8degreethemes.com/demo/the100/agency/no-sidebar/</link>
@@ -3326,6 +3488,29 @@ Dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt u
 		<wp:meta_value><![CDATA[no-sidebar]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title>Napster</title>
+		<link>https://8degreethemes.com/demo/the100/agency/2017/07/14/napster/</link>
+		<pubDate>Fri, 14 Jul 2017 04:35:06 +0000</pubDate>
+		<dc:creator><![CDATA[AccessAdmin]]></dc:creator>
+		<guid isPermaLink="false">http://8degreethemes.com/demo/the100/classic/?p=223</guid>
+		<description></description>
+		<content:encoded><![CDATA[Nullam mollis ullamcorper felis. Nam ultricies commodo varius. Fusce at commodo massa. Aenean sit amet sem tellus. Nulla eget suscipit dui. Curabitur placerat pretium tincidunt. Aenean iaculis luctus diam, aliquet finibus ante congue mattis. Mauris sit amet eros commodo diam mollis porta. Sed euismod nec eros sed consequat. Proin sed pulvinar nunc.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>223</wp:post_id>
+		<wp:post_date><![CDATA[2017-07-14 04:35:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-07-14 04:35:06]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[napster]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="client"><![CDATA[Client]]></category>
+						</item>
 					<item>
 		<title>Myspace.com</title>
 		<link>https://8degreethemes.com/demo/the100/agency/2017/07/14/myspace-com/</link>
