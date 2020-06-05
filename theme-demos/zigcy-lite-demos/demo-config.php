@@ -151,6 +151,165 @@
 					),
 				),
 
+				'Jewellery' => array(
+					'demo_name'			=> ('Jewellery Demo'),
+					'xml_file'     		=> $git_url . 'Jewellery/Jewellery.xml',
+					'theme_settings' 	=> $git_url . 'Jewellery/Jewellery.dat',
+					'widgets_file'  	=> $git_url . 'Jewellery/Jewellery.wie',
+					'screen'			=> $git_url . 'Jewellery/Jewellery.png',
+					'preview_url'		=> 'https://demo.accesspressthemes.com/zigcy-lite/demo-four/',
+					'is_shop'			=> true,
+					'home_title'  		=> 'Home',
+					'blog_title'  		=> 'Blog',
+					'posts_to_show'  	=> '10',
+					'menus'				=> array(
+											'menu-1' => 'Menu 1',
+											'menu-2' => 'Currency Menu',
+											'menu-3' => 'Language Menu',
+											),
+					'required_plugins'  => array(
+						'free' => array(
+							array(
+								'slug'  	=> 'elementor',
+								'init'  	=> 'elementor/elementor.php',
+								'name'  	=> 'Elementor',
+							),
+							array(
+								'slug'  	=> 'woocommerce',
+								'init'  	=> 'woocommerce/woocommerce.php',
+								'name'  	=> 'WooCommerce',
+							),
+							array(
+								'slug'  	=> 'yith-woocommerce-compare',
+								'init'  	=> 'yith-woocommerce-compare/init.php',
+								'name'  	=> 'YITH WooCommerce Compare',
+							),
+							array(
+								'slug'  	=> 'yith-woocommerce-wishlist',
+								'init'  	=> 'yith-woocommerce-wishlist/init.php',
+								'name'  	=> 'YITH WooCommerce Wishlist',
+							),
+							array(
+								'slug'  	=> 'yith-woocommerce-quick-view',
+								'init'  	=> 'yith-woocommerce-quick-view/init.php',
+								'name'  	=> 'YITH WooCommerce Quick View',
+							),
+							
+						),
+						'premium' => array(
+						),
+					),
+				),
+
+				'gadgets' => array(
+					'demo_name'			=> ('Gadgets Demo'),
+					'xml_file'     		=> $git_url . 'gadgets/gadgets.xml',
+					'theme_settings' 	=> $git_url . 'gadgets/gadgets.dat',
+					'widgets_file'  	=> $git_url . 'gadgets/gadgets.wie',
+					'screen'			=> $git_url . 'gadgets/gadgets.png',
+					'preview_url'		=> 'https://demo.accesspressthemes.com/zigcy-lite/demo-five/',
+					'is_shop'			=> true,
+					'home_title'  		=> 'Home',
+					'blog_title'  		=> 'Blog',
+					'posts_to_show'  	=> '10',
+					'menus'				=> array(
+											'menu-1' => 'Menu 1',
+											),
+					'required_plugins'  => array(
+						'free' => array(
+							array(
+								'slug'  	=> 'elementor',
+								'init'  	=> 'elementor/elementor.php',
+								'name'  	=> 'Elementor',
+							),
+							array(
+								'slug'  	=> 'woocommerce',
+								'init'  	=> 'woocommerce/woocommerce.php',
+								'name'  	=> 'WooCommerce',
+							),
+							array(
+								'slug'  	=> 'yith-woocommerce-compare',
+								'init'  	=> 'yith-woocommerce-compare/init.php',
+								'name'  	=> 'YITH WooCommerce Compare',
+							),
+							array(
+								'slug'  	=> 'yith-woocommerce-wishlist',
+								'init'  	=> 'yith-woocommerce-wishlist/init.php',
+								'name'  	=> 'YITH WooCommerce Wishlist',
+							),
+							array(
+								'slug'  	=> 'yith-woocommerce-quick-view',
+								'init'  	=> 'yith-woocommerce-quick-view/init.php',
+								'name'  	=> 'YITH WooCommerce Quick View',
+							),
+							array(
+								'slug'  	=> 'smart-slider-3',
+								'init'  	=> 'smart-slider-3/smart-slider-3.php',
+								'name'  	=> 'Smart Slider 3',
+							),
+							
+						),
+						'premium' => array(
+						),
+					),
+				),
+
+				'product' => array(
+					'demo_name'			=> ('One Product'),
+					'xml_file'     		=> $git_url . 'product/product.xml',
+					'theme_settings' 	=> $git_url . 'product/product.dat',
+					'widgets_file'  	=> $git_url . 'product/product.wie',
+					'screen'			=> $git_url . 'product/product.png',
+					'preview_url'		=> 'https://demo.accesspressthemes.com/zigcy-lite/demo-six/',
+					'is_shop'			=> true,
+					'home_title'  		=> 'Home',
+					'blog_title'  		=> 'Blog',
+					'posts_to_show'  	=> '10',
+					'menus'				=> array(
+											'menu-1' => 'Menu 1',
+											),
+					'required_plugins'  => array(
+						'free' => array(
+							array(
+								'slug'  	=> 'elementor',
+								'init'  	=> 'elementor/elementor.php',
+								'name'  	=> 'Elementor',
+							),
+							array(
+								'slug'  	=> 'woocommerce',
+								'init'  	=> 'woocommerce/woocommerce.php',
+								'name'  	=> 'WooCommerce',
+							),
+							array(
+								'slug'  	=> 'yith-woocommerce-compare',
+								'init'  	=> 'yith-woocommerce-compare/init.php',
+								'name'  	=> 'YITH WooCommerce Compare',
+							),
+							array(
+								'slug'  	=> 'yith-woocommerce-wishlist',
+								'init'  	=> 'yith-woocommerce-wishlist/init.php',
+								'name'  	=> 'YITH WooCommerce Wishlist',
+							),
+							array(
+								'slug'  	=> 'yith-woocommerce-quick-view',
+								'init'  	=> 'yith-woocommerce-quick-view/init.php',
+								'name'  	=> 'YITH WooCommerce Quick View',
+							),
+							array(
+								'slug'  	=> 'smart-slider-3',
+								'init'  	=> 'smart-slider-3/smart-slider-3.php',
+								'name'  	=> 'Smart Slider 3',
+							),
+							
+						),
+						'premium' => array(
+						),
+					),
+				),
+
+
+
+
 			);
 
 
