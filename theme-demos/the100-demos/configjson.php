@@ -77,6 +77,29 @@ $data = array(
 			'menu-1' => 'Primary Menu',
 		),
 	),
+	'agency' => array(
+		'demo_name' => 'Agency Demo',
+		'xml_file'     		=> $git_url . 'agency/content.xml',
+		'widgets_file'  	=> $git_url . 'agency/widgets.wie',
+		'theme_settings'  	=> $git_url . 'agency/customizer_options.dat',
+		'screen'			=> $git_url . 'agency/agency.jpg',
+		'preview_url'		=> 'https://8degreethemes.com/demo/the100/agency/',
+		'is_shop'			=> true,
+		'home_title'  		=> 'Homepage',
+		'blog_title'  		=> '',
+		'menus' 			=> array(
+			'menu-1' => 'Primary Menu',
+		),
+		'required_plugins'  => array(
+			'free' => array(
+				array(
+					'slug'  	=> 'elementor',
+					'init'  	=> 'elementor/elementor.php',
+					'name'  	=> 'Elementor',
+				)
+			)
+		)
+	),
 	'premium_demos' => array(
 
 		array(
