@@ -312,7 +312,6 @@
 
 			);
 
-
 //return $data;
 echo (json_encode($data));
 
