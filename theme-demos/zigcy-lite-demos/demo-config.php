@@ -156,7 +156,7 @@
 					'xml_file'     		=> $git_url . 'Jewellery/Jewellery.xml',
 					'theme_settings' 	=> $git_url . 'Jewellery/Jewellery.dat',
 					'widgets_file'  	=> $git_url . 'Jewellery/Jewellery.wie',
-					'screen'			=> $git_url . 'Jewellery/Jewellery.png',
+					'screen'			=> $git_url . 'Jewellery/jewellery.png',
 					'preview_url'		=> 'https://demo.accesspressthemes.com/zigcy-lite/demo-four/',
 					'is_shop'			=> true,
 					'home_title'  		=> 'Home',
