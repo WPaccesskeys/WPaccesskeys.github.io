@@ -152,7 +152,7 @@
 				),
 
 				'jewellery' => array(
-					'demo_name'			=> ('Jewellery Demo'),
+					'demo_name'			=> ('jewellery Demo'),
 					'xml_file'     		=> $git_url . 'jewellery/jewellery.xml',
 					'theme_settings' 	=> $git_url . 'jewellery/jewellery.dat',
 					'widgets_file'  	=> $git_url . 'jewellery/jewellery.wie',
@@ -164,8 +164,6 @@
 					'posts_to_show'  	=> '10',
 					'menus'				=> array(
 											'menu-1' => 'Menu 1',
-											'menu-2' => 'Currency Menu',
-											'menu-3' => 'Language Menu',
 											),
 					'required_plugins'  => array(
 						'free' => array(
