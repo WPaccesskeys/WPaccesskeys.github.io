@@ -242,11 +242,6 @@
 								'init'  	=> 'yith-woocommerce-quick-view/init.php',
 								'name'  	=> 'YITH WooCommerce Quick View',
 							),
-							array(
-								'slug'  	=> 'smart-slider-3',
-								'init'  	=> 'smart-slider-3/smart-slider-3.php',
-								'name'  	=> 'Smart Slider 3',
-							),
 							
 						),
 						'premium' => array(
@@ -294,11 +289,6 @@
 								'slug'  	=> 'yith-woocommerce-quick-view',
 								'init'  	=> 'yith-woocommerce-quick-view/init.php',
 								'name'  	=> 'YITH WooCommerce Quick View',
-							),
-							array(
-								'slug'  	=> 'smart-slider-3',
-								'init'  	=> 'smart-slider-3/smart-slider-3.php',
-								'name'  	=> 'Smart Slider 3',
 							),
 							
 						),
