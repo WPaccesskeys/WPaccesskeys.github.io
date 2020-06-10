@@ -151,12 +151,12 @@
 					),
 				),
 
-				'jewellery' => array(
-					'demo_name'			=> ('jewellery Demo'),
-					'xml_file'     		=> $git_url . 'jewellery/jewellery.xml',
-					'theme_settings' 	=> $git_url . 'jewellery/jewellery.dat',
-					'widgets_file'  	=> $git_url . 'jewellery/jewellery.wie',
-					'screen'			=> $git_url . 'jewellery/jewellery.png',
+				'jew' => array(
+					'demo_name'			=> ('Jewellery Demo'),
+					'xml_file'     		=> $git_url . 'jew/jewellery.xml',
+					'theme_settings' 	=> $git_url . 'jew/jewellery.dat',
+					'widgets_file'  	=> $git_url . 'jew/jewellery.wie',
+					'screen'			=> $git_url . 'jew/jew.png',
 					'preview_url'		=> 'https://demo.accesspressthemes.com/zigcy-lite/demo-four/',
 					'is_shop'			=> true,
 					'home_title'  		=> 'Home',
