@@ -463,6 +463,229 @@ function zigcy_demo_config(){
 					),
 				),
 
+
+				'jewllery' => array(
+					'demo_name'			=> esc_html__('Jewllery Demo','access-demo-importer'),
+					'xml_file'     		=> $git_url . 'jewllery/jewllery.xml',
+					'widgets_file'  	=> $git_url . 'jewllery/jewllery.wie',
+					'import_redux'		=> array(
+											'file_url'		=> $git_url .'jewllery/jewllery.json',
+											'option_name' 	=> 'zigcy_options',
+										),
+					'screen'			=> $git_url . 'jewllery/jewllery.jpg',
+					'preview_url'		=> 'http://demo.accesspressthemes.com/zigcy/demo-seven',
+					'is_shop'			=> true,
+					'home_title'  		=> 'Home',
+					'blog_title'  		=> 'Blog',
+					'posts_to_show'  	=> '10',
+					'menus'				=> array(
+											'menu-1' => 'Menu 1',
+											),
+					'required_plugins'  => array(
+						'free' => array(
+							array(
+								'slug'  	=> 'woocommerce',
+								'init'  	=> 'woocommerce/woocommerce.php',
+								'name'  	=> 'WooCommerce',
+							),
+							array(
+								'slug'  	=> 'contact-form-7',
+								'init'  	=> 'contact-form-7/wp-contact-form-7.php',
+								'name'  	=> 'Contact Form 7',
+							),
+							array(
+								'slug'  	=> 'yith-woocommerce-compare',
+								'init'  	=> 'yith-woocommerce-compare/init.php',
+								'name'  	=> 'YITH WooCommerce Compare',
+							),
+							array(
+								'slug'  	=> 'yith-woocommerce-quick-view',
+								'init'  	=> 'yith-woocommerce-quick-view/init.php',
+								'name'  	=> 'YITH WooCommerce Quick View',
+							),
+							array(
+								'slug'  	=> 'yith-woocommerce-wishlist',
+								'init'  	=> 'yith-woocommerce-wishlist/init.php',
+								'name'  	=> 'YITH WooCommerce Wishlist',
+							),
+							array(
+								'slug'  	=> 'elementor',
+								'init'  	=> 'elementor/elementor.php',
+								'name'  	=> 'Elementor',
+							),
+							array(
+								'slug'  	=> 'ap-companion',
+								'init'  	=> 'ap-companion/ap-companion.php',
+								'name'  	=> 'AP Companion',
+							),
+							
+						),
+						'premium' => array(
+							array(
+								'slug' 		=> 'js_composer',
+								'init'  	=> 'js_composer/js_composer.php',
+								'name' 		=> 'Visual Composer',
+								'class'		=> 'Vc_Manager',
+							),
+							array(
+								'slug' 		=> 'vc-mega-addons',
+								'init'  	=> 'vc-mega-addons/vc-mega-addons.php',
+								'name' 		=> 'Zigcy Companion',
+								'class'		=> 'VcMegaAddons',
+							),
+							
+						),
+					),
+				),
+
+				'electronics-v2' => array(
+					'demo_name'			=> esc_html__('Electronics Demo','access-demo-importer'),
+					'xml_file'     		=> $git_url . 'electronics-v2/electronics-v2.xml',
+					'widgets_file'  	=> $git_url . 'electronics-v2/electronics-v2.wie',
+					'import_redux'		=> array(
+											'file_url'		=> $git_url .'electronics-v2/electronics-v2.json',
+											'option_name' 	=> 'zigcy_options',
+										),
+					'screen'			=> $git_url . 'electronics-v2/electronics-v2.jpg',
+					'preview_url'		=> 'http://demo.accesspressthemes.com/zigcy/demo-eight/',
+					'is_shop'			=> true,
+					'home_title'  		=> 'Home',
+					'blog_title'  		=> 'Blog',
+					'posts_to_show'  	=> '10',
+					'menus'				=> array(
+											'menu-1' => 'Menu 1',
+											),
+					'required_plugins'  => array(
+						'free' => array(
+							array(
+								'slug'  	=> 'woocommerce',
+								'init'  	=> 'woocommerce/woocommerce.php',
+								'name'  	=> 'WooCommerce',
+							),
+							array(
+								'slug'  	=> 'contact-form-7',
+								'init'  	=> 'contact-form-7/wp-contact-form-7.php',
+								'name'  	=> 'Contact Form 7',
+							),
+							array(
+								'slug'  	=> 'yith-woocommerce-compare',
+								'init'  	=> 'yith-woocommerce-compare/init.php',
+								'name'  	=> 'YITH WooCommerce Compare',
+							),
+							array(
+								'slug'  	=> 'yith-woocommerce-quick-view',
+								'init'  	=> 'yith-woocommerce-quick-view/init.php',
+								'name'  	=> 'YITH WooCommerce Quick View',
+							),
+							array(
+								'slug'  	=> 'yith-woocommerce-wishlist',
+								'init'  	=> 'yith-woocommerce-wishlist/init.php',
+								'name'  	=> 'YITH WooCommerce Wishlist',
+							),
+							array(
+								'slug'  	=> 'elementor',
+								'init'  	=> 'elementor/elementor.php',
+								'name'  	=> 'Elementor',
+							),
+							array(
+								'slug'  	=> 'ap-companion',
+								'init'  	=> 'ap-companion/ap-companion.php',
+								'name'  	=> 'AP Companion',
+							),
+							
+						),
+						'premium' => array(
+							array(
+								'slug' 		=> 'js_composer',
+								'init'  	=> 'js_composer/js_composer.php',
+								'name' 		=> 'Visual Composer',
+								'class'		=> 'Vc_Manager',
+							),
+							array(
+								'slug' 		=> 'vc-mega-addons',
+								'init'  	=> 'vc-mega-addons/vc-mega-addons.php',
+								'name' 		=> 'Zigcy Companion',
+								'class'		=> 'VcMegaAddons',
+							),
+							
+						),
+					),
+				),
+
+				'single-product' => array(
+					'demo_name'			=> esc_html__('Single Product','access-demo-importer'),
+					'xml_file'     		=> $git_url . 'single-product/single-product.xml',
+					'widgets_file'  	=> $git_url . 'single-product/single-product.wie',
+					'import_redux'		=> array(
+											'file_url'		=> $git_url .'single-product/single-product.json',
+											'option_name' 	=> 'zigcy_options',
+										),
+					'screen'			=> $git_url . 'single-product/single-product.jpg',
+					'preview_url'		=> 'http://demo.accesspressthemes.com/zigcy/demo-nine/',
+					'is_shop'			=> true,
+					'home_title'  		=> 'Home',
+					'blog_title'  		=> 'Blog',
+					'posts_to_show'  	=> '10',
+					'menus'				=> array(
+											'menu-1' => 'Menu 1',
+											),
+					'required_plugins'  => array(
+						'free' => array(
+							array(
+								'slug'  	=> 'woocommerce',
+								'init'  	=> 'woocommerce/woocommerce.php',
+								'name'  	=> 'WooCommerce',
+							),
+							array(
+								'slug'  	=> 'contact-form-7',
+								'init'  	=> 'contact-form-7/wp-contact-form-7.php',
+								'name'  	=> 'Contact Form 7',
+							),
+							array(
+								'slug'  	=> 'yith-woocommerce-compare',
+								'init'  	=> 'yith-woocommerce-compare/init.php',
+								'name'  	=> 'YITH WooCommerce Compare',
+							),
+							array(
+								'slug'  	=> 'yith-woocommerce-quick-view',
+								'init'  	=> 'yith-woocommerce-quick-view/init.php',
+								'name'  	=> 'YITH WooCommerce Quick View',
+							),
+							array(
+								'slug'  	=> 'yith-woocommerce-wishlist',
+								'init'  	=> 'yith-woocommerce-wishlist/init.php',
+								'name'  	=> 'YITH WooCommerce Wishlist',
+							),
+							array(
+								'slug'  	=> 'elementor',
+								'init'  	=> 'elementor/elementor.php',
+								'name'  	=> 'Elementor',
+							),
+							array(
+								'slug'  	=> 'ap-companion',
+								'init'  	=> 'ap-companion/ap-companion.php',
+								'name'  	=> 'AP Companion',
+							),
+							
+						),
+						'premium' => array(
+							array(
+								'slug' 		=> 'js_composer',
+								'init'  	=> 'js_composer/js_composer.php',
+								'name' 		=> 'Visual Composer',
+								'class'		=> 'Vc_Manager',
+							),
+							array(
+								'slug' 		=> 'vc-mega-addons',
+								'init'  	=> 'vc-mega-addons/vc-mega-addons.php',
+								'name' 		=> 'Zigcy Companion',
+								'class'		=> 'VcMegaAddons',
+							),
+							
+						),
+					),
+				),
+
 			/*	'premium_demos' => array(
 
 						array(
