@@ -1,4 +1,38 @@
-a:4:{s:8:"template";s:6:"bingle";s:4:"mods";a:35:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:6:"menu-1";i:3;}s:18:"custom_css_post_id";i:58;s:31:"bingle_dragndrop_sections_order";s:815:"{"header":{"top-header":[{"panel":"bingle_headercustom_section","section":"customhtml","enable":"1"},{"panel":"bingle_headersocial_section","section":"social","enable":"1"}],"main-header":[{"panel":"title_tagline","section":"site-branding","enable":"1"},{"panel":"bingle_headermenu_section","section":"nav-menu","enable":"1"},{"panel":"bingle_headerbutton_section","section":"button","enable":"1"},{"panel":"bingle_headersearch_section","section":"search","enable":"0"},{"panel":"bingle_headersidemenu_section","section":"sidemenu","enable":"0"}]},"footer":{"top-footer":[{"panel":"bingle_footer_menu_section","section":"footermenu","enable":"0"}],"main-footer":[{"panel":"bingle_footer_copyright_section","section":"copyright","enable":"1"},{"panel":"bingle_footer_social","section":"footersocial","enable":"0"}]}}";s:28:"bingle_header_layout_setting";s:4:"lay9";s:19:"bingle_headercustom";s:96:"<b>Call Us:</b> +0712 819 79 555 &nbsp;&nbsp; | &nbsp;&nbsp;  <b>Email Us:</b> office@bingle.com";s:33:"bingle_headercustom_section_width";i:50;s:33:"bingle_headersocial_section_width";i:50;s:19:"title_tagline_width";i:20;s:31:"bingle_headermenu_section_width";i:65;s:34:"bingle_header_social_icon_facebook";s:14:"fa fa-facebook";s:29:"bingle_header_social_facebook";s:1:"#";s:33:"bingle_header_social_icon_twitter";s:13:"fa fa-twitter";s:28:"bingle_header_social_twitter";s:1:"#";s:30:"bingle_header_social_instagram";s:1:"#";s:30:"bingle_header_social_pinterest";s:1:"#";s:26:"bingle_header_social_vimeo";s:1:"#";s:28:"bingle_header_social_youtube";s:1:"#";s:35:"bingle_header_social_icon_instagram";s:15:"fa fa-instagram";s:35:"bingle_header_social_icon_pinterest";s:15:"fa fa-pinterest";s:31:"bingle_header_social_icon_vimeo";s:11:"fa fa-vimeo";s:33:"bingle_header_social_icon_youtube";s:13:"fa fa-youtube";s:33:"bingle_header_bkgcolor_top_header";s:7:"#223544";s:28:"bingle_footer_layout_setting";s:4:"lay2";s:30:"bingle_footer_style_top_footer";s:14:"bingle-wrapper";s:38:"bingle_footer_marginpadding_top_footer";s:22:"0, -, 0, -, 0, -, 0, -";s:37:"bingle_footer_copyright_section_width";i:100;s:34:"bingle_footer_bkgcolor_main_footer";s:7:"#323232";s:39:"bingle_footer_marginpadding_main_footer";s:24:"1, -, 0, -, 20, -, 20, -";s:31:"bingle_footer_style_main_footer";s:16:"bingle-fullwidth";s:25:"bingle_headerbutton_color";s:7:"#ff6f00";s:31:"bingle_headerbutton_hover_color";s:7:"#222229";s:16:"header_textcolor";s:5:"blank";s:11:"custom_logo";i:829;s:32:"bingle_footer_elementor_template";i:855;}s:7:"options";a:2:{s:9:"site_icon";s:3:"180";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:3750:".footer-lay2 footer .main-footer .main-footer-elem-wrap div {
+a:4:{s:8:"template";s:6:"bingle";s:4:"mods";a:38:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:6:"menu-1";i:3;}s:18:"custom_css_post_id";i:58;s:31:"bingle_dragndrop_sections_order";s:815:"{"header":{"top-header":[{"panel":"bingle_headercustom_section","section":"customhtml","enable":"1"},{"panel":"bingle_headersocial_section","section":"social","enable":"1"}],"main-header":[{"panel":"title_tagline","section":"site-branding","enable":"1"},{"panel":"bingle_headermenu_section","section":"nav-menu","enable":"1"},{"panel":"bingle_headerbutton_section","section":"button","enable":"1"},{"panel":"bingle_headersearch_section","section":"search","enable":"0"},{"panel":"bingle_headersidemenu_section","section":"sidemenu","enable":"0"}]},"footer":{"top-footer":[{"panel":"bingle_footer_menu_section","section":"footermenu","enable":"0"}],"main-footer":[{"panel":"bingle_footer_copyright_section","section":"copyright","enable":"1"},{"panel":"bingle_footer_social","section":"footersocial","enable":"0"}]}}";s:28:"bingle_header_layout_setting";s:4:"lay9";s:19:"bingle_headercustom";s:96:"<b>Call Us:</b> +0712 819 79 555 &nbsp;&nbsp; | &nbsp;&nbsp;  <b>Email Us:</b> office@bingle.com";s:33:"bingle_headercustom_section_width";i:50;s:33:"bingle_headersocial_section_width";i:50;s:19:"title_tagline_width";i:20;s:31:"bingle_headermenu_section_width";i:65;s:34:"bingle_header_social_icon_facebook";s:14:"fa fa-facebook";s:29:"bingle_header_social_facebook";s:1:"#";s:33:"bingle_header_social_icon_twitter";s:13:"fa fa-twitter";s:28:"bingle_header_social_twitter";s:1:"#";s:30:"bingle_header_social_instagram";s:1:"#";s:30:"bingle_header_social_pinterest";s:1:"#";s:26:"bingle_header_social_vimeo";s:1:"#";s:28:"bingle_header_social_youtube";s:1:"#";s:35:"bingle_header_social_icon_instagram";s:15:"fa fa-instagram";s:35:"bingle_header_social_icon_pinterest";s:15:"fa fa-pinterest";s:31:"bingle_header_social_icon_vimeo";s:11:"fa fa-vimeo";s:33:"bingle_header_social_icon_youtube";s:13:"fa fa-youtube";s:33:"bingle_header_bkgcolor_top_header";s:7:"#223544";s:28:"bingle_footer_layout_setting";s:4:"lay2";s:30:"bingle_footer_style_top_footer";s:14:"bingle-wrapper";s:38:"bingle_footer_marginpadding_top_footer";s:22:"0, -, 0, -, 0, -, 0, -";s:37:"bingle_footer_copyright_section_width";i:100;s:34:"bingle_footer_bkgcolor_main_footer";s:7:"#323232";s:39:"bingle_footer_marginpadding_main_footer";s:24:"-, -, 0, -, 20, -, 30, -";s:31:"bingle_footer_style_main_footer";s:16:"bingle-fullwidth";s:25:"bingle_headerbutton_color";s:7:"#ff6f00";s:31:"bingle_headerbutton_hover_color";s:7:"#222229";s:16:"header_textcolor";s:5:"blank";s:11:"custom_logo";i:829;s:32:"bingle_footer_elementor_template";i:855;s:25:"bingle_header_button_text";s:9:"Get Quote";s:25:"bingle_header_button_link";s:1:"#";s:33:"bingle_headerbutton_section_width";i:13;}s:7:"options";a:2:{s:9:"site_icon";s:3:"180";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:4938:".header-lay9 .main-navigation li a {
+	padding: 10px;
+}
+.header-lay9 .site-button a {
+	padding: 10px 40px;
+}
+.bingle-pro-addon.service.layout-one a:hover,
+.ap-posts-grid-main-wrapp.layout-three a:hover{
+    color: #FF6F00 !important;
+}
+.ap-companion-slider .inner-wrapp .contents-wrapp .sl-title {
+    margin: 0 0 10px 0;
+}
+.ap-companion-slider .slick-prev,
+.ap-companion-slider .slick-next {
+	    height: 105px;
+    	width: 40px;
+    	overflow: hidden;
+}
+
+.ap-companion-slider .slick-prev:before,
+.ap-companion-slider .slick-next:before {
+    color: #FFF;
+    content: "\2573";
+    font-size: 80px;
+	top: 0;
+    position: absolute;
+    left: 0;
+}
+.ap-companion-slider .slick-prev::before {
+    left: -40px;
+    position: absolute;
+    top: 0;
+}
+.footer-lay2 footer .main-footer .main-footer-elem-wrap div {
 	font-family: "Cabin";
 }
 input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
@@ -61,7 +95,7 @@ body:not(.home).header-lay9 .site-header .site-button a {
     color: #ff6f00;
 }
 .footer-lay2 footer .main-footer .main-footer-elem-wrap div a, .footer-lay2 footer .main-footer .main-footer-elem-wrap div {
-    color: #ff6f00;
+    color: #fff;
 }
 .bingle-cont-sub-btn input[type="submit"], .blog .entry-content a.read-more, .search .entry-content a.read-more, .archive .entry-content a.read-more, #secondary .widget_search input[type="submit"], .comments-area form.comment-form .form-submit input[type="submit"], .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt {
     background: #ff6f00;
@@ -71,6 +105,9 @@ body:not(.home).header-lay9 .site-header .site-button a {
 	-webkit-box-shadow: 0 0 12px 4px rgba(255, 111, 0, 0.5);
     box-shadow: 0 0 12px 4px rgba(255, 111, 0, 0.5);
 }
+footer .main-footer {
+    margin: 0 -10px;
+}
 @media screen and (max-width: 768px) {
 .header-lay9 button.menu-toggle .nav-svg path, .header-lay2 button.menu-toggle .nav-svg path {
     stroke: #000;
@@ -78,7 +115,24 @@ body:not(.home).header-lay9 .site-header .site-button a {
 	.header-lay2 button.menu-toggle .nav-svg .dots, .header-lay2 button.menu-toggle .nav-svg .dots:before, .header-lay2 button.menu-toggle .nav-svg .dots:after, .header-lay9 button.menu-toggle .nav-svg .dots, .header-lay9 button.menu-toggle .nav-svg .dots:before, .header-lay9 button.menu-toggle .nav-svg .dots:after {
 		background: #000;
 	}
+	.ap-companion-slider .inner-wrapp .contents-wrapp {
+		max-width: 100%;
+		width: 100%;
+	}
+	.ap-companion-slider .inner-wrapp .contents-wrapp .inner-wrapp {
+		padding: 0 50px;
+		width: 100%;
+		text-align: center;
+	}
 }
-footer .main-footer {
-    margin: 0 -10px;
+@media screen and (max-width: 600px) {
+	.ap-companion-slider .inner-wrapp .contents-wrapp .inner-wrapp {
+		padding: 0;
+	}
+	.ap-companion-slider .slick-prev {
+		left: 10px;
+	}
+	.ap-companion-slider .slick-next {
+		right: 10px;
+	}
 }";}

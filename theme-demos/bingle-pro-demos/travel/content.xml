@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.4.2" created="2020-06-30 07:19" -->
+	<!-- generator="WordPress/5.4.2" created="2020-07-12 06:15" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>bingle.</title>
 	<link>http://demo.accesspressthemes.com/bingle-pro/travel</link>
 	<description></description>
-	<pubDate>Tue, 30 Jun 2020 07:19:05 +0000</pubDate>
+	<pubDate>Sun, 12 Jul 2020 06:15:23 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.accesspressthemes.com/bingle-pro/</wp:base_site_url>
@@ -320,37 +320,6 @@
 							</item>
 					<item>
 		<title>3</title>
-		<link>http://demo.accesspressthemes.com/bingle-pro/travel/3/</link>
-		<pubDate>Wed, 29 Apr 2020 04:06:31 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/3.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>938</wp:post_id>
-		<wp:post_date><![CDATA[2020-04-29 04:06:31]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-04-29 04:06:31]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[3]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/3.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/04/3.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:560;s:4:"file";s:13:"2020/04/3.jpg";s:5:"sizes";a:12:{s:6:"medium";a:4:{s:4:"file";s:12:"3-300x88.jpg";s:5:"width";i:300;s:6:"height";i:88;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:14:"3-1024x299.jpg";s:5:"width";i:1024;s:6:"height";i:299;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:13:"3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:13:"3-768x224.jpg";s:5:"width";i:768;s:6:"height";i:224;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:14:"3-1536x448.jpg";s:5:"width";i:1536;s:6:"height";i:448;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bingle-square";a:4:{s:4:"file";s:13:"3-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:13:"3-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:13:"3-600x175.jpg";s:5:"width";i:600;s:6:"height";i:175;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:13:"3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:13:"3-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:13:"3-600x175.jpg";s:5:"width";i:600;s:6:"height";i:175;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:13:"3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>3</title>
 		<link>http://demo.accesspressthemes.com/bingle-pro/travel/3-2/</link>
 		<pubDate>Wed, 29 Apr 2020 04:06:33 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
@@ -533,68 +502,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:512;s:6:"height";i:656;s:4:"file";s:13:"2020/04/8.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:13:"8-234x300.jpg";s:5:"width";i:234;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:13:"8-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bingle-square";a:4:{s:4:"file";s:13:"8-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:13:"8-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:13:"8-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:13:"8-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:13:"8-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>9</title>
-		<link>http://demo.accesspressthemes.com/bingle-pro/travel/9/</link>
-		<pubDate>Wed, 29 Apr 2020 04:06:41 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/9.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>945</wp:post_id>
-		<wp:post_date><![CDATA[2020-04-29 04:06:41]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-04-29 04:06:41]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[9]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/9.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/04/9.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:568;s:6:"height";i:531;s:4:"file";s:13:"2020/04/9.png";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:13:"9-300x280.png";s:5:"width";i:300;s:6:"height";i:280;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:13:"9-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:13:"bingle-square";a:4:{s:4:"file";s:13:"9-500x500.png";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:13:"9-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:13:"9-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:12:"shop_catalog";a:4:{s:4:"file";s:13:"9-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:13:"9-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>10</title>
-		<link>http://demo.accesspressthemes.com/bingle-pro/travel/10/</link>
-		<pubDate>Wed, 29 Apr 2020 04:06:43 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/10.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>946</wp:post_id>
-		<wp:post_date><![CDATA[2020-04-29 04:06:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-04-29 04:06:43]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[10]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/10.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/04/10.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:560;s:4:"file";s:14:"2020/04/10.jpg";s:5:"sizes";a:12:{s:6:"medium";a:4:{s:4:"file";s:13:"10-300x88.jpg";s:5:"width";i:300;s:6:"height";i:88;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:15:"10-1024x299.jpg";s:5:"width";i:1024;s:6:"height";i:299;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:14:"10-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:14:"10-768x224.jpg";s:5:"width";i:768;s:6:"height";i:224;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:15:"10-1536x448.jpg";s:5:"width";i:1536;s:6:"height";i:448;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bingle-square";a:4:{s:4:"file";s:14:"10-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:14:"10-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:14:"10-600x175.jpg";s:5:"width";i:600;s:6:"height";i:175;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:14:"10-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:14:"10-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:14:"10-600x175.jpg";s:5:"width";i:600;s:6:"height";i:175;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:14:"10-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1436,6 +1343,111 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title>Layer-65-1.png</title>
+		<link>http://demo.accesspressthemes.com/bingle-pro/travel/layer-65-1-png/</link>
+		<pubDate>Thu, 30 Apr 2020 11:46:55 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/Layer-65-1.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1037</wp:post_id>
+		<wp:post_date><![CDATA[2020-04-30 11:46:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-04-30 11:46:55]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[layer-65-1-png]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/Layer-65-1.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/04/Layer-65-1.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:56;s:6:"height";i:56;s:4:"file";s:22:"2020/04/Layer-65-1.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
+		<wp:meta_value><![CDATA[cc285cce82c195094703566d1b9af19902f0d5b0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>cta-law.jpg</title>
+		<link>http://demo.accesspressthemes.com/bingle-pro/travel/cta-law-jpg/</link>
+		<pubDate>Thu, 30 Apr 2020 11:46:55 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/cta-law.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1038</wp:post_id>
+		<wp:post_date><![CDATA[2020-04-30 11:46:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-04-30 11:46:55]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cta-law-jpg]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/cta-law.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/04/cta-law.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:601;s:4:"file";s:19:"2020/04/cta-law.jpg";s:5:"sizes";a:12:{s:6:"medium";a:4:{s:4:"file";s:18:"cta-law-300x94.jpg";s:5:"width";i:300;s:6:"height";i:94;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:20:"cta-law-1024x321.jpg";s:5:"width";i:1024;s:6:"height";i:321;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:19:"cta-law-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:19:"cta-law-768x240.jpg";s:5:"width";i:768;s:6:"height";i:240;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:20:"cta-law-1536x481.jpg";s:5:"width";i:1536;s:6:"height";i:481;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bingle-square";a:4:{s:4:"file";s:19:"cta-law-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:19:"cta-law-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:19:"cta-law-600x188.jpg";s:5:"width";i:600;s:6:"height";i:188;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:19:"cta-law-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:19:"cta-law-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:19:"cta-law-600x188.jpg";s:5:"width";i:600;s:6:"height";i:188;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:19:"cta-law-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
+		<wp:meta_value><![CDATA[eb54e1d0d255ed38cc8b5c1901aac1d56784bdde]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>logo-copy-6.png</title>
+		<link>http://demo.accesspressthemes.com/bingle-pro/travel/logo-copy-6-png/</link>
+		<pubDate>Thu, 30 Apr 2020 11:46:56 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/logo-copy-6.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1039</wp:post_id>
+		<wp:post_date><![CDATA[2020-04-30 11:46:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-04-30 11:46:56]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[logo-copy-6-png]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/logo-copy-6.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/04/logo-copy-6.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:144;s:6:"height";i:56;s:4:"file";s:23:"2020/04/logo-copy-6.png";s:5:"sizes";a:2:{s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:22:"logo-copy-6-100x56.png";s:5:"width";i:100;s:6:"height";i:56;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:22:"logo-copy-6-100x56.png";s:5:"width";i:100;s:6:"height";i:56;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
+		<wp:meta_value><![CDATA[50bc8d168d58de54127cb5d953041f3220361908]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title>About Us</title>
 		<link>http://demo.accesspressthemes.com/bingle-pro/travel/about-us/</link>
 		<pubDate>Wed, 29 Apr 2020 03:40:46 +0000</pubDate>
@@ -1683,12 +1695,12 @@ info@accesskeys.com
 .main-footer.bingle-footer-container {
     border-top: 1px solid #eee;
 }
-form input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+form ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
 	color: #63688e;
 	font-family: "Josefin Sans";
 	font-weight: 300;
 }
-form input::-moz-placeholder { /* Firefox 19+ */
+form ::-moz-placeholder { /* Firefox 19+ */
 	color: #63688e;
 	font-family: "Josefin Sans";
 	font-weight: 300;
@@ -1801,11 +1813,11 @@ form input::-moz-placeholder { /* Firefox 19+ */
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.9.7]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2.9.13]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"4d47e9a3","elType":"section","settings":{"padding":{"unit":"px","top":"80","right":"0","bottom":"80","left":"0","isLinked":false},"background_background":"classic","background_color":"#F6FFFF","padding_tablet":{"unit":"px","top":"60","right":"10","bottom":"30","left":"10","isLinked":false},"stretch_section":"section-stretched","structure":"40"},"elements":[{"id":"76cc0bab","elType":"column","settings":{"_column_size":25,"border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#e5e5e5","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_inline_size":40,"space_between_widgets":0},"elements":[{"id":"67f185e","elType":"widget","settings":{"title":"bingle.","title_color":"#000000","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":50,"sizes":[]},"typography_font_weight":"700","align_mobile":"center"},"elements":[],"widgetType":"heading"},{"id":"ced2d83","elType":"widget","settings":{"editor":"<p>Discover amazing things everywhere you go.<\/p>","typography_typography":"custom","typography_font_family":"Josefin Sans"},"elements":[],"widgetType":"text-editor"},{"id":"fe63067","elType":"widget","settings":{"image":{"url":"https:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/3\/2020\/04\/2.png","id":40},"image_size":"full","align":"left","width":{"unit":"%","size":100,"sizes":[]},"_margin":{"unit":"%","top":"0","right":"4","bottom":"0","left":"0","isLinked":false},"_element_width":"initial","_element_custom_width":{"unit":"%","size":45,"sizes":[]},"_element_vertical_align":"center"},"elements":[],"widgetType":"image"},{"id":"87c3bbe","elType":"widget","settings":{"image":{"url":"https:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/3\/2020\/04\/1.png","id":41},"image_size":"full","align":"left","width":{"unit":"%","size":100,"sizes":[]},"_margin":{"unit":"%","top":"0","right":"2","bottom":"0","left":"0","isLinked":false},"_element_width":"initial","_element_custom_width":{"unit":"%","size":45,"sizes":[]},"_element_vertical_align":"center"},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"10768e0","elType":"column","settings":{"_column_size":25,"_inline_size":17.544000000000000483169060316868126392364501953125,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_inline_size_tablet":50,"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"39756bb","elType":"widget","settings":{"title":"Company","title_color":"#000000","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":22,"sizes":[]},"typography_font_weight":"bold","align_mobile":"center","typography_typography":"custom"},"elements":[],"widgetType":"heading"},{"id":"2749d08","elType":"widget","settings":{"icon_list":[{"text":"About Us","selected_icon":{"value":"","library":""},"_id":"ca8a792","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Careers","selected_icon":{"value":"","library":""},"_id":"0d108f1","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Press Kit","selected_icon":{"value":"","library":""},"_id":"8ed1926","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Partner","selected_icon":{"value":"","library":""},"_id":"5d7e6c5","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}}],"text_color":"#000000","icon_typography_typography":"custom","icon_typography_font_family":"Josefin Sans","icon_typography_font_size":{"unit":"px","size":18,"sizes":[]},"icon_typography_line_height":{"unit":"em","size":1.350000000000000088817841970012523233890533447265625,"sizes":[]},"text_color_hover":"#23D3D3","space_between":{"unit":"px","size":20,"sizes":[]},"icon_align":"left","icon_color":"#cac9c9","icon_size":{"unit":"px","size":8,"sizes":[]},"icon_self_align":"left","text_indent":{"unit":"px","size":7,"sizes":[]},"_margin":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":false},"_css_classes":"bingle-law-quck-links","icon_align_mobile":"center"},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"3998224","elType":"column","settings":{"_column_size":25,"_inline_size":17.544000000000000483169060316868126392364501953125,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_inline_size_tablet":50,"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"aababcb","elType":"widget","settings":{"title":"Support","title_color":"#000000","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":22,"sizes":[]},"typography_font_weight":"bold","align_mobile":"center","typography_typography":"custom"},"elements":[],"widgetType":"heading"},{"id":"1723d79","elType":"widget","settings":{"icon_list":[{"text":"Get in Touch","selected_icon":{"value":"","library":""},"_id":"ca8a792","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Help Center","selected_icon":{"value":"","library":""},"_id":"0d108f1","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Live Chat","selected_icon":{"value":"","library":""},"_id":"8ed1926","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"How it works","selected_icon":{"value":"","library":""},"_id":"5d7e6c5","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}}],"text_color":"#000000","icon_typography_typography":"custom","icon_typography_font_family":"Josefin Sans","icon_typography_font_size":{"unit":"px","size":18,"sizes":[]},"icon_typography_line_height":{"unit":"em","size":1.350000000000000088817841970012523233890533447265625,"sizes":[]},"text_color_hover":"#23D3D3","space_between":{"unit":"px","size":20,"sizes":[]},"icon_align":"left","icon_color":"#cac9c9","icon_size":{"unit":"px","size":8,"sizes":[]},"icon_self_align":"left","text_indent":{"unit":"px","size":7,"sizes":[]},"_margin":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":false},"_css_classes":"bingle-law-quck-links","icon_align_mobile":"center"},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"1ba8e52","elType":"column","settings":{"_column_size":25,"_inline_size":24.91199999999999903366187936626374721527099609375,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_inline_size_tablet":50,"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"aeeacce","elType":"widget","settings":{"title":"Contact Us","title_color":"#000000","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":22,"sizes":[]},"typography_font_weight":"bold","align_mobile":"center","typography_typography":"custom"},"elements":[],"widgetType":"heading"},{"id":"7bc329d","elType":"widget","settings":{"icon_list":[{"text":"Email : support@domain.com","selected_icon":{"value":"","library":""},"_id":"2de56df","link":{"url":"","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Phone: 1(00)8324 3456","selected_icon":{"value":"","library":""},"_id":"7fbf1c5","link":{"url":"","is_external":"","nofollow":"","custom_attributes":""}}],"space_between":{"unit":"px","size":20,"sizes":[]},"icon_align":"left","icon_align_mobile":"center","icon_color":"#cac9c9","icon_size":{"unit":"px","size":8,"sizes":[]},"icon_self_align":"left","text_color":"#000000","text_color_hover":"#23D3D3","text_indent":{"unit":"px","size":7,"sizes":[]},"icon_typography_typography":"custom","icon_typography_font_family":"Josefin Sans","icon_typography_font_size":{"unit":"px","size":18,"sizes":[]},"icon_typography_line_height":{"unit":"em","size":1.350000000000000088817841970012523233890533447265625,"sizes":[]},"_margin":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":false},"_css_classes":"bingle-law-quck-links"},"elements":[],"widgetType":"icon-list"},{"id":"26b340d","elType":"widget","settings":{"social_icon_list":[{"social_icon":{"value":"fab fa-facebook","library":"fa-brands"},"_id":"ec1b80c","link":{"url":"","is_external":"true","nofollow":"","custom_attributes":""},"item_icon_color":"default","item_icon_primary_color":"","item_icon_secondary_color":""},{"social_icon":{"value":"fab fa-twitter","library":"fa-brands"},"_id":"9b0b2ea","link":{"url":"","is_external":"true","nofollow":"","custom_attributes":""},"item_icon_color":"default","item_icon_primary_color":"","item_icon_secondary_color":""},{"social_icon":{"value":"fab fa-youtube","library":"fa-brands"},"_id":"d2a5694","link":{"url":"","is_external":"true","nofollow":"","custom_attributes":""},"item_icon_color":"default","item_icon_primary_color":"","item_icon_secondary_color":""},{"social_icon":{"value":"fab fa-instagram","library":"fa-brands"},"link":{"url":"#","is_external":"true","nofollow":"","custom_attributes":""},"item_icon_color":"default","item_icon_primary_color":"","item_icon_secondary_color":"","_id":"7438280"}],"align":"left"},"elements":[],"widgetType":"social-icons"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"4d47e9a3","elType":"section","settings":{"padding":{"unit":"px","top":"80","right":"0","bottom":"80","left":"0","isLinked":false},"background_background":"classic","background_color":"#F6FFFF","padding_tablet":{"unit":"px","top":"60","right":"10","bottom":"30","left":"10","isLinked":false},"stretch_section":"section-stretched","structure":"40"},"elements":[{"id":"76cc0bab","elType":"column","settings":{"_column_size":25,"border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#e5e5e5","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_inline_size":40,"space_between_widgets":0,"_inline_size_tablet":50},"elements":[{"id":"67f185e","elType":"widget","settings":{"title":"bingle.","title_color":"#000000","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":50,"sizes":[]},"typography_font_weight":"700","align_mobile":"center"},"elements":[],"widgetType":"heading"},{"id":"ced2d83","elType":"widget","settings":{"editor":"<p>Discover amazing things everywhere you go.<\/p>","typography_typography":"custom","typography_font_family":"Josefin Sans","align_mobile":"center"},"elements":[],"widgetType":"text-editor"},{"id":"fe63067","elType":"widget","settings":{"image":{"url":"https:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/3\/2020\/04\/2.png","id":40},"image_size":"full","align":"left","width":{"unit":"%","size":100,"sizes":[]},"_margin":{"unit":"%","top":"0","right":"4","bottom":"0","left":"0","isLinked":false},"_element_width":"initial","_element_custom_width":{"unit":"%","size":45,"sizes":[]},"_element_vertical_align":"center"},"elements":[],"widgetType":"image"},{"id":"87c3bbe","elType":"widget","settings":{"image":{"url":"https:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/3\/2020\/04\/1.png","id":41},"image_size":"full","align":"left","width":{"unit":"%","size":100,"sizes":[]},"_margin":{"unit":"%","top":"0","right":"2","bottom":"0","left":"0","isLinked":false},"_element_width":"initial","_element_custom_width":{"unit":"%","size":45,"sizes":[]},"_element_vertical_align":"center"},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"10768e0","elType":"column","settings":{"_column_size":25,"_inline_size":17.544000000000000483169060316868126392364501953125,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_inline_size_tablet":50,"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"39756bb","elType":"widget","settings":{"title":"Company","title_color":"#000000","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":22,"sizes":[]},"typography_font_weight":"bold","align_mobile":"center","typography_typography":"custom"},"elements":[],"widgetType":"heading"},{"id":"2749d08","elType":"widget","settings":{"icon_list":[{"text":"About Us","selected_icon":{"value":"","library":""},"_id":"ca8a792","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Careers","selected_icon":{"value":"","library":""},"_id":"0d108f1","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Press Kit","selected_icon":{"value":"","library":""},"_id":"8ed1926","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Partner","selected_icon":{"value":"","library":""},"_id":"5d7e6c5","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}}],"text_color":"#000000","icon_typography_typography":"custom","icon_typography_font_family":"Josefin Sans","icon_typography_font_size":{"unit":"px","size":18,"sizes":[]},"icon_typography_line_height":{"unit":"em","size":1.350000000000000088817841970012523233890533447265625,"sizes":[]},"text_color_hover":"#23D3D3","space_between":{"unit":"px","size":20,"sizes":[]},"icon_align":"left","icon_color":"#cac9c9","icon_size":{"unit":"px","size":8,"sizes":[]},"icon_self_align":"left","text_indent":{"unit":"px","size":7,"sizes":[]},"_margin":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":false},"_css_classes":"bingle-law-quck-links","icon_align_mobile":"center"},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"3998224","elType":"column","settings":{"_column_size":25,"_inline_size":17.544000000000000483169060316868126392364501953125,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_inline_size_tablet":50,"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"aababcb","elType":"widget","settings":{"title":"Support","title_color":"#000000","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":22,"sizes":[]},"typography_font_weight":"bold","align_mobile":"center","typography_typography":"custom"},"elements":[],"widgetType":"heading"},{"id":"1723d79","elType":"widget","settings":{"icon_list":[{"text":"Get in Touch","selected_icon":{"value":"","library":""},"_id":"ca8a792","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Help Center","selected_icon":{"value":"","library":""},"_id":"0d108f1","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Live Chat","selected_icon":{"value":"","library":""},"_id":"8ed1926","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"How it works","selected_icon":{"value":"","library":""},"_id":"5d7e6c5","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}}],"text_color":"#000000","icon_typography_typography":"custom","icon_typography_font_family":"Josefin Sans","icon_typography_font_size":{"unit":"px","size":18,"sizes":[]},"icon_typography_line_height":{"unit":"em","size":1.350000000000000088817841970012523233890533447265625,"sizes":[]},"text_color_hover":"#23D3D3","space_between":{"unit":"px","size":20,"sizes":[]},"icon_align":"left","icon_color":"#cac9c9","icon_size":{"unit":"px","size":8,"sizes":[]},"icon_self_align":"left","text_indent":{"unit":"px","size":7,"sizes":[]},"_margin":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":false},"_css_classes":"bingle-law-quck-links","icon_align_mobile":"center"},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"1ba8e52","elType":"column","settings":{"_column_size":25,"_inline_size":24.91199999999999903366187936626374721527099609375,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_inline_size_tablet":50,"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"aeeacce","elType":"widget","settings":{"title":"Contact Us","title_color":"#000000","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":22,"sizes":[]},"typography_font_weight":"bold","align_mobile":"center","typography_typography":"custom"},"elements":[],"widgetType":"heading"},{"id":"7bc329d","elType":"widget","settings":{"icon_list":[{"text":"Email : support@domain.com","selected_icon":{"value":"","library":""},"_id":"2de56df","link":{"url":"","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Phone: 1(00)8324 3456","selected_icon":{"value":"","library":""},"_id":"7fbf1c5","link":{"url":"","is_external":"","nofollow":"","custom_attributes":""}}],"space_between":{"unit":"px","size":20,"sizes":[]},"icon_align":"left","icon_align_mobile":"center","icon_color":"#cac9c9","icon_size":{"unit":"px","size":8,"sizes":[]},"icon_self_align":"left","text_color":"#000000","text_color_hover":"#23D3D3","text_indent":{"unit":"px","size":7,"sizes":[]},"icon_typography_typography":"custom","icon_typography_font_family":"Josefin Sans","icon_typography_font_size":{"unit":"px","size":18,"sizes":[]},"icon_typography_line_height":{"unit":"em","size":1.350000000000000088817841970012523233890533447265625,"sizes":[]},"_margin":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":false},"_css_classes":"bingle-law-quck-links"},"elements":[],"widgetType":"icon-list"},{"id":"26b340d","elType":"widget","settings":{"social_icon_list":[{"social_icon":{"value":"fab fa-facebook","library":"fa-brands"},"_id":"ec1b80c","link":{"url":"","is_external":"true","nofollow":"","custom_attributes":""},"item_icon_color":"default","item_icon_primary_color":"","item_icon_secondary_color":""},{"social_icon":{"value":"fab fa-twitter","library":"fa-brands"},"_id":"9b0b2ea","link":{"url":"","is_external":"true","nofollow":"","custom_attributes":""},"item_icon_color":"default","item_icon_primary_color":"","item_icon_secondary_color":""},{"social_icon":{"value":"fab fa-youtube","library":"fa-brands"},"_id":"d2a5694","link":{"url":"","is_external":"true","nofollow":"","custom_attributes":""},"item_icon_color":"default","item_icon_primary_color":"","item_icon_secondary_color":""},{"social_icon":{"value":"fab fa-instagram","library":"fa-brands"},"link":{"url":"#","is_external":"true","nofollow":"","custom_attributes":""},"item_icon_color":"default","item_icon_primary_color":"","item_icon_secondary_color":"","_id":"7438280"}],"align":"left","align_mobile":"center"},"elements":[],"widgetType":"social-icons"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -1821,7 +1833,7 @@ form input::-moz-placeholder { /* Firefox 19+ */
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:7:"heading";a:3:{s:5:"count";i:4;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:4;s:12:"align_mobile";i:4;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:11:"title_color";i:4;s:21:"typography_typography";i:4;s:22:"typography_font_family";i:4;s:20:"typography_font_size";i:4;s:22:"typography_font_weight";i:4;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:2:{s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:2;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:2;s:10:"image_size";i:2;s:5:"align";i:2;}}s:5:"style";a:1:{s:19:"section_style_image";a:1:{s:5:"width";i:2;}}s:8:"advanced";a:2:{s:14:"_section_style";a:1:{s:7:"_margin";i:2;}s:17:"_section_position";a:3:{s:14:"_element_width";i:2;s:21:"_element_custom_width";i:2;s:23:"_element_vertical_align";i:2;}}}}s:6:"column";a:3:{s:5:"count";i:4;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:5:"style";a:1:{s:14:"section_border";a:2:{s:12:"border_width";i:1;s:12:"border_color";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:7:"padding";i:4;s:13:"margin_mobile";i:4;s:14:"padding_mobile";i:4;}}s:6:"layout";a:1:{s:6:"layout";a:3:{s:12:"_inline_size";i:4;s:21:"space_between_widgets";i:1;s:19:"_inline_size_tablet";i:3;}}}}s:9:"icon-list";a:3:{s:5:"count";i:3;s:15:"control_percent";i:7;s:8:"controls";a:3:{s:7:"content";a:1:{s:12:"section_icon";a:1:{s:9:"icon_list";i:3;}}s:5:"style";a:3:{s:18:"section_text_style";a:7:{s:10:"text_color";i:3;s:26:"icon_typography_typography";i:3;s:27:"icon_typography_font_family";i:3;s:25:"icon_typography_font_size";i:3;s:27:"icon_typography_line_height";i:3;s:16:"text_color_hover";i:3;s:11:"text_indent";i:3;}s:17:"section_icon_list";a:3:{s:13:"space_between";i:3;s:10:"icon_align";i:3;s:17:"icon_align_mobile";i:3;}s:18:"section_icon_style";a:3:{s:10:"icon_color";i:3;s:9:"icon_size";i:3;s:15:"icon_self_align";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:3;s:12:"_css_classes";i:3;}}}}s:12:"social-icons";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:19:"section_social_icon";a:2:{s:16:"social_icon_list";i:1;s:5:"align";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:7:"padding";i:1;s:14:"padding_tablet";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:2:{s:21:"background_background";i:1;s:16:"background_color";i:1;}}s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:15:"stretch_section";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{s:7:"heading";a:3:{s:5:"count";i:4;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:4;s:12:"align_mobile";i:4;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:11:"title_color";i:4;s:21:"typography_typography";i:4;s:22:"typography_font_family";i:4;s:20:"typography_font_size";i:4;s:22:"typography_font_weight";i:4;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:3:{s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:12:"align_mobile";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:2;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:2;s:10:"image_size";i:2;s:5:"align";i:2;}}s:5:"style";a:1:{s:19:"section_style_image";a:1:{s:5:"width";i:2;}}s:8:"advanced";a:2:{s:14:"_section_style";a:1:{s:7:"_margin";i:2;}s:17:"_section_position";a:3:{s:14:"_element_width";i:2;s:21:"_element_custom_width";i:2;s:23:"_element_vertical_align";i:2;}}}}s:6:"column";a:3:{s:5:"count";i:4;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:5:"style";a:1:{s:14:"section_border";a:2:{s:12:"border_width";i:1;s:12:"border_color";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:7:"padding";i:4;s:13:"margin_mobile";i:4;s:14:"padding_mobile";i:4;s:13:"margin_tablet";i:1;}}s:6:"layout";a:1:{s:6:"layout";a:3:{s:12:"_inline_size";i:4;s:21:"space_between_widgets";i:1;s:19:"_inline_size_tablet";i:4;}}}}s:9:"icon-list";a:3:{s:5:"count";i:3;s:15:"control_percent";i:7;s:8:"controls";a:3:{s:7:"content";a:1:{s:12:"section_icon";a:1:{s:9:"icon_list";i:3;}}s:5:"style";a:3:{s:18:"section_text_style";a:7:{s:10:"text_color";i:3;s:26:"icon_typography_typography";i:3;s:27:"icon_typography_font_family";i:3;s:25:"icon_typography_font_size";i:3;s:27:"icon_typography_line_height";i:3;s:16:"text_color_hover";i:3;s:11:"text_indent";i:3;}s:17:"section_icon_list";a:3:{s:13:"space_between";i:3;s:10:"icon_align";i:3;s:17:"icon_align_mobile";i:3;}s:18:"section_icon_style";a:3:{s:10:"icon_color";i:3;s:9:"icon_size";i:3;s:15:"icon_self_align";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:3;s:12:"_css_classes";i:3;}}}}s:12:"social-icons";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:19:"section_social_icon";a:3:{s:16:"social_icon_list";i:1;s:5:"align";i:1;s:12:"align_mobile";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:7:"padding";i:1;s:14:"padding_tablet";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:2:{s:21:"background_background";i:1;s:16:"background_color";i:1;}}s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:15:"stretch_section";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2022,7 +2034,7 @@ Mobile apps have already penetrated every sphere of our lives and every imaginab
                         Eiffel Tower                    </a>
                 </h2>
                 <a href="http://demo.accesspressthemes.com/bingle-pro/travel/category/paris/">Paris</a>                
-            Welcome to Bingle Sites. This is your first post. Edit or delete it, then start writing!        
+Mobile apps have already penetrated every sphere of our lives and every imaginable business niche.
                 <img src="http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/23.jpg" alt="FOOD &#038; Cafe" >
                 <h2>
                     <a href="http://demo.accesspressthemes.com/bingle-pro/travel/2020/04/29/food-cafe/">
@@ -2036,7 +2048,7 @@ Mobile apps have already penetrated every sphere of our lives and every imaginab
                         City &#038; Tour                    </a>
                 </h2>
                 <a href="http://demo.accesspressthemes.com/bingle-pro/travel/category/paris/">Paris</a>                
-This is a desc. Museum
+Mobile apps have already penetrated every sphere of our lives and every imaginable business niche.
                 <img src="http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/21.jpg" alt="MUSEUM" >
                 <h2>
                     <a href="http://demo.accesspressthemes.com/bingle-pro/travel/2020/04/29/museum/">
@@ -2050,24 +2062,24 @@ Mobile apps have already penetrated every sphere of our lives and every imaginab
                         PARKS                    </a>
                 </h2>
                 <a href="http://demo.accesspressthemes.com/bingle-pro/travel/category/paris/">Paris</a>                
-            Welcome to Bingle. Sites. This is your first post. Edit or delete it, then start writing!        
+            Mobile apps have already penetrated every sphere of our lives and every imaginable business niche.        
                 <img src="http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/24.jpg" alt="Arc Triomphe" >
                 <h2>
                     <a href="http://demo.accesspressthemes.com/bingle-pro/travel/2020/04/29/arc-triomphe/">
                         Arc Triomphe                    </a>
                 </h2>
                 <a href="http://demo.accesspressthemes.com/bingle-pro/travel/category/paris/">Paris</a>                
-Hello this is the description of the arc triomphe.
+Mobile apps have already penetrated every sphere of our lives and every imaginable business niche.
 			<h2>DARE TO EXPLORE</h2>		
 		<p>Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Exploring means learning. Bring new experiences from each journey. </p>		
-			<figure><img width="143" height="143" src="http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/17.jpg" alt="" srcset="http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/17.jpg 143w, http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/17-100x100.jpg 100w" sizes="(max-width: 143px) 100vw, 143px" /></figure><h3>EFFILE TOWER</h3>		
-			<figure><img width="143" height="143" src="http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/16.jpg" alt="" srcset="http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/16.jpg 143w, http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/16-100x100.jpg 100w" sizes="(max-width: 143px) 100vw, 143px" /></figure><h3>CRUISE SHIP</h3>		
-			<figure><img width="143" height="143" src="http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/17.jpg" alt="" srcset="http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/17.jpg 143w, http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/17-100x100.jpg 100w" sizes="(max-width: 143px) 100vw, 143px" /></figure><h3>EFFILE TOWER</h3>		
+			<figure><img width="150" height="150" src="http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/07/paris-icon-1.jpg" alt="" srcset="http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/07/paris-icon-1.jpg 150w, http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/07/paris-icon-1-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></figure><h3>EFFILE TOWER</h3>		
+			<figure><img width="150" height="150" src="http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/07/france-icon-2.jpg" alt="" srcset="http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/07/france-icon-2.jpg 150w, http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/07/france-icon-2-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></figure><h3>TOWER PISA</h3>		
+			<figure><img width="150" height="150" src="http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/07/france-icon-3.jpg" alt="" srcset="http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/07/france-icon-3.jpg 150w, http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/07/france-icon-3-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></figure><h3>LIBERTY TOWER</h3>		
 			<a href="#" role="button">
 						FIND OUT MORE
 					</a>
-			<h2>MY PARIS TRIP DIARY &amp; BLOG</h2>		
-		<p>Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. </p><p>Ad enim iracundia nam, alii at usu. Per eu soluta, sed non mauris vitae erat consequat auctor eu in elit.</p>		
+			<h2>MY PARIS TRIP DIARY VIDEO BLOG</h2>		
+		Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.
 							<a target="_blank" rel="noopener noreferrer">
 					Facebook
 									</a>
@@ -2123,7 +2135,7 @@ Hello this is the description of the arc triomphe.
 					</a>
 			<h2>BEST MONEY - SAVING TRAVEL TIPS! </h2>		
 		<p>See how I helped real readers plan, save and  go on the trip of a lifetime. actionable steps you can use to travel anywhere</p>[contact-form-7 id="927" title="Subscribe Form"]		
-										<img width="568" height="531" src="http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/9.png" alt="" srcset="http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/9.png 568w, http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/9-300x280.png 300w" sizes="(max-width: 568px) 100vw, 568px" />											
+										<img width="587" height="473" src="http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/07/mobile-cover.png" alt="" srcset="http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/07/mobile-cover.png 587w, http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/07/mobile-cover-300x242.png 300w" sizes="(max-width: 587px) 100vw, 587px" />											
 										<img width="512" height="656" src="http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/8.jpg" alt="" srcset="http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/8.jpg 512w, http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/8-234x300.jpg 234w" sizes="(max-width: 512px) 100vw, 512px" />											
 			<h2>CONNECT WITH US FOR BETTER SERVICE</h2>		
 		<p>Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor</p>[contact-form-7 id="931" title="Contact Form"]		
@@ -2155,11 +2167,11 @@ Hello this is the description of the arc triomphe.
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.9.7]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2.9.13]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"80040a7","elType":"section","settings":{"stretch_section":"section-stretched","structure":"20","background_background":"classic","background_image":{"url":"http:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/5\/2020\/04\/3.jpg","id":938},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"150","right":"0","bottom":"150","left":"0","isLinked":false}},"elements":[{"id":"0e96af4","elType":"column","settings":{"_column_size":50,"_inline_size":null,"space_between_widgets":0},"elements":[{"id":"fe1ad9a","elType":"widget","settings":{"title":"BEST MONEY - SAVING TRAVEL TIPS! ","title_color":"#FFFFFF","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"400"},"elements":[],"widgetType":"heading"},{"id":"46dfa6f","elType":"widget","settings":{"editor":"<p>See how I helped real readers plan, save and go on the trip of a lifetime. actionable steps you can use to travel anywhere<\/p>","text_color":"#FFFFFF","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"300"},"elements":[],"widgetType":"text-editor"},{"id":"67a1cc6","elType":"widget","settings":{"shortcode":"[contact-form-7 id=\"50\" title=\"Search place form\"]"},"elements":[],"widgetType":"shortcode"},{"id":"a91a8ae","elType":"widget","settings":{"view":"inline","icon_list":[{"text":"Popular:","selected_icon":{"value":"","library":""},"_id":"d3b2bfd","link":{"url":"","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Tokyo ","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"5cedd90"},{"text":"Amsterdam ","selected_icon":{"value":"","library":""},"_id":"f2c5951","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Los Angeles","selected_icon":{"value":"","library":""},"_id":"9203316","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}}],"icon_align":"left","_margin":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false},"text_color":"#FFFFFF","icon_typography_typography":"custom","icon_typography_font_family":"Josefin Sans","icon_typography_font_size":{"unit":"px","size":20,"sizes":[]},"icon_typography_font_weight":"400"},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"fcf4753","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[],"isInner":false}],"isInner":false},{"id":"a42ca4b","elType":"section","settings":{"structure":"20","padding":{"unit":"px","top":"50","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[{"id":"422f732","elType":"column","settings":{"_column_size":50,"_inline_size":45.43900000000000005684341886080801486968994140625,"content_position":"center"},"elements":[{"id":"2deb609","elType":"widget","settings":{"title":"Paris, the City of Lights","title_color":"#222222","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"600","typography_text_transform":"uppercase"},"elements":[],"widgetType":"heading"},{"id":"24ff9ae","elType":"widget","settings":{"editor":"<p>Voluptatem accusantium doloremque laudant sinium, totam rem aperia.<\/p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco sed do eiusmod te.<\/p>","text_color":"#858585","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"400"},"elements":[],"widgetType":"text-editor"},{"id":"403ebfb","elType":"widget","settings":{"text":"FIND OUT MORE","button_text_color":"#000000","background_color":"rgba(2, 1, 1, 0)","border_border":"solid","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":13,"sizes":[]},"border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"20c6cf8","elType":"column","settings":{"_column_size":50,"_inline_size":54.56099999999999994315658113919198513031005859375},"elements":[{"id":"e6fd542","elType":"section","settings":{"structure":"20"},"elements":[{"id":"517320f","elType":"column","settings":{"_column_size":50,"_inline_size":61.09100000000000108002495835535228252410888671875,"content_position":"center"},"elements":[{"id":"cb3f8c9","elType":"widget","settings":{"image":{"url":"http:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/5\/2020\/04\/26.jpg","id":962}},"elements":[],"widgetType":"image"}],"isInner":true},{"id":"cc41c8e","elType":"column","settings":{"_column_size":50,"_inline_size":38.8179999999999978399500832892954349517822265625,"content_position":"center"},"elements":[{"id":"abe16c6","elType":"widget","settings":{"image":{"url":"http:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/5\/2020\/04\/25.jpg","id":961}},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"de36026","elType":"section","settings":[],"elements":[{"id":"f06afe7","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"d518c78","elType":"widget","settings":{"title":"Popular places to Visit","title_color":"#222222","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"600","typography_text_transform":"uppercase","align":"center"},"elements":[],"widgetType":"heading"},{"id":"0585eee","elType":"widget","settings":{"editor":"Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis\nbibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.","text_color":"#858585","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"400","align":"center","_padding":{"unit":"px","top":"0","right":"130","bottom":"0","left":"130","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"eddd69e","elType":"widget","settings":{"fallback_image":"custom","fallback_image_custom":{"url":"http:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/5\/2020\/04\/24.jpg","id":960},"title_color":"#FFFFFF","title_typography_typography":"custom","title_typography_font_family":"Permanent Marker","title_typography_font_size":{"unit":"px","size":44,"sizes":[]},"meta_lg_color":"#5D5D5D","meta_lg_typography_typography":"custom","meta_lg_typography_font_family":"Josefin Sans","meta_lg_typography_font_size":{"unit":"px","size":20,"sizes":[]},"cat_lg_color":"#FFFFFF","cat_lg_typography_typography":"custom","cat_lg_typography_font_family":"Josefin Sans","cat_lg_typography_font_size":{"unit":"px","size":18,"sizes":[]},"cat_lg_typography_font_weight":"400","cat_lg_typography_text_transform":"uppercase","meta_lg_typography_font_weight":"400","posts_category_ids":["16"]},"elements":[],"widgetType":"ap-portfolio-grids"}],"isInner":false}],"isInner":false},{"id":"19a32f4","elType":"section","settings":{"structure":"20","background_background":"classic","background_image":{"url":"http:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/5\/2020\/04\/18.jpg","id":954},"background_position":"center right","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false}},"elements":[{"id":"e6eec5d","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"f39f861","elType":"widget","settings":{"title":"DARE TO EXPLORE","title_color":"#FFFFFF","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"400","typography_text_transform":"uppercase","align":"center"},"elements":[],"widgetType":"heading"},{"id":"6d13bcf","elType":"widget","settings":{"editor":"<p>Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Exploring means learning. Bring new experiences from each journey.\u00a0<\/p>","text_color":"#FFFFFF","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"300","align":"center","_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"text-editor"},{"id":"f5f9cdb","elType":"section","settings":{"structure":"30","css_classes":"round-image-wrap"},"elements":[{"id":"4cee2b4","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"2e449a8","elType":"widget","settings":{"image":{"url":"http:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/5\/2020\/04\/17.jpg","id":953},"title_text":"EFFILE TOWER","description_text":"","image_space":{"unit":"px","size":0,"sizes":[]},"image_size":{"unit":"%","size":100,"sizes":[]},"text_align":"center","title_color":"#FFFFFF","title_typography_typography":"custom","title_typography_font_family":"Josefin Sans","_border_radius":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true},"title_typography_font_size":{"unit":"px","size":16,"sizes":[]}},"elements":[],"widgetType":"image-box"}],"isInner":true},{"id":"94c40c5","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"fdedbc9","elType":"widget","settings":{"image":{"url":"http:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/5\/2020\/04\/16.jpg","id":952},"title_text":"CRUISE SHIP","description_text":"","image_space":{"unit":"px","size":0,"sizes":[]},"image_size":{"unit":"%","size":100,"sizes":[]},"text_align":"center","title_color":"#FFFFFF","title_typography_typography":"custom","title_typography_font_family":"Josefin Sans","_border_radius":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true},"title_typography_font_size":{"unit":"px","size":16,"sizes":[]}},"elements":[],"widgetType":"image-box"}],"isInner":true},{"id":"dcaab20","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"adc87a7","elType":"widget","settings":{"image":{"url":"http:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/5\/2020\/04\/17.jpg","id":953},"title_text":"EFFILE TOWER","description_text":"","image_space":{"unit":"px","size":0,"sizes":[]},"image_size":{"unit":"%","size":100,"sizes":[]},"text_align":"center","title_color":"#FFFFFF","title_typography_typography":"custom","title_typography_font_family":"Josefin Sans","_border_radius":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true},"title_typography_font_size":{"unit":"px","size":16,"sizes":[]}},"elements":[],"widgetType":"image-box"}],"isInner":true}],"isInner":true},{"id":"4cad131","elType":"widget","settings":{"text":"FIND OUT MORE","button_text_color":"#FFFFFF","background_color":"rgba(2, 1, 1, 0)","border_border":"solid","align":"center","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":13,"sizes":[]},"border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"05e144a","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[],"isInner":false}],"isInner":false},{"id":"e6595d0","elType":"section","settings":{"structure":"20","padding":{"unit":"px","top":"50","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[{"id":"9ce8ca2","elType":"column","settings":{"_column_size":50,"_inline_size":38.1159999999999996589394868351519107818603515625,"content_position":"center","padding":{"unit":"px","top":"10","right":"10","bottom":"10","left":"0","isLinked":false}},"elements":[{"id":"0806d4e","elType":"widget","settings":{"title":"MY PARIS TRIP DIARY &amp; BLOG","title_color":"#222222","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"600","typography_text_transform":"uppercase"},"elements":[],"widgetType":"heading"},{"id":"ec27e2f","elType":"widget","settings":{"editor":"<p>Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.\u00a0<\/p><p>Ad enim iracundia nam, alii at usu. Per eu soluta, sed non mauris vitae erat consequat auctor eu in elit.<\/p>","text_color":"#858585","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"400"},"elements":[],"widgetType":"text-editor"},{"id":"4de59f2","elType":"widget","settings":{"social_icon_list":[{"social_icon":{"value":"fab fa-facebook","library":"fa-brands"},"_id":"107fff9","link":{"url":"","is_external":"true","nofollow":"","custom_attributes":""},"item_icon_color":"default","item_icon_primary_color":"","item_icon_secondary_color":""},{"social_icon":{"value":"fab fa-twitter","library":"fa-brands"},"_id":"02410ab","link":{"url":"","is_external":"true","nofollow":"","custom_attributes":""},"item_icon_color":"default","item_icon_primary_color":"","item_icon_secondary_color":""},{"social_icon":{"value":"fab fa-youtube","library":"fa-brands"},"_id":"cf8c25b","link":{"url":"","is_external":"true","nofollow":"","custom_attributes":""},"item_icon_color":"default","item_icon_primary_color":"","item_icon_secondary_color":""}],"shape":"circle","align":"left"},"elements":[],"widgetType":"social-icons"}],"isInner":false},{"id":"a6553e1","elType":"column","settings":{"_column_size":50,"_inline_size":61.8840000000000003410605131648480892181396484375},"elements":[{"id":"3fa7f50","elType":"widget","settings":{"title_typography_font_family":"Josefin Sans","title_typography_font_size":{"unit":"px","size":16,"sizes":[]},"title_typography_text_transform":"uppercase","cat_lg_typography_font_family":"Josefin Sans","cat_lg_typography_font_size":{"unit":"px","size":14,"sizes":[]},"cat_lg_typography_text_transform":"uppercase","title_typography_md_typography":"custom","title_typography_md_font_family":"Josefin Sans","title_typography_md_font_size":{"unit":"px","size":16,"sizes":[]},"title_typography_md_text_transform":"uppercase","cat_md_typography_font_family":"Josefin Sans","cat_md_typography_font_size":{"unit":"px","size":16,"sizes":[]},"cat_md_typography_text_transform":"uppercase","posts_category_ids":["1"],"cat_md_color":"#8A8A8A","cat_md_typography_typography":"custom","fallback_image":"placeholder","fallback_image_custom":{"url":"https:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/3\/2020\/04\/26.jpg","id":91},"no_of_post":4,"posts_grids_layout":"layout-four","title_color_md":"#000000"},"elements":[],"widgetType":"ap-posts-grids"}],"isInner":false}],"isInner":false},{"id":"6d6f8c0","elType":"section","settings":{"structure":"20","padding":{"unit":"px","top":"50","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[{"id":"7aaf40a","elType":"column","settings":{"_column_size":50,"_inline_size":54.56099999999999994315658113919198513031005859375,"padding":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true}},"elements":[{"id":"d0ab66c","elType":"widget","settings":{"image":{"url":"http:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/5\/2020\/04\/11.png","id":947}},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"385c92f","elType":"column","settings":{"_column_size":50,"_inline_size":45.43900000000000005684341886080801486968994140625,"content_position":"center"},"elements":[{"id":"82f05ba","elType":"widget","settings":{"title":"Paris, the City of Lights","title_color":"#222222","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"600","typography_text_transform":"uppercase"},"elements":[],"widgetType":"heading"},{"id":"a272843","elType":"widget","settings":{"editor":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.","text_color":"#858585","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"400"},"elements":[],"widgetType":"text-editor"},{"id":"d7b1883","elType":"widget","settings":{"icon_list":[{"text":"Effile Tower","selected_icon":{"value":"","library":""},"_id":"a5531be","link":{"url":"","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Louvren Museum","selected_icon":{"value":"","library":""},"_id":"b44b798","link":{"url":"","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Arc de Chippon","selected_icon":{"value":"","library":""},"_id":"95715b0","link":{"url":"","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Louvren Museum","selected_icon":{"value":"","library":""},"link":{"url":"","is_external":"","nofollow":"","custom_attributes":""},"_id":"d3efc5b"}],"text_color":"#000000","icon_typography_typography":"custom","icon_typography_font_family":"Josefin Sans","icon_typography_font_size":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"icon-list"},{"id":"5f44203","elType":"widget","settings":{"text":"FIND OUT MORE","button_text_color":"#000000","background_color":"rgba(2, 1, 1, 0)","border_border":"solid","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":13,"sizes":[]},"border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"17d33b9","elType":"section","settings":{"structure":"20","background_background":"classic","background_image":{"url":"http:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/5\/2020\/04\/10.jpg","id":946},"background_position":"bottom right","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"100","right":"0","bottom":"0","left":"0","isLinked":false},"margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":true}},"elements":[{"id":"d50bd5d","elType":"column","settings":{"_column_size":50,"_inline_size":null,"content_position":"center"},"elements":[{"id":"b2c654e","elType":"widget","settings":{"title":"BEST MONEY - SAVING TRAVEL TIPS! ","title_color":"#FFFFFF","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"400","typography_text_transform":"uppercase","align":"left","typography_line_height":{"unit":"px","size":40,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"91cce1e","elType":"widget","settings":{"editor":"<p>See how I helped real readers plan, save and\u00a0 go on the trip of a lifetime. actionable steps you can use to travel anywhere<\/p>","text_color":"#FFFFFF","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"300","align":"left","_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"text-editor"},{"id":"cc5b05d","elType":"widget","settings":{"shortcode":"[contact-form-7 id=\"927\" title=\"Subscribe Form\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false},{"id":"31c96d7","elType":"column","settings":{"_column_size":50,"_inline_size":null,"content_position":"center","margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"30","isLinked":false}},"elements":[{"id":"7b1f8e1","elType":"widget","settings":{"image":{"url":"http:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/5\/2020\/04\/9.png","id":945}},"elements":[],"widgetType":"image"}],"isInner":false}],"isInner":false},{"id":"354c8b9","elType":"section","settings":{"structure":"20","padding":{"unit":"px","top":"50","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[{"id":"b88fe19","elType":"column","settings":{"_column_size":50,"_inline_size":40},"elements":[{"id":"cfe5f50","elType":"widget","settings":{"image":{"url":"http:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/5\/2020\/04\/8.jpg","id":944},"image_size":"full","width":{"unit":"%","size":100,"sizes":[]}},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"ab284da","elType":"column","settings":{"_column_size":50,"_inline_size":60,"content_position":"center","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"50","isLinked":false}},"elements":[{"id":"1bf7590","elType":"widget","settings":{"title":"CONNECT WITH US FOR BETTER SERVICE","title_color":"#222222","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"600","typography_text_transform":"uppercase"},"elements":[],"widgetType":"heading"},{"id":"e40d5aa","elType":"widget","settings":{"editor":"<p>Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor<\/p>","text_color":"#858585","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"300"},"elements":[],"widgetType":"text-editor"},{"id":"ae109b8","elType":"widget","settings":{"shortcode":"[contact-form-7 id=\"931\" title=\"Contact Form\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false},{"id":"c362794","elType":"section","settings":[],"elements":[{"id":"ed90310","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"ff7d75a","elType":"widget","settings":{"carousel":[{"id":70,"url":"https:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/3\/2020\/04\/5.png"},{"id":69,"url":"https:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/3\/2020\/04\/4.png"},{"id":68,"url":"https:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/3\/2020\/04\/3.png"},{"id":67,"url":"https:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/3\/2020\/04\/2-1.png"},{"id":66,"url":"https:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/3\/2020\/04\/1-1.png"}],"thumbnail_size":"full","slides_to_show":"5","slides_to_scroll":"1","navigation":"none"},"elements":[],"widgetType":"image-carousel"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"80040a7","elType":"section","settings":{"stretch_section":"section-stretched","structure":"20","background_background":"classic","background_image":{"url":"http:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/5\/2020\/07\/Travel-banner-1.jpg","id":1049},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"150","right":"0","bottom":"150","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"50","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[{"id":"0e96af4","elType":"column","settings":{"_column_size":50,"_inline_size":null,"space_between_widgets":0},"elements":[{"id":"fe1ad9a","elType":"widget","settings":{"title":"BEST MONEY - SAVING TRAVEL TIPS! ","title_color":"#FFFFFF","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"400"},"elements":[],"widgetType":"heading"},{"id":"46dfa6f","elType":"widget","settings":{"editor":"<p>See how I helped real readers plan, save and go on the trip of a lifetime. actionable steps you can use to travel anywhere<\/p>","text_color":"#FFFFFF","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"300"},"elements":[],"widgetType":"text-editor"},{"id":"67a1cc6","elType":"widget","settings":{"shortcode":"[contact-form-7 id=\"50\" title=\"Search place form\"]"},"elements":[],"widgetType":"shortcode"},{"id":"a91a8ae","elType":"widget","settings":{"view":"inline","icon_list":[{"text":"Popular:","selected_icon":{"value":"","library":""},"_id":"d3b2bfd","link":{"url":"","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Tokyo ","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"5cedd90"},{"text":"Amsterdam ","selected_icon":{"value":"","library":""},"_id":"f2c5951","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Los Angeles","selected_icon":{"value":"","library":""},"_id":"9203316","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}}],"icon_align":"left","_margin":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false},"text_color":"#FFFFFF","icon_typography_typography":"custom","icon_typography_font_family":"Josefin Sans","icon_typography_font_size":{"unit":"px","size":20,"sizes":[]},"icon_typography_font_weight":"400"},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"fcf4753","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[],"isInner":false}],"isInner":false},{"id":"a42ca4b","elType":"section","settings":{"structure":"20","padding":{"unit":"px","top":"80","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[{"id":"422f732","elType":"column","settings":{"_column_size":50,"_inline_size":45.43900000000000005684341886080801486968994140625,"content_position":"center"},"elements":[{"id":"2deb609","elType":"widget","settings":{"title":"Paris, the City of Lights","title_color":"#222222","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"600","typography_text_transform":"uppercase"},"elements":[],"widgetType":"heading"},{"id":"24ff9ae","elType":"widget","settings":{"editor":"<p>Voluptatem accusantium doloremque laudant sinium, totam rem aperia.<\/p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco sed do eiusmod te.<\/p>","text_color":"#5B5B5B","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"300"},"elements":[],"widgetType":"text-editor"},{"id":"403ebfb","elType":"widget","settings":{"text":"FIND OUT MORE","button_text_color":"#000000","background_color":"rgba(2, 1, 1, 0)","border_border":"solid","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":13,"sizes":[]},"border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":false},"border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"hover_color":"#FFFFFF","button_background_hover_color":"#00D7D4","button_hover_border_color":"#00D7D4","border_color":"#000000","text_padding":{"unit":"px","top":"15","right":"20","bottom":"15","left":"20","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"20c6cf8","elType":"column","settings":{"_column_size":50,"_inline_size":54.56099999999999994315658113919198513031005859375},"elements":[{"id":"e6fd542","elType":"section","settings":{"structure":"20"},"elements":[{"id":"517320f","elType":"column","settings":{"_column_size":50,"_inline_size":61.09100000000000108002495835535228252410888671875,"content_position":"center","padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"cb3f8c9","elType":"widget","settings":{"image":{"url":"http:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/5\/2020\/04\/26.jpg","id":962}},"elements":[],"widgetType":"image"}],"isInner":true},{"id":"cc41c8e","elType":"column","settings":{"_column_size":50,"_inline_size":38.8179999999999978399500832892954349517822265625,"content_position":"center"},"elements":[{"id":"abe16c6","elType":"widget","settings":{"image":{"url":"http:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/5\/2020\/04\/25.jpg","id":961}},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"de36026","elType":"section","settings":{"padding":{"unit":"px","top":"30","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"f06afe7","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"d518c78","elType":"widget","settings":{"title":"Popular places to Visit","title_color":"#222222","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"600","typography_text_transform":"uppercase","align":"center"},"elements":[],"widgetType":"heading"},{"id":"0585eee","elType":"widget","settings":{"editor":"Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis\nbibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.","text_color":"#5B5B5B","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"300","align":"center","_padding":{"unit":"px","top":"0","right":"130","bottom":"0","left":"130","isLinked":false},"_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"eddd69e","elType":"widget","settings":{"fallback_image":"custom","fallback_image_custom":{"url":"http:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/5\/2020\/04\/24.jpg","id":960},"title_color":"#FFFFFF","title_typography_typography":"custom","title_typography_font_family":"Permanent Marker","title_typography_font_size":{"unit":"px","size":44,"sizes":[]},"meta_lg_color":"#5D5D5D","meta_lg_typography_typography":"custom","meta_lg_typography_font_family":"Josefin Sans","meta_lg_typography_font_size":{"unit":"px","size":20,"sizes":[]},"cat_lg_color":"#FFFFFF","cat_lg_typography_typography":"custom","cat_lg_typography_font_family":"Josefin Sans","cat_lg_typography_font_size":{"unit":"px","size":18,"sizes":[]},"cat_lg_typography_font_weight":"400","cat_lg_typography_text_transform":"uppercase","meta_lg_typography_font_weight":"400","posts_category_ids":["16"],"_margin":{"unit":"px","top":"30","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"ap-portfolio-grids"}],"isInner":false}],"isInner":false},{"id":"19a32f4","elType":"section","settings":{"structure":"20","background_background":"classic","background_image":{"url":"http:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/5\/2020\/04\/18.jpg","id":954},"background_position":"center right","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"0100","right":"0","bottom":"100","left":"0","isLinked":false},"background_position_tablet":"center center","background_xpos_mobile":{"unit":"%","size":56,"sizes":[]}},"elements":[{"id":"e6eec5d","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"f39f861","elType":"widget","settings":{"title":"DARE TO EXPLORE","title_color":"#FFFFFF","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"400","typography_text_transform":"uppercase","align":"center"},"elements":[],"widgetType":"heading"},{"id":"6d13bcf","elType":"widget","settings":{"editor":"<p>Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Exploring means learning. Bring new experiences from each journey.\u00a0<\/p>","text_color":"#FFFFFF","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"300","align":"center","_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"text-editor"},{"id":"f5f9cdb","elType":"section","settings":{"structure":"30","css_classes":"round-image-wrap"},"elements":[{"id":"4cee2b4","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"2e449a8","elType":"widget","settings":{"image":{"url":"http:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/5\/2020\/07\/paris-icon-1.jpg","id":1062},"title_text":"EFFILE TOWER","description_text":"","image_space":{"unit":"px","size":0,"sizes":[]},"image_size":{"unit":"%","size":100,"sizes":[]},"text_align":"center","title_color":"#FFFFFF","title_typography_typography":"custom","title_typography_font_family":"Josefin Sans","_border_radius":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true},"title_typography_font_size":{"unit":"px","size":16,"sizes":[]}},"elements":[],"widgetType":"image-box"}],"isInner":true},{"id":"94c40c5","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"fdedbc9","elType":"widget","settings":{"image":{"url":"http:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/5\/2020\/07\/france-icon-2.jpg","id":1061},"title_text":"TOWER PISA","description_text":"","image_space":{"unit":"px","size":0,"sizes":[]},"image_size":{"unit":"%","size":100,"sizes":[]},"text_align":"center","title_color":"#FFFFFF","title_typography_typography":"custom","title_typography_font_family":"Josefin Sans","_border_radius":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true},"title_typography_font_size":{"unit":"px","size":16,"sizes":[]}},"elements":[],"widgetType":"image-box"}],"isInner":true},{"id":"dcaab20","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"adc87a7","elType":"widget","settings":{"image":{"url":"http:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/5\/2020\/07\/france-icon-3.jpg","id":1060},"title_text":"LIBERTY TOWER","description_text":"","image_space":{"unit":"px","size":0,"sizes":[]},"image_size":{"unit":"%","size":100,"sizes":[]},"text_align":"center","title_color":"#FFFFFF","title_typography_typography":"custom","title_typography_font_family":"Josefin Sans","_border_radius":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true},"title_typography_font_size":{"unit":"px","size":16,"sizes":[]}},"elements":[],"widgetType":"image-box"}],"isInner":true}],"isInner":true},{"id":"4cad131","elType":"widget","settings":{"text":"FIND OUT MORE","button_text_color":"#FFFFFF","background_color":"rgba(2, 1, 1, 0)","border_border":"solid","align":"center","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":13,"sizes":[]},"border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"text_padding":{"unit":"px","top":"15","right":"20","bottom":"15","left":"20","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"05e144a","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[],"isInner":false}],"isInner":false},{"id":"e6595d0","elType":"section","settings":{"structure":"20","padding":{"unit":"px","top":"100","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[{"id":"9ce8ca2","elType":"column","settings":{"_column_size":50,"_inline_size":38.1159999999999996589394868351519107818603515625,"content_position":"center","padding":{"unit":"px","top":"10","right":"10","bottom":"10","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"_inline_size_tablet":100,"padding_tablet":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true}},"elements":[{"id":"0806d4e","elType":"widget","settings":{"title":"MY PARIS TRIP DIARY VIDEO BLOG","title_color":"#222222","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"600","typography_text_transform":"uppercase","typography_line_height":{"unit":"px","size":42,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"ec27e2f","elType":"widget","settings":{"editor":"Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.\n\n","text_color":"#5B5B5B","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"300"},"elements":[],"widgetType":"text-editor"},{"id":"4de59f2","elType":"widget","settings":{"social_icon_list":[{"social_icon":{"value":"fab fa-facebook","library":"fa-brands"},"_id":"107fff9","link":{"url":"","is_external":"true","nofollow":"","custom_attributes":""},"item_icon_color":"default","item_icon_primary_color":"","item_icon_secondary_color":""},{"social_icon":{"value":"fab fa-twitter","library":"fa-brands"},"_id":"02410ab","link":{"url":"","is_external":"true","nofollow":"","custom_attributes":""},"item_icon_color":"default","item_icon_primary_color":"","item_icon_secondary_color":""},{"social_icon":{"value":"fab fa-youtube","library":"fa-brands"},"_id":"cf8c25b","link":{"url":"","is_external":"true","nofollow":"","custom_attributes":""},"item_icon_color":"default","item_icon_primary_color":"","item_icon_secondary_color":""}],"shape":"circle","align":"left"},"elements":[],"widgetType":"social-icons"}],"isInner":false},{"id":"a6553e1","elType":"column","settings":{"_column_size":50,"_inline_size":61.8840000000000003410605131648480892181396484375,"_inline_size_tablet":100},"elements":[{"id":"3fa7f50","elType":"widget","settings":{"title_typography_font_family":"Josefin Sans","title_typography_font_size":{"unit":"px","size":16,"sizes":[]},"title_typography_text_transform":"uppercase","cat_lg_typography_font_family":"Josefin Sans","cat_lg_typography_font_size":{"unit":"px","size":14,"sizes":[]},"cat_lg_typography_text_transform":"uppercase","title_typography_md_typography":"custom","title_typography_md_font_family":"Josefin Sans","title_typography_md_font_size":{"unit":"px","size":16,"sizes":[]},"title_typography_md_text_transform":"uppercase","cat_md_typography_font_family":"Josefin Sans","cat_md_typography_font_size":{"unit":"px","size":16,"sizes":[]},"cat_md_typography_text_transform":"uppercase","posts_category_ids":["1"],"cat_md_color":"#8A8A8A","cat_md_typography_typography":"custom","fallback_image":"placeholder","fallback_image_custom":{"url":"https:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/3\/2020\/04\/26.jpg","id":91},"no_of_post":4,"posts_grids_layout":"layout-four","title_color_md":"#000000"},"elements":[],"widgetType":"ap-posts-grids"}],"isInner":false}],"isInner":false},{"id":"6d6f8c0","elType":"section","settings":{"structure":"20","padding":{"unit":"px","top":"20","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[{"id":"7aaf40a","elType":"column","settings":{"_column_size":50,"_inline_size":54.56099999999999994315658113919198513031005859375,"padding":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true}},"elements":[{"id":"d0ab66c","elType":"widget","settings":{"image":{"url":"http:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/5\/2020\/04\/11.png","id":947}},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"385c92f","elType":"column","settings":{"_column_size":50,"_inline_size":45.43900000000000005684341886080801486968994140625,"content_position":"center"},"elements":[{"id":"82f05ba","elType":"widget","settings":{"title":"Paris, the City of Lights","title_color":"#222222","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"600","typography_text_transform":"uppercase"},"elements":[],"widgetType":"heading"},{"id":"a272843","elType":"widget","settings":{"editor":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.","text_color":"#5B5B5B","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"300"},"elements":[],"widgetType":"text-editor"},{"id":"d7b1883","elType":"widget","settings":{"icon_list":[{"text":"Effile Tower","selected_icon":{"value":"","library":""},"_id":"a5531be","link":{"url":"","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Louvren Museum","selected_icon":{"value":"","library":""},"_id":"b44b798","link":{"url":"","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Arc de Chippon","selected_icon":{"value":"","library":""},"_id":"95715b0","link":{"url":"","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Louvren Museum","selected_icon":{"value":"","library":""},"link":{"url":"","is_external":"","nofollow":"","custom_attributes":""},"_id":"d3efc5b"}],"text_color":"#000000","icon_typography_typography":"custom","icon_typography_font_family":"Josefin Sans","icon_typography_font_size":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"icon-list"},{"id":"60f5e56","elType":"widget","settings":{"text":"FIND OUT MORE","button_text_color":"#000000","background_color":"rgba(2, 1, 1, 0)","border_border":"solid","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":13,"sizes":[]},"border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":false},"border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"hover_color":"#FFFFFF","button_background_hover_color":"#00D7D4","button_hover_border_color":"#00D7D4","border_color":"#000000","text_padding":{"unit":"px","top":"15","right":"20","bottom":"15","left":"20","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"17d33b9","elType":"section","settings":{"structure":"20","background_background":"classic","background_image":{"url":"http:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/5\/2020\/07\/search-bg.jpg","id":1070},"background_position":"bottom right","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"50","right":"0","bottom":"0","left":"0","isLinked":false},"margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":true},"background_position_tablet":"center center"},"elements":[{"id":"d50bd5d","elType":"column","settings":{"_column_size":50,"_inline_size":null,"content_position":"center"},"elements":[{"id":"b2c654e","elType":"widget","settings":{"title":"BEST MONEY - SAVING TRAVEL TIPS! ","title_color":"#FFFFFF","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"400","typography_text_transform":"uppercase","align":"left","typography_line_height":{"unit":"px","size":40,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"91cce1e","elType":"widget","settings":{"editor":"<p>See how I helped real readers plan, save and\u00a0 go on the trip of a lifetime. actionable steps you can use to travel anywhere<\/p>","text_color":"#FFFFFF","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"300","align":"left","_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"text-editor"},{"id":"cc5b05d","elType":"widget","settings":{"shortcode":"[contact-form-7 id=\"927\" title=\"Subscribe Form\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false},{"id":"31c96d7","elType":"column","settings":{"_column_size":50,"_inline_size":null,"content_position":"center","margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"30","isLinked":false}},"elements":[{"id":"7b1f8e1","elType":"widget","settings":{"image":{"url":"http:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/5\/2020\/07\/mobile-cover.png","id":1076}},"elements":[],"widgetType":"image"}],"isInner":false}],"isInner":false},{"id":"354c8b9","elType":"section","settings":{"structure":"20","padding":{"unit":"px","top":"50","right":"0","bottom":"50","left":"0","isLinked":false},"content_position":"middle"},"elements":[{"id":"b88fe19","elType":"column","settings":{"_column_size":50,"_inline_size":40},"elements":[{"id":"cfe5f50","elType":"widget","settings":{"image":{"url":"http:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/5\/2020\/04\/8.jpg","id":944},"image_size":"full","width":{"unit":"%","size":100,"sizes":[]}},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"ab284da","elType":"column","settings":{"_column_size":50,"_inline_size":60,"content_position":"center","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"50","isLinked":false},"padding_mobile":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true}},"elements":[{"id":"1bf7590","elType":"widget","settings":{"title":"CONNECT WITH US FOR BETTER SERVICE","title_color":"#222222","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"600","typography_text_transform":"uppercase"},"elements":[],"widgetType":"heading"},{"id":"e40d5aa","elType":"widget","settings":{"editor":"<p>Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor<\/p>","text_color":"#5B5B5B","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"300"},"elements":[],"widgetType":"text-editor"},{"id":"ae109b8","elType":"widget","settings":{"shortcode":"[contact-form-7 id=\"931\" title=\"Contact Form\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false},{"id":"c362794","elType":"section","settings":[],"elements":[{"id":"ed90310","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"ff7d75a","elType":"widget","settings":{"carousel":[{"id":70,"url":"https:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/3\/2020\/04\/5.png"},{"id":69,"url":"https:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/3\/2020\/04\/4.png"},{"id":68,"url":"https:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/3\/2020\/04\/3.png"},{"id":67,"url":"https:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/3\/2020\/04\/2-1.png"},{"id":66,"url":"https:\/\/demo.accesspressthemes.com\/bingle-pro\/travel\/wp-content\/uploads\/sites\/3\/2020\/04\/1-1.png"}],"thumbnail_size":"full","slides_to_show":"5","slides_to_scroll":"1","navigation":"none"},"elements":[],"widgetType":"image-carousel"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
@@ -2167,145 +2179,7 @@ Hello this is the description of the arc triomphe.
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:13:{s:7:"heading";a:3:{s:5:"count";i:8;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:8;s:5:"align";i:3;}}s:5:"style";a:1:{s:19:"section_title_style";a:7:{s:11:"title_color";i:8;s:21:"typography_typography";i:8;s:22:"typography_font_family";i:8;s:20:"typography_font_size";i:8;s:22:"typography_font_weight";i:8;s:25:"typography_text_transform";i:7;s:22:"typography_line_height";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:8;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:8;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:10:"text_color";i:8;s:21:"typography_typography";i:8;s:22:"typography_font_family";i:8;s:20:"typography_font_size";i:8;s:22:"typography_font_weight";i:8;s:5:"align";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:8:"_padding";i:3;}}}}s:9:"shortcode";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:3;}}}}s:9:"icon-list";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:12:"section_icon";a:2:{s:4:"view";i:1;s:9:"icon_list";i:2;}}s:5:"style";a:2:{s:17:"section_icon_list";a:1:{s:10:"icon_align";i:1;}s:18:"section_text_style";a:5:{s:10:"text_color";i:2;s:26:"icon_typography_typography";i:2;s:27:"icon_typography_font_family";i:2;s:25:"icon_typography_font_size";i:2;s:27:"icon_typography_font_weight";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:21;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:3:{s:12:"_inline_size";i:21;s:21:"space_between_widgets";i:1;s:16:"content_position";i:8;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:7:"padding";i:4;s:6:"margin";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:11;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:15:"stretch_section";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:9;}}s:5:"style";a:1:{s:18:"section_background";a:5:{s:21:"background_background";i:3;s:16:"background_image";i:3;s:19:"background_position";i:3;s:17:"background_repeat";i:3;s:15:"background_size";i:3;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:7:"padding";i:7;s:11:"css_classes";i:1;s:6:"margin";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:3;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:2:{s:4:"text";i:3;s:5:"align";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:8:{s:17:"button_text_color";i:3;s:16:"background_color";i:3;s:13:"border_border";i:3;s:21:"typography_typography";i:3;s:22:"typography_font_family";i:3;s:20:"typography_font_size";i:3;s:12:"border_width";i:3;s:13:"border_radius";i:3;}}}}s:5:"image";a:3:{s:5:"count";i:5;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:5;s:10:"image_size";i:1;}}s:5:"style";a:1:{s:19:"section_style_image";a:1:{s:5:"width";i:1;}}}}s:18:"ap-portfolio-grids";a:3:{s:5:"count";i:1;s:15:"control_percent";i:7;s:8:"controls";a:2:{s:7:"content";a:2:{s:23:"section_content_heading";a:2:{s:14:"fallback_image";i:1;s:21:"fallback_image_custom";i:1;}s:18:"section_post_query";a:1:{s:18:"posts_category_ids";i:1;}}s:5:"style";a:1:{s:21:"section_general_style";a:15:{s:11:"title_color";i:1;s:27:"title_typography_typography";i:1;s:28:"title_typography_font_family";i:1;s:26:"title_typography_font_size";i:1;s:13:"meta_lg_color";i:1;s:29:"meta_lg_typography_typography";i:1;s:30:"meta_lg_typography_font_family";i:1;s:28:"meta_lg_typography_font_size";i:1;s:12:"cat_lg_color";i:1;s:28:"cat_lg_typography_typography";i:1;s:29:"cat_lg_typography_font_family";i:1;s:27:"cat_lg_typography_font_size";i:1;s:29:"cat_lg_typography_font_weight";i:1;s:32:"cat_lg_typography_text_transform";i:1;s:30:"meta_lg_typography_font_weight";i:1;}}}}s:9:"image-box";a:3:{s:5:"count";i:3;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:3;s:10:"title_text";i:3;s:16:"description_text";i:3;}}s:5:"style";a:2:{s:19:"section_style_image";a:2:{s:11:"image_space";i:3;s:10:"image_size";i:3;}s:21:"section_style_content";a:5:{s:10:"text_align";i:3;s:11:"title_color";i:3;s:27:"title_typography_typography";i:3;s:28:"title_typography_font_family";i:3;s:26:"title_typography_font_size";i:3;}}s:8:"advanced";a:1:{s:15:"_section_border";a:1:{s:14:"_border_radius";i:3;}}}}s:12:"social-icons";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:19:"section_social_icon";a:3:{s:16:"social_icon_list";i:1;s:5:"shape";i:1;s:5:"align";i:1;}}}}s:14:"ap-posts-grids";a:3:{s:5:"count";i:1;s:15:"control_percent";i:7;s:8:"controls";a:2:{s:5:"style";a:2:{s:21:"section_general_style";a:6:{s:28:"title_typography_font_family";i:1;s:26:"title_typography_font_size";i:1;s:31:"title_typography_text_transform";i:1;s:29:"cat_lg_typography_font_family";i:1;s:27:"cat_lg_typography_font_size";i:1;s:32:"cat_lg_typography_text_transform";i:1;}s:24:"section_general_style_md";a:10:{s:30:"title_typography_md_typography";i:1;s:31:"title_typography_md_font_family";i:1;s:29:"title_typography_md_font_size";i:1;s:34:"title_typography_md_text_transform";i:1;s:29:"cat_md_typography_font_family";i:1;s:27:"cat_md_typography_font_size";i:1;s:32:"cat_md_typography_text_transform";i:1;s:12:"cat_md_color";i:1;s:28:"cat_md_typography_typography";i:1;s:14:"title_color_md";i:1;}}s:7:"content";a:2:{s:18:"section_post_query";a:1:{s:18:"posts_category_ids";i:1;}s:23:"section_content_heading";a:4:{s:14:"fallback_image";i:1;s:21:"fallback_image_custom";i:1;s:10:"no_of_post";i:1;s:18:"posts_grids_layout";i:1;}}}}s:14:"image-carousel";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:1:{s:7:"content";a:1:{s:22:"section_image_carousel";a:5:{s:8:"carousel";i:1;s:14:"thumbnail_size";i:1;s:14:"slides_to_show";i:1;s:16:"slides_to_scroll";i:1;s:10:"navigation";i:1;}}}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Mont Saint Michel Day TRIP</title>
-		<link>http://demo.accesspressthemes.com/bingle-pro/travel/2020/04/10/mont-saint-michel-day-trip/</link>
-		<pubDate>Fri, 10 Apr 2020 05:30:11 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle/main/?p=909</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Mobile apps have already penetrated every sphere of our lives and every imaginable business niche. Naturally, the appeal of mobile apps for its market potential cannot fade away anytime soon, at least until another great technology can replace mobile apps. But surprisingly, only a handful of apps in every niche really become successful and only a handful of apps across all niches really&nbsp;make it a phenomenal success. So, what about the failure of other apps? What are the key factors responsible for the failure of millions of apps? Well, apart from the ill-conceived app idea and development and design flaws many apps simply fail because of their pre-launch and post-launch shortcomings.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p><strong>I cannot give you the formula for success, but I can give you the<br>formula for failure. It is: Try to please everybody.</strong><br>– HERBERT BAYARD SWOPE</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>Since most of us spend a considerable portion of our daily time on mobile apps and since they have a plethora of options for every app niche, knowing their specific needs, priorities, preferences, and expectations become very crucial for app marketers. This is why every app must conduct elaborate market research before starting with an app project. Even while the app is ready for launch, you need to make a launch plan based upon the most suitable channels and marketing message for your target audience.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":900,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://demo.accesspressthemes.com/bingle/main/wp-content/uploads/sites/12/2020/04/blog-post-minimal.png" alt="" class="wp-image-900"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading -->
-<h2>Missing On A Pre-Launch Campaign</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>A vast majority of the app marketers mainly concentrate on the post-launch app marketing techniques and measures while completely missing on the pre-launch campaign. This prevents the app to create buzz and hype just around the time when the app is launched. As and when you launch the app, already a considerable number of people should expectantly look forward to your app and this requires long-drawn marketing efforts leading up to the app launch event. To create pre-launch buzz and hype about the app&nbsp;a mobile app development company&nbsp;has an array of marketing options like social media campaign, search engine ads, video ads, email campaigns, etc. Apart from online options, you can also reach out to the wider audience with traditional marketing options like outdoor ads, print ads, media ads, and promotional events.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Just as a retail business in real life is remembered not just for its product offerings but also because of its services, support, and customer-friendliness, an app that offers a&nbsp;helpful customer support system&nbsp;for its valued users enjoy more traction and engagement than other apps. Great brands all over the globe enjoy appreciation and popularity because of their customer-friendly support and services.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>909</wp:post_id>
-		<wp:post_date><![CDATA[2020-04-10 05:30:11]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-04-10 05:30:11]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[mont-saint-michel-day-trip]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[PARIS TOUR]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[948]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[the-next-big-challenge-for-content-marketer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>SKIP THE LINE LOUVRE MUSEUM GUIDE</title>
-		<link>http://demo.accesspressthemes.com/bingle-pro/travel/2020/04/10/skip-the-line-louvre-museum-guide/</link>
-		<pubDate>Fri, 10 Apr 2020 05:32:04 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle/main/?p=912</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Mobile apps have already penetrated every sphere of our lives and every imaginable business niche. Naturally, the appeal of mobile apps for its market potential cannot fade away anytime soon, at least until another great technology can replace mobile apps. But surprisingly, only a handful of apps in every niche really become successful and only a handful of apps across all niches really&nbsp;make it a phenomenal success. So, what about the failure of other apps? What are the key factors responsible for the failure of millions of apps? Well, apart from the ill-conceived app idea and development and design flaws many apps simply fail because of their pre-launch and post-launch shortcomings.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p><strong>I cannot give you the formula for success, but I can give you the<br>formula for failure. It is: Try to please everybody.</strong><br>– HERBERT BAYARD SWOPE</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>Since most of us spend a considerable portion of our daily time on mobile apps and since they have a plethora of options for every app niche, knowing their specific needs, priorities, preferences, and expectations become very crucial for app marketers. This is why every app must conduct elaborate market research before starting with an app project. Even while the app is ready for launch, you need to make a launch plan based upon the most suitable channels and marketing message for your target audience.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":900,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://demo.accesspressthemes.com/bingle/main/wp-content/uploads/sites/12/2020/04/blog-post-minimal.png" alt="" class="wp-image-900"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading -->
-<h2>Missing On A Pre-Launch Campaign</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>A vast majority of the app marketers mainly concentrate on the post-launch app marketing techniques and measures while completely missing on the pre-launch campaign. This prevents the app to create buzz and hype just around the time when the app is launched. As and when you launch the app, already a considerable number of people should expectantly look forward to your app and this requires long-drawn marketing efforts leading up to the app launch event. To create pre-launch buzz and hype about the app&nbsp;a mobile app development company&nbsp;has an array of marketing options like social media campaign, search engine ads, video ads, email campaigns, etc. Apart from online options, you can also reach out to the wider audience with traditional marketing options like outdoor ads, print ads, media ads, and promotional events.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Just as a retail business in real life is remembered not just for its product offerings but also because of its services, support, and customer-friendliness, an app that offers a&nbsp;helpful customer support system&nbsp;for its valued users enjoy more traction and engagement than other apps. Great brands all over the globe enjoy appreciation and popularity because of their customer-friendly support and services.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>912</wp:post_id>
-		<wp:post_date><![CDATA[2020-04-10 05:32:04]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-04-10 05:32:04]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[skip-the-line-louvre-museum-guide]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[PARIS TOUR]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[949]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[tackling-the-changes-of-retail-industry]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:13:{s:7:"heading";a:3:{s:5:"count";i:8;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:8;s:5:"align";i:3;}}s:5:"style";a:1:{s:19:"section_title_style";a:7:{s:11:"title_color";i:8;s:21:"typography_typography";i:8;s:22:"typography_font_family";i:8;s:20:"typography_font_size";i:8;s:22:"typography_font_weight";i:8;s:25:"typography_text_transform";i:7;s:22:"typography_line_height";i:2;}}}}s:11:"text-editor";a:3:{s:5:"count";i:8;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:8;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:10:"text_color";i:8;s:21:"typography_typography";i:8;s:22:"typography_font_family";i:8;s:20:"typography_font_size";i:8;s:22:"typography_font_weight";i:8;s:5:"align";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:8:"_padding";i:3;s:15:"_padding_mobile";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:3;}}}}s:9:"icon-list";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:12:"section_icon";a:2:{s:4:"view";i:1;s:9:"icon_list";i:2;}}s:5:"style";a:2:{s:17:"section_icon_list";a:1:{s:10:"icon_align";i:1;}s:18:"section_text_style";a:5:{s:10:"text_color";i:2;s:26:"icon_typography_typography";i:2;s:27:"icon_typography_font_family";i:2;s:25:"icon_typography_font_size";i:2;s:27:"icon_typography_font_weight";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:21;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:4:{s:12:"_inline_size";i:21;s:21:"space_between_widgets";i:1;s:16:"content_position";i:8;s:19:"_inline_size_tablet";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:14:"padding_mobile";i:3;s:7:"padding";i:4;s:14:"padding_tablet";i:1;s:6:"margin";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:11;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:2:{s:15:"stretch_section";i:1;s:16:"content_position";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:9;}}s:5:"style";a:1:{s:18:"section_background";a:7:{s:21:"background_background";i:3;s:16:"background_image";i:3;s:19:"background_position";i:3;s:17:"background_repeat";i:3;s:15:"background_size";i:3;s:26:"background_position_tablet";i:2;s:22:"background_xpos_mobile";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:7:"padding";i:8;s:14:"padding_tablet";i:1;s:11:"css_classes";i:1;s:6:"margin";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:3;s:15:"control_percent";i:6;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:2:{s:4:"text";i:3;s:5:"align";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:13:{s:17:"button_text_color";i:3;s:16:"background_color";i:3;s:13:"border_border";i:3;s:21:"typography_typography";i:3;s:22:"typography_font_family";i:3;s:20:"typography_font_size";i:3;s:12:"border_width";i:3;s:13:"border_radius";i:3;s:11:"hover_color";i:2;s:29:"button_background_hover_color";i:2;s:25:"button_hover_border_color";i:2;s:12:"border_color";i:2;s:12:"text_padding";i:3;}}}}s:5:"image";a:3:{s:5:"count";i:5;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:5;s:10:"image_size";i:1;}}s:5:"style";a:1:{s:19:"section_style_image";a:1:{s:5:"width";i:1;}}}}s:18:"ap-portfolio-grids";a:3:{s:5:"count";i:1;s:15:"control_percent";i:8;s:8:"controls";a:3:{s:7:"content";a:2:{s:23:"section_content_heading";a:2:{s:14:"fallback_image";i:1;s:21:"fallback_image_custom";i:1;}s:18:"section_post_query";a:1:{s:18:"posts_category_ids";i:1;}}s:5:"style";a:1:{s:21:"section_general_style";a:15:{s:11:"title_color";i:1;s:27:"title_typography_typography";i:1;s:28:"title_typography_font_family";i:1;s:26:"title_typography_font_size";i:1;s:13:"meta_lg_color";i:1;s:29:"meta_lg_typography_typography";i:1;s:30:"meta_lg_typography_font_family";i:1;s:28:"meta_lg_typography_font_size";i:1;s:12:"cat_lg_color";i:1;s:28:"cat_lg_typography_typography";i:1;s:29:"cat_lg_typography_font_family";i:1;s:27:"cat_lg_typography_font_size";i:1;s:29:"cat_lg_typography_font_weight";i:1;s:32:"cat_lg_typography_text_transform";i:1;s:30:"meta_lg_typography_font_weight";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:9:"image-box";a:3:{s:5:"count";i:3;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:3;s:10:"title_text";i:3;s:16:"description_text";i:3;}}s:5:"style";a:2:{s:19:"section_style_image";a:2:{s:11:"image_space";i:3;s:10:"image_size";i:3;}s:21:"section_style_content";a:5:{s:10:"text_align";i:3;s:11:"title_color";i:3;s:27:"title_typography_typography";i:3;s:28:"title_typography_font_family";i:3;s:26:"title_typography_font_size";i:3;}}s:8:"advanced";a:1:{s:15:"_section_border";a:1:{s:14:"_border_radius";i:3;}}}}s:12:"social-icons";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:19:"section_social_icon";a:3:{s:16:"social_icon_list";i:1;s:5:"shape";i:1;s:5:"align";i:1;}}}}s:14:"ap-posts-grids";a:3:{s:5:"count";i:1;s:15:"control_percent";i:6;s:8:"controls";a:2:{s:5:"style";a:2:{s:21:"section_general_style";a:6:{s:28:"title_typography_font_family";i:1;s:26:"title_typography_font_size";i:1;s:31:"title_typography_text_transform";i:1;s:29:"cat_lg_typography_font_family";i:1;s:27:"cat_lg_typography_font_size";i:1;s:32:"cat_lg_typography_text_transform";i:1;}s:24:"section_general_style_md";a:10:{s:30:"title_typography_md_typography";i:1;s:31:"title_typography_md_font_family";i:1;s:29:"title_typography_md_font_size";i:1;s:34:"title_typography_md_text_transform";i:1;s:29:"cat_md_typography_font_family";i:1;s:27:"cat_md_typography_font_size";i:1;s:32:"cat_md_typography_text_transform";i:1;s:12:"cat_md_color";i:1;s:28:"cat_md_typography_typography";i:1;s:14:"title_color_md";i:1;}}s:7:"content";a:2:{s:18:"section_post_query";a:1:{s:18:"posts_category_ids";i:1;}s:23:"section_content_heading";a:4:{s:14:"fallback_image";i:1;s:21:"fallback_image_custom";i:1;s:10:"no_of_post";i:1;s:18:"posts_grids_layout";i:1;}}}}s:14:"image-carousel";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:1:{s:7:"content";a:1:{s:22:"section_image_carousel";a:5:{s:8:"carousel";i:1;s:14:"thumbnail_size";i:1;s:14:"slides_to_show";i:1;s:16:"slides_to_scroll";i:1;s:10:"navigation";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2504,36 +2378,6 @@ Hello this is the description of the arc triomphe.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Blog Grid</title>
-		<link>http://demo.accesspressthemes.com/bingle-pro/travel/blog-grid/</link>
-		<pubDate>Wed, 29 Apr 2020 06:56:26 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle-pro/travel/?page_id=1018</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1018</wp:post_id>
-		<wp:post_date><![CDATA[2020-04-29 06:56:26]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-04-29 06:56:26]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[blog-grid]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[assets/template-bloglayout.php]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title></title>
 		<link>http://demo.accesspressthemes.com/bingle-pro/travel/2020/04/29/1020/</link>
 		<pubDate>Wed, 29 Apr 2020 06:57:12 +0000</pubDate>
@@ -2641,111 +2485,6 @@ Hello this is the description of the arc triomphe.
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Layer-65-1.png</title>
-		<link>http://demo.accesspressthemes.com/bingle-pro/travel/layer-65-1-png/</link>
-		<pubDate>Thu, 30 Apr 2020 11:46:55 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/Layer-65-1.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1037</wp:post_id>
-		<wp:post_date><![CDATA[2020-04-30 11:46:55]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-04-30 11:46:55]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[layer-65-1-png]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/Layer-65-1.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/04/Layer-65-1.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:56;s:6:"height";i:56;s:4:"file";s:22:"2020/04/Layer-65-1.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
-		<wp:meta_value><![CDATA[cc285cce82c195094703566d1b9af19902f0d5b0]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>cta-law.jpg</title>
-		<link>http://demo.accesspressthemes.com/bingle-pro/travel/cta-law-jpg/</link>
-		<pubDate>Thu, 30 Apr 2020 11:46:55 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/cta-law.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1038</wp:post_id>
-		<wp:post_date><![CDATA[2020-04-30 11:46:55]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-04-30 11:46:55]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cta-law-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/cta-law.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/04/cta-law.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:601;s:4:"file";s:19:"2020/04/cta-law.jpg";s:5:"sizes";a:12:{s:6:"medium";a:4:{s:4:"file";s:18:"cta-law-300x94.jpg";s:5:"width";i:300;s:6:"height";i:94;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:20:"cta-law-1024x321.jpg";s:5:"width";i:1024;s:6:"height";i:321;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:19:"cta-law-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:19:"cta-law-768x240.jpg";s:5:"width";i:768;s:6:"height";i:240;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:20:"cta-law-1536x481.jpg";s:5:"width";i:1536;s:6:"height";i:481;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bingle-square";a:4:{s:4:"file";s:19:"cta-law-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:19:"cta-law-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:19:"cta-law-600x188.jpg";s:5:"width";i:600;s:6:"height";i:188;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:19:"cta-law-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:19:"cta-law-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:19:"cta-law-600x188.jpg";s:5:"width";i:600;s:6:"height";i:188;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:19:"cta-law-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
-		<wp:meta_value><![CDATA[eb54e1d0d255ed38cc8b5c1901aac1d56784bdde]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>logo-copy-6.png</title>
-		<link>http://demo.accesspressthemes.com/bingle-pro/travel/logo-copy-6-png/</link>
-		<pubDate>Thu, 30 Apr 2020 11:46:56 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/logo-copy-6.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1039</wp:post_id>
-		<wp:post_date><![CDATA[2020-04-30 11:46:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-04-30 11:46:56]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[logo-copy-6-png]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/04/logo-copy-6.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/04/logo-copy-6.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:144;s:6:"height";i:56;s:4:"file";s:23:"2020/04/logo-copy-6.png";s:5:"sizes";a:2:{s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:22:"logo-copy-6-100x56.png";s:5:"width";i:100;s:6:"height";i:56;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:22:"logo-copy-6-100x56.png";s:5:"width";i:100;s:6:"height";i:56;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
-		<wp:meta_value><![CDATA[50bc8d168d58de54127cb5d953041f3220361908]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2894,13 +2633,199 @@ Hello this is the description of the arc triomphe.
 		</wp:postmeta>
 							</item>
 					<item>
+		<title>Travel-banner-1</title>
+		<link>http://demo.accesspressthemes.com/bingle-pro/travel/home/travel-banner-1/</link>
+		<pubDate>Tue, 07 Jul 2020 08:53:15 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/07/Travel-banner-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1049</wp:post_id>
+		<wp:post_date><![CDATA[2020-07-07 08:53:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-07-07 08:53:15]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[travel-banner-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>35</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/07/Travel-banner-1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/07/Travel-banner-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:560;s:4:"file";s:27:"2020/07/Travel-banner-1.jpg";s:5:"sizes";a:12:{s:6:"medium";a:4:{s:4:"file";s:26:"Travel-banner-1-300x88.jpg";s:5:"width";i:300;s:6:"height";i:88;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:28:"Travel-banner-1-1024x299.jpg";s:5:"width";i:1024;s:6:"height";i:299;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:27:"Travel-banner-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:27:"Travel-banner-1-768x224.jpg";s:5:"width";i:768;s:6:"height";i:224;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:28:"Travel-banner-1-1536x448.jpg";s:5:"width";i:1536;s:6:"height";i:448;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bingle-square";a:4:{s:4:"file";s:27:"Travel-banner-1-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:27:"Travel-banner-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:27:"Travel-banner-1-600x175.jpg";s:5:"width";i:600;s:6:"height";i:175;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:27:"Travel-banner-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:27:"Travel-banner-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:27:"Travel-banner-1-600x175.jpg";s:5:"width";i:600;s:6:"height";i:175;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:27:"Travel-banner-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>france-icon-3</title>
+		<link>http://demo.accesspressthemes.com/bingle-pro/travel/home/france-icon-3/</link>
+		<pubDate>Tue, 07 Jul 2020 09:45:51 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/07/france-icon-3.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1060</wp:post_id>
+		<wp:post_date><![CDATA[2020-07-07 09:45:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-07-07 09:45:51]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[france-icon-3]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>35</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/07/france-icon-3.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/07/france-icon-3.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:150;s:6:"height";i:150;s:4:"file";s:25:"2020/07/france-icon-3.jpg";s:5:"sizes";a:2:{s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:25:"france-icon-3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:25:"france-icon-3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>france-icon-2</title>
+		<link>http://demo.accesspressthemes.com/bingle-pro/travel/home/france-icon-2/</link>
+		<pubDate>Tue, 07 Jul 2020 09:45:54 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/07/france-icon-2.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1061</wp:post_id>
+		<wp:post_date><![CDATA[2020-07-07 09:45:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-07-07 09:45:54]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[france-icon-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>35</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/07/france-icon-2.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/07/france-icon-2.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:150;s:6:"height";i:150;s:4:"file";s:25:"2020/07/france-icon-2.jpg";s:5:"sizes";a:2:{s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:25:"france-icon-2-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:25:"france-icon-2-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>paris-icon-1</title>
+		<link>http://demo.accesspressthemes.com/bingle-pro/travel/home/paris-icon-1/</link>
+		<pubDate>Tue, 07 Jul 2020 09:45:56 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/07/paris-icon-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1062</wp:post_id>
+		<wp:post_date><![CDATA[2020-07-07 09:45:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-07-07 09:45:56]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[paris-icon-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>35</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/07/paris-icon-1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/07/paris-icon-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:150;s:6:"height";i:150;s:4:"file";s:24:"2020/07/paris-icon-1.jpg";s:5:"sizes";a:2:{s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:24:"paris-icon-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:24:"paris-icon-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>search-bg</title>
+		<link>http://demo.accesspressthemes.com/bingle-pro/travel/home/search-bg/</link>
+		<pubDate>Tue, 07 Jul 2020 10:00:43 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/07/search-bg.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1070</wp:post_id>
+		<wp:post_date><![CDATA[2020-07-07 10:00:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-07-07 10:00:43]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[search-bg]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>35</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/07/search-bg.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/07/search-bg.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:514;s:4:"file";s:21:"2020/07/search-bg.jpg";s:5:"sizes";a:12:{s:6:"medium";a:4:{s:4:"file";s:20:"search-bg-300x80.jpg";s:5:"width";i:300;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"search-bg-1024x274.jpg";s:5:"width";i:1024;s:6:"height";i:274;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:21:"search-bg-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:21:"search-bg-768x206.jpg";s:5:"width";i:768;s:6:"height";i:206;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:22:"search-bg-1536x411.jpg";s:5:"width";i:1536;s:6:"height";i:411;s:9:"mime-type";s:10:"image/jpeg";}s:13:"bingle-square";a:4:{s:4:"file";s:21:"search-bg-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:21:"search-bg-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:21:"search-bg-600x161.jpg";s:5:"width";i:600;s:6:"height";i:161;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:21:"search-bg-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:21:"search-bg-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:21:"search-bg-600x161.jpg";s:5:"width";i:600;s:6:"height";i:161;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:21:"search-bg-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>mobile-cover</title>
+		<link>http://demo.accesspressthemes.com/bingle-pro/travel/home/mobile-cover/</link>
+		<pubDate>Tue, 07 Jul 2020 10:06:03 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/07/mobile-cover.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1076</wp:post_id>
+		<wp:post_date><![CDATA[2020-07-07 10:06:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-07-07 10:06:03]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[mobile-cover]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>35</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://demo.accesspressthemes.com/bingle-pro/travel/wp-content/uploads/sites/5/2020/07/mobile-cover.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/07/mobile-cover.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:587;s:6:"height";i:473;s:4:"file";s:24:"2020/07/mobile-cover.png";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:24:"mobile-cover-300x242.png";s:5:"width";i:300;s:6:"height";i:242;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:24:"mobile-cover-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:13:"bingle-square";a:4:{s:4:"file";s:24:"mobile-cover-500x473.png";s:5:"width";i:500;s:6:"height";i:473;s:9:"mime-type";s:9:"image/png";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:24:"mobile-cover-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:24:"mobile-cover-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:12:"shop_catalog";a:4:{s:4:"file";s:24:"mobile-cover-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:24:"mobile-cover-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title>PARKS</title>
 		<link>http://demo.accesspressthemes.com/bingle-pro/travel/2020/04/29/hello-world/</link>
 		<pubDate>Wed, 29 Apr 2020 03:40:46 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle-pro/travel/?p=1</guid>
 		<description></description>
-		<content:encoded><![CDATA[Welcome to <a href="http://demo.accesspressthemes.com/bingle-pro/">Bingle. Sites</a>. This is your first post. Edit or delete it, then start writing!]]></content:encoded>
+		<content:encoded><![CDATA[Mobile apps have already penetrated every sphere of our lives and every imaginable business niche.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-29 03:40:46]]></wp:post_date>
@@ -3055,6 +2980,10 @@ This e-mail was sent from a contact form on Travel (http://localhost/apthemes/bi
 		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
 		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_config_errors]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{s:11:"mail.sender";a:1:{i:0;a:2:{s:4:"code";i:103;s:4:"args";a:3:{s:7:"message";s:0:"";s:6:"params";a:0:{}s:4:"link";s:70:"https://contactform7.com/configuration-errors/email-not-in-site-domain";}}}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>Eiffel Tower</title>
@@ -3063,7 +2992,9 @@ This e-mail was sent from a contact form on Travel (http://localhost/apthemes/bi
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle/minimalrevised/?p=1</guid>
 		<description></description>
-		<content:encoded><![CDATA[Welcome to <a href="http://demo.accesspressthemes.com/bingle/">Bingle Sites</a>. This is your first post. Edit or delete it, then start writing!]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Mobile apps have already penetrated every sphere of our lives and every imaginable business niche.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>109</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-29 04:49:05]]></wp:post_date>
@@ -3081,10 +3012,6 @@ This e-mail was sent from a contact form on Travel (http://localhost/apthemes/bi
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[992]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
@@ -3359,6 +3286,144 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 		</wp:postmeta>
 							</item>
 					<item>
+		<title>Mont Saint Michel Day TRIP</title>
+		<link>http://demo.accesspressthemes.com/bingle-pro/travel/2020/04/10/mont-saint-michel-day-trip/</link>
+		<pubDate>Fri, 10 Apr 2020 05:30:11 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle/main/?p=909</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Mobile apps have already penetrated every sphere of our lives and every imaginable business niche. Naturally, the appeal of mobile apps for its market potential cannot fade away anytime soon, at least until another great technology can replace mobile apps. But surprisingly, only a handful of apps in every niche really become successful and only a handful of apps across all niches really&nbsp;make it a phenomenal success. So, what about the failure of other apps? What are the key factors responsible for the failure of millions of apps? Well, apart from the ill-conceived app idea and development and design flaws many apps simply fail because of their pre-launch and post-launch shortcomings.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p><strong>I cannot give you the formula for success, but I can give you the<br>formula for failure. It is: Try to please everybody.</strong><br>– HERBERT BAYARD SWOPE</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>Since most of us spend a considerable portion of our daily time on mobile apps and since they have a plethora of options for every app niche, knowing their specific needs, priorities, preferences, and expectations become very crucial for app marketers. This is why every app must conduct elaborate market research before starting with an app project. Even while the app is ready for launch, you need to make a launch plan based upon the most suitable channels and marketing message for your target audience.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":900,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://demo.accesspressthemes.com/bingle/main/wp-content/uploads/sites/12/2020/04/blog-post-minimal.png" alt="" class="wp-image-900"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2>Missing On A Pre-Launch Campaign</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A vast majority of the app marketers mainly concentrate on the post-launch app marketing techniques and measures while completely missing on the pre-launch campaign. This prevents the app to create buzz and hype just around the time when the app is launched. As and when you launch the app, already a considerable number of people should expectantly look forward to your app and this requires long-drawn marketing efforts leading up to the app launch event. To create pre-launch buzz and hype about the app&nbsp;a mobile app development company&nbsp;has an array of marketing options like social media campaign, search engine ads, video ads, email campaigns, etc. Apart from online options, you can also reach out to the wider audience with traditional marketing options like outdoor ads, print ads, media ads, and promotional events.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Just as a retail business in real life is remembered not just for its product offerings but also because of its services, support, and customer-friendliness, an app that offers a&nbsp;helpful customer support system&nbsp;for its valued users enjoy more traction and engagement than other apps. Great brands all over the globe enjoy appreciation and popularity because of their customer-friendly support and services.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>909</wp:post_id>
+		<wp:post_date><![CDATA[2020-04-10 05:30:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-04-10 05:30:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[mont-saint-michel-day-trip]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[PARIS TOUR]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[948]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[the-next-big-challenge-for-content-marketer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>SKIP THE LINE LOUVRE MUSEUM GUIDE</title>
+		<link>http://demo.accesspressthemes.com/bingle-pro/travel/2020/04/10/skip-the-line-louvre-museum-guide/</link>
+		<pubDate>Fri, 10 Apr 2020 05:32:04 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle/main/?p=912</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Mobile apps have already penetrated every sphere of our lives and every imaginable business niche. Naturally, the appeal of mobile apps for its market potential cannot fade away anytime soon, at least until another great technology can replace mobile apps. But surprisingly, only a handful of apps in every niche really become successful and only a handful of apps across all niches really&nbsp;make it a phenomenal success. So, what about the failure of other apps? What are the key factors responsible for the failure of millions of apps? Well, apart from the ill-conceived app idea and development and design flaws many apps simply fail because of their pre-launch and post-launch shortcomings.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p><strong>I cannot give you the formula for success, but I can give you the<br>formula for failure. It is: Try to please everybody.</strong><br>– HERBERT BAYARD SWOPE</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>Since most of us spend a considerable portion of our daily time on mobile apps and since they have a plethora of options for every app niche, knowing their specific needs, priorities, preferences, and expectations become very crucial for app marketers. This is why every app must conduct elaborate market research before starting with an app project. Even while the app is ready for launch, you need to make a launch plan based upon the most suitable channels and marketing message for your target audience.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":900,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://demo.accesspressthemes.com/bingle/main/wp-content/uploads/sites/12/2020/04/blog-post-minimal.png" alt="" class="wp-image-900"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2>Missing On A Pre-Launch Campaign</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A vast majority of the app marketers mainly concentrate on the post-launch app marketing techniques and measures while completely missing on the pre-launch campaign. This prevents the app to create buzz and hype just around the time when the app is launched. As and when you launch the app, already a considerable number of people should expectantly look forward to your app and this requires long-drawn marketing efforts leading up to the app launch event. To create pre-launch buzz and hype about the app&nbsp;a mobile app development company&nbsp;has an array of marketing options like social media campaign, search engine ads, video ads, email campaigns, etc. Apart from online options, you can also reach out to the wider audience with traditional marketing options like outdoor ads, print ads, media ads, and promotional events.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Just as a retail business in real life is remembered not just for its product offerings but also because of its services, support, and customer-friendliness, an app that offers a&nbsp;helpful customer support system&nbsp;for its valued users enjoy more traction and engagement than other apps. Great brands all over the globe enjoy appreciation and popularity because of their customer-friendly support and services.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>912</wp:post_id>
+		<wp:post_date><![CDATA[2020-04-10 05:32:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-04-10 05:32:04]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[skip-the-line-louvre-museum-guide]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[PARIS TOUR]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[949]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[tackling-the-changes-of-retail-industry]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title>Montmartre Walking tour</title>
 		<link>http://demo.accesspressthemes.com/bingle-pro/travel/2020/04/10/montmartre-walking-tour/</link>
 		<pubDate>Fri, 10 Apr 2020 05:34:35 +0000</pubDate>
@@ -3611,6 +3676,10 @@ This e-mail was sent from a contact form on Travel (http://localhost/apthemes/bi
 		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
 		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_config_errors]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{s:11:"mail.sender";a:1:{i:0;a:2:{s:4:"code";i:103;s:4:"args";a:3:{s:7:"message";s:0:"";s:6:"params";a:0:{}s:4:"link";s:70:"https://contactform7.com/configuration-errors/email-not-in-site-domain";}}}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>Contact Form</title>
@@ -3729,6 +3798,10 @@ This e-mail was sent from a contact form on Travel (http://localhost/apthemes/bi
 		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
 		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_config_errors]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{s:11:"mail.sender";a:1:{i:0;a:2:{s:4:"code";i:103;s:4:"args";a:3:{s:7:"message";s:0:"";s:6:"params";a:0:{}s:4:"link";s:70:"https://contactform7.com/configuration-errors/email-not-in-site-domain";}}}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>Arc Triomphe</title>
@@ -3738,7 +3811,7 @@ This e-mail was sent from a contact form on Travel (http://localhost/apthemes/bi
 		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle-pro/travel/?p=976</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Hello this is the description of the arc triomphe.</p>
+<p>Mobile apps have already penetrated every sphere of our lives and every imaginable business niche.</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>976</wp:post_id>
@@ -3775,7 +3848,7 @@ This e-mail was sent from a contact form on Travel (http://localhost/apthemes/bi
 		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle-pro/travel/?p=983</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is a desc. Museum</p>
+<p>Mobile apps have already penetrated every sphere of our lives and every imaginable business niche.</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>983</wp:post_id>
@@ -3802,6 +3875,36 @@ This e-mail was sent from a contact form on Travel (http://localhost/apthemes/bi
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Blog Grid</title>
+		<link>http://demo.accesspressthemes.com/bingle-pro/travel/blog-grid/</link>
+		<pubDate>Wed, 29 Apr 2020 06:56:26 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle-pro/travel/?page_id=1018</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1018</wp:post_id>
+		<wp:post_date><![CDATA[2020-04-29 06:56:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-04-29 06:56:26]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blog-grid]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[assets/template-bloglayout.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
