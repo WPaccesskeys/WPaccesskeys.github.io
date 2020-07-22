@@ -1,0 +1,3 @@
+a:4:{s:8:"template";s:5:"punte";s:4:"mods";a:5:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:7:"primary";i:4;}s:18:"custom_css_post_id";i:161;s:13:"punte_options";a:1:{s:11:"upload-logo";a:9:{s:3:"url";s:92:"https://demo.thepunte.com/punte-pro/corporate/wp-content/uploads/sites/2/2020/03/logocha.png";s:2:"id";s:3:"152";s:6:"height";s:2:"49";s:5:"width";s:3:"179";s:9:"thumbnail";s:0:"";s:5:"title";s:7:"logocha";s:7:"caption";s:0:"";s:3:"alt";s:0:"";s:11:"description";s:0:"";}}s:18:"punte_widget_areas";a:1:{s:7:"SIDEBAR";s:7:"sidebar";}}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:47:".archive .punte-share-buttons{
+	display: non;
+}";}

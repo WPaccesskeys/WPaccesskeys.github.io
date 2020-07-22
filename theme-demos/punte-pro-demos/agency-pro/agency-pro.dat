@@ -1,0 +1,100 @@
+a:4:{s:8:"template";s:5:"punte";s:4:"mods";a:6:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:7:"primary";i:4;}s:18:"custom_css_post_id";i:124;s:13:"punte_options";a:3:{s:18:"transparent-header";s:1:"0";s:17:"header-background";a:3:{s:5:"color";s:7:"#ffffff";s:5:"alpha";s:1:"0";s:4:"rgba";s:19:"rgba(255,255,255,0)";}s:11:"upload-logo";a:9:{s:3:"url";s:93:"https://demo.thepunte.com/punte-pro/agency/wp-content/uploads/sites/3/2020/03/logo-footer.png";s:2:"id";s:2:"99";s:6:"height";s:2:"49";s:5:"width";s:3:"152";s:9:"thumbnail";s:0:"";s:5:"title";s:11:"logo-footer";s:7:"caption";s:0:"";s:3:"alt";s:0:"";s:11:"description";s:0:"";}}s:12:"header_image";s:93:"https://demo.thepunte.com/punte-pro/agency/wp-content/uploads/sites/3/2020/03/logo-footer.png";s:17:"header_image_data";O:8:"stdClass":5:{s:13:"attachment_id";i:99;s:3:"url";s:93:"https://demo.thepunte.com/punte-pro/agency/wp-content/uploads/sites/3/2020/03/logo-footer.png";s:13:"thumbnail_url";s:93:"https://demo.thepunte.com/punte-pro/agency/wp-content/uploads/sites/3/2020/03/logo-footer.png";s:6:"height";i:49;s:5:"width";i:152;}}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:1805:"@media screen and (max-width: 600px) {
+	.elementor-5 .elementor-element.elementor-element-9dda5da > .elementor-element-populated {
+    padding:15px;
+    margin-bottom: 30px;
+}
+.punte-mobile-header {
+    text-align: left;
+}
+}
+
+.wpcf7-form input::placeholder{
+	color : #000;
+}
+.wpcf7-form input[type="email"],
+.wpcf7-form input[type="text"] {
+	height: 60px;
+	border: 1px solid #000;
+	color: #000;
+	width: 100%;
+	font-size: 15px;
+		padding: 0 15px;
+}
+
+.wpcf7-form textarea::placeholder {
+	color: #000;
+}
+
+.wpcf7-form textarea {
+	border: 1px solid #000;
+	color: #000;
+	border-top: none;
+	font-size: 15px;
+	padding: 15px;
+}
+
+.wpcf7-form .first-wrapp {
+    display: flex;
+	flex-wrap: wrap;
+}
+.wpcf7-form .first-wrapp label {
+	width: 50%;
+}
+.wpcf7-form .first-wrapp label input[type="text"]{
+	border-right: none;
+}
+
+.wpcf7-form input[type="submit"]{
+	height: 60px;
+	padding-left: 100px;
+	padding-right: 40px;
+	background-color: #000;
+	position: relative;
+}
+.wpcf7-form p:nth-last-child(2) {
+	position: relative;
+}
+.wpcf7-form input[type="submit"] + .ajax-loader::before {
+	content: "";
+	position: absolute;
+	left: 30px;
+	top: 49%;
+	width: 50px;
+	height: 2px;
+	background: #fff;
+	opacity: 1;
+	visibility: visible;
+}
+
+#punte-agency-readmore {
+	position: relative;
+}
+
+#punte-agency-readmore::before {
+	content:'';
+	position: absolute;
+	left: 35px;
+	top: 49%;
+	width: 50px;
+	height: 2px;
+	background-color: #73efcc;
+}
+
+.elementor-5 .elementor-element.elementor-element-a1d46a4 .elementor-button {
+	display: flex;
+	margin: auto;
+	  padding: 15% 2% !important;
+    height: 180px;
+    width: 180px;
+    display: flex;
+    align-items: center;
+	justify-content: center;
+}
+.wpcf7-form textarea {
+	max-height: 180px
+}
+
+
+.punte-custom-footer .elementor-section-boxed .elementor-button:hover {
+	text-decoration: underline;
+}";}
