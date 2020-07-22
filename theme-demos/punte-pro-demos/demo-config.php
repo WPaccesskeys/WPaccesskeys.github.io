@@ -10,7 +10,523 @@ function punte_demo_config(){
 			$git_url 		= 'https://raw.githubusercontent.com/WPaccesskeys/WPaccesskeys.github.io/master/theme-demos/punte-pro-demos/';
 			$data = array(
 
+				'agency-pro' => array(
+					'demo_name'			=> esc_html__('Agency Demo','access-demo-importer'),
+					'xml_file'     		=> $git_url . 'agency/agency.xml',
+					'theme_settings' 	=> $git_url . 'agency/agency.dat',
+					'widgets_file'  	=> $git_url . 'agency/agency.wie',
+					'import_redux'		=> array(
+											'file_url'		=> $git_url .'agency/agency.json',
+											'option_name' 	=> 'punte_options',
+										),
+					'screen'			=> $git_url . 'agency-pro/agency-pro.jpg',
+					'preview_url'		=> 'https://demo.thepunte.com/punte-pro/agency/',
+					'is_shop'			=> false,
+					'home_title'  		=> 'Home',
+					'menus'				=> array(
+											'primary' => 'Primary Menu',
+											),
+					'required_plugins'  => array(
+						'free' => array(
+							
+							array(
+								'slug'  	=> 'contact-form-7',
+								'init'  	=> 'contact-form-7/wp-contact-form-7.php',
+								'name'  	=> 'Contact Form 7',
+							),
+							array(
+								'slug'  	=> 'elementor',
+								'init'  	=> 'elementor/elementor.php',
+								'name'  	=> 'Elementor',
+							),
+							array(
+								'slug'  	=> 'redux-framework',
+								'init'  	=> 'redux-framework/redux-framework.php',
+								'name'  	=> 'Redux Framework',
+							),
+							array(
+								'slug'  	=> 'ap-companion',
+								'init'  	=> 'ap-companion/ap-companion.php',
+								'name'  	=> 'AP Companion',
+							),
+							
+							
+						),
+						'premium' => array(
+							
+						),
+					),
+				),
 
+				'corporate-pro' => array(
+					'demo_name'			=> esc_html__('Corporate Demo','access-demo-importer'),
+					'xml_file'     		=> $git_url . 'corporate/corporate.xml',
+					'theme_settings' 	=> $git_url . 'corporate/corporate.dat',
+					'widgets_file'  	=> $git_url . 'corporate/corporate.wie',
+					'import_redux'		=> array(
+											'file_url'		=> $git_url .'corporate/corporate.json',
+											'option_name' 	=> 'punte_options',
+										),
+					'screen'			=> $git_url . 'corporate-pro/corporate-pro.jpg',
+					'preview_url'		=> 'https://demo.thepunte.com/punte-pro/corporate/',
+					'is_shop'			=> false,
+					'home_title'  		=> 'Home',
+					'menus'				=> array(
+											'primary' => 'Menu 1',
+											),
+					'required_plugins'  => array(
+						'free' => array(
+							
+							array(
+								'slug'  	=> 'contact-form-7',
+								'init'  	=> 'contact-form-7/wp-contact-form-7.php',
+								'name'  	=> 'Contact Form 7',
+							),
+							array(
+								'slug'  	=> 'elementor',
+								'init'  	=> 'elementor/elementor.php',
+								'name'  	=> 'Elementor',
+							),
+							array(
+								'slug'  	=> 'redux-framework',
+								'init'  	=> 'redux-framework/redux-framework.php',
+								'name'  	=> 'Redux Framework',
+							),
+							array(
+								'slug'  	=> 'ap-companion',
+								'init'  	=> 'ap-companion/ap-companion.php',
+								'name'  	=> 'AP Companion',
+							),
+							
+							
+						),
+						'premium' => array(
+							
+						),
+					),
+				),
+
+
+				'corporate-v2-pro' => array(
+					'demo_name'			=> esc_html__('Corporate Demo','access-demo-importer'),
+					'xml_file'     		=> $git_url . 'corporate-v2-pro/corporate-v2-pro.xml',
+					'theme_settings' 	=> $git_url . 'corporate-v2-pro/corporate-v2-pro.dat',
+					'widgets_file'  	=> $git_url . 'corporate-v2-pro/corporate-v2-pro.wie',
+					'import_redux'		=> array(
+											'file_url'		=> $git_url .'corporate-v2-pro/corporate-v2-pro.json',
+											'option_name' 	=> 'punte_options',
+										),
+					'screen'			=> $git_url . 'corporate-v2-pro/corporate-v2-pro.jpg',
+					'rev_slider' 		=> $git_url . 'corporate-v2-pro/corporate-v2-pro.zip',
+					'preview_url'		=> 'https://demo.thepunte.com/punte-pro/corporate-two',
+					'is_shop'			=> false,
+					'home_title'  		=> 'Front Page',
+					'menus'				=> array(
+											'primary' => 'Primary Menu',
+											),
+					'required_plugins'  => array(
+						'free' => array(
+							
+							array(
+								'slug'  	=> 'contact-form-7',
+								'init'  	=> 'contact-form-7/wp-contact-form-7.php',
+								'name'  	=> 'Contact Form 7',
+							),
+							
+							array(
+								'slug'  	=> 'redux-framework',
+								'init'  	=> 'redux-framework/redux-framework.php',
+								'name'  	=> 'Redux Framework',
+							),
+							
+							
+							
+						),
+						'premium' => array(
+							array(
+								'slug' 		=> 'revslider',
+								'init'  	=> 'revslider/revslider.php',
+								'name' 		=> 'Slider Revolution',
+								'class'		=> 'RevSlider',
+							),
+							array(
+								'slug' 		=> 'js_composer',
+								'init'  	=> 'js_composer/js_composer.php',
+								'name' 		=> 'Visual Composer',
+								'class'		=> 'Vc_Manager',
+							),
+							
+						),
+					),
+				),
+
+
+				'digital-corporate-pro' => array(
+					'demo_name'			=> esc_html__('Corporate Demo','access-demo-importer'),
+					'xml_file'     		=> $git_url . 'digital-corporate-pro/digital-corporate-pro.xml',
+					'theme_settings' 	=> $git_url . 'digital-corporate-pro/digital-corporate-pro.dat',
+					'widgets_file'  	=> $git_url . 'digital-corporate-pro/digital-corporate-pro.wie',
+					'import_redux'		=> array(
+											'file_url'		=> $git_url .'digital-corporate-pro/digital-corporate-pro.json',
+											'option_name' 	=> 'punte_options',
+										),
+					'screen'			=> $git_url . 'digital-corporate-pro/digital-corporate-pro.jpg',
+					'rev_slider' 		=> $git_url . 'digital-corporate-pro/digital-corporate-pro.zip',
+					'preview_url'		=> 'https://demo.thepunte.com/punte-pro/corporate-three/',
+					'is_shop'			=> false,
+					'home_title'  		=> 'Front Page',
+					'menus'				=> array(
+											'primary' => 'Main Menu',
+											),
+					'required_plugins'  => array(
+						'free' => array(
+							
+							array(
+								'slug'  	=> 'contact-form-7',
+								'init'  	=> 'contact-form-7/wp-contact-form-7.php',
+								'name'  	=> 'Contact Form 7',
+							),
+							
+							array(
+								'slug'  	=> 'redux-framework',
+								'init'  	=> 'redux-framework/redux-framework.php',
+								'name'  	=> 'Redux Framework',
+							),
+							
+							
+							
+						),
+						'premium' => array(
+							array(
+								'slug' 		=> 'revslider',
+								'init'  	=> 'revslider/revslider.php',
+								'name' 		=> 'Slider Revolution',
+								'class'		=> 'RevSlider',
+							),
+							array(
+								'slug' 		=> 'js_composer',
+								'init'  	=> 'js_composer/js_composer.php',
+								'name' 		=> 'Visual Composer',
+								'class'		=> 'Vc_Manager',
+							),
+						),
+					),
+				),
+
+
+				'ecommerce-furniture-pro' => array(
+					'demo_name'			=> esc_html__('Furniture Store','access-demo-importer'),
+					'xml_file'     		=> $git_url . 'ecommerce-furniture-pro/ecommerce-furniture-pro.xml',
+					'theme_settings' 	=> $git_url . 'ecommerce-furniture-pro/ecommerce-furniture-pro.dat',
+					'widgets_file'  	=> $git_url . 'ecommerce-furniture-pro/ecommerce-furniture-pro.wie',
+					'import_redux'		=> array(
+											'file_url'		=> $git_url .'ecommerce-furniture-pro/ecommerce-furniture-pro.json',
+											'option_name' 	=> 'punte_options',
+										),
+					'screen'			=> $git_url . 'ecommerce-furniture-pro/ecommerce-furniture-pro.jpg',
+					'rev_slider' 		=> $git_url . 'ecommerce-furniture-pro/ecommerce-furniture-pro.zip',
+					'preview_url'		=> 'https://demo.thepunte.com/punte-pro/ecommerce-furniture/',
+					'is_shop'			=> true,
+					'home_title'  		=> 'Front Page',
+					'menus'				=> array(
+											'primary' => 'Main Menu',
+											),
+					'required_plugins'  => array(
+						'free' => array(
+							array(
+								'slug'  	=> 'woocommerce',
+								'init'  	=> 'woocommerce/woocommerce.php',
+								'name'  	=> 'WooCommerce',
+							),
+							array(
+								'slug'  	=> 'contact-form-7',
+								'init'  	=> 'contact-form-7/wp-contact-form-7.php',
+								'name'  	=> 'Contact Form 7',
+							),
+							
+							array(
+								'slug'  	=> 'redux-framework',
+								'init'  	=> 'redux-framework/redux-framework.php',
+								'name'  	=> 'Redux Framework',
+							),
+							array(
+								'slug'  	=> 'yith-woocommerce-compare',
+								'init'  	=> 'yith-woocommerce-compare/init.php',
+								'name'  	=> 'YITH WooCommerce Compare',
+							),
+							array(
+								'slug'  	=> 'yith-woocommerce-quick-view',
+								'init'  	=> 'yith-woocommerce-quick-view/init.php',
+								'name'  	=> 'YITH WooCommerce Quick View',
+							),
+							array(
+								'slug'  	=> 'yith-woocommerce-wishlist',
+								'init'  	=> 'yith-woocommerce-wishlist/init.php',
+								'name'  	=> 'YITH WooCommerce Wishlist',
+							),
+							
+							
+							
+						),
+						'premium' => array(
+							array(
+								'slug' 		=> 'revslider',
+								'init'  	=> 'revslider/revslider.php',
+								'name' 		=> 'Slider Revolution',
+								'class'		=> 'RevSlider',
+							),
+							array(
+								'slug' 		=> 'js_composer',
+								'init'  	=> 'js_composer/js_composer.php',
+								'name' 		=> 'Visual Composer',
+								'class'		=> 'Vc_Manager',
+							),
+						),
+					),
+				),
+
+
+				'kindergarten-pro' => array(
+					'demo_name'			=> esc_html__('Kindergarten','access-demo-importer'),
+					'xml_file'     		=> $git_url . 'kindergarten-pro/kindergarten-pro.xml',
+					'theme_settings' 	=> $git_url . 'kindergarten-pro/kindergarten-pro.dat',
+					'widgets_file'  	=> $git_url . 'kindergarten-pro/kindergarten-pro.wie',
+					'import_redux'		=> array(
+											'file_url'		=> $git_url .'kindergarten-pro/kindergarten-pro.json',
+											'option_name' 	=> 'punte_options',
+										),
+					'screen'			=> $git_url . 'kindergarten-pro/kindergarten-pro.jpg',
+					'preview_url'		=> 'https://demo.thepunte.com/punte-pro/kindergarten',
+					'is_shop'			=> true,
+					'home_title'  		=> 'Front Page',
+					'menus'				=> array(
+											'primary' => 'Main Menu',
+											),
+					'required_plugins'  => array(
+						'free' => array(
+							
+							array(
+								'slug'  	=> 'contact-form-7',
+								'init'  	=> 'contact-form-7/wp-contact-form-7.php',
+								'name'  	=> 'Contact Form 7',
+							),
+							
+							array(
+								'slug'  	=> 'redux-framework',
+								'init'  	=> 'redux-framework/redux-framework.php',
+								'name'  	=> 'Redux Framework',
+							),
+							
+							
+							
+							
+						),
+						'premium' => array(
+							
+							array(
+								'slug' 		=> 'js_composer',
+								'init'  	=> 'js_composer/js_composer.php',
+								'name' 		=> 'Visual Composer',
+								'class'		=> 'Vc_Manager',
+							),
+						),
+					),
+				),
+
+
+				'magazine-pro' => array(
+					'demo_name'			=> esc_html__('Magazine','access-demo-importer'),
+					'xml_file'     		=> $git_url . 'magazine-pro/magazine-pro.xml',
+					'theme_settings' 	=> $git_url . 'magazine-pro/magazine-pro.dat',
+					'widgets_file'  	=> $git_url . 'magazine-pro/magazine-pro.wie',
+					'import_redux'		=> array(
+											'file_url'		=> $git_url .'magazine-pro/magazine-pro.json',
+											'option_name' 	=> 'punte_options',
+										),
+					'screen'			=> $git_url . 'magazine-pro/magazine-pro.jpg',
+					'preview_url'		=> 'https://demo.thepunte.com/punte-pro/magazine',
+					'is_shop'			=> true,
+					'home_title'  		=> 'Home',
+					'menus'				=> array(
+											'primary' 	=> 'Primary Menu',
+											'secondary' => 'Secondary Menu',
+											),
+					'required_plugins'  => array(
+						'free' => array(
+							array(
+								'slug'  	=> 'elementor',
+								'init'  	=> 'elementor/elementor.php',
+								'name'  	=> 'Elementor',
+							),
+							array(
+								'slug'  	=> 'contact-form-7',
+								'init'  	=> 'contact-form-7/wp-contact-form-7.php',
+								'name'  	=> 'Contact Form 7',
+							),
+							
+							array(
+								'slug'  	=> 'redux-framework',
+								'init'  	=> 'redux-framework/redux-framework.php',
+								'name'  	=> 'Redux Framework',
+							),
+						
+							
+							
+						),
+						'premium' => array(
+							
+						),
+					),
+				),
+
+
+				'newspaper-pro' => array(
+					'demo_name'			=> esc_html__('Newspaper','access-demo-importer'),
+					'xml_file'     		=> $git_url . 'newspaper-pro/newspaper-pro.xml',
+					'theme_settings' 	=> $git_url . 'newspaper-pro/newspaper-pro.dat',
+					'widgets_file'  	=> $git_url . 'newspaper-pro/newspaper-pro.wie',
+					'import_redux'		=> array(
+											'file_url'		=> $git_url .'newspaper-pro/newspaper-pro.json',
+											'option_name' 	=> 'punte_options',
+										),
+					'screen'			=> $git_url . 'newspaper-pro/newspaper-pro.jpg',
+					'rev_slider' 		=> $git_url . 'newspaper-pro/newspaper-pro.zip',
+					'preview_url'		=> 'https://demo.thepunte.com/punte-pro/newspaper-magazine/',
+					'is_shop'			=> true,
+					'home_title'  		=> 'Front Page',
+					'menus'				=> array(
+											'primary' 	=> 'Main Menu',
+											'secondary' => 'Header Menu',
+											),
+					'required_plugins'  => array(
+						'free' => array(
+							
+							array(
+								'slug'  	=> 'contact-form-7',
+								'init'  	=> 'contact-form-7/wp-contact-form-7.php',
+								'name'  	=> 'Contact Form 7',
+							),
+							
+							array(
+								'slug'  	=> 'redux-framework',
+								'init'  	=> 'redux-framework/redux-framework.php',
+								'name'  	=> 'Redux Framework',
+							),
+						
+							
+							
+						),
+						'premium' => array(
+							array(
+								'slug' 		=> 'js_composer',
+								'init'  	=> 'js_composer/js_composer.php',
+								'name' 		=> 'Visual Composer',
+								'class'		=> 'Vc_Manager',
+							),
+							array(
+								'slug' 		=> 'revslider',
+								'init'  	=> 'revslider/revslider.php',
+								'name' 		=> 'Slider Revolution',
+								'class'		=> 'RevSlider',
+							),
+						),
+					),
+				),
+
+
+				'onepage-pro' => array(
+					'demo_name'			=> esc_html__('Onepage','access-demo-importer'),
+					'xml_file'     		=> $git_url . 'onepage-pro/onepage-pro.xml',
+					'theme_settings' 	=> $git_url . 'onepage-pro/onepage-pro.dat',
+					'widgets_file'  	=> $git_url . 'onepage-pro/onepage-pro.wie',
+					'import_redux'		=> array(
+											'file_url'		=> $git_url .'onepage-pro/onepage-pro.json',
+											'option_name' 	=> 'punte_options',
+										),
+					'screen'			=> $git_url . 'onepage-pro/onepage-pro.jpg',
+					'preview_url'		=> 'https://demo.thepunte.com/punte-pro/onepage/',
+					'is_shop'			=> true,
+					'home_title'  		=> 'Front Page',
+					'menus'				=> array(
+											'primary' 	=> 'Main Menu'
+											),
+					'required_plugins'  => array(
+						'free' => array(
+							
+							array(
+								'slug'  	=> 'contact-form-7',
+								'init'  	=> 'contact-form-7/wp-contact-form-7.php',
+								'name'  	=> 'Contact Form 7',
+							),
+							
+							array(
+								'slug'  	=> 'redux-framework',
+								'init'  	=> 'redux-framework/redux-framework.php',
+								'name'  	=> 'Redux Framework',
+							),
+						
+							
+							
+						),
+						'premium' => array(
+							array(
+								'slug' 		=> 'js_composer',
+								'init'  	=> 'js_composer/js_composer.php',
+								'name' 		=> 'Visual Composer',
+								'class'		=> 'Vc_Manager',
+							),
+							
+						),
+					),
+				),
+
+
+				'tech-magazine-pro' => array(
+					'demo_name'			=> esc_html__('Tech Magazine','access-demo-importer'),
+					'xml_file'     		=> $git_url . 'tech-magazine-pro/tech-magazine-pro.xml',
+					'theme_settings' 	=> $git_url . 'tech-magazine-pro/tech-magazine-pro.dat',
+					'widgets_file'  	=> $git_url . 'tech-magazine-pro/tech-magazine-pro.wie',
+					'import_redux'		=> array(
+											'file_url'		=> $git_url .'tech-magazine-pro/tech-magazine-pro.json',
+											'option_name' 	=> 'punte_options',
+										),
+					'screen'			=> $git_url . 'tech-magazine-pro/tech-magazine-pro.jpg',
+					'preview_url'		=> 'https://demo.thepunte.com/punte-pro/tech-magazine',
+					'is_shop'			=> true,
+					'home_title'  		=> 'Front Page',
+					'menus'				=> array(
+											'primary' 	=> 'Main Menu'
+											),
+					'required_plugins'  => array(
+						'free' => array(
+							
+							array(
+								'slug'  	=> 'contact-form-7',
+								'init'  	=> 'contact-form-7/wp-contact-form-7.php',
+								'name'  	=> 'Contact Form 7',
+							),
+							
+							array(
+								'slug'  	=> 'redux-framework',
+								'init'  	=> 'redux-framework/redux-framework.php',
+								'name'  	=> 'Redux Framework',
+							),
+						
+							
+							
+						),
+						'premium' => array(
+							array(
+								'slug' 		=> 'js_composer',
+								'init'  	=> 'js_composer/js_composer.php',
+								'name' 		=> 'Visual Composer',
+								'class'		=> 'Vc_Manager',
+							),
+							
+						),
+					),
+				),
+				
 				'saas' => array(
 					'demo_name'			=> esc_html__('Saas Demo','access-demo-importer'),
 					'xml_file'     		=> $git_url . 'saas/saas.xml',
@@ -568,522 +1084,7 @@ function punte_demo_config(){
 				),
 
 
-				'agency-pro' => array(
-					'demo_name'			=> esc_html__('Agency Demo','access-demo-importer'),
-					'xml_file'     		=> $git_url . 'agency/agency.xml',
-					'theme_settings' 	=> $git_url . 'agency/agency.dat',
-					'widgets_file'  	=> $git_url . 'agency/agency.wie',
-					'import_redux'		=> array(
-											'file_url'		=> $git_url .'agency/agency.json',
-											'option_name' 	=> 'punte_options',
-										),
-					'screen'			=> $git_url . 'agency/agency.jpg',
-					'preview_url'		=> 'https://demo.thepunte.com/punte-pro/agency/',
-					'is_shop'			=> false,
-					'home_title'  		=> 'Home',
-					'menus'				=> array(
-											'primary' => 'Primary Menu',
-											),
-					'required_plugins'  => array(
-						'free' => array(
-							
-							array(
-								'slug'  	=> 'contact-form-7',
-								'init'  	=> 'contact-form-7/wp-contact-form-7.php',
-								'name'  	=> 'Contact Form 7',
-							),
-							array(
-								'slug'  	=> 'elementor',
-								'init'  	=> 'elementor/elementor.php',
-								'name'  	=> 'Elementor',
-							),
-							array(
-								'slug'  	=> 'redux-framework',
-								'init'  	=> 'redux-framework/redux-framework.php',
-								'name'  	=> 'Redux Framework',
-							),
-							array(
-								'slug'  	=> 'ap-companion',
-								'init'  	=> 'ap-companion/ap-companion.php',
-								'name'  	=> 'AP Companion',
-							),
-							
-							
-						),
-						'premium' => array(
-							
-						),
-					),
-				),
-
-				'corporate-pro' => array(
-					'demo_name'			=> esc_html__('Corporate Demo','access-demo-importer'),
-					'xml_file'     		=> $git_url . 'corporate/corporate.xml',
-					'theme_settings' 	=> $git_url . 'corporate/corporate.dat',
-					'widgets_file'  	=> $git_url . 'corporate/corporate.wie',
-					'import_redux'		=> array(
-											'file_url'		=> $git_url .'corporate/corporate.json',
-											'option_name' 	=> 'punte_options',
-										),
-					'screen'			=> $git_url . 'corporate/corporate.jpg',
-					'preview_url'		=> 'https://demo.thepunte.com/punte-pro/corporate/',
-					'is_shop'			=> false,
-					'home_title'  		=> 'Home',
-					'menus'				=> array(
-											'primary' => 'Menu 1',
-											),
-					'required_plugins'  => array(
-						'free' => array(
-							
-							array(
-								'slug'  	=> 'contact-form-7',
-								'init'  	=> 'contact-form-7/wp-contact-form-7.php',
-								'name'  	=> 'Contact Form 7',
-							),
-							array(
-								'slug'  	=> 'elementor',
-								'init'  	=> 'elementor/elementor.php',
-								'name'  	=> 'Elementor',
-							),
-							array(
-								'slug'  	=> 'redux-framework',
-								'init'  	=> 'redux-framework/redux-framework.php',
-								'name'  	=> 'Redux Framework',
-							),
-							array(
-								'slug'  	=> 'ap-companion',
-								'init'  	=> 'ap-companion/ap-companion.php',
-								'name'  	=> 'AP Companion',
-							),
-							
-							
-						),
-						'premium' => array(
-							
-						),
-					),
-				),
-
-
-				'corporate-v2-pro' => array(
-					'demo_name'			=> esc_html__('Corporate Demo','access-demo-importer'),
-					'xml_file'     		=> $git_url . 'corporate-v2-pro/corporate-v2-pro.xml',
-					'theme_settings' 	=> $git_url . 'corporate-v2-pro/corporate-v2-pro.dat',
-					'widgets_file'  	=> $git_url . 'corporate-v2-pro/corporate-v2-pro.wie',
-					'import_redux'		=> array(
-											'file_url'		=> $git_url .'corporate-v2-pro/corporate-v2-pro.json',
-											'option_name' 	=> 'punte_options',
-										),
-					'screen'			=> $git_url . 'corporate-v2-pro/corporate-v2-pro.jpg',
-					'rev_slider' 		=> $git_url . 'corporate-v2-pro/corporate-v2-pro.zip',
-					'preview_url'		=> 'https://demo.thepunte.com/punte-pro/corporate-two',
-					'is_shop'			=> false,
-					'home_title'  		=> 'Front Page',
-					'menus'				=> array(
-											'primary' => 'Primary Menu',
-											),
-					'required_plugins'  => array(
-						'free' => array(
-							
-							array(
-								'slug'  	=> 'contact-form-7',
-								'init'  	=> 'contact-form-7/wp-contact-form-7.php',
-								'name'  	=> 'Contact Form 7',
-							),
-							
-							array(
-								'slug'  	=> 'redux-framework',
-								'init'  	=> 'redux-framework/redux-framework.php',
-								'name'  	=> 'Redux Framework',
-							),
-							
-							
-							
-						),
-						'premium' => array(
-							array(
-								'slug' 		=> 'revslider',
-								'init'  	=> 'revslider/revslider.php',
-								'name' 		=> 'Slider Revolution',
-								'class'		=> 'RevSlider',
-							),
-							array(
-								'slug' 		=> 'js_composer',
-								'init'  	=> 'js_composer/js_composer.php',
-								'name' 		=> 'Visual Composer',
-								'class'		=> 'Vc_Manager',
-							),
-							
-						),
-					),
-				),
-
-
-				'digital-corporate-pro' => array(
-					'demo_name'			=> esc_html__('Corporate Demo','access-demo-importer'),
-					'xml_file'     		=> $git_url . 'digital-corporate-pro/digital-corporate-pro.xml',
-					'theme_settings' 	=> $git_url . 'digital-corporate-pro/digital-corporate-pro.dat',
-					'widgets_file'  	=> $git_url . 'digital-corporate-pro/digital-corporate-pro.wie',
-					'import_redux'		=> array(
-											'file_url'		=> $git_url .'digital-corporate-pro/digital-corporate-pro.json',
-											'option_name' 	=> 'punte_options',
-										),
-					'screen'			=> $git_url . 'digital-corporate-pro/digital-corporate-pro.jpg',
-					'rev_slider' 		=> $git_url . 'digital-corporate-pro/digital-corporate-pro.zip',
-					'preview_url'		=> 'https://demo.thepunte.com/punte-pro/corporate-three/',
-					'is_shop'			=> false,
-					'home_title'  		=> 'Front Page',
-					'menus'				=> array(
-											'primary' => 'Main Menu',
-											),
-					'required_plugins'  => array(
-						'free' => array(
-							
-							array(
-								'slug'  	=> 'contact-form-7',
-								'init'  	=> 'contact-form-7/wp-contact-form-7.php',
-								'name'  	=> 'Contact Form 7',
-							),
-							
-							array(
-								'slug'  	=> 'redux-framework',
-								'init'  	=> 'redux-framework/redux-framework.php',
-								'name'  	=> 'Redux Framework',
-							),
-							
-							
-							
-						),
-						'premium' => array(
-							array(
-								'slug' 		=> 'revslider',
-								'init'  	=> 'revslider/revslider.php',
-								'name' 		=> 'Slider Revolution',
-								'class'		=> 'RevSlider',
-							),
-							array(
-								'slug' 		=> 'js_composer',
-								'init'  	=> 'js_composer/js_composer.php',
-								'name' 		=> 'Visual Composer',
-								'class'		=> 'Vc_Manager',
-							),
-						),
-					),
-				),
-
-
-				'ecommerce-furniture-pro' => array(
-					'demo_name'			=> esc_html__('Furniture Store','access-demo-importer'),
-					'xml_file'     		=> $git_url . 'ecommerce-furniture-pro/ecommerce-furniture-pro.xml',
-					'theme_settings' 	=> $git_url . 'ecommerce-furniture-pro/ecommerce-furniture-pro.dat',
-					'widgets_file'  	=> $git_url . 'ecommerce-furniture-pro/ecommerce-furniture-pro.wie',
-					'import_redux'		=> array(
-											'file_url'		=> $git_url .'ecommerce-furniture-pro/ecommerce-furniture-pro.json',
-											'option_name' 	=> 'punte_options',
-										),
-					'screen'			=> $git_url . 'ecommerce-furniture-pro/ecommerce-furniture-pro.jpg',
-					'rev_slider' 		=> $git_url . 'ecommerce-furniture-pro/ecommerce-furniture-pro.zip',
-					'preview_url'		=> 'https://demo.thepunte.com/punte-pro/ecommerce-furniture/',
-					'is_shop'			=> true,
-					'home_title'  		=> 'Front Page',
-					'menus'				=> array(
-											'primary' => 'Main Menu',
-											),
-					'required_plugins'  => array(
-						'free' => array(
-							array(
-								'slug'  	=> 'woocommerce',
-								'init'  	=> 'woocommerce/woocommerce.php',
-								'name'  	=> 'WooCommerce',
-							),
-							array(
-								'slug'  	=> 'contact-form-7',
-								'init'  	=> 'contact-form-7/wp-contact-form-7.php',
-								'name'  	=> 'Contact Form 7',
-							),
-							
-							array(
-								'slug'  	=> 'redux-framework',
-								'init'  	=> 'redux-framework/redux-framework.php',
-								'name'  	=> 'Redux Framework',
-							),
-							array(
-								'slug'  	=> 'yith-woocommerce-compare',
-								'init'  	=> 'yith-woocommerce-compare/init.php',
-								'name'  	=> 'YITH WooCommerce Compare',
-							),
-							array(
-								'slug'  	=> 'yith-woocommerce-quick-view',
-								'init'  	=> 'yith-woocommerce-quick-view/init.php',
-								'name'  	=> 'YITH WooCommerce Quick View',
-							),
-							array(
-								'slug'  	=> 'yith-woocommerce-wishlist',
-								'init'  	=> 'yith-woocommerce-wishlist/init.php',
-								'name'  	=> 'YITH WooCommerce Wishlist',
-							),
-							
-							
-							
-						),
-						'premium' => array(
-							array(
-								'slug' 		=> 'revslider',
-								'init'  	=> 'revslider/revslider.php',
-								'name' 		=> 'Slider Revolution',
-								'class'		=> 'RevSlider',
-							),
-							array(
-								'slug' 		=> 'js_composer',
-								'init'  	=> 'js_composer/js_composer.php',
-								'name' 		=> 'Visual Composer',
-								'class'		=> 'Vc_Manager',
-							),
-						),
-					),
-				),
-
-
-				'kindergarten-pro' => array(
-					'demo_name'			=> esc_html__('Kindergarten','access-demo-importer'),
-					'xml_file'     		=> $git_url . 'kindergarten-pro/kindergarten-pro.xml',
-					'theme_settings' 	=> $git_url . 'kindergarten-pro/kindergarten-pro.dat',
-					'widgets_file'  	=> $git_url . 'kindergarten-pro/kindergarten-pro.wie',
-					'import_redux'		=> array(
-											'file_url'		=> $git_url .'kindergarten-pro/kindergarten-pro.json',
-											'option_name' 	=> 'punte_options',
-										),
-					'screen'			=> $git_url . 'kindergarten-pro/kindergarten-pro.jpg',
-					'preview_url'		=> 'https://demo.thepunte.com/punte-pro/kindergarten',
-					'is_shop'			=> true,
-					'home_title'  		=> 'Front Page',
-					'menus'				=> array(
-											'primary' => 'Main Menu',
-											),
-					'required_plugins'  => array(
-						'free' => array(
-							
-							array(
-								'slug'  	=> 'contact-form-7',
-								'init'  	=> 'contact-form-7/wp-contact-form-7.php',
-								'name'  	=> 'Contact Form 7',
-							),
-							
-							array(
-								'slug'  	=> 'redux-framework',
-								'init'  	=> 'redux-framework/redux-framework.php',
-								'name'  	=> 'Redux Framework',
-							),
-							
-							
-							
-							
-						),
-						'premium' => array(
-							
-							array(
-								'slug' 		=> 'js_composer',
-								'init'  	=> 'js_composer/js_composer.php',
-								'name' 		=> 'Visual Composer',
-								'class'		=> 'Vc_Manager',
-							),
-						),
-					),
-				),
-
-
-				'magazine-pro' => array(
-					'demo_name'			=> esc_html__('Magazine','access-demo-importer'),
-					'xml_file'     		=> $git_url . 'magazine-pro/magazine-pro.xml',
-					'theme_settings' 	=> $git_url . 'magazine-pro/magazine-pro.dat',
-					'widgets_file'  	=> $git_url . 'magazine-pro/magazine-pro.wie',
-					'import_redux'		=> array(
-											'file_url'		=> $git_url .'magazine-pro/magazine-pro.json',
-											'option_name' 	=> 'punte_options',
-										),
-					'screen'			=> $git_url . 'magazine-pro/magazine-pro.jpg',
-					'preview_url'		=> 'https://demo.thepunte.com/punte-pro/magazine',
-					'is_shop'			=> true,
-					'home_title'  		=> 'Home',
-					'menus'				=> array(
-											'primary' 	=> 'Primary Menu',
-											'secondary' => 'Secondary Menu',
-											),
-					'required_plugins'  => array(
-						'free' => array(
-							array(
-								'slug'  	=> 'elementor',
-								'init'  	=> 'elementor/elementor.php',
-								'name'  	=> 'Elementor',
-							),
-							array(
-								'slug'  	=> 'contact-form-7',
-								'init'  	=> 'contact-form-7/wp-contact-form-7.php',
-								'name'  	=> 'Contact Form 7',
-							),
-							
-							array(
-								'slug'  	=> 'redux-framework',
-								'init'  	=> 'redux-framework/redux-framework.php',
-								'name'  	=> 'Redux Framework',
-							),
-						
-							
-							
-						),
-						'premium' => array(
-							
-						),
-					),
-				),
-
-
-				'newspaper-pro' => array(
-					'demo_name'			=> esc_html__('Newspaper','access-demo-importer'),
-					'xml_file'     		=> $git_url . 'newspaper-pro/newspaper-pro.xml',
-					'theme_settings' 	=> $git_url . 'newspaper-pro/newspaper-pro.dat',
-					'widgets_file'  	=> $git_url . 'newspaper-pro/newspaper-pro.wie',
-					'import_redux'		=> array(
-											'file_url'		=> $git_url .'newspaper-pro/newspaper-pro.json',
-											'option_name' 	=> 'punte_options',
-										),
-					'screen'			=> $git_url . 'newspaper-pro/newspaper-pro.jpg',
-					'rev_slider' 		=> $git_url . 'newspaper-pro/newspaper-pro.zip',
-					'preview_url'		=> 'https://demo.thepunte.com/punte-pro/newspaper-magazine/',
-					'is_shop'			=> true,
-					'home_title'  		=> 'Front Page',
-					'menus'				=> array(
-											'primary' 	=> 'Main Menu',
-											'secondary' => 'Header Menu',
-											),
-					'required_plugins'  => array(
-						'free' => array(
-							
-							array(
-								'slug'  	=> 'contact-form-7',
-								'init'  	=> 'contact-form-7/wp-contact-form-7.php',
-								'name'  	=> 'Contact Form 7',
-							),
-							
-							array(
-								'slug'  	=> 'redux-framework',
-								'init'  	=> 'redux-framework/redux-framework.php',
-								'name'  	=> 'Redux Framework',
-							),
-						
-							
-							
-						),
-						'premium' => array(
-							array(
-								'slug' 		=> 'js_composer',
-								'init'  	=> 'js_composer/js_composer.php',
-								'name' 		=> 'Visual Composer',
-								'class'		=> 'Vc_Manager',
-							),
-							array(
-								'slug' 		=> 'revslider',
-								'init'  	=> 'revslider/revslider.php',
-								'name' 		=> 'Slider Revolution',
-								'class'		=> 'RevSlider',
-							),
-						),
-					),
-				),
-
-
-				'onepage-pro' => array(
-					'demo_name'			=> esc_html__('Onepage','access-demo-importer'),
-					'xml_file'     		=> $git_url . 'onepage-pro/onepage-pro.xml',
-					'theme_settings' 	=> $git_url . 'onepage-pro/onepage-pro.dat',
-					'widgets_file'  	=> $git_url . 'onepage-pro/onepage-pro.wie',
-					'import_redux'		=> array(
-											'file_url'		=> $git_url .'onepage-pro/onepage-pro.json',
-											'option_name' 	=> 'punte_options',
-										),
-					'screen'			=> $git_url . 'onepage-pro/onepage-pro.jpg',
-					'preview_url'		=> 'https://demo.thepunte.com/punte-pro/onepage/',
-					'is_shop'			=> true,
-					'home_title'  		=> 'Front Page',
-					'menus'				=> array(
-											'primary' 	=> 'Main Menu'
-											),
-					'required_plugins'  => array(
-						'free' => array(
-							
-							array(
-								'slug'  	=> 'contact-form-7',
-								'init'  	=> 'contact-form-7/wp-contact-form-7.php',
-								'name'  	=> 'Contact Form 7',
-							),
-							
-							array(
-								'slug'  	=> 'redux-framework',
-								'init'  	=> 'redux-framework/redux-framework.php',
-								'name'  	=> 'Redux Framework',
-							),
-						
-							
-							
-						),
-						'premium' => array(
-							array(
-								'slug' 		=> 'js_composer',
-								'init'  	=> 'js_composer/js_composer.php',
-								'name' 		=> 'Visual Composer',
-								'class'		=> 'Vc_Manager',
-							),
-							
-						),
-					),
-				),
-
-
-				'tech-magazine-pro' => array(
-					'demo_name'			=> esc_html__('Tech Magazine','access-demo-importer'),
-					'xml_file'     		=> $git_url . 'tech-magazine-pro/tech-magazine-pro.xml',
-					'theme_settings' 	=> $git_url . 'tech-magazine-pro/tech-magazine-pro.dat',
-					'widgets_file'  	=> $git_url . 'tech-magazine-pro/tech-magazine-pro.wie',
-					'import_redux'		=> array(
-											'file_url'		=> $git_url .'tech-magazine-pro/tech-magazine-pro.json',
-											'option_name' 	=> 'punte_options',
-										),
-					'screen'			=> $git_url . 'tech-magazine-pro/tech-magazine-pro.jpg',
-					'preview_url'		=> 'https://demo.thepunte.com/punte-pro/tech-magazine',
-					'is_shop'			=> true,
-					'home_title'  		=> 'Front Page',
-					'menus'				=> array(
-											'primary' 	=> 'Main Menu'
-											),
-					'required_plugins'  => array(
-						'free' => array(
-							
-							array(
-								'slug'  	=> 'contact-form-7',
-								'init'  	=> 'contact-form-7/wp-contact-form-7.php',
-								'name'  	=> 'Contact Form 7',
-							),
-							
-							array(
-								'slug'  	=> 'redux-framework',
-								'init'  	=> 'redux-framework/redux-framework.php',
-								'name'  	=> 'Redux Framework',
-							),
-						
-							
-							
-						),
-						'premium' => array(
-							array(
-								'slug' 		=> 'js_composer',
-								'init'  	=> 'js_composer/js_composer.php',
-								'name' 		=> 'Visual Composer',
-								'class'		=> 'Vc_Manager',
-							),
-							
-						),
-					),
-				),
+				
 
 
 
