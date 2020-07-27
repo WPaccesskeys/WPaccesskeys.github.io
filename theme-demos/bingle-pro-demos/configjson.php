@@ -5,6 +5,39 @@
 
 $git_url 		= 'https://raw.githubusercontent.com/WPaccesskeys/WPaccesskeys.github.io/master/theme-demos/bingle-pro-demos/';
 $data = array(
+	'broadband' => array(
+		'demo_name' => 'Broadband - Demo',
+		'xml_file'     		=> $git_url . 'broadband/content.xml',
+		'theme_settings' 	=> $git_url . 'broadband/options.dat',
+		'widgets_file'  	=> $git_url . 'broadband/widgets.wie',
+		'screen'			=> $git_url . 'broadband/screenshot.png',
+		'preview_url'		=> 'https://demo.accesspressthemes.com/bingle/broadband/',
+		'is_shop'			=> true,
+		'home_title'  		=> 'Home',
+		'menus' 			=> array(
+			'primary' => 'Main Menu'
+		),
+		'required_plugins'  => array(
+			'free' => array(
+				array(
+					'slug'  => 'ap-companion',
+					'init' 	=> 'ap-companion/ap-companion.php',
+					'name' 	=> 'Ap Companion',
+				),
+				array(
+					'slug'  => 'contact-form-7',
+					'init' 	=> 'contact-form-7/wp-contact-form-7.php',
+					'name' 	=> 'Contact Form 7',
+				),
+				array(
+					'slug'  	=> 'elementor',
+					'init'  	=> 'elementor/elementor.php',
+					'name'  	=> 'Elementor',
+				)
+			),
+			'premium' => array()
+		)
+	),
 	'corporate' => array(
 		'demo_name' => 'Corporate - Demo',
 		'xml_file'     		=> $git_url . 'corporate/content.xml',
