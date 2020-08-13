@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.4.1" created="2020-05-04 10:08" -->
+	<!-- generator="WordPress/5.4.2" created="2020-08-12 12:37" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>SASS</title>
 	<link>https://demo.thepunte.com/punte/sass</link>
 	<description>Best WordPress Multipurpose Theme</description>
-	<pubDate>Mon, 04 May 2020 10:08:20 +0000</pubDate>
+	<pubDate>Wed, 12 Aug 2020 12:37:08 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.thepunte.com/punte/</wp:base_site_url>
@@ -174,7 +174,7 @@
 			<wp:term><wp:term_id>4</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[menu-1]]></wp:term_slug><wp:term_name><![CDATA[Menu 1]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.4.1</generator>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
 
 <image>
 	<url>https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/02/punte-icon.png</url>
@@ -342,10 +342,6 @@
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/02/shape.svg]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_inline_svg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<svg viewBox="0 0 1446 400" preserveAspectRatio="xMidYMin slice"><linearGradient id="pakqyzv" gradientUnits="userSpaceOnUse" x1="450" y1="275.1534" x2="996" y2="275.1534"><stop offset="0.1158" style="stop-color:#ebf2ff;stop-opacity:0"></stop><stop offset="1" style="stop-color:#ebf2ff"></stop></linearGradient><linearGradient id="oqjabzg2" gradientUnits="userSpaceOnUse" x1="594.0032" y1="884.6415" x2="327.0104" y2="312.0736"><stop offset="0.1992" style="stop-color:#ebf2ff;stop-opacity:0"></stop><stop offset="1" style="stop-color:#ebf2ff"></stop></linearGradient><linearGradient id="naooihs2" gradientUnits="userSpaceOnUse" x1="-441" y1="510.6931" x2="942" y2="510.6931" gradientTransform="matrix(-1 0 0 1 1005 0)"><stop offset="0.1992" style="stop-color:#ebf2ff;stop-opacity:0"></stop><stop offset="1" style="stop-color:#ebf2ff"></stop></linearGradient><path fill="#ebf2ff" d="M0,189c0,0,87-79,183-14c91.9,62.2,173.8,5.6,279-47C702,8,743.1,243,1045,53c232-146,401,56,401,56v584H0V189z"></path><path fill="url(#pakqyzv)" d="M723,460c150.8,0,273-122.2,273-273c0-34-6.2-66.6-17.6-96.7C735.4,208.2,679.1,19.4,458,130c0,0-8,37.9-8,57 C450,337.8,572.2,460,723,460z"></path></svg>]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title>download</title>
@@ -372,10 +368,6 @@
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/02/download.svg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_inline_svg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920px" height="900px" viewBox="0 0 1920 900"><title>Path Copy</title><desc>Created with Sketch.</desc><g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><path d="M1920,656.540658 L1920,900 L0,900 L0,0 L840.617187,0 C801.343099,75.0216236 784.230469,135.673103 789.279297,181.954439 C796.852539,251.376442 863.451172,352.038906 942.904297,406.80862 C1022.35742,461.578333 1098.00195,461.299973 1174.45508,571.698475 C1250.9082,682.096978 1300.47266,801.647763 1370.45703,846.698875 C1440.44141,891.749988 1545.17773,932.688093 1665.28906,846.698875 C1718.21867,808.805899 1710.15853,761.710479 1790.61133,718.521973 C1818.11779,703.756009 1861.24735,683.09557 1920,656.540658 Z" id="Path-Copy" fill="#FFFFFF"></path></g></svg>]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2810,7 +2802,7 @@ body:not(.rtl) .elementor-4 .elementor-element.elementor-element-4cc9c6e {
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.9.7]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2.9.14]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
@@ -2819,6 +2811,10 @@ body:not(.rtl) .elementor-4 .elementor-element.elementor-element-4cc9c6e {
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:10:{s:7:"heading";a:3:{s:5:"count";i:20;s:15:"control_percent";i:7;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:5:{s:5:"title";i:20;s:12:"align_mobile";i:10;s:5:"align";i:17;s:12:"align_tablet";i:6;s:11:"header_size";i:2;}}s:5:"style";a:1:{s:19:"section_title_style";a:12:{s:11:"title_color";i:20;s:21:"typography_typography";i:20;s:22:"typography_font_family";i:20;s:20:"typography_font_size";i:20;s:22:"typography_font_weight";i:20;s:22:"typography_line_height";i:16;s:27:"typography_font_size_tablet";i:16;s:25:"typography_letter_spacing";i:7;s:27:"typography_font_size_mobile";i:1;s:29:"typography_line_height_mobile";i:1;s:29:"typography_line_height_tablet";i:3;s:25:"typography_text_transform";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:4:{s:14:"_margin_tablet";i:7;s:15:"_padding_tablet";i:7;s:7:"_margin";i:17;s:15:"_padding_mobile";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:17;s:15:"control_percent";i:5;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:17;}}s:5:"style";a:1:{s:13:"section_style";a:11:{s:10:"text_color";i:17;s:21:"typography_typography";i:17;s:22:"typography_font_family";i:17;s:20:"typography_font_size";i:17;s:22:"typography_line_height";i:17;s:12:"align_mobile";i:9;s:22:"typography_font_weight";i:17;s:5:"align";i:16;s:27:"typography_font_size_tablet";i:10;s:29:"typography_line_height_tablet";i:1;s:12:"align_tablet";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:5:{s:7:"_margin";i:15;s:8:"_padding";i:5;s:15:"_padding_mobile";i:2;s:14:"_margin_tablet";i:9;s:15:"_padding_tablet";i:9;}}}}s:6:"button";a:3:{s:5:"count";i:4;s:15:"control_percent";i:7;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_button";a:5:{s:4:"text";i:4;s:12:"align_mobile";i:2;s:13:"selected_icon";i:1;s:11:"icon_indent";i:2;s:12:"align_tablet";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:17:{s:21:"typography_typography";i:4;s:22:"typography_font_family";i:4;s:20:"typography_font_size";i:4;s:22:"typography_font_weight";i:4;s:17:"button_text_color";i:4;s:16:"background_color";i:4;s:13:"border_radius";i:4;s:12:"text_padding";i:4;s:11:"hover_color";i:4;s:29:"button_background_hover_color";i:4;s:27:"typography_font_size_tablet";i:2;s:19:"text_padding_tablet";i:2;s:25:"typography_text_transform";i:2;s:22:"typography_line_height";i:2;s:13:"border_border";i:2;s:12:"border_width";i:2;s:12:"border_color";i:2;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:4;}}}}s:6:"column";a:3:{s:5:"count";i:31;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:5:{s:12:"_inline_size";i:26;s:21:"space_between_widgets";i:1;s:5:"align";i:10;s:16:"content_position";i:7;s:19:"_inline_size_tablet";i:3;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:7:{s:7:"padding";i:22;s:13:"margin_mobile";i:16;s:14:"padding_mobile";i:7;s:6:"margin";i:11;s:14:"padding_tablet";i:6;s:13:"margin_tablet";i:3;s:11:"css_classes";i:1;}}s:5:"style";a:2:{s:13:"section_style";a:2:{s:21:"background_background";i:2;s:16:"background_color";i:2;}s:14:"section_border";a:3:{s:13:"border_radius";i:2;s:26:"box_shadow_box_shadow_type";i:2;s:21:"box_shadow_box_shadow";i:2;}}}}s:7:"section";a:3:{s:5:"count";i:17;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:7:{s:16:"content_position";i:5;s:3:"gap";i:2;s:6:"height";i:1;s:13:"custom_height";i:1;s:15:"stretch_section";i:1;s:6:"layout";i:1;s:20:"custom_height_tablet";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:11;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:6:{s:14:"padding_tablet";i:6;s:7:"z_index";i:5;s:6:"margin";i:8;s:7:"padding";i:1;s:13:"margin_mobile";i:6;s:13:"margin_tablet";i:6;}}s:5:"style";a:2:{s:18:"section_background";a:7:{s:21:"background_background";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;s:16:"background_image";i:1;s:26:"background_position_tablet";i:1;s:22:"background_size_mobile";i:1;}s:26:"section_background_overlay";a:10:{s:29:"background_overlay_background";i:1;s:26:"background_overlay_color_b";i:1;s:33:"background_overlay_gradient_angle";i:1;s:27:"background_overlay_position";i:1;s:25:"background_overlay_repeat";i:1;s:23:"background_overlay_size";i:1;s:27:"background_overlay_bg_width";i:1;s:26:"background_overlay_opacity";i:1;s:22:"css_filters_css_filter";i:1;s:20:"css_filters_saturate";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:8;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:4:{s:5:"image";i:8;s:10:"image_size";i:1;s:5:"align";i:3;s:12:"align_mobile";i:4;}}s:8:"advanced";a:2:{s:17:"_section_position";a:10:{s:14:"_element_width";i:1;s:21:"_element_width_tablet";i:1;s:28:"_element_custom_width_tablet";i:1;s:9:"_position";i:1;s:9:"_offset_x";i:1;s:16:"_offset_x_tablet";i:1;s:16:"_offset_x_mobile";i:1;s:9:"_offset_y";i:1;s:16:"_offset_y_tablet";i:1;s:21:"_element_custom_width";i:1;}s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:4:"icon";a:3:{s:5:"count";i:6;s:15:"control_percent";i:7;s:8:"controls";a:3:{s:7:"content";a:1:{s:12:"section_icon";a:1:{s:13:"selected_icon";i:6;}}s:5:"style";a:1:{s:18:"section_style_icon";a:4:{s:13:"primary_color";i:6;s:4:"size";i:6;s:6:"rotate";i:6;s:11:"size_tablet";i:6;}}s:8:"advanced";a:4:{s:14:"_section_style";a:3:{s:8:"_padding";i:6;s:12:"_css_classes";i:6;s:15:"_padding_tablet";i:6;}s:19:"_section_background";a:2:{s:22:"_background_background";i:6;s:17:"_background_color";i:6;}s:17:"_section_position";a:2:{s:14:"_element_width";i:6;s:23:"_element_vertical_align";i:6;}s:15:"_section_border";a:4:{s:14:"_border_radius";i:6;s:20:"_border_radius_hover";i:6;s:27:"_box_shadow_box_shadow_type";i:1;s:22:"_box_shadow_box_shadow";i:1;}}}}s:4:"html";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:1:{s:4:"html";i:1;}}s:8:"advanced";a:2:{s:14:"_section_style";a:1:{s:8:"_z_index";i:1;}s:17:"_section_position";a:4:{s:9:"_position";i:1;s:9:"_offset_x";i:1;s:9:"_offset_y";i:1;s:16:"_offset_x_mobile";i:1;}}}}s:9:"icon-list";a:3:{s:5:"count";i:2;s:15:"control_percent";i:6;s:8:"controls";a:3:{s:7:"content";a:1:{s:12:"section_icon";a:1:{s:9:"icon_list";i:2;}}s:5:"style";a:3:{s:17:"section_icon_list";a:2:{s:13:"space_between";i:2;s:17:"icon_align_tablet";i:2;}s:18:"section_icon_style";a:1:{s:10:"icon_color";i:2;}s:18:"section_text_style";a:7:{s:10:"text_color";i:2;s:11:"text_indent";i:2;s:26:"icon_typography_typography";i:2;s:27:"icon_typography_font_family";i:2;s:25:"icon_typography_font_size";i:2;s:27:"icon_typography_font_weight";i:2;s:32:"icon_typography_font_size_mobile";i:2;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:2;s:8:"_padding";i:2;}}}}s:8:"progress";a:3:{s:5:"count";i:3;s:15:"control_percent";i:8;s:8:"controls";a:3:{s:7:"content";a:1:{s:16:"section_progress";a:3:{s:5:"title";i:3;s:7:"percent";i:3;s:10:"inner_text";i:3;}}s:5:"style";a:2:{s:22:"section_progress_style";a:8:{s:9:"bar_color";i:3;s:12:"bar_bg_color";i:3;s:10:"bar_height";i:3;s:17:"bar_border_radius";i:3;s:16:"bar_inline_color";i:3;s:31:"bar_inner_typography_typography";i:3;s:32:"bar_inner_typography_font_family";i:3;s:30:"bar_inner_typography_font_size";i:3;}s:13:"section_title";a:7:{s:11:"title_color";i:3;s:21:"typography_typography";i:3;s:22:"typography_font_family";i:3;s:20:"typography_font_size";i:3;s:22:"typography_font_weight";i:3;s:22:"typography_line_height";i:3;s:27:"typography_font_size_tablet";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:12:"_css_classes";i:3;}}}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2878,109 +2874,6 @@ body:not(.rtl) .elementor-4 .elementor-element.elementor-element-4cc9c6e {
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>footer v2</title>
-		<link>https://demo.thepunte.com/punte/sass/?elementor_library=footer-v2__trashed</link>
-		<pubDate>Fri, 14 Feb 2020 09:26:36 +0000</pubDate>
-		<dc:creator><![CDATA[Access]]></dc:creator>
-		<guid isPermaLink="false">http://demo.thepunte.com/punte/sass/?elementor_library=footer-v2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<img width="150" height="49" src="http://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/02/punte-logo-construction-150x49.png" alt="" />											
-			<h2>Developers</h2>		
-					<ul>
-							<li >
-					<a href="#">					Documentation
-											</a>
-									</li>
-								<li >
-					<a href="#">					REST API
-											</a>
-									</li>
-						</ul>
-			<h2>Agencies</h2>		
-					<ul>
-							<li >
-					<a href="#">					Wholesale
-											</a>
-									</li>
-								<li >
-					<a href="#">					Referral
-											</a>
-									</li>
-						</ul>
-			<h2>Companies</h2>		
-					<ul>
-							<li >
-					<a href="#">					About Us
-											</a>
-									</li>
-								<li >
-					<a href="#">					Contact Us
-											</a>
-									</li>
-								<li >
-					<a href="#">					Careers
-											</a>
-									</li>
-						</ul>
-			<h2>About Company</h2>		
-		We’ve made the negotiation with impact-first investors dedicated to expanding opportunities.Copyright © 2019 Punte. All rights reserved.		
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Facebook-f
-									</a>
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Twitter
-									</a>
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Youtube
-									</a>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>23</wp:post_id>
-		<wp:post_date><![CDATA[2020-02-14 09:26:36]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-02-14 09:26:36]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[footer-v2__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[elementor_library]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="elementor_library_type" nicename="section"><![CDATA[section]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[section]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.8.5]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"38eed34f","elType":"section","settings":{"padding":{"unit":"em","top":"20","right":"0","bottom":"0","left":"0","isLinked":false},"padding_tablet":{"unit":"em","top":"5","right":"0","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"em","top":"3.5","right":"0","bottom":"0","left":"0","isLinked":false},"layout":"full_width"},"elements":[{"id":"3a75eaa0","elType":"column","settings":{"_column_size":100,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"1d5ca96b","elType":"section","settings":{"structure":"50","border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#bdc9e1","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false},"background_background":"classic","background_color":"#EBF2FF","margin_mobile":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"padding_tablet":{"unit":"px","top":"50","right":"10","bottom":"30","left":"10","isLinked":false},"padding_mobile":{"unit":"px","top":"50","right":"10","bottom":"30","left":"10","isLinked":false}},"elements":[{"id":"19bd2f9d","elType":"column","settings":{"_column_size":20,"_inline_size":17.25,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_inline_size_tablet":100,"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"5ef6a647","elType":"widget","settings":{"image":{"id":14,"url":"http:\/\/demo.thepunte.com\/punte\/sass\/wp-content\/uploads\/sites\/27\/2020\/02\/punte-logo-construction.png"},"image_size":"thumbnail","align":"left","align_tablet":"center","align_mobile":"center"},"elements":[],"widgetType":"image"}],"isInner":true},{"id":"74db1b3a","elType":"column","settings":{"_column_size":20,"_inline_size":17.25,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_inline_size_tablet":25,"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"5520c767","elType":"widget","settings":{"title":"Developers","title_color":"#000000","typography_typography":"custom","typography_font_family":"Rubik","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"500","align_mobile":"center"},"elements":[],"widgetType":"heading"},{"id":"376cf81e","elType":"widget","settings":{"icon_list":[{"text":"Documentation","selected_icon":{"value":"","library":""},"_id":"ca8a792","link":{"url":"#","is_external":"","nofollow":""}},{"text":"REST API","selected_icon":{"value":"","library":""},"_id":"a09d88b","link":{"url":"#","is_external":"","nofollow":""}}],"text_color":"#656970","icon_typography_typography":"custom","icon_typography_font_family":"Rubik","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]},"icon_typography_font_weight":"400","icon_typography_line_height":{"unit":"em","size":2.5,"sizes":[]},"text_color_hover":"#5254ff","icon_align_mobile":"center"},"elements":[],"widgetType":"icon-list"}],"isInner":true},{"id":"7b7c284b","elType":"column","settings":{"_column_size":20,"_inline_size":17.25,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_inline_size_tablet":25,"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"1dadc60f","elType":"widget","settings":{"title":"Agencies","title_color":"#000000","typography_typography":"custom","typography_font_family":"Rubik","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"500","align_mobile":"center"},"elements":[],"widgetType":"heading"},{"id":"7ec82630","elType":"widget","settings":{"icon_list":[{"text":"Wholesale","selected_icon":{"value":"","library":""},"_id":"ca8a792","link":{"url":"#","is_external":"","nofollow":""}},{"text":"Referral","selected_icon":{"value":"","library":""},"_id":"a09d88b","link":{"url":"#","is_external":"","nofollow":""}}],"text_color":"#656970","icon_typography_typography":"custom","icon_typography_font_family":"Rubik","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]},"icon_typography_font_weight":"400","icon_typography_line_height":{"unit":"em","size":2.5,"sizes":[]},"text_color_hover":"#5254ff","icon_align_mobile":"center"},"elements":[],"widgetType":"icon-list"}],"isInner":true},{"id":"39312616","elType":"column","settings":{"_column_size":20,"_inline_size":17.25,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_inline_size_tablet":25,"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"6ec233c6","elType":"widget","settings":{"title":"Companies","title_color":"#000000","typography_typography":"custom","typography_font_family":"Rubik","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"500","align_mobile":"center"},"elements":[],"widgetType":"heading"},{"id":"2c189d50","elType":"widget","settings":{"icon_list":[{"text":"About Us","selected_icon":{"value":"","library":""},"_id":"a09d88b","link":{"url":"#","is_external":"","nofollow":""}},{"text":"Contact Us","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":""},"_id":"af118c2"},{"text":"Careers","selected_icon":{"value":"","library":""},"_id":"14753ca","link":{"url":"#","is_external":"","nofollow":""}}],"text_color":"#656970","icon_typography_typography":"custom","icon_typography_font_family":"Rubik","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]},"icon_typography_font_weight":"400","icon_typography_line_height":{"unit":"em","size":2.5,"sizes":[]},"text_color_hover":"#5254ff","icon_align_mobile":"center"},"elements":[],"widgetType":"icon-list"}],"isInner":true},{"id":"36cea1d","elType":"column","settings":{"_column_size":20,"_inline_size":31,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_inline_size_tablet":25},"elements":[{"id":"39f4ab58","elType":"widget","settings":{"title":"About Company","title_color":"#000000","typography_typography":"custom","typography_font_family":"Rubik","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"500","align_mobile":"center"},"elements":[],"widgetType":"heading"},{"id":"35313a87","elType":"widget","settings":{"editor":"We\u2019ve made the negotiation with impact-first investors dedicated to expanding opportunities.","align":"left","text_color":"#656970","typography_typography":"custom","typography_font_family":"Rubik","typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_font_weight":"400","_margin":{"unit":"px","top":"10","right":"0","bottom":"5","left":"0","isLinked":false},"typography_line_height":{"unit":"em","size":1.6999999999999999555910790149937383830547332763671875,"sizes":[]},"align_mobile":"center"},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true},{"id":"62f0cad8","elType":"section","settings":{"structure":"20","background_background":"classic","background_color":"#EBF2FF","padding":{"unit":"px","top":"10","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[{"id":"40073b64","elType":"column","settings":{"_column_size":50,"_inline_size":null,"content_position":"center","padding":{"unit":"px","top":"10","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[{"id":"2153f20d","elType":"widget","settings":{"editor":"Copyright \u00a9 2019 Punte. All rights reserved.","text_color":"#000000"},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"c48eaf7","elType":"column","settings":{"_column_size":50,"_inline_size":null,"content_position":"center","padding":{"unit":"px","top":"10","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[{"id":"1f0d9166","elType":"widget","settings":{"social_icon_list":[{"social_icon":{"value":"fab fa-facebook-f","library":"fa-brands"},"_id":"3ca51ff","link":{"url":"","is_external":"true","nofollow":""},"item_icon_color":"default","item_icon_primary_color":"","item_icon_secondary_color":""},{"social_icon":{"value":"fab fa-twitter","library":"fa-brands"},"_id":"8ed75bc","link":{"url":"","is_external":"true","nofollow":""},"item_icon_color":"default","item_icon_primary_color":"","item_icon_secondary_color":""},{"social_icon":{"value":"fab fa-youtube","library":"fa-brands"},"_id":"62f22da","link":{"url":"","is_external":"true","nofollow":""},"item_icon_color":"default","item_icon_primary_color":"","item_icon_secondary_color":""}],"align":"right","icon_color":"custom","icon_primary_color":"rgba(2, 1, 1, 0)","icon_secondary_color":"#000000","icon_size":{"unit":"px","size":10,"sizes":[]},"icon_spacing":{"unit":"px","size":20,"sizes":[]},"hover_secondary_color":"#FF6A00"},"elements":[],"widgetType":"social-icons"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1587292869]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[footer-v2]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3492,6 +3385,161 @@ info@accesskeys.com
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>About</title>
+		<link>https://demo.thepunte.com/punte/sass/about/</link>
+		<pubDate>Sun, 19 Apr 2020 04:32:51 +0000</pubDate>
+		<dc:creator><![CDATA[Access]]></dc:creator>
+		<guid isPermaLink="false">https://demo.thepunte.com/punte/sass/?page_id=181</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h2>A great value for your
+startup business.</br>Ready for a challenge</h2>		
+				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Capa_1" style="enable-background:new 0 0 59.998 59.998;" viewBox="0 0 59.998 59.998" xml:space="preserve"><path d="M59.206,0.293c-0.391-0.391-1.023-0.391-1.414,0L54.085,4H30.802L1.532,33.511c-0.666,0.666-1.033,1.553-1.033,2.495  s0.367,1.829,1.033,2.495l20.466,20.466c0.687,0.687,1.588,1.031,2.491,1.031c0.907,0,1.814-0.347,2.509-1.041l28.501-29.271V5.414  l3.707-3.707C59.597,1.316,59.597,0.684,59.206,0.293z M53.499,28.874L25.574,57.553c-0.596,0.596-1.566,0.596-2.162,0L2.946,37.087  c-0.596-0.596-0.596-1.566,0.003-2.165L31.636,6h20.449l-4.833,4.833C46.461,10.309,45.516,10,44.499,10c-2.757,0-5,2.243-5,5  s2.243,5,5,5s5-2.243,5-5c0-1.017-0.309-1.962-0.833-2.753l4.833-4.833V28.874z M47.499,15c0,1.654-1.346,3-3,3s-3-1.346-3-3  s1.346-3,3-3c0.462,0,0.894,0.114,1.285,0.301l-1.992,1.992c-0.391,0.391-0.391,1.023,0,1.414C43.987,15.902,44.243,16,44.499,16  s0.512-0.098,0.707-0.293l1.992-1.992C47.386,14.106,47.499,14.538,47.499,15z"></path><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>				
+				<h3>
+					01 / Personal Branding
+				</h3>
+								<p>Exceptional expertise in project lifecycle management, risk assessment, feasibility study</p>
+				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Capa_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+	<g>
+		<path d="M467.819,431.851l-36.651-61.056c-16.896-28.181-25.835-60.437-25.835-93.312V224    c0-82.325-67.008-149.333-149.333-149.333S106.667,141.675,106.667,224v53.483c0,32.875-8.939,65.131-25.835,93.312    l-36.651,61.056c-1.984,3.285-2.027,7.403-0.149,10.731c1.899,3.349,5.461,5.419,9.301,5.419h405.333    c3.84,0,7.403-2.069,9.301-5.419C469.845,439.253,469.803,435.136,467.819,431.851z M72.171,426.667l26.944-44.907    C118.016,350.272,128,314.219,128,277.483V224c0-70.592,57.408-128,128-128s128,57.408,128,128v53.483    c0,36.736,9.984,72.789,28.864,104.277l26.965,44.907H72.171z"></path>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M256,0c-23.531,0-42.667,19.136-42.667,42.667v42.667C213.333,91.221,218.112,96,224,96s10.667-4.779,10.667-10.667    V42.667c0-11.776,9.557-21.333,21.333-21.333s21.333,9.557,21.333,21.333v42.667C277.333,91.221,282.112,96,288,96    s10.667-4.779,10.667-10.667V42.667C298.667,19.136,279.531,0,256,0z"></path>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M302.165,431.936c-3.008-5.077-9.515-6.741-14.613-3.819c-5.099,2.987-6.805,9.536-3.819,14.613    c2.773,4.715,4.288,10.368,4.288,15.936c0,17.643-14.357,32-32,32c-17.643,0-32-14.357-32-32c0-5.568,1.515-11.221,4.288-15.936    c2.965-5.099,1.259-11.627-3.819-14.613c-5.141-2.923-11.627-1.259-14.613,3.819c-4.715,8.064-7.211,17.301-7.211,26.731    C202.667,488.085,226.581,512,256,512s53.333-23.915,53.376-53.333C309.376,449.237,306.88,440,302.165,431.936z"></path>
+	</g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>				
+				<h3>
+					02 / Business Consulting
+				</h3>
+								<p>We publish a very broad range of fiction and fiction international and books for younger</p>
+				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" style="enable-background:new 0 0 100.4 100.4;" viewBox="0 0 100.4 100.4" xml:space="preserve"><path d="M88.6,25.1V12.9c0-0.8-0.7-1.5-1.5-1.5H50.5V4.1c0-0.8-0.7-1.5-1.5-1.5s-1.5,0.7-1.5,1.5v7.3H11c-0.8,0-1.5,0.7-1.5,1.5  v12.2c0,0.4,0,1.3,0,2V63c0,0.8,0.7,1.5,1.5,1.5h23.2l-7.7,32.3c-0.2,0.8,0.3,1.6,1.1,1.8c0.1,0,0.2,0,0.4,0c0.7,0,1.3-0.5,1.5-1.1  l7.9-33h10.3v24.2c0,0.8,0.7,1.5,1.5,1.5s1.5-0.7,1.5-1.5V64.5h10l8.2,33c0.2,0.7,0.8,1.1,1.5,1.1c0.1,0,0.2,0,0.4,0  c0.8-0.2,1.3-1,1.1-1.8l-8-32.3h23.4c0.8,0,1.5-0.7,1.5-1.5C88.8,63,88.6,25.6,88.6,25.1z M85.6,14.4v10.2H12.5V14.4H85.6z   M12.5,61.5V27.6h73.1v33.9H12.5z"></path></svg>				
+				<h3>
+					03 / Online Marketing
+				</h3>
+								<p>Skills in almost all aspects of web promotion, Android App development, online company </p>
+			<h2>Innovative Business Ideas<br>and Brainstroming</h2>		
+		<p>Skills in almost all aspects of web promotion, Android App development, online company branding, software development &amp; testing. It is a long established fact that a reader . Expertise in the area of in-house application design.</p>https://www.youtube.com/watch?v=XHOmBV4js_E		
+			We develop digital strategies products and services.		
+			<h2>Learn the features of new Beautiful lifestyle app!</h2>		
+                                                    <img src="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/team-6-saas.jpg" >
+                                                            <h2>
+                                    Lenox Lewies                                </h2>
+                                    Project Manager                                
+                                    +61986543210  &nbsp;&nbsp;/                                
+                                    Email                                
+                                                    <img src="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/team-2.jpg" >
+                                                            <h2>
+                                    Peter Bardley                                </h2>
+                                    Marketing Consultant                                
+                                    +61986543210  &nbsp;&nbsp;/                                
+                                    Email                                
+                                                    <img src="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/team-11.jpg" >
+                                                            <h2>
+                                    Jessica Smith                                </h2>
+                                    Plugin Developer                                
+                                    +61986543210  &nbsp;&nbsp;/                                
+                                    Email                                
+                                                    <img src="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/team-9.jpg" >
+                                                            <h2>
+                                    Iliana Rabata                                </h2>
+                                    Ios Developer                                
+                                    +61986543210  &nbsp;&nbsp;/                                
+                                    Email                                
+                                                    <img src="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/team-5.jpg" >
+                                                            <h2>
+                                    Rebeca Chandler                                </h2>
+                                    Anroid App Developer                                
+                                    +61986543210  &nbsp;&nbsp;/                                
+                                    Email                                
+                                                    <img src="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/team-8.jpg" >
+                                                            <h2>
+                                    James Aguero                                </h2>
+                                    App Ui Ux Desing                                
+                                    +61986543210  &nbsp;&nbsp;/                                
+                                    Email                                
+			<h2>Building landing page is now more easy with Punte</h2>		
+		When you need a kickstart in your business and you have no time for coding for your website, Bingle will take that job for you and will build a great looking website in minutes.		
+			<figure><img width="56" height="56" src="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/Layer-65-1.png" alt="" /></figure>24/7 service available<p>01 800 688 8688</p>		
+			<h2>Punte discovers new concepts and  projects  for starter</h2>		
+			<a href="#" role="button">
+						GET A QUOTE
+					</a>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>181</wp:post_id>
+		<wp:post_date><![CDATA[2020-04-19 04:32:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-04-19 04:32:51]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[about]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2.9.7]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[templates/vc-template.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:9:{s:7:"heading";a:3:{s:5:"count";i:6;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:4:{s:5:"title";i:6;s:5:"align";i:5;s:11:"header_size";i:1;s:12:"align_mobile";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:9:{s:11:"title_color";i:6;s:21:"typography_typography";i:6;s:22:"typography_font_family";i:6;s:20:"typography_font_size";i:6;s:22:"typography_line_height";i:4;s:22:"typography_font_weight";i:6;s:27:"typography_font_size_tablet";i:3;s:29:"typography_line_height_tablet";i:1;s:25:"typography_letter_spacing";i:1;}}s:8:"advanced";a:2:{s:14:"_section_style";a:2:{s:8:"_padding";i:2;s:15:"_padding_mobile";i:2;}s:19:"_section_background";a:1:{s:22:"_background_background";i:1;}}}}s:8:"icon-box";a:3:{s:5:"count";i:3;s:15:"control_percent";i:10;s:8:"controls";a:2:{s:7:"content";a:1:{s:12:"section_icon";a:4:{s:13:"selected_icon";i:3;s:4:"view";i:3;s:10:"title_text";i:3;s:16:"description_text";i:3;}}s:5:"style";a:2:{s:18:"section_style_icon";a:5:{s:9:"icon_size";i:3;s:12:"border_width";i:3;s:13:"primary_color";i:3;s:12:"icon_padding";i:3;s:16:"icon_size_tablet";i:3;}s:21:"section_style_content";a:16:{s:11:"title_color";i:3;s:27:"title_typography_typography";i:3;s:28:"title_typography_font_family";i:3;s:26:"title_typography_font_size";i:3;s:17:"description_color";i:3;s:33:"description_typography_typography";i:3;s:34:"description_typography_font_family";i:3;s:32:"description_typography_font_size";i:3;s:34:"description_typography_font_weight";i:3;s:28:"title_typography_font_weight";i:3;s:28:"title_typography_line_height";i:3;s:34:"description_typography_line_height";i:3;s:33:"title_typography_font_size_tablet";i:3;s:35:"title_typography_line_height_tablet";i:3;s:39:"description_typography_font_size_tablet";i:3;s:41:"description_typography_line_height_tablet";i:3;}}}}s:6:"column";a:3:{s:5:"count";i:15;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:12:"_inline_size";i:9;s:19:"_inline_size_tablet";i:1;}}s:5:"style";a:3:{s:14:"section_border";a:3:{s:27:"box_shadow_hover_box_shadow";i:3;s:26:"box_shadow_box_shadow_type";i:1;s:21:"box_shadow_box_shadow";i:1;}s:13:"section_style";a:3:{s:27:"background_hover_background";i:1;s:21:"background_background";i:1;s:16:"background_color";i:1;}s:12:"section_typo";a:1:{s:10:"text_align";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:7:"padding";i:5;s:6:"margin";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:10;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:4;}s:14:"section_layout";a:2:{s:16:"content_position";i:2;s:15:"stretch_section";i:4;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:6:{s:7:"padding";i:5;s:14:"padding_mobile";i:2;s:6:"margin";i:4;s:13:"margin_tablet";i:1;s:14:"padding_tablet";i:1;s:13:"margin_mobile";i:2;}}s:5:"style";a:2:{s:18:"section_background";a:6:{s:19:"background_position";i:1;s:17:"background_repeat";i:2;s:15:"background_size";i:2;s:21:"background_background";i:3;s:16:"background_image";i:2;s:16:"background_color";i:1;}s:26:"section_background_overlay";a:3:{s:29:"background_overlay_background";i:1;s:24:"background_overlay_color";i:1;s:26:"background_overlay_opacity";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:2;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:9:{s:10:"text_color";i:2;s:21:"typography_typography";i:2;s:22:"typography_font_family";i:2;s:20:"typography_font_size";i:2;s:22:"typography_font_weight";i:2;s:22:"typography_line_height";i:2;s:27:"typography_font_size_tablet";i:2;s:29:"typography_line_height_tablet";i:1;s:5:"align";i:1;}}}}s:5:"video";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:21:"section_image_overlay";a:3:{s:18:"show_image_overlay";i:1;s:13:"image_overlay";i:1;s:8:"lightbox";i:1;}}s:8:"advanced";a:3:{s:14:"_section_style";a:1:{s:8:"_padding";i:1;}s:19:"_section_background";a:2:{s:22:"_background_background";i:1;s:17:"_background_color";i:1;}s:17:"_section_position";a:3:{s:9:"_position";i:1;s:9:"_offset_x";i:1;s:9:"_offset_y";i:1;}}}}s:7:"ap-team";a:3:{s:5:"count";i:1;s:15:"control_percent";i:13;s:8:"controls";a:3:{s:7:"content";a:2:{s:16:"ap_layout_option";a:1:{s:18:"ap_multiple_layout";i:1;}s:15:"slider_controls";a:1:{s:21:"ap_multiple_test_data";i:1;}}s:5:"style";a:1:{s:21:"section_general_style";a:31:{s:10:"name_color";i:1;s:26:"name_typography_typography";i:1;s:27:"name_typography_font_family";i:1;s:25:"name_typography_font_size";i:1;s:27:"name_typography_font_weight";i:1;s:10:"desi_color";i:1;s:26:"desi_typography_typography";i:1;s:27:"desi_typography_font_family";i:1;s:25:"desi_typography_font_size";i:1;s:27:"desi_typography_font_weight";i:1;s:11:"phone_color";i:1;s:27:"phone_typography_typography";i:1;s:28:"phone_typography_font_family";i:1;s:26:"phone_typography_font_size";i:1;s:28:"phone_typography_font_weight";i:1;s:11:"email_color";i:1;s:27:"email_typography_typography";i:1;s:28:"email_typography_font_family";i:1;s:26:"email_typography_font_size";i:1;s:28:"email_typography_font_weight";i:1;s:10:"desc_color";i:1;s:26:"desc_typography_typography";i:1;s:27:"desc_typography_font_family";i:1;s:25:"desc_typography_font_size";i:1;s:27:"desc_typography_font_weight";i:1;s:32:"name_typography_font_size_tablet";i:1;s:32:"desi_typography_font_size_tablet";i:1;s:33:"phone_typography_font_size_tablet";i:1;s:35:"phone_typography_line_height_tablet";i:1;s:33:"email_typography_font_size_tablet";i:1;s:35:"email_typography_line_height_tablet";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:9:"image-box";a:3:{s:5:"count";i:1;s:15:"control_percent";i:11;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:4:{s:5:"image";i:1;s:10:"title_text";i:1;s:16:"description_text";i:1;s:10:"title_size";i:1;}}s:5:"style";a:2:{s:19:"section_style_image";a:3:{s:11:"image_space";i:1;s:10:"image_size";i:1;s:18:"image_space_tablet";i:1;}s:21:"section_style_content";a:19:{s:10:"text_align";i:1;s:26:"content_vertical_alignment";i:1;s:18:"title_bottom_space";i:1;s:11:"title_color";i:1;s:27:"title_typography_typography";i:1;s:28:"title_typography_font_family";i:1;s:26:"title_typography_font_size";i:1;s:28:"title_typography_font_weight";i:1;s:31:"title_typography_text_transform";i:1;s:28:"title_typography_line_height";i:1;s:17:"description_color";i:1;s:33:"description_typography_typography";i:1;s:34:"description_typography_font_family";i:1;s:32:"description_typography_font_size";i:1;s:34:"description_typography_font_weight";i:1;s:34:"description_typography_line_height";i:1;s:25:"title_bottom_space_tablet";i:1;s:33:"title_typography_font_size_tablet";i:1;s:39:"description_typography_font_size_tablet";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:8:"_padding";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:1;s:15:"control_percent";i:7;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_button";a:3:{s:4:"text";i:1;s:5:"align";i:1;s:12:"align_mobile";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:12:{s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:20:"typography_font_size";i:1;s:22:"typography_font_weight";i:1;s:25:"typography_text_transform";i:1;s:22:"typography_line_height";i:1;s:17:"button_text_color";i:1;s:16:"background_color";i:1;s:13:"border_radius";i:1;s:12:"text_padding";i:1;s:11:"hover_color";i:1;s:29:"button_background_hover_color";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:14:"_margin_mobile";i:1;}}}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[{"id":"7cd8aecb","elType":"section","settings":{"padding":{"unit":"px","top":"80","right":"0","bottom":"80","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"50","right":"0","bottom":"30","left":"0","isLinked":false},"margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"7b595ce3","elType":"column","settings":{"_column_size":100},"elements":[{"id":"2fbbafba","elType":"widget","settings":{"title":"A great value for your\nstartup business.<\/br>Ready for a challenge","align":"center","title_color":"#303030","typography_typography":"custom","typography_font_family":"Quicksand","typography_font_size":{"unit":"px","size":28,"sizes":[]},"typography_line_height":{"unit":"em","size":1.399999999999999911182158029987476766109466552734375,"sizes":[]},"_padding":{"unit":"%","top":"0","right":"15","bottom":"0","left":"15","isLinked":false},"typography_font_weight":"600","_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"46153d65","elType":"section","settings":{"structure":"30"},"elements":[{"id":"6c60cb50","elType":"column","settings":{"_column_size":33,"_inline_size":null,"box_shadow_hover_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"color":"rgba(0,0,0,0.2)"},"padding":{"unit":"px","top":"50","right":"40","bottom":"50","left":"40","isLinked":false},"background_hover_background":"classic"},"elements":[{"id":"43d03496","elType":"widget","settings":{"selected_icon":{"value":{"id":193,"url":"https:\/\/demo.thepunte.com\/punte\/sass\/wp-content\/uploads\/sites\/27\/2020\/04\/iconfinder_price-tag-7_3338890.svg"},"library":"svg"},"view":"framed","title_text":"01 \/ Personal Branding","description_text":"Exceptional expertise in project lifecycle management, risk assessment, feasibility study","icon_size":{"unit":"px","size":32,"sizes":[]},"border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"title_color":"#444444","title_typography_typography":"custom","title_typography_font_family":"Quicksand","title_typography_font_size":{"unit":"px","size":22,"sizes":[]},"description_color":"#5e5e5e","description_typography_typography":"custom","description_typography_font_family":"Quicksand","description_typography_font_size":{"unit":"px","size":18,"sizes":[]},"description_typography_font_weight":"400","primary_color":"#DF5059","icon_padding":{"unit":"px","size":10,"sizes":[]},"title_typography_font_weight":"600","title_typography_line_height":{"unit":"px","size":30,"sizes":[]},"description_typography_line_height":{"unit":"px","size":28,"sizes":[]},"icon_size_tablet":{"unit":"px","size":14,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":20,"sizes":[]},"title_typography_line_height_tablet":{"unit":"px","size":26,"sizes":[]},"description_typography_font_size_tablet":{"unit":"px","size":16,"sizes":[]},"description_typography_line_height_tablet":{"unit":"px","size":22,"sizes":[]}},"elements":[],"widgetType":"icon-box"}],"isInner":true},{"id":"3f88659c","elType":"column","settings":{"_column_size":33,"_inline_size":null,"box_shadow_hover_box_shadow":{"horizontal":-100,"vertical":-100,"blur":0,"spread":-100,"color":""},"padding":{"unit":"px","top":"50","right":"40","bottom":"50","left":"40","isLinked":false},"box_shadow_box_shadow_type":"yes","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":15,"spread":0,"color":"rgba(51, 0, 226, 0.15)"}},"elements":[{"id":"2b188e05","elType":"widget","settings":{"selected_icon":{"value":{"id":194,"url":"https:\/\/demo.thepunte.com\/punte\/sass\/wp-content\/uploads\/sites\/27\/2020\/04\/notification.svg"},"library":"svg"},"view":"framed","title_text":"02 \/ Business Consulting","description_text":"We publish a very broad range of fiction and fiction international and books for younger","icon_size":{"unit":"px","size":32,"sizes":[]},"border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"title_color":"#444444","title_typography_typography":"custom","title_typography_font_family":"Quicksand","title_typography_font_size":{"unit":"px","size":22,"sizes":[]},"description_color":"#5e5e5e","description_typography_typography":"custom","description_typography_font_family":"Quicksand","description_typography_font_size":{"unit":"px","size":18,"sizes":[]},"description_typography_font_weight":"400","primary_color":"#DF5059","icon_padding":{"unit":"px","size":10,"sizes":[]},"title_typography_font_weight":"600","title_typography_line_height":{"unit":"px","size":30,"sizes":[]},"description_typography_line_height":{"unit":"px","size":28,"sizes":[]},"icon_size_tablet":{"unit":"px","size":14,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":20,"sizes":[]},"title_typography_line_height_tablet":{"unit":"px","size":26,"sizes":[]},"description_typography_font_size_tablet":{"unit":"px","size":16,"sizes":[]},"description_typography_line_height_tablet":{"unit":"px","size":22,"sizes":[]}},"elements":[],"widgetType":"icon-box"}],"isInner":true},{"id":"61da8ef3","elType":"column","settings":{"_column_size":33,"_inline_size":null,"box_shadow_hover_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"color":"rgba(0,0,0,0.2)"},"padding":{"unit":"px","top":"50","right":"40","bottom":"50","left":"40","isLinked":false}},"elements":[{"id":"1cfd023","elType":"widget","settings":{"selected_icon":{"value":{"id":195,"url":"https:\/\/demo.thepunte.com\/punte\/sass\/wp-content\/uploads\/sites\/27\/2020\/04\/iconfinder_Tilda_Icons_1ed_flipchart_3586368.svg"},"library":"svg"},"view":"framed","title_text":"03 \/ Online Marketing","description_text":"Skills in almost all aspects of web promotion, Android App development, online company ","icon_size":{"unit":"px","size":32,"sizes":[]},"border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"title_color":"#444444","title_typography_typography":"custom","title_typography_font_family":"Quicksand","title_typography_font_size":{"unit":"px","size":22,"sizes":[]},"description_color":"#5e5e5e","description_typography_typography":"custom","description_typography_font_family":"Quicksand","description_typography_font_size":{"unit":"px","size":18,"sizes":[]},"description_typography_font_weight":"400","primary_color":"#DF5059","icon_padding":{"unit":"px","size":10,"sizes":[]},"title_typography_font_weight":"600","title_typography_line_height":{"unit":"px","size":30,"sizes":[]},"description_typography_line_height":{"unit":"px","size":28,"sizes":[]},"icon_size_tablet":{"unit":"px","size":14,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":20,"sizes":[]},"title_typography_line_height_tablet":{"unit":"px","size":26,"sizes":[]},"description_typography_font_size_tablet":{"unit":"px","size":16,"sizes":[]},"description_typography_line_height_tablet":{"unit":"px","size":22,"sizes":[]}},"elements":[],"widgetType":"icon-box"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"7eb171da","elType":"section","settings":{"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","background_overlay_background":"classic","background_overlay_color":"#F86972","padding":{"unit":"px","top":"74","right":"0","bottom":"300","left":"0","isLinked":false},"background_overlay_opacity":{"unit":"px","size":0.79000000000000003552713678800500929355621337890625,"sizes":[]},"padding_tablet":{"unit":"px","top":"70","right":"0","bottom":"300","left":"0","isLinked":false},"background_background":"classic","background_image":{"id":201,"url":"https:\/\/demo.thepunte.com\/punte\/sass\/wp-content\/uploads\/sites\/27\/2020\/04\/cta-1.jpg"},"margin_mobile":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"stretch_section":"section-stretched"},"elements":[{"id":"195f1d8d","elType":"column","settings":{"_column_size":100,"margin":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"1e757e80","elType":"section","settings":{"structure":"20","margin_tablet":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":true},"content_position":"middle"},"elements":[{"id":"19a14892","elType":"column","settings":{"_column_size":50,"_inline_size":null,"text_align":"left"},"elements":[{"id":"5f436e95","elType":"widget","settings":{"title":"Innovative Business Ideas<br>and Brainstroming","align":"left","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":42,"sizes":[]},"typography_line_height":{"unit":"px","size":50,"sizes":[]},"typography_font_weight":"600","_background_background":"classic","typography_font_size_tablet":{"unit":"px","size":28,"sizes":[]},"typography_line_height_tablet":{"unit":"px","size":34,"sizes":[]},"typography_letter_spacing":{"unit":"px","size":-1,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":true},{"id":"131461cb","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"67c73074","elType":"widget","settings":{"editor":"<p>Skills in almost all aspects of web promotion, Android App development, online company branding, software development &amp; testing. It is a long established fact that a reader . Expertise in the area of in-house application design.<\/p>","text_color":"#ffffff","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"px","size":28,"sizes":[]},"typography_font_size_tablet":{"unit":"px","size":16,"sizes":[]},"typography_line_height_tablet":{"unit":"px","size":22,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"25dd04d2","elType":"section","settings":{"margin":{"unit":"px","top":"","right":0,"bottom":"","left":0,"isLinked":true},"margin_mobile":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"3382547a","elType":"column","settings":{"_column_size":100},"elements":[{"id":"4b704697","elType":"widget","settings":{"youtube_url":"https:\/\/www.youtube.com\/watch?v=XHOmBV4js_E","vimeo_url":"https:\/\/vimeo.com\/235215203","dailymotion_url":"https:\/\/www.dailymotion.com\/video\/x6tqhqb","show_image_overlay":"yes","image_overlay":{"id":199,"url":"https:\/\/demo.thepunte.com\/punte\/sass\/wp-content\/uploads\/sites\/27\/2020\/04\/youtuber.jpg"},"lightbox":"yes","_padding":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true},"_background_background":"classic","_background_color":"#ffffff","_position":"absolute","_offset_x":{"unit":"px","size":0,"sizes":[]},"_offset_y":{"unit":"px","size":-287,"sizes":[]}},"elements":[],"widgetType":"video"}],"isInner":false}],"isInner":false},{"id":"763c105f","elType":"section","settings":{"padding":{"unit":"px","top":"70","right":"0","bottom":"0","left":"0","isLinked":false},"stretch_section":"section-stretched","margin":{"unit":"px","top":"450","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"3d0466fb","elType":"column","settings":{"_column_size":100},"elements":[{"id":"43006b82","elType":"widget","settings":{"title":"We develop digital strategies products and services.","header_size":"div","align":"center","title_color":"#969696","typography_typography":"custom","typography_font_family":"Quicksand","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"300"},"elements":[],"widgetType":"heading"},{"id":"361c7821","elType":"widget","settings":{"title":"Learn the features of new Beautiful lifestyle app!","align":"center","title_color":"#303030","typography_typography":"custom","typography_font_family":"Quicksand","typography_font_size":{"unit":"px","size":28,"sizes":[]},"typography_font_weight":"600","typography_line_height":{"unit":"em","size":1.399999999999999911182158029987476766109466552734375,"sizes":[]},"_padding":{"unit":"%","top":"0","right":"15","bottom":"0","left":"15","isLinked":false},"_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"d888349","elType":"widget","settings":{"ap_multiple_layout":"layout2","ap_multiple_test_data":[{"ap_multiple_img":{"id":203,"url":"https:\/\/demo.thepunte.com\/punte\/sass\/wp-content\/uploads\/sites\/27\/2020\/04\/team-6-saas.jpg"},"ap_multiple_team_title":"Lenox Lewies","ap_multiple_designation":"Project Manager","ap_multiple_phone":"+61986543210  &nbsp;&nbsp;\/","ap_multiple_email":"Email","_id":"883f0cf","ap_multiple_desc":""},{"ap_multiple_img":{"id":204,"url":"https:\/\/demo.thepunte.com\/punte\/sass\/wp-content\/uploads\/sites\/27\/2020\/04\/team-2.jpg"},"ap_multiple_team_title":"Peter Bardley","ap_multiple_designation":"Marketing Consultant","ap_multiple_phone":"+61986543210  &nbsp;&nbsp;\/","ap_multiple_email":"Email","_id":"827792c","ap_multiple_desc":""},{"ap_multiple_img":{"id":205,"url":"https:\/\/demo.thepunte.com\/punte\/sass\/wp-content\/uploads\/sites\/27\/2020\/04\/team-11.jpg"},"ap_multiple_team_title":"Jessica Smith","ap_multiple_designation":"Plugin Developer","ap_multiple_phone":"+61986543210  &nbsp;&nbsp;\/","ap_multiple_email":"Email","_id":"afbaa40","ap_multiple_desc":""},{"ap_multiple_img":{"id":206,"url":"https:\/\/demo.thepunte.com\/punte\/sass\/wp-content\/uploads\/sites\/27\/2020\/04\/team-9.jpg"},"ap_multiple_team_title":"Iliana Rabata","ap_multiple_designation":"Ios Developer","ap_multiple_phone":"+61986543210  &nbsp;&nbsp;\/","ap_multiple_email":"Email","_id":"c1b10bd","ap_multiple_desc":""},{"ap_multiple_img":{"id":208,"url":"https:\/\/demo.thepunte.com\/punte\/sass\/wp-content\/uploads\/sites\/27\/2020\/04\/team-5.jpg"},"ap_multiple_team_title":"Rebeca Chandler","ap_multiple_designation":"Anroid App Developer","ap_multiple_phone":"+61986543210  &nbsp;&nbsp;\/","ap_multiple_email":"Email","_id":"d85ffb9","ap_multiple_desc":""},{"ap_multiple_img":{"id":207,"url":"https:\/\/demo.thepunte.com\/punte\/sass\/wp-content\/uploads\/sites\/27\/2020\/04\/team-8.jpg"},"ap_multiple_team_title":"James Aguero","ap_multiple_designation":"App Ui Ux Desing","ap_multiple_phone":"+61986543210  &nbsp;&nbsp;\/","ap_multiple_email":"Email","_id":"d6bc737","ap_multiple_desc":""}],"name_color":"#313438","name_typography_typography":"custom","name_typography_font_family":"Quicksand","name_typography_font_size":{"unit":"px","size":22,"sizes":[]},"name_typography_font_weight":"600","desi_color":"#5e5e5e","desi_typography_typography":"custom","desi_typography_font_family":"Quicksand","desi_typography_font_size":{"unit":"px","size":16,"sizes":[]},"desi_typography_font_weight":"300","phone_color":"#787878","phone_typography_typography":"custom","phone_typography_font_family":"Quicksand","phone_typography_font_size":{"unit":"px","size":16,"sizes":[]},"phone_typography_font_weight":"300","email_color":"#787878","email_typography_typography":"custom","email_typography_font_family":"Quicksand","email_typography_font_size":{"unit":"px","size":16,"sizes":[]},"email_typography_font_weight":"300","desc_color":"#787878","desc_typography_typography":"custom","desc_typography_font_family":"Heebo","desc_typography_font_size":{"unit":"px","size":16,"sizes":[]},"desc_typography_font_weight":"300","_margin":{"unit":"px","top":"40","right":"-30","bottom":"0","left":"-20","isLinked":false},"name_typography_font_size_tablet":{"unit":"px","size":18,"sizes":[]},"desi_typography_font_size_tablet":{"unit":"px","size":14,"sizes":[]},"phone_typography_font_size_tablet":{"unit":"px","size":13,"sizes":[]},"phone_typography_line_height_tablet":{"unit":"em","size":0.1000000000000000055511151231257827021181583404541015625,"sizes":[]},"email_typography_font_size_tablet":{"unit":"px","size":13,"sizes":[]},"email_typography_line_height_tablet":{"unit":"em","size":0.1000000000000000055511151231257827021181583404541015625,"sizes":[]}},"elements":[],"widgetType":"ap-team"}],"isInner":false}],"isInner":false},{"id":"6383f48e","elType":"section","settings":{"background_background":"classic","background_image":{"id":202,"url":"https:\/\/demo.thepunte.com\/punte\/sass\/wp-content\/uploads\/sites\/27\/2020\/04\/cta-saas.jpg"},"background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"70","right":"0","bottom":"70","left":"0","isLinked":false},"stretch_section":"section-stretched"},"elements":[{"id":"6536ef89","elType":"column","settings":{"_column_size":100},"elements":[{"id":"79568578","elType":"section","settings":{"structure":"20"},"elements":[{"id":"12ba707c","elType":"column","settings":{"_column_size":50,"_inline_size":41.69500000000000028421709430404007434844970703125,"background_background":"classic","background_color":"#ffffff","padding":{"unit":"px","top":"80","right":"50","bottom":"80","left":"50","isLinked":false},"_inline_size_tablet":50},"elements":[{"id":"2e285850","elType":"widget","settings":{"title":"Building landing page is now more easy with Punte","align":"center","title_color":"#033b4a","typography_typography":"custom","typography_font_family":"Quicksand","typography_font_size":{"unit":"px","size":32,"sizes":[]},"typography_line_height":{"unit":"em","size":1.25,"sizes":[]},"typography_font_weight":"600","typography_font_size_tablet":{"unit":"px","size":24,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"78e4e6e7","elType":"widget","settings":{"editor":"When you need a kickstart in your business and you have no time for coding for your website, Bingle will take that job for you and will build a great looking website in minutes.","align":"center","text_color":"#73869e","typography_typography":"custom","typography_font_family":"Quicksand","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"300","typography_line_height":{"unit":"em","size":1.5,"sizes":[]},"typography_font_size_tablet":{"unit":"px","size":16,"sizes":[]}},"elements":[],"widgetType":"text-editor"},{"id":"ad4179","elType":"widget","settings":{"image":{"id":189,"url":"https:\/\/demo.thepunte.com\/punte\/sass\/wp-content\/uploads\/sites\/27\/2020\/04\/Layer-65-1.png"},"title_text":"24\/7 service available","description_text":"01 800 688 8688","title_size":"div","image_space":{"unit":"px","size":21,"sizes":[]},"image_size":{"unit":"%","size":20,"sizes":[]},"text_align":"center","content_vertical_alignment":"middle","title_bottom_space":{"unit":"px","size":5,"sizes":[]},"title_color":"#7a8a9e","title_typography_typography":"custom","title_typography_font_family":"Quicksand","title_typography_font_size":{"unit":"px","size":16,"sizes":[]},"title_typography_font_weight":"300","title_typography_text_transform":"uppercase","title_typography_line_height":{"unit":"em","size":1,"sizes":[]},"description_color":"#033b4a","description_typography_typography":"custom","description_typography_font_family":"Quicksand","description_typography_font_size":{"unit":"px","size":32,"sizes":[]},"description_typography_font_weight":"500","description_typography_line_height":{"unit":"em","size":1,"sizes":[]},"_margin":{"unit":"px","top":"15","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"30","bottom":"0","left":"30","isLinked":false},"image_space_tablet":{"unit":"px","size":12,"sizes":[]},"title_bottom_space_tablet":{"unit":"px","size":8,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":13,"sizes":[]},"description_typography_font_size_tablet":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"image-box"}],"isInner":true},{"id":"e881e64","elType":"column","settings":{"_column_size":50,"_inline_size":58.30499999999999971578290569595992565155029296875},"elements":[],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"45b8e5c6","elType":"section","settings":{"background_background":"classic","background_color":"#F6716F","padding":{"unit":"px","top":"15","right":"0","bottom":"15","left":"0","isLinked":false},"stretch_section":"section-stretched","padding_mobile":{"unit":"px","top":"20","right":"0","bottom":"30","left":"0","isLinked":false},"margin":{"unit":"px","top":"0","right":0,"bottom":"50","left":0,"isLinked":false}},"elements":[{"id":"333b5364","elType":"column","settings":{"_column_size":100},"elements":[{"id":"1a1ac595","elType":"section","settings":{"content_position":"middle","structure":"20"},"elements":[{"id":"6540b91c","elType":"column","settings":{"_column_size":50,"_inline_size":55.9320000000000021600499167107045650482177734375,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"642900ce","elType":"widget","settings":{"title":"Punte discovers new concepts and  projects  for starter","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":24,"sizes":[]},"typography_font_weight":"500","align_mobile":"center","typography_font_size_tablet":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":true},{"id":"53de8dbe","elType":"column","settings":{"_column_size":50,"_inline_size":44.0679999999999978399500832892954349517822265625},"elements":[{"id":"6033d566","elType":"widget","settings":{"text":"GET A QUOTE","align":"right","typography_typography":"custom","typography_font_family":"Poppins","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"300","typography_text_transform":"uppercase","typography_line_height":{"unit":"em","size":1,"sizes":[]},"button_text_color":"#5254ff","background_color":"#ffffff","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"text_padding":{"unit":"px","top":"16","right":"25","bottom":"16","left":"25","isLinked":false},"hover_color":"#ffffff","button_background_hover_color":"rgba(0,0,0,0.12)","align_mobile":"center","_margin_mobile":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4073,61 +4121,6 @@ startup business.</br>Ready for a challenge</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Hello world!</title>
-		<link>https://demo.thepunte.com/punte/sass/2020/02/12/hello-world__trashed/</link>
-		<pubDate>Wed, 12 Feb 2020 05:04:36 +0000</pubDate>
-		<dc:creator><![CDATA[Access]]></dc:creator>
-		<guid isPermaLink="false">http://demo.thepunte.com/punte/sass/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[Welcome to <a href="http://demo.thepunte.com/punte/">Punte Sites</a>. This is your first post. Edit or delete it, then start blogging!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date><![CDATA[2020-02-12 05:04:36]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-02-12 05:04:36]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1587123965]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2020-02-12 05:04:36]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2020-02-12 05:04:36]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
-					<item>
 		<title>Contact page</title>
 		<link>https://demo.thepunte.com/punte/sass/?post_type=wpcf7_contact_form&#038;p=144</link>
 		<pubDate>Fri, 17 Apr 2020 10:14:13 +0000</pubDate>
@@ -4552,7 +4545,49 @@ This e-mail was sent from a contact form on SASS (https://demo.thepunte.com/punt
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[149]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+							<wp:comment>
+			<wp:comment_id>5</wp:comment_id>
+			<wp:comment_author><![CDATA[earnemn]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[earnemn@avmail.xyz]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[5.188.84.6]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2020-06-20 03:06:00]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2020-06-20 03:06:00]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Secure Ordering Free Shipping Dutasteride Ups Medicine Amex Accepted  https://bbuycialisss.com/ - Cialis Acheter Cialis Sur Ebay  <a href="https://bbuycialisss.com/#" rel="nofollow ugc">buy cialis canada pharmacy</a> Cialis E Viagra]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>6</wp:comment_id>
+			<wp:comment_author><![CDATA[cialis online]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[whanumn@avmail.xyz]]></wp:comment_author_email>
+			<wp:comment_author_url>https://ascialis.com</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[5.188.84.6]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2020-07-11 12:41:12]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2020-07-11 12:41:12]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Viagra Und Alkohol  tieriAspet https://ascialis.com/# - tadalafil cialis from india Embert Para Que Sirve La Cialis  JeatsDeews <a href="https://ascialis.com/#" rel="nofollow ugc">cialis 5mg best price</a> WotalullyDot Cialis In Welchen Landern Rezeptfrei]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>7</wp:comment_id>
+			<wp:comment_author><![CDATA[online cialis]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[Sonkayand@aemail.xyz]]></wp:comment_author_email>
+			<wp:comment_author_url>https://acialisse.com</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[5.188.84.130]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2020-08-10 09:53:14]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2020-08-10 09:53:14]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[cialis theme music  vobrebrart https://acialisse.com/ - buy cialis with paypal Tannoxleno Fda Approved Canadian Pharmarcies  Slummosy <a href="https://acialisse.com/#" rel="nofollow ugc">cialis 5mg</a> Entenuendodo Viagra En Comprime]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
 					<item>
 		<title>Flying Ninja</title>
 		<link>https://demo.thepunte.com/punte/sass/product/flying-ninja/</link>
@@ -5165,161 +5200,6 @@ This e-mail was sent from a contact form on SASS (https://demo.thepunte.com/punt
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[85]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>About</title>
-		<link>https://demo.thepunte.com/punte/sass/about/</link>
-		<pubDate>Sun, 19 Apr 2020 04:32:51 +0000</pubDate>
-		<dc:creator><![CDATA[Access]]></dc:creator>
-		<guid isPermaLink="false">https://demo.thepunte.com/punte/sass/?page_id=181</guid>
-		<description></description>
-		<content:encoded><![CDATA[<h2>A great value for your
-startup business.</br>Ready for a challenge</h2>		
-				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Capa_1" style="enable-background:new 0 0 59.998 59.998;" viewBox="0 0 59.998 59.998" xml:space="preserve"><path d="M59.206,0.293c-0.391-0.391-1.023-0.391-1.414,0L54.085,4H30.802L1.532,33.511c-0.666,0.666-1.033,1.553-1.033,2.495  s0.367,1.829,1.033,2.495l20.466,20.466c0.687,0.687,1.588,1.031,2.491,1.031c0.907,0,1.814-0.347,2.509-1.041l28.501-29.271V5.414  l3.707-3.707C59.597,1.316,59.597,0.684,59.206,0.293z M53.499,28.874L25.574,57.553c-0.596,0.596-1.566,0.596-2.162,0L2.946,37.087  c-0.596-0.596-0.596-1.566,0.003-2.165L31.636,6h20.449l-4.833,4.833C46.461,10.309,45.516,10,44.499,10c-2.757,0-5,2.243-5,5  s2.243,5,5,5s5-2.243,5-5c0-1.017-0.309-1.962-0.833-2.753l4.833-4.833V28.874z M47.499,15c0,1.654-1.346,3-3,3s-3-1.346-3-3  s1.346-3,3-3c0.462,0,0.894,0.114,1.285,0.301l-1.992,1.992c-0.391,0.391-0.391,1.023,0,1.414C43.987,15.902,44.243,16,44.499,16  s0.512-0.098,0.707-0.293l1.992-1.992C47.386,14.106,47.499,14.538,47.499,15z"></path><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>				
-				<h3>
-					01 / Personal Branding
-				</h3>
-								<p>Exceptional expertise in project lifecycle management, risk assessment, feasibility study</p>
-				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Capa_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<g>
-	<g>
-		<path d="M467.819,431.851l-36.651-61.056c-16.896-28.181-25.835-60.437-25.835-93.312V224    c0-82.325-67.008-149.333-149.333-149.333S106.667,141.675,106.667,224v53.483c0,32.875-8.939,65.131-25.835,93.312    l-36.651,61.056c-1.984,3.285-2.027,7.403-0.149,10.731c1.899,3.349,5.461,5.419,9.301,5.419h405.333    c3.84,0,7.403-2.069,9.301-5.419C469.845,439.253,469.803,435.136,467.819,431.851z M72.171,426.667l26.944-44.907    C118.016,350.272,128,314.219,128,277.483V224c0-70.592,57.408-128,128-128s128,57.408,128,128v53.483    c0,36.736,9.984,72.789,28.864,104.277l26.965,44.907H72.171z"></path>
-	</g>
-</g>
-<g>
-	<g>
-		<path d="M256,0c-23.531,0-42.667,19.136-42.667,42.667v42.667C213.333,91.221,218.112,96,224,96s10.667-4.779,10.667-10.667    V42.667c0-11.776,9.557-21.333,21.333-21.333s21.333,9.557,21.333,21.333v42.667C277.333,91.221,282.112,96,288,96    s10.667-4.779,10.667-10.667V42.667C298.667,19.136,279.531,0,256,0z"></path>
-	</g>
-</g>
-<g>
-	<g>
-		<path d="M302.165,431.936c-3.008-5.077-9.515-6.741-14.613-3.819c-5.099,2.987-6.805,9.536-3.819,14.613    c2.773,4.715,4.288,10.368,4.288,15.936c0,17.643-14.357,32-32,32c-17.643,0-32-14.357-32-32c0-5.568,1.515-11.221,4.288-15.936    c2.965-5.099,1.259-11.627-3.819-14.613c-5.141-2.923-11.627-1.259-14.613,3.819c-4.715,8.064-7.211,17.301-7.211,26.731    C202.667,488.085,226.581,512,256,512s53.333-23.915,53.376-53.333C309.376,449.237,306.88,440,302.165,431.936z"></path>
-	</g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-</svg>				
-				<h3>
-					02 / Business Consulting
-				</h3>
-								<p>We publish a very broad range of fiction and fiction international and books for younger</p>
-				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" style="enable-background:new 0 0 100.4 100.4;" viewBox="0 0 100.4 100.4" xml:space="preserve"><path d="M88.6,25.1V12.9c0-0.8-0.7-1.5-1.5-1.5H50.5V4.1c0-0.8-0.7-1.5-1.5-1.5s-1.5,0.7-1.5,1.5v7.3H11c-0.8,0-1.5,0.7-1.5,1.5  v12.2c0,0.4,0,1.3,0,2V63c0,0.8,0.7,1.5,1.5,1.5h23.2l-7.7,32.3c-0.2,0.8,0.3,1.6,1.1,1.8c0.1,0,0.2,0,0.4,0c0.7,0,1.3-0.5,1.5-1.1  l7.9-33h10.3v24.2c0,0.8,0.7,1.5,1.5,1.5s1.5-0.7,1.5-1.5V64.5h10l8.2,33c0.2,0.7,0.8,1.1,1.5,1.1c0.1,0,0.2,0,0.4,0  c0.8-0.2,1.3-1,1.1-1.8l-8-32.3h23.4c0.8,0,1.5-0.7,1.5-1.5C88.8,63,88.6,25.6,88.6,25.1z M85.6,14.4v10.2H12.5V14.4H85.6z   M12.5,61.5V27.6h73.1v33.9H12.5z"></path></svg>				
-				<h3>
-					03 / Online Marketing
-				</h3>
-								<p>Skills in almost all aspects of web promotion, Android App development, online company </p>
-			<h2>Innovative Business Ideas<br>and Brainstroming</h2>		
-		<p>Skills in almost all aspects of web promotion, Android App development, online company branding, software development &amp; testing. It is a long established fact that a reader . Expertise in the area of in-house application design.</p>https://www.youtube.com/watch?v=XHOmBV4js_E		
-			We develop digital strategies products and services.		
-			<h2>Learn the features of new Beautiful lifestyle app!</h2>		
-                                                    <img src="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/team-6-saas.jpg" >
-                                                            <h2>
-                                    Lenox Lewies                                </h2>
-                                    Project Manager                                
-                                    +61986543210  &nbsp;&nbsp;/                                
-                                    Email                                
-                                                    <img src="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/team-2.jpg" >
-                                                            <h2>
-                                    Peter Bardley                                </h2>
-                                    Marketing Consultant                                
-                                    +61986543210  &nbsp;&nbsp;/                                
-                                    Email                                
-                                                    <img src="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/team-11.jpg" >
-                                                            <h2>
-                                    Jessica Smith                                </h2>
-                                    Plugin Developer                                
-                                    +61986543210  &nbsp;&nbsp;/                                
-                                    Email                                
-                                                    <img src="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/team-9.jpg" >
-                                                            <h2>
-                                    Iliana Rabata                                </h2>
-                                    Ios Developer                                
-                                    +61986543210  &nbsp;&nbsp;/                                
-                                    Email                                
-                                                    <img src="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/team-5.jpg" >
-                                                            <h2>
-                                    Rebeca Chandler                                </h2>
-                                    Anroid App Developer                                
-                                    +61986543210  &nbsp;&nbsp;/                                
-                                    Email                                
-                                                    <img src="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/team-8.jpg" >
-                                                            <h2>
-                                    James Aguero                                </h2>
-                                    App Ui Ux Desing                                
-                                    +61986543210  &nbsp;&nbsp;/                                
-                                    Email                                
-			<h2>Building landing page is now more easy with Punte</h2>		
-		When you need a kickstart in your business and you have no time for coding for your website, Bingle will take that job for you and will build a great looking website in minutes.		
-			<figure><img width="56" height="56" src="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/Layer-65-1.png" alt="" /></figure>24/7 service available<p>01 800 688 8688</p>		
-			<h2>Punte discovers new concepts and  projects  for starter</h2>		
-			<a href="#" role="button">
-						GET A QUOTE
-					</a>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>181</wp:post_id>
-		<wp:post_date><![CDATA[2020-04-19 04:32:51]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-04-19 04:32:51]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[about]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.9.7]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[templates/vc-template.php]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:7:"heading";a:3:{s:5:"count";i:6;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:4:{s:5:"title";i:6;s:5:"align";i:5;s:11:"header_size";i:1;s:12:"align_mobile";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:9:{s:11:"title_color";i:6;s:21:"typography_typography";i:6;s:22:"typography_font_family";i:6;s:20:"typography_font_size";i:6;s:22:"typography_line_height";i:4;s:22:"typography_font_weight";i:6;s:27:"typography_font_size_tablet";i:3;s:29:"typography_line_height_tablet";i:1;s:25:"typography_letter_spacing";i:1;}}s:8:"advanced";a:2:{s:14:"_section_style";a:2:{s:8:"_padding";i:2;s:15:"_padding_mobile";i:2;}s:19:"_section_background";a:1:{s:22:"_background_background";i:1;}}}}s:8:"icon-box";a:3:{s:5:"count";i:3;s:15:"control_percent";i:10;s:8:"controls";a:2:{s:7:"content";a:1:{s:12:"section_icon";a:4:{s:13:"selected_icon";i:3;s:4:"view";i:3;s:10:"title_text";i:3;s:16:"description_text";i:3;}}s:5:"style";a:2:{s:18:"section_style_icon";a:5:{s:9:"icon_size";i:3;s:12:"border_width";i:3;s:13:"primary_color";i:3;s:12:"icon_padding";i:3;s:16:"icon_size_tablet";i:3;}s:21:"section_style_content";a:16:{s:11:"title_color";i:3;s:27:"title_typography_typography";i:3;s:28:"title_typography_font_family";i:3;s:26:"title_typography_font_size";i:3;s:17:"description_color";i:3;s:33:"description_typography_typography";i:3;s:34:"description_typography_font_family";i:3;s:32:"description_typography_font_size";i:3;s:34:"description_typography_font_weight";i:3;s:28:"title_typography_font_weight";i:3;s:28:"title_typography_line_height";i:3;s:34:"description_typography_line_height";i:3;s:33:"title_typography_font_size_tablet";i:3;s:35:"title_typography_line_height_tablet";i:3;s:39:"description_typography_font_size_tablet";i:3;s:41:"description_typography_line_height_tablet";i:3;}}}}s:6:"column";a:3:{s:5:"count";i:15;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:12:"_inline_size";i:9;s:19:"_inline_size_tablet";i:1;}}s:5:"style";a:3:{s:14:"section_border";a:3:{s:27:"box_shadow_hover_box_shadow";i:3;s:26:"box_shadow_box_shadow_type";i:1;s:21:"box_shadow_box_shadow";i:1;}s:13:"section_style";a:3:{s:27:"background_hover_background";i:1;s:21:"background_background";i:1;s:16:"background_color";i:1;}s:12:"section_typo";a:1:{s:10:"text_align";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:7:"padding";i:5;s:6:"margin";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:10;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:4;}s:14:"section_layout";a:2:{s:16:"content_position";i:2;s:15:"stretch_section";i:4;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:6:{s:7:"padding";i:5;s:14:"padding_mobile";i:2;s:6:"margin";i:4;s:13:"margin_tablet";i:1;s:14:"padding_tablet";i:1;s:13:"margin_mobile";i:2;}}s:5:"style";a:2:{s:18:"section_background";a:6:{s:19:"background_position";i:1;s:17:"background_repeat";i:2;s:15:"background_size";i:2;s:21:"background_background";i:3;s:16:"background_image";i:2;s:16:"background_color";i:1;}s:26:"section_background_overlay";a:3:{s:29:"background_overlay_background";i:1;s:24:"background_overlay_color";i:1;s:26:"background_overlay_opacity";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:2;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:9:{s:10:"text_color";i:2;s:21:"typography_typography";i:2;s:22:"typography_font_family";i:2;s:20:"typography_font_size";i:2;s:22:"typography_font_weight";i:2;s:22:"typography_line_height";i:2;s:27:"typography_font_size_tablet";i:2;s:29:"typography_line_height_tablet";i:1;s:5:"align";i:1;}}}}s:5:"video";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:21:"section_image_overlay";a:3:{s:18:"show_image_overlay";i:1;s:13:"image_overlay";i:1;s:8:"lightbox";i:1;}}s:8:"advanced";a:3:{s:14:"_section_style";a:1:{s:8:"_padding";i:1;}s:19:"_section_background";a:2:{s:22:"_background_background";i:1;s:17:"_background_color";i:1;}s:17:"_section_position";a:3:{s:9:"_position";i:1;s:9:"_offset_x";i:1;s:9:"_offset_y";i:1;}}}}s:7:"ap-team";a:3:{s:5:"count";i:1;s:15:"control_percent";i:13;s:8:"controls";a:3:{s:7:"content";a:2:{s:16:"ap_layout_option";a:1:{s:18:"ap_multiple_layout";i:1;}s:15:"slider_controls";a:1:{s:21:"ap_multiple_test_data";i:1;}}s:5:"style";a:1:{s:21:"section_general_style";a:31:{s:10:"name_color";i:1;s:26:"name_typography_typography";i:1;s:27:"name_typography_font_family";i:1;s:25:"name_typography_font_size";i:1;s:27:"name_typography_font_weight";i:1;s:10:"desi_color";i:1;s:26:"desi_typography_typography";i:1;s:27:"desi_typography_font_family";i:1;s:25:"desi_typography_font_size";i:1;s:27:"desi_typography_font_weight";i:1;s:11:"phone_color";i:1;s:27:"phone_typography_typography";i:1;s:28:"phone_typography_font_family";i:1;s:26:"phone_typography_font_size";i:1;s:28:"phone_typography_font_weight";i:1;s:11:"email_color";i:1;s:27:"email_typography_typography";i:1;s:28:"email_typography_font_family";i:1;s:26:"email_typography_font_size";i:1;s:28:"email_typography_font_weight";i:1;s:10:"desc_color";i:1;s:26:"desc_typography_typography";i:1;s:27:"desc_typography_font_family";i:1;s:25:"desc_typography_font_size";i:1;s:27:"desc_typography_font_weight";i:1;s:32:"name_typography_font_size_tablet";i:1;s:32:"desi_typography_font_size_tablet";i:1;s:33:"phone_typography_font_size_tablet";i:1;s:35:"phone_typography_line_height_tablet";i:1;s:33:"email_typography_font_size_tablet";i:1;s:35:"email_typography_line_height_tablet";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:9:"image-box";a:3:{s:5:"count";i:1;s:15:"control_percent";i:11;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:4:{s:5:"image";i:1;s:10:"title_text";i:1;s:16:"description_text";i:1;s:10:"title_size";i:1;}}s:5:"style";a:2:{s:19:"section_style_image";a:3:{s:11:"image_space";i:1;s:10:"image_size";i:1;s:18:"image_space_tablet";i:1;}s:21:"section_style_content";a:19:{s:10:"text_align";i:1;s:26:"content_vertical_alignment";i:1;s:18:"title_bottom_space";i:1;s:11:"title_color";i:1;s:27:"title_typography_typography";i:1;s:28:"title_typography_font_family";i:1;s:26:"title_typography_font_size";i:1;s:28:"title_typography_font_weight";i:1;s:31:"title_typography_text_transform";i:1;s:28:"title_typography_line_height";i:1;s:17:"description_color";i:1;s:33:"description_typography_typography";i:1;s:34:"description_typography_font_family";i:1;s:32:"description_typography_font_size";i:1;s:34:"description_typography_font_weight";i:1;s:34:"description_typography_line_height";i:1;s:25:"title_bottom_space_tablet";i:1;s:33:"title_typography_font_size_tablet";i:1;s:39:"description_typography_font_size_tablet";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:8:"_padding";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:1;s:15:"control_percent";i:7;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_button";a:3:{s:4:"text";i:1;s:5:"align";i:1;s:12:"align_mobile";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:12:{s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:20:"typography_font_size";i:1;s:22:"typography_font_weight";i:1;s:25:"typography_text_transform";i:1;s:22:"typography_line_height";i:1;s:17:"button_text_color";i:1;s:16:"background_color";i:1;s:13:"border_radius";i:1;s:12:"text_padding";i:1;s:11:"hover_color";i:1;s:29:"button_background_hover_color";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:14:"_margin_mobile";i:1;}}}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"7cd8aecb","elType":"section","settings":{"padding":{"unit":"px","top":"80","right":"0","bottom":"80","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"50","right":"0","bottom":"30","left":"0","isLinked":false},"margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"7b595ce3","elType":"column","settings":{"_column_size":100},"elements":[{"id":"2fbbafba","elType":"widget","settings":{"title":"A great value for your\nstartup business.<\/br>Ready for a challenge","align":"center","title_color":"#303030","typography_typography":"custom","typography_font_family":"Quicksand","typography_font_size":{"unit":"px","size":28,"sizes":[]},"typography_line_height":{"unit":"em","size":1.399999999999999911182158029987476766109466552734375,"sizes":[]},"_padding":{"unit":"%","top":"0","right":"15","bottom":"0","left":"15","isLinked":false},"typography_font_weight":"600","_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"46153d65","elType":"section","settings":{"structure":"30"},"elements":[{"id":"6c60cb50","elType":"column","settings":{"_column_size":33,"_inline_size":null,"box_shadow_hover_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"color":"rgba(0,0,0,0.2)"},"padding":{"unit":"px","top":"50","right":"40","bottom":"50","left":"40","isLinked":false},"background_hover_background":"classic"},"elements":[{"id":"43d03496","elType":"widget","settings":{"selected_icon":{"value":{"id":193,"url":"https:\/\/demo.thepunte.com\/punte\/sass\/wp-content\/uploads\/sites\/27\/2020\/04\/iconfinder_price-tag-7_3338890.svg"},"library":"svg"},"view":"framed","title_text":"01 \/ Personal Branding","description_text":"Exceptional expertise in project lifecycle management, risk assessment, feasibility study","icon_size":{"unit":"px","size":32,"sizes":[]},"border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"title_color":"#444444","title_typography_typography":"custom","title_typography_font_family":"Quicksand","title_typography_font_size":{"unit":"px","size":22,"sizes":[]},"description_color":"#5e5e5e","description_typography_typography":"custom","description_typography_font_family":"Quicksand","description_typography_font_size":{"unit":"px","size":18,"sizes":[]},"description_typography_font_weight":"400","primary_color":"#DF5059","icon_padding":{"unit":"px","size":10,"sizes":[]},"title_typography_font_weight":"600","title_typography_line_height":{"unit":"px","size":30,"sizes":[]},"description_typography_line_height":{"unit":"px","size":28,"sizes":[]},"icon_size_tablet":{"unit":"px","size":14,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":20,"sizes":[]},"title_typography_line_height_tablet":{"unit":"px","size":26,"sizes":[]},"description_typography_font_size_tablet":{"unit":"px","size":16,"sizes":[]},"description_typography_line_height_tablet":{"unit":"px","size":22,"sizes":[]}},"elements":[],"widgetType":"icon-box"}],"isInner":true},{"id":"3f88659c","elType":"column","settings":{"_column_size":33,"_inline_size":null,"box_shadow_hover_box_shadow":{"horizontal":-100,"vertical":-100,"blur":0,"spread":-100,"color":""},"padding":{"unit":"px","top":"50","right":"40","bottom":"50","left":"40","isLinked":false},"box_shadow_box_shadow_type":"yes","box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":15,"spread":0,"color":"rgba(51, 0, 226, 0.15)"}},"elements":[{"id":"2b188e05","elType":"widget","settings":{"selected_icon":{"value":{"id":194,"url":"https:\/\/demo.thepunte.com\/punte\/sass\/wp-content\/uploads\/sites\/27\/2020\/04\/notification.svg"},"library":"svg"},"view":"framed","title_text":"02 \/ Business Consulting","description_text":"We publish a very broad range of fiction and fiction international and books for younger","icon_size":{"unit":"px","size":32,"sizes":[]},"border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"title_color":"#444444","title_typography_typography":"custom","title_typography_font_family":"Quicksand","title_typography_font_size":{"unit":"px","size":22,"sizes":[]},"description_color":"#5e5e5e","description_typography_typography":"custom","description_typography_font_family":"Quicksand","description_typography_font_size":{"unit":"px","size":18,"sizes":[]},"description_typography_font_weight":"400","primary_color":"#DF5059","icon_padding":{"unit":"px","size":10,"sizes":[]},"title_typography_font_weight":"600","title_typography_line_height":{"unit":"px","size":30,"sizes":[]},"description_typography_line_height":{"unit":"px","size":28,"sizes":[]},"icon_size_tablet":{"unit":"px","size":14,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":20,"sizes":[]},"title_typography_line_height_tablet":{"unit":"px","size":26,"sizes":[]},"description_typography_font_size_tablet":{"unit":"px","size":16,"sizes":[]},"description_typography_line_height_tablet":{"unit":"px","size":22,"sizes":[]}},"elements":[],"widgetType":"icon-box"}],"isInner":true},{"id":"61da8ef3","elType":"column","settings":{"_column_size":33,"_inline_size":null,"box_shadow_hover_box_shadow":{"horizontal":0,"vertical":0,"blur":10,"spread":0,"color":"rgba(0,0,0,0.2)"},"padding":{"unit":"px","top":"50","right":"40","bottom":"50","left":"40","isLinked":false}},"elements":[{"id":"1cfd023","elType":"widget","settings":{"selected_icon":{"value":{"id":195,"url":"https:\/\/demo.thepunte.com\/punte\/sass\/wp-content\/uploads\/sites\/27\/2020\/04\/iconfinder_Tilda_Icons_1ed_flipchart_3586368.svg"},"library":"svg"},"view":"framed","title_text":"03 \/ Online Marketing","description_text":"Skills in almost all aspects of web promotion, Android App development, online company ","icon_size":{"unit":"px","size":32,"sizes":[]},"border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"title_color":"#444444","title_typography_typography":"custom","title_typography_font_family":"Quicksand","title_typography_font_size":{"unit":"px","size":22,"sizes":[]},"description_color":"#5e5e5e","description_typography_typography":"custom","description_typography_font_family":"Quicksand","description_typography_font_size":{"unit":"px","size":18,"sizes":[]},"description_typography_font_weight":"400","primary_color":"#DF5059","icon_padding":{"unit":"px","size":10,"sizes":[]},"title_typography_font_weight":"600","title_typography_line_height":{"unit":"px","size":30,"sizes":[]},"description_typography_line_height":{"unit":"px","size":28,"sizes":[]},"icon_size_tablet":{"unit":"px","size":14,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":20,"sizes":[]},"title_typography_line_height_tablet":{"unit":"px","size":26,"sizes":[]},"description_typography_font_size_tablet":{"unit":"px","size":16,"sizes":[]},"description_typography_line_height_tablet":{"unit":"px","size":22,"sizes":[]}},"elements":[],"widgetType":"icon-box"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"7eb171da","elType":"section","settings":{"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","background_overlay_background":"classic","background_overlay_color":"#F86972","padding":{"unit":"px","top":"74","right":"0","bottom":"300","left":"0","isLinked":false},"background_overlay_opacity":{"unit":"px","size":0.79000000000000003552713678800500929355621337890625,"sizes":[]},"padding_tablet":{"unit":"px","top":"70","right":"0","bottom":"300","left":"0","isLinked":false},"background_background":"classic","background_image":{"id":201,"url":"https:\/\/demo.thepunte.com\/punte\/sass\/wp-content\/uploads\/sites\/27\/2020\/04\/cta-1.jpg"},"margin_mobile":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"stretch_section":"section-stretched"},"elements":[{"id":"195f1d8d","elType":"column","settings":{"_column_size":100,"margin":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"1e757e80","elType":"section","settings":{"structure":"20","margin_tablet":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":true},"content_position":"middle"},"elements":[{"id":"19a14892","elType":"column","settings":{"_column_size":50,"_inline_size":null,"text_align":"left"},"elements":[{"id":"5f436e95","elType":"widget","settings":{"title":"Innovative Business Ideas<br>and Brainstroming","align":"left","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":42,"sizes":[]},"typography_line_height":{"unit":"px","size":50,"sizes":[]},"typography_font_weight":"600","_background_background":"classic","typography_font_size_tablet":{"unit":"px","size":28,"sizes":[]},"typography_line_height_tablet":{"unit":"px","size":34,"sizes":[]},"typography_letter_spacing":{"unit":"px","size":-1,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":true},{"id":"131461cb","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"67c73074","elType":"widget","settings":{"editor":"<p>Skills in almost all aspects of web promotion, Android App development, online company branding, software development &amp; testing. It is a long established fact that a reader . Expertise in the area of in-house application design.<\/p>","text_color":"#ffffff","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"px","size":28,"sizes":[]},"typography_font_size_tablet":{"unit":"px","size":16,"sizes":[]},"typography_line_height_tablet":{"unit":"px","size":22,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"25dd04d2","elType":"section","settings":{"margin":{"unit":"px","top":"","right":0,"bottom":"","left":0,"isLinked":true},"margin_mobile":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"3382547a","elType":"column","settings":{"_column_size":100},"elements":[{"id":"4b704697","elType":"widget","settings":{"youtube_url":"https:\/\/www.youtube.com\/watch?v=XHOmBV4js_E","vimeo_url":"https:\/\/vimeo.com\/235215203","dailymotion_url":"https:\/\/www.dailymotion.com\/video\/x6tqhqb","show_image_overlay":"yes","image_overlay":{"id":199,"url":"https:\/\/demo.thepunte.com\/punte\/sass\/wp-content\/uploads\/sites\/27\/2020\/04\/youtuber.jpg"},"lightbox":"yes","_padding":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true},"_background_background":"classic","_background_color":"#ffffff","_position":"absolute","_offset_x":{"unit":"px","size":0,"sizes":[]},"_offset_y":{"unit":"px","size":-287,"sizes":[]}},"elements":[],"widgetType":"video"}],"isInner":false}],"isInner":false},{"id":"763c105f","elType":"section","settings":{"padding":{"unit":"px","top":"70","right":"0","bottom":"0","left":"0","isLinked":false},"stretch_section":"section-stretched","margin":{"unit":"px","top":"450","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"3d0466fb","elType":"column","settings":{"_column_size":100},"elements":[{"id":"43006b82","elType":"widget","settings":{"title":"We develop digital strategies products and services.","header_size":"div","align":"center","title_color":"#969696","typography_typography":"custom","typography_font_family":"Quicksand","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"300"},"elements":[],"widgetType":"heading"},{"id":"361c7821","elType":"widget","settings":{"title":"Learn the features of new Beautiful lifestyle app!","align":"center","title_color":"#303030","typography_typography":"custom","typography_font_family":"Quicksand","typography_font_size":{"unit":"px","size":28,"sizes":[]},"typography_font_weight":"600","typography_line_height":{"unit":"em","size":1.399999999999999911182158029987476766109466552734375,"sizes":[]},"_padding":{"unit":"%","top":"0","right":"15","bottom":"0","left":"15","isLinked":false},"_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"d888349","elType":"widget","settings":{"ap_multiple_layout":"layout2","ap_multiple_test_data":[{"ap_multiple_img":{"id":203,"url":"https:\/\/demo.thepunte.com\/punte\/sass\/wp-content\/uploads\/sites\/27\/2020\/04\/team-6-saas.jpg"},"ap_multiple_team_title":"Lenox Lewies","ap_multiple_designation":"Project Manager","ap_multiple_phone":"+61986543210  &nbsp;&nbsp;\/","ap_multiple_email":"Email","_id":"883f0cf","ap_multiple_desc":""},{"ap_multiple_img":{"id":204,"url":"https:\/\/demo.thepunte.com\/punte\/sass\/wp-content\/uploads\/sites\/27\/2020\/04\/team-2.jpg"},"ap_multiple_team_title":"Peter Bardley","ap_multiple_designation":"Marketing Consultant","ap_multiple_phone":"+61986543210  &nbsp;&nbsp;\/","ap_multiple_email":"Email","_id":"827792c","ap_multiple_desc":""},{"ap_multiple_img":{"id":205,"url":"https:\/\/demo.thepunte.com\/punte\/sass\/wp-content\/uploads\/sites\/27\/2020\/04\/team-11.jpg"},"ap_multiple_team_title":"Jessica Smith","ap_multiple_designation":"Plugin Developer","ap_multiple_phone":"+61986543210  &nbsp;&nbsp;\/","ap_multiple_email":"Email","_id":"afbaa40","ap_multiple_desc":""},{"ap_multiple_img":{"id":206,"url":"https:\/\/demo.thepunte.com\/punte\/sass\/wp-content\/uploads\/sites\/27\/2020\/04\/team-9.jpg"},"ap_multiple_team_title":"Iliana Rabata","ap_multiple_designation":"Ios Developer","ap_multiple_phone":"+61986543210  &nbsp;&nbsp;\/","ap_multiple_email":"Email","_id":"c1b10bd","ap_multiple_desc":""},{"ap_multiple_img":{"id":208,"url":"https:\/\/demo.thepunte.com\/punte\/sass\/wp-content\/uploads\/sites\/27\/2020\/04\/team-5.jpg"},"ap_multiple_team_title":"Rebeca Chandler","ap_multiple_designation":"Anroid App Developer","ap_multiple_phone":"+61986543210  &nbsp;&nbsp;\/","ap_multiple_email":"Email","_id":"d85ffb9","ap_multiple_desc":""},{"ap_multiple_img":{"id":207,"url":"https:\/\/demo.thepunte.com\/punte\/sass\/wp-content\/uploads\/sites\/27\/2020\/04\/team-8.jpg"},"ap_multiple_team_title":"James Aguero","ap_multiple_designation":"App Ui Ux Desing","ap_multiple_phone":"+61986543210  &nbsp;&nbsp;\/","ap_multiple_email":"Email","_id":"d6bc737","ap_multiple_desc":""}],"name_color":"#313438","name_typography_typography":"custom","name_typography_font_family":"Quicksand","name_typography_font_size":{"unit":"px","size":22,"sizes":[]},"name_typography_font_weight":"600","desi_color":"#5e5e5e","desi_typography_typography":"custom","desi_typography_font_family":"Quicksand","desi_typography_font_size":{"unit":"px","size":16,"sizes":[]},"desi_typography_font_weight":"300","phone_color":"#787878","phone_typography_typography":"custom","phone_typography_font_family":"Quicksand","phone_typography_font_size":{"unit":"px","size":16,"sizes":[]},"phone_typography_font_weight":"300","email_color":"#787878","email_typography_typography":"custom","email_typography_font_family":"Quicksand","email_typography_font_size":{"unit":"px","size":16,"sizes":[]},"email_typography_font_weight":"300","desc_color":"#787878","desc_typography_typography":"custom","desc_typography_font_family":"Heebo","desc_typography_font_size":{"unit":"px","size":16,"sizes":[]},"desc_typography_font_weight":"300","_margin":{"unit":"px","top":"40","right":"-30","bottom":"0","left":"-20","isLinked":false},"name_typography_font_size_tablet":{"unit":"px","size":18,"sizes":[]},"desi_typography_font_size_tablet":{"unit":"px","size":14,"sizes":[]},"phone_typography_font_size_tablet":{"unit":"px","size":13,"sizes":[]},"phone_typography_line_height_tablet":{"unit":"em","size":0.1000000000000000055511151231257827021181583404541015625,"sizes":[]},"email_typography_font_size_tablet":{"unit":"px","size":13,"sizes":[]},"email_typography_line_height_tablet":{"unit":"em","size":0.1000000000000000055511151231257827021181583404541015625,"sizes":[]}},"elements":[],"widgetType":"ap-team"}],"isInner":false}],"isInner":false},{"id":"6383f48e","elType":"section","settings":{"background_background":"classic","background_image":{"id":202,"url":"https:\/\/demo.thepunte.com\/punte\/sass\/wp-content\/uploads\/sites\/27\/2020\/04\/cta-saas.jpg"},"background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"70","right":"0","bottom":"70","left":"0","isLinked":false},"stretch_section":"section-stretched"},"elements":[{"id":"6536ef89","elType":"column","settings":{"_column_size":100},"elements":[{"id":"79568578","elType":"section","settings":{"structure":"20"},"elements":[{"id":"12ba707c","elType":"column","settings":{"_column_size":50,"_inline_size":41.69500000000000028421709430404007434844970703125,"background_background":"classic","background_color":"#ffffff","padding":{"unit":"px","top":"80","right":"50","bottom":"80","left":"50","isLinked":false},"_inline_size_tablet":50},"elements":[{"id":"2e285850","elType":"widget","settings":{"title":"Building landing page is now more easy with Punte","align":"center","title_color":"#033b4a","typography_typography":"custom","typography_font_family":"Quicksand","typography_font_size":{"unit":"px","size":32,"sizes":[]},"typography_line_height":{"unit":"em","size":1.25,"sizes":[]},"typography_font_weight":"600","typography_font_size_tablet":{"unit":"px","size":24,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"78e4e6e7","elType":"widget","settings":{"editor":"When you need a kickstart in your business and you have no time for coding for your website, Bingle will take that job for you and will build a great looking website in minutes.","align":"center","text_color":"#73869e","typography_typography":"custom","typography_font_family":"Quicksand","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"300","typography_line_height":{"unit":"em","size":1.5,"sizes":[]},"typography_font_size_tablet":{"unit":"px","size":16,"sizes":[]}},"elements":[],"widgetType":"text-editor"},{"id":"ad4179","elType":"widget","settings":{"image":{"id":189,"url":"https:\/\/demo.thepunte.com\/punte\/sass\/wp-content\/uploads\/sites\/27\/2020\/04\/Layer-65-1.png"},"title_text":"24\/7 service available","description_text":"01 800 688 8688","title_size":"div","image_space":{"unit":"px","size":21,"sizes":[]},"image_size":{"unit":"%","size":20,"sizes":[]},"text_align":"center","content_vertical_alignment":"middle","title_bottom_space":{"unit":"px","size":5,"sizes":[]},"title_color":"#7a8a9e","title_typography_typography":"custom","title_typography_font_family":"Quicksand","title_typography_font_size":{"unit":"px","size":16,"sizes":[]},"title_typography_font_weight":"300","title_typography_text_transform":"uppercase","title_typography_line_height":{"unit":"em","size":1,"sizes":[]},"description_color":"#033b4a","description_typography_typography":"custom","description_typography_font_family":"Quicksand","description_typography_font_size":{"unit":"px","size":32,"sizes":[]},"description_typography_font_weight":"500","description_typography_line_height":{"unit":"em","size":1,"sizes":[]},"_margin":{"unit":"px","top":"15","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"30","bottom":"0","left":"30","isLinked":false},"image_space_tablet":{"unit":"px","size":12,"sizes":[]},"title_bottom_space_tablet":{"unit":"px","size":8,"sizes":[]},"title_typography_font_size_tablet":{"unit":"px","size":13,"sizes":[]},"description_typography_font_size_tablet":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"image-box"}],"isInner":true},{"id":"e881e64","elType":"column","settings":{"_column_size":50,"_inline_size":58.30499999999999971578290569595992565155029296875},"elements":[],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"45b8e5c6","elType":"section","settings":{"background_background":"classic","background_color":"#F6716F","padding":{"unit":"px","top":"15","right":"0","bottom":"15","left":"0","isLinked":false},"stretch_section":"section-stretched","padding_mobile":{"unit":"px","top":"20","right":"0","bottom":"30","left":"0","isLinked":false},"margin":{"unit":"px","top":"0","right":0,"bottom":"50","left":0,"isLinked":false}},"elements":[{"id":"333b5364","elType":"column","settings":{"_column_size":100},"elements":[{"id":"1a1ac595","elType":"section","settings":{"content_position":"middle","structure":"20"},"elements":[{"id":"6540b91c","elType":"column","settings":{"_column_size":50,"_inline_size":55.9320000000000021600499167107045650482177734375,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"642900ce","elType":"widget","settings":{"title":"Punte discovers new concepts and  projects  for starter","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":24,"sizes":[]},"typography_font_weight":"500","align_mobile":"center","typography_font_size_tablet":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":true},{"id":"53de8dbe","elType":"column","settings":{"_column_size":50,"_inline_size":44.0679999999999978399500832892954349517822265625},"elements":[{"id":"6033d566","elType":"widget","settings":{"text":"GET A QUOTE","align":"right","typography_typography":"custom","typography_font_family":"Poppins","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"300","typography_text_transform":"uppercase","typography_line_height":{"unit":"em","size":1,"sizes":[]},"button_text_color":"#5254ff","background_color":"#ffffff","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"text_padding":{"unit":"px","top":"16","right":"25","bottom":"16","left":"25","isLinked":false},"hover_color":"#ffffff","button_background_hover_color":"rgba(0,0,0,0.12)","align_mobile":"center","_margin_mobile":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
