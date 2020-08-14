@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.4.1" created="2020-06-05 09:45" -->
+	<!-- generator="WordPress/5.4.2" created="2020-08-14 09:09" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Jewellery</title>
 	<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four</link>
 	<description>Highly Customizable Wordpress Theme</description>
-	<pubDate>Fri, 05 Jun 2020 09:45:27 +0000</pubDate>
+	<pubDate>Fri, 14 Aug 2020 09:09:02 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.accesspressthemes.com/zigcy-lite/</wp:base_site_url>
@@ -275,7 +275,7 @@
 	<wp:term><wp:term_id>32</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[my-account]]></wp:term_slug><wp:term_name><![CDATA[My Account]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.4.1</generator>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
 
 		<item>
 		<title>cropped-watch-1245791_960_720.jpg</title>
@@ -1028,6 +1028,10 @@
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/iconfinder_Artboard_5_3818480.svg]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_inline_svg]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" id="Layer_1" viewBox="0 0 256 256"><defs><style>.cls-1{fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:8px;}</style></defs><title></title><circle class="cls-1" cx="128" cy="147.5" r="100.5"></circle><rect class="cls-1" height="16.33" rx="4.83" ry="4.83" width="50.33" x="102.83" y="8"></rect><line class="cls-1" x1="128" x2="128" y1="47" y2="24"></line><line class="cls-1" x1="39.43" x2="54.28" y1="63.72" y2="78.57"></line><line class="cls-1" x1="29.53" x2="48.62" y1="73.62" y2="54.53"></line><line class="cls-1" x1="217.38" x2="202.53" y1="63.72" y2="78.57"></line><line class="cls-1" x1="227.28" x2="208.19" y1="73.62" y2="54.53"></line><line class="cls-1" x1="39" x2="54" y1="147" y2="147"></line><line class="cls-1" x1="128" x2="128" y1="223" y2="238"></line><path class="cls-1" d="M181.72,200.72A75.63,75.63,0,0,0,128,71.87V147Z"></path></svg>]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>tracking</title>
@@ -1054,6 +1058,10 @@
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/tracking.svg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_inline_svg]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="512" height="512"><g id="Tracking"><path d="M61.707,34.293,49.293,21.879A2.978,2.978,0,0,0,47.171,21H30v2h5V38h2V23H47.171a1,1,0,0,1,.708.293L49.586,25H45a2,2,0,0,0-2,2v9a2,2,0,0,0,2,2H60v8a1,1,0,0,1-1,1H56.92a6.991,6.991,0,0,0-13.84,0H28.92a6.991,6.991,0,0,0-13.84,0H13a1,1,0,0,1-1-1V37H10v9a3,3,0,0,0,3,3h2.08a6.978,6.978,0,0,0,2.031,4H2v2H50a7.006,7.006,0,0,0,6.92-6H59a3,3,0,0,0,3-3V35A1,1,0,0,0,61.707,34.293ZM17,48a5,5,0,1,1,5,5A5.006,5.006,0,0,1,17,48Zm9.889,5a6.978,6.978,0,0,0,2.031-4H43.08a6.978,6.978,0,0,0,2.031,4ZM50,53a5,5,0,1,1,5-5A5.006,5.006,0,0,1,50,53ZM45,36V27h6.586L60,35.414V36Z"></path><rect x="21" y="47" width="2" height="2"></rect><rect x="49" y="47" width="2" height="2"></rect><rect x="2" y="44" width="5" height="2"></rect><rect x="4" y="40" width="3" height="2"></rect><rect x="5" y="36" width="2" height="2"></rect><path d="M15,35A13,13,0,1,0,2,22,13.015,13.015,0,0,0,15,35Zm0-24A11,11,0,1,1,4,22,11.013,11.013,0,0,1,15,11Z"></path><path d="M15,31a1,1,0,0,0,.707-.293C16.351,30.063,22,24.29,22,20A7,7,0,0,0,8,20c0,4.29,5.649,10.063,6.293,10.707A1,1,0,0,0,15,31Zm0-16a5.006,5.006,0,0,1,5,5c0,2.566-3.147,6.531-5,8.551-1.853-2.02-5-5.985-5-8.551A5.006,5.006,0,0,1,15,15Z"></path><path d="M18,20a3,3,0,1,0-3,3A3,3,0,0,0,18,20Zm-4,0a1,1,0,1,1,1,1A1,1,0,0,1,14,20Z"></path><rect x="40" y="40" width="4" height="2"></rect></g></svg>]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5214,1291 +5222,6 @@ As a new WordPress user, you should go to <a href="http://demo.accesspressthemes
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Street Life Fashion</title>
-		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/2018/11/27/street-life-fashion__trashed/</link>
-		<pubDate>Tue, 27 Nov 2018 07:24:17 +0000</pubDate>
-		<dc:creator><![CDATA[Access]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/store-mart-lite/?p=10</guid>
-		<description></description>
-		<content:encoded><![CDATA[Lookbook Fashion 2018]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10</wp:post_id>
-		<wp:post_date><![CDATA[2018-11-27 07:24:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-11-27 07:24:17]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[street-life-fashion__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="slider"><![CDATA[Slider]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1589449625]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[street-life-fashion]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Sale Offer 20% Off This Week</title>
-		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/2018/11/27/currnet-styling-trend__trashed/</link>
-		<pubDate>Tue, 27 Nov 2018 07:25:03 +0000</pubDate>
-		<dc:creator><![CDATA[Access]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/store-mart-lite/?p=13</guid>
-		<description></description>
-		<content:encoded><![CDATA[<div class="subtitle">Clothing Trend 2018</div>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>13</wp:post_id>
-		<wp:post_date><![CDATA[2018-11-27 07:25:03]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-11-27 07:25:03]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[currnet-styling-trend__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="slider"><![CDATA[Slider]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1589449631]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[currnet-styling-trend]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Engagement Rings: a Buyer’s  Wedding Guide</title>
-		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/2018/11/30/latest-styling/</link>
-		<pubDate>Fri, 30 Nov 2018 07:26:57 +0000</pubDate>
-		<dc:creator><![CDATA[Access]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/store-mart-lite/?p=222</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:columns -->
-<div class="wp-block-columns has-2-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:paragraph -->
-<p>Chances are unless you are very lucky you will go thru many different relationships before you find your special someone. Then one day I had an idea, it was not an original idea.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Finding your sole mate is like gambling. In poker and blackjack you may have to play dozens of hands until you get a winning hand, and it is the same with relationships. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><li>Cras sit amet eros lacinia</li><li>In tincidunt gravida lectus, id ornare</li><li>Suspendisse at suscipit nunc</li></ul>
-<!-- /wp:list --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":649,"width":499,"height":471} -->
-<figure class="wp-block-image is-resized"><img src="https://demo.accesspressthemes.com/zigcy/demo-one/wp-content/uploads/sites/2/2018/11/post-img-4.jpg" alt="" class="wp-image-649" width="499" height="471"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2>Myspace Layouts The Missing Element</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Then one day I decided I had enough of trying to go to clubs and bars to meet people. I was sick and tired of trying to find someone in the time it takes to finish a drink. It always seemed the ladies I would meet were all wrong for me, or they seemed great after talking to them for 5 minutes but they seemed to have no interest in me.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Then one day I had an idea, it was not an original idea but I decided to use the internet to try to find the right person for me. So I proceeded to make a myspace profile. On this page I tried to put the real me and not the funny guy trying to be charming that was looking for love at the bar.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":706} -->
-<figure class="wp-block-image"><img src="https://demo.accesspressthemes.com/zigcy/demo-one/wp-content/uploads/sites/2/2018/11/blog-ime4-1024x507.jpg" alt="" class="wp-image-706"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-<p>Luxury is something everyone deserves from time to time. Such an indulgence can make a vacation a truly rejuvenating experience. One of the best ways to get the luxury of the rich and famous to fit into your budget can be yours through yacht charter companies. These companies specialize in creating custom sailing vacations that redefine travel.&nbsp;</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>With your budget in mind, it is easy to plan a chartered yacht vacation. Companies often have a fleet of sailing vessels that can accommodate parties of various sizes. You may want to make it a more intimate trip with only close family. There are charters that can be rented for as few as two people. These include either a sailboat or motorboat and can come with or without a crew and captain to sail the ship for you. If you choose not to hire a crew, you will have to show that you are knowledgeable of sailing and can handle the ship competently.<br></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p> “Theme is very flexible and easy to use. Perfect for us. Customer support has been excellent and answered every question we’ve thrown at them with 12 hours.”<br></p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>The next part of planning is to determine your starting and ending ports. This could be a place close to home and sail in one area or start and finish at two different ports. Generally, starting and stopping in the same port will save you money and is usually more convenient. You can also fly to a destination far from home and then sail another exotic sea. There are luxury yacht charter companies that cruise the Caribbean and Mediterranean seas or around Alaska, the Panama Canal, or anyplace you can imagine.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Determining the type of cruise is another aspect of planning a chartered yachting trip. You can have as little or many crew members as the ship will hold. A captain takes all the worries out of navigating and onboard housekeeping services make it a real vacation that rivals the finest hotel services. You can also choose to have a chef and service crew as part of your vacation package.<br></p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>222</wp:post_id>
-		<wp:post_date><![CDATA[2018-11-30 07:26:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-11-30 07:26:57]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[latest-styling]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1462]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Wedding Diamond Arrives at Paris Store</title>
-		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/2018/11/30/current-styling-trend/</link>
-		<pubDate>Fri, 30 Nov 2018 07:28:40 +0000</pubDate>
-		<dc:creator><![CDATA[Access]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/store-mart-lite/?p=225</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:columns -->
-<div class="wp-block-columns has-2-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:paragraph -->
-<p>Chances are unless you are very lucky you will go thru many different relationships before you find your special someone. Then one day I had an idea, it was not an original idea.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Finding your sole mate is like gambling. In poker and blackjack you may have to play dozens of hands until you get a winning hand, and it is the same with relationships. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><li>Cras sit amet eros lacinia</li><li>In tincidunt gravida lectus, id ornare</li><li>Suspendisse at suscipit nunc</li></ul>
-<!-- /wp:list --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":1467} -->
-<figure class="wp-block-image"><img src="https://demo.accesspressthemes.com/zigcy-lite/demo-four/wp-content/uploads/sites/5/2018/11/j-img.jpg" alt="" class="wp-image-1467"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2>Myspace Layouts The Missing Element</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Then one day I decided I had enough of trying to go to clubs and bars to meet people. I was sick and tired of trying to find someone in the time it takes to finish a drink. It always seemed the ladies I would meet were all wrong for me, or they seemed great after talking to them for 5 minutes but they seemed to have no interest in me.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Then one day I had an idea, it was not an original idea but I decided to use the internet to try to find the right person for me. So I proceeded to make a myspace profile. On this page I tried to put the real me and not the funny guy trying to be charming that was looking for love at the bar.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":1468} -->
-<figure class="wp-block-image"><img src="https://demo.accesspressthemes.com/zigcy-lite/demo-four/wp-content/uploads/sites/5/2018/11/j-blog-1024x538.jpg" alt="" class="wp-image-1468"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-<p>Luxury is something everyone deserves from time to time. Such an indulgence can make a vacation a truly rejuvenating experience. One of the best ways to get the luxury of the rich and famous to fit into your budget can be yours through yacht charter companies. These companies specialize in creating custom sailing vacations that redefine travel.&nbsp;</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>With your budget in mind, it is easy to plan a chartered yacht vacation. Companies often have a fleet of sailing vessels that can accommodate parties of various sizes. You may want to make it a more intimate trip with only close family. There are charters that can be rented for as few as two people. These include either a sailboat or motorboat and can come with or without a crew and captain to sail the ship for you. If you choose not to hire a crew, you will have to show that you are knowledgeable of sailing and can handle the ship competently.<br></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p> “Theme is very flexible and easy to use. Perfect for us. Customer support has been excellent and answered every question we’ve thrown at them with 12 hours.”<br></p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>The next part of planning is to determine your starting and ending ports. This could be a place close to home and sail in one area or start and finish at two different ports. Generally, starting and stopping in the same port will save you money and is usually more convenient. You can also fly to a destination far from home and then sail another exotic sea. There are luxury yacht charter companies that cruise the Caribbean and Mediterranean seas or around Alaska, the Panama Canal, or anyplace you can imagine.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Determining the type of cruise is another aspect of planning a chartered yachting trip. You can have as little or many crew members as the ship will hold. A captain takes all the worries out of navigating and onboard housekeeping services make it a real vacation that rivals the finest hotel services. You can also choose to have a chef and service crew as part of your vacation package.<br></p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>225</wp:post_id>
-		<wp:post_date><![CDATA[2018-11-30 07:28:40]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-11-30 07:28:40]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[current-styling-trend]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1463]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Hello world!</title>
-		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/2019/01/29/hello-world-2-3__trashed/</link>
-		<pubDate>Tue, 29 Jan 2019 04:48:43 +0000</pubDate>
-		<dc:creator><![CDATA[Access]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/zigcy-lite/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>253</wp:post_id>
-		<wp:post_date><![CDATA[2019-01-29 04:48:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-01-29 04:48:43]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world-2-3__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1589449625]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[hello-world-2-3]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Hello world!</title>
-		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/2018/11/27/hello-world-2-2__trashed/</link>
-		<pubDate>Tue, 27 Nov 2018 07:07:22 +0000</pubDate>
-		<dc:creator><![CDATA[Access]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/store-mart-lite/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>254</wp:post_id>
-		<wp:post_date><![CDATA[2018-11-27 07:07:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-11-27 07:07:22]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world-2-2__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1589449625]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[hello-world-2-2]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>logo-1</title>
-		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/2019/03/08/logo-1__trashed/</link>
-		<pubDate>Fri, 08 Mar 2019 12:43:57 +0000</pubDate>
-		<dc:creator><![CDATA[Access]]></dc:creator>
-		<guid isPermaLink="false">https://demo.accesspressthemes.com/zigcy-lite/demo-one/?p=272</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>272</wp:post_id>
-		<wp:post_date><![CDATA[2019-03-08 12:43:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-03-08 12:43:57]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[logo-1__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="logo"><![CDATA[logo]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1589449625]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[logo-1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>logo-2</title>
-		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/2019/03/08/logo-2__trashed/</link>
-		<pubDate>Fri, 08 Mar 2019 12:51:11 +0000</pubDate>
-		<dc:creator><![CDATA[Access]]></dc:creator>
-		<guid isPermaLink="false">https://demo.accesspressthemes.com/zigcy-lite/demo-one/?p=281</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>281</wp:post_id>
-		<wp:post_date><![CDATA[2019-03-08 12:51:11]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-03-08 12:51:11]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[logo-2__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="logo"><![CDATA[logo]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1589449625]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[logo-2]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>logo-3</title>
-		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/2019/03/08/logo-3__trashed/</link>
-		<pubDate>Fri, 08 Mar 2019 12:51:41 +0000</pubDate>
-		<dc:creator><![CDATA[Access]]></dc:creator>
-		<guid isPermaLink="false">https://demo.accesspressthemes.com/zigcy-lite/demo-one/?p=284</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>284</wp:post_id>
-		<wp:post_date><![CDATA[2019-03-08 12:51:41]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-03-08 12:51:41]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[logo-3__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="logo"><![CDATA[logo]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1589449625]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[logo-3]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>logo-4</title>
-		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/2019/03/08/logo-4__trashed/</link>
-		<pubDate>Fri, 08 Mar 2019 12:52:14 +0000</pubDate>
-		<dc:creator><![CDATA[Access]]></dc:creator>
-		<guid isPermaLink="false">https://demo.accesspressthemes.com/zigcy-lite/demo-one/?p=287</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>287</wp:post_id>
-		<wp:post_date><![CDATA[2019-03-08 12:52:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-03-08 12:52:14]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[logo-4__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="logo"><![CDATA[logo]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1589449625]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[logo-4]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>logo-5</title>
-		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/2019/03/08/logo-5__trashed/</link>
-		<pubDate>Fri, 08 Mar 2019 12:52:47 +0000</pubDate>
-		<dc:creator><![CDATA[Access]]></dc:creator>
-		<guid isPermaLink="false">https://demo.accesspressthemes.com/zigcy-lite/demo-one/?p=289</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>289</wp:post_id>
-		<wp:post_date><![CDATA[2019-03-08 12:52:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-03-08 12:52:47]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[logo-5__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="logo"><![CDATA[logo]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1589449625]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[logo-5]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>logo-6</title>
-		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/2019/03/08/logo-6__trashed/</link>
-		<pubDate>Fri, 08 Mar 2019 12:53:06 +0000</pubDate>
-		<dc:creator><![CDATA[Access]]></dc:creator>
-		<guid isPermaLink="false">https://demo.accesspressthemes.com/zigcy-lite/demo-one/?p=290</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>290</wp:post_id>
-		<wp:post_date><![CDATA[2019-03-08 12:53:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-03-08 12:53:06]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[logo-6__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="logo"><![CDATA[logo]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1589449625]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[logo-6]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>logo-8</title>
-		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/2019/03/08/logo-8__trashed/</link>
-		<pubDate>Fri, 08 Mar 2019 12:53:29 +0000</pubDate>
-		<dc:creator><![CDATA[Access]]></dc:creator>
-		<guid isPermaLink="false">https://demo.accesspressthemes.com/zigcy-lite/demo-one/?p=293</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>293</wp:post_id>
-		<wp:post_date><![CDATA[2019-03-08 12:53:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-03-08 12:53:29]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[logo-8__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="logo"><![CDATA[logo]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1589449625]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[logo-8]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Frank Masterpieces  Collection in Singapore</title>
-		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/2019/03/10/spring-summer-fashion-trends/</link>
-		<pubDate>Sun, 10 Mar 2019 09:32:30 +0000</pubDate>
-		<dc:creator><![CDATA[Access]]></dc:creator>
-		<guid isPermaLink="false">https://demo.accesspressthemes.com/zigcy-lite/demo-one/?p=302</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:columns -->
-<div class="wp-block-columns has-2-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:paragraph -->
-<p>Chances are unless you are very lucky you will go thru many different relationships before you find your special someone. Then one day I had an idea, it was not an original idea.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Finding your sole mate is like gambling. In poker and blackjack you may have to play dozens of hands until you get a winning hand, and it is the same with relationships. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><li>Cras sit amet eros lacinia</li><li>In tincidunt gravida lectus, id ornare</li><li>Suspendisse at suscipit nunc</li></ul>
-<!-- /wp:list --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":1467} -->
-<figure class="wp-block-image"><img src="https://demo.accesspressthemes.com/zigcy-lite/demo-four/wp-content/uploads/sites/5/2018/11/j-img.jpg" alt="" class="wp-image-1467"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2>Myspace Layouts The Missing Element</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Then one day I decided I had enough of trying to go to clubs and bars to meet people. I was sick and tired of trying to find someone in the time it takes to finish a drink. It always seemed the ladies I would meet were all wrong for me, or they seemed great after talking to them for 5 minutes but they seemed to have no interest in me.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Then one day I had an idea, it was not an original idea but I decided to use the internet to try to find the right person for me. So I proceeded to make a myspace profile. On this page I tried to put the real me and not the funny guy trying to be charming that was looking for love at the bar.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":1468} -->
-<figure class="wp-block-image"><img src="https://demo.accesspressthemes.com/zigcy-lite/demo-four/wp-content/uploads/sites/5/2018/11/j-blog-1024x538.jpg" alt="" class="wp-image-1468"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-<p>Luxury is something everyone deserves from time to time. Such an indulgence can make a vacation a truly rejuvenating experience. One of the best ways to get the luxury of the rich and famous to fit into your budget can be yours through yacht charter companies. These companies specialize in creating custom sailing vacations that redefine travel.&nbsp;</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>With your budget in mind, it is easy to plan a chartered yacht vacation. Companies often have a fleet of sailing vessels that can accommodate parties of various sizes. You may want to make it a more intimate trip with only close family. There are charters that can be rented for as few as two people. These include either a sailboat or motorboat and can come with or without a crew and captain to sail the ship for you. If you choose not to hire a crew, you will have to show that you are knowledgeable of sailing and can handle the ship competently.<br></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p> “Theme is very flexible and easy to use. Perfect for us. Customer support has been excellent and answered every question we’ve thrown at them with 12 hours.”<br></p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>The next part of planning is to determine your starting and ending ports. This could be a place close to home and sail in one area or start and finish at two different ports. Generally, starting and stopping in the same port will save you money and is usually more convenient. You can also fly to a destination far from home and then sail another exotic sea. There are luxury yacht charter companies that cruise the Caribbean and Mediterranean seas or around Alaska, the Panama Canal, or anyplace you can imagine.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Determining the type of cruise is another aspect of planning a chartered yachting trip. You can have as little or many crew members as the ship will hold. A captain takes all the worries out of navigating and onboard housekeeping services make it a real vacation that rivals the finest hotel services. You can also choose to have a chef and service crew as part of your vacation package.<br></p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>302</wp:post_id>
-		<wp:post_date><![CDATA[2019-03-10 09:32:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-03-10 09:32:30]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[spring-summer-fashion-trends]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1465]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>About us</title>
-		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/about-us/</link>
-		<pubDate>Mon, 11 Mar 2019 07:22:50 +0000</pubDate>
-		<dc:creator><![CDATA[Access]]></dc:creator>
-		<guid isPermaLink="false">https://demo.accesspressthemes.com/zigcy-lite/demo-one/?page_id=313</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>313</wp:post_id>
-		<wp:post_date><![CDATA[2019-03-11 07:22:50]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-03-11 07:22:50]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[about-us]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Shopping Guide</title>
-		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/shopping-guide/</link>
-		<pubDate>Mon, 11 Mar 2019 07:24:23 +0000</pubDate>
-		<dc:creator><![CDATA[Access]]></dc:creator>
-		<guid isPermaLink="false">https://demo.accesspressthemes.com/zigcy-lite/demo-one/?page_id=315</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>315</wp:post_id>
-		<wp:post_date><![CDATA[2019-03-11 07:24:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-03-11 07:24:23]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[shopping-guide]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Delivery Information</title>
-		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/delivery-information/</link>
-		<pubDate>Mon, 11 Mar 2019 07:24:44 +0000</pubDate>
-		<dc:creator><![CDATA[Access]]></dc:creator>
-		<guid isPermaLink="false">https://demo.accesspressthemes.com/zigcy-lite/demo-one/?page_id=317</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>317</wp:post_id>
-		<wp:post_date><![CDATA[2019-03-11 07:24:44]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-03-11 07:24:44]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[delivery-information]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>shop</title>
-		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/shop-2/</link>
-		<pubDate>Fri, 31 May 2019 08:37:18 +0000</pubDate>
-		<dc:creator><![CDATA[Access]]></dc:creator>
-		<guid isPermaLink="false">https://demo.accesspressthemes.com/zigcy-lite/demo-one/?page_id=370</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>375</wp:post_id>
-		<wp:post_date><![CDATA[2019-05-31 08:37:18]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-05-31 08:37:18]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[shop-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Hello world!</title>
-		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/2019/03/08/hello-world-2__trashed/</link>
-		<pubDate>Fri, 08 Mar 2019 07:49:42 +0000</pubDate>
-		<dc:creator><![CDATA[Access]]></dc:creator>
-		<guid isPermaLink="false">https://demo.accesspressthemes.com/zigcy-lite/demo-one/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[Welcome to <a href="http://demo.accesspressthemes.com/zigcy-lite/">Zigcy Lite </a>. This is your first post. Edit or delete it, then start blogging!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>376</wp:post_id>
-		<wp:post_date><![CDATA[2019-03-08 07:49:42]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-03-08 07:49:42]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world-2__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[hello-world-2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1589449625]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Hello world!</title>
-		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/2020/04/15/hello-world__trashed/</link>
-		<pubDate>Wed, 15 Apr 2020 06:57:12 +0000</pubDate>
-		<dc:creator><![CDATA[Access]]></dc:creator>
-		<guid isPermaLink="false">https://demo.accesspressthemes.com/zigcy-lite/demo-four/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[Welcome to <a href="http://demo.accesspressthemes.com/zigcy-lite/">Zigcy Lite </a>. This is your first post. Edit or delete it, then start blogging!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date><![CDATA[2020-04-15 06:57:12]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-04-15 06:57:12]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1589449598]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Men&#039;s Cotton Bag</title>
-		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/product/mens-cotton-tshirts__trashed/</link>
-		<pubDate>Tue, 27 Nov 2018 09:30:45 +0000</pubDate>
-		<dc:creator><![CDATA[Access]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/store-mart-lite/?post_type=product&#038;p=55</guid>
-		<description></description>
-		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.
-<div class="wpb_text_column wpb_content_element ">
-<div class="wpb_wrapper">
-
-With ultralight, quality cotton canvas, the JanSport Houston backpack is ideal for a life-on-the-go. This backpack features premium faux leather bottom and trim details, padded 15 in laptop sleeve and tricot lined tablet sleeve.
-
-</div>
-</div>]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.
-<div class="wpb_text_column wpb_content_element ">
-<div class="wpb_wrapper">
-
-With ultralight, quality cotton canvas, the JanSport Houston backpack is ideal for a life-on-the-go. This backpack features premium faux leather bottom and trim details, padded 15 in laptop sleeve and tricot lined tablet sleeve
-
-</div>
-</div>
-<div class="wpb_text_column wpb_content_element ">
-<div class="wpb_wrapper">
-<ul class="supro-list">
- 	<li>Fully padded back panel, web hauded handle</li>
- 	<li>Internal padded sleeve fits 15″ laptop &amp; unique fabric application</li>
- 	<li>Internal tricot lined tablet sleeve</li>
- 	<li>One large main compartment and zippered</li>
- 	<li>Premium cotton canvas fabric</li>
-</ul>
-</div>
-</div>]]></excerpt:encoded>
-		<wp:post_id>55</wp:post_id>
-		<wp:post_date><![CDATA[2018-11-27 09:30:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-11-27 09:30:45]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[mens-cotton-tshirts__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[product]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
-		<category domain="product_cat" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[40]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sale_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sale_price_dates_from]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sale_price_dates_to]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_low_stock_amount]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_weight]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_length]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_width]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_height]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_upsell_ids]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_crosssell_ids]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_purchase_note]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_default_attributes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.5.1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[40]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1589448812]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[mens-cotton-tshirts]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>JD Cap</title>
-		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/product/new-shirts__trashed/</link>
-		<pubDate>Tue, 27 Nov 2018 09:32:50 +0000</pubDate>
-		<dc:creator><![CDATA[Access]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/store-mart-lite/?post_type=product&#038;p=57</guid>
-		<description></description>
-		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.
-<div class="wpb_text_column wpb_content_element ">
-<div class="wpb_wrapper">
-
-With ultralight, quality cotton canvas, the JanSport Houston backpack is ideal for a life-on-the-go. This backpack features premium faux leather bottom and trim details, padded 15 in laptop sleeve and tricot lined tablet sleeve
-
-</div>
-</div>
-<div class="supro-empty-space "></div>
-<div class="wpb_text_column wpb_content_element ">
-<div class="wpb_wrapper">
-<ul class="supro-list">
- 	<li>Fully padded back panel, web hauded handle</li>
- 	<li>Internal padded sleeve fits 15″ laptop &amp; unique fabric application</li>
- 	<li>Internal tricot lined tablet sleeve</li>
- 	<li>One large main compartment and zippered</li>
- 	<li>Premium cotton canvas fabric</li>
-</ul>
-</div>
-</div>]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.
-<div class="wpb_text_column wpb_content_element ">
-<div class="wpb_wrapper">
-
-With ultralight, quality cotton canvas, the JanSport Houston backpack is ideal for a life-on-the-go. This backpack features premium faux leather bottom and trim details, padded 15 in laptop sleeve and tricot lined tablet sleeve
-
-</div>
-</div>]]></excerpt:encoded>
-		<wp:post_id>57</wp:post_id>
-		<wp:post_date><![CDATA[2018-11-27 09:32:50]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-11-27 09:32:50]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[new-shirts__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[product]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
-		<category domain="product_cat" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[45]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sale_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sale_price_dates_from]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sale_price_dates_to]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_low_stock_amount]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_weight]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_length]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_width]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_height]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_upsell_ids]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_crosssell_ids]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_purchase_note]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_default_attributes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.6.4]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[45]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1589448806]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[new-shirts]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>Classic Golden Band</title>
 		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/product/slim-fit-coat/</link>
 		<pubDate>Tue, 27 Nov 2018 09:34:03 +0000</pubDate>
@@ -8455,19 +7178,14 @@ With ultralight, quality cotton canvas, the JanSport Houston backpack is ideal f
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="product_cat" nicename="diamond-necklace"><![CDATA[Diamond Necklace]]></category>
 		<category domain="product_cat" nicename="diamond-pendant"><![CDATA[Diamond Pendant]]></category>
-		<category domain="product_visibility" nicename="rated-5"><![CDATA[rated-5]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:5;i:1;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5.00]]></wp:meta_value>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -8587,35 +7305,418 @@ With ultralight, quality cotton canvas, the JanSport Houston backpack is ideal f
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.6.4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4.1.1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2150]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>53</wp:comment_id>
-			<wp:comment_author><![CDATA[John Doe]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[jeevan@access-keys.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[45.123.221.22]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2020-04-20 10:10:52]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2020-04-20 10:10:52]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[good product]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[review]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>1</wp:comment_user_id>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[rating]]></wp:meta_key>
-			<wp:meta_value><![CDATA[5]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[verified]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-							</wp:comment>
-					</item>
+							</item>
+					<item>
+		<title>Engagement Rings: a Buyer’s  Wedding Guide</title>
+		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/2018/11/30/latest-styling/</link>
+		<pubDate>Fri, 30 Nov 2018 07:26:57 +0000</pubDate>
+		<dc:creator><![CDATA[Access]]></dc:creator>
+		<guid isPermaLink="false">http://demo.accesspressthemes.com/store-mart-lite/?p=222</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:columns -->
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>Chances are unless you are very lucky you will go thru many different relationships before you find your special someone. Then one day I had an idea, it was not an original idea.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Finding your sole mate is like gambling. In poker and blackjack you may have to play dozens of hands until you get a winning hand, and it is the same with relationships. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Cras sit amet eros lacinia</li><li>In tincidunt gravida lectus, id ornare</li><li>Suspendisse at suscipit nunc</li></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":649,"width":499,"height":471} -->
+<figure class="wp-block-image is-resized"><img src="https://demo.accesspressthemes.com/zigcy/demo-one/wp-content/uploads/sites/2/2018/11/post-img-4.jpg" alt="" class="wp-image-649" width="499" height="471"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Myspace Layouts The Missing Element</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Then one day I decided I had enough of trying to go to clubs and bars to meet people. I was sick and tired of trying to find someone in the time it takes to finish a drink. It always seemed the ladies I would meet were all wrong for me, or they seemed great after talking to them for 5 minutes but they seemed to have no interest in me.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Then one day I had an idea, it was not an original idea but I decided to use the internet to try to find the right person for me. So I proceeded to make a myspace profile. On this page I tried to put the real me and not the funny guy trying to be charming that was looking for love at the bar.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":706} -->
+<figure class="wp-block-image"><img src="https://demo.accesspressthemes.com/zigcy/demo-one/wp-content/uploads/sites/2/2018/11/blog-ime4-1024x507.jpg" alt="" class="wp-image-706"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Luxury is something everyone deserves from time to time. Such an indulgence can make a vacation a truly rejuvenating experience. One of the best ways to get the luxury of the rich and famous to fit into your budget can be yours through yacht charter companies. These companies specialize in creating custom sailing vacations that redefine travel.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>With your budget in mind, it is easy to plan a chartered yacht vacation. Companies often have a fleet of sailing vessels that can accommodate parties of various sizes. You may want to make it a more intimate trip with only close family. There are charters that can be rented for as few as two people. These include either a sailboat or motorboat and can come with or without a crew and captain to sail the ship for you. If you choose not to hire a crew, you will have to show that you are knowledgeable of sailing and can handle the ship competently.<br></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p> “Theme is very flexible and easy to use. Perfect for us. Customer support has been excellent and answered every question we’ve thrown at them with 12 hours.”<br></p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>The next part of planning is to determine your starting and ending ports. This could be a place close to home and sail in one area or start and finish at two different ports. Generally, starting and stopping in the same port will save you money and is usually more convenient. You can also fly to a destination far from home and then sail another exotic sea. There are luxury yacht charter companies that cruise the Caribbean and Mediterranean seas or around Alaska, the Panama Canal, or anyplace you can imagine.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Determining the type of cruise is another aspect of planning a chartered yachting trip. You can have as little or many crew members as the ship will hold. A captain takes all the worries out of navigating and onboard housekeeping services make it a real vacation that rivals the finest hotel services. You can also choose to have a chef and service crew as part of your vacation package.<br></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>222</wp:post_id>
+		<wp:post_date><![CDATA[2018-11-30 07:26:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-11-30 07:26:57]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[latest-styling]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1462]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Wedding Diamond Arrives at Paris Store</title>
+		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/2018/11/30/current-styling-trend/</link>
+		<pubDate>Fri, 30 Nov 2018 07:28:40 +0000</pubDate>
+		<dc:creator><![CDATA[Access]]></dc:creator>
+		<guid isPermaLink="false">http://demo.accesspressthemes.com/store-mart-lite/?p=225</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:columns -->
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>Chances are unless you are very lucky you will go thru many different relationships before you find your special someone. Then one day I had an idea, it was not an original idea.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Finding your sole mate is like gambling. In poker and blackjack you may have to play dozens of hands until you get a winning hand, and it is the same with relationships. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Cras sit amet eros lacinia</li><li>In tincidunt gravida lectus, id ornare</li><li>Suspendisse at suscipit nunc</li></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":1467} -->
+<figure class="wp-block-image"><img src="https://demo.accesspressthemes.com/zigcy-lite/demo-four/wp-content/uploads/sites/5/2018/11/j-img.jpg" alt="" class="wp-image-1467"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Myspace Layouts The Missing Element</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Then one day I decided I had enough of trying to go to clubs and bars to meet people. I was sick and tired of trying to find someone in the time it takes to finish a drink. It always seemed the ladies I would meet were all wrong for me, or they seemed great after talking to them for 5 minutes but they seemed to have no interest in me.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Then one day I had an idea, it was not an original idea but I decided to use the internet to try to find the right person for me. So I proceeded to make a myspace profile. On this page I tried to put the real me and not the funny guy trying to be charming that was looking for love at the bar.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1468} -->
+<figure class="wp-block-image"><img src="https://demo.accesspressthemes.com/zigcy-lite/demo-four/wp-content/uploads/sites/5/2018/11/j-blog-1024x538.jpg" alt="" class="wp-image-1468"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Luxury is something everyone deserves from time to time. Such an indulgence can make a vacation a truly rejuvenating experience. One of the best ways to get the luxury of the rich and famous to fit into your budget can be yours through yacht charter companies. These companies specialize in creating custom sailing vacations that redefine travel.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>With your budget in mind, it is easy to plan a chartered yacht vacation. Companies often have a fleet of sailing vessels that can accommodate parties of various sizes. You may want to make it a more intimate trip with only close family. There are charters that can be rented for as few as two people. These include either a sailboat or motorboat and can come with or without a crew and captain to sail the ship for you. If you choose not to hire a crew, you will have to show that you are knowledgeable of sailing and can handle the ship competently.<br></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p> “Theme is very flexible and easy to use. Perfect for us. Customer support has been excellent and answered every question we’ve thrown at them with 12 hours.”<br></p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>The next part of planning is to determine your starting and ending ports. This could be a place close to home and sail in one area or start and finish at two different ports. Generally, starting and stopping in the same port will save you money and is usually more convenient. You can also fly to a destination far from home and then sail another exotic sea. There are luxury yacht charter companies that cruise the Caribbean and Mediterranean seas or around Alaska, the Panama Canal, or anyplace you can imagine.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Determining the type of cruise is another aspect of planning a chartered yachting trip. You can have as little or many crew members as the ship will hold. A captain takes all the worries out of navigating and onboard housekeeping services make it a real vacation that rivals the finest hotel services. You can also choose to have a chef and service crew as part of your vacation package.<br></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>225</wp:post_id>
+		<wp:post_date><![CDATA[2018-11-30 07:28:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-11-30 07:28:40]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[current-styling-trend]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1463]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Frank Masterpieces  Collection in Singapore</title>
+		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/2019/03/10/spring-summer-fashion-trends/</link>
+		<pubDate>Sun, 10 Mar 2019 09:32:30 +0000</pubDate>
+		<dc:creator><![CDATA[Access]]></dc:creator>
+		<guid isPermaLink="false">https://demo.accesspressthemes.com/zigcy-lite/demo-one/?p=302</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:columns -->
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>Chances are unless you are very lucky you will go thru many different relationships before you find your special someone. Then one day I had an idea, it was not an original idea.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Finding your sole mate is like gambling. In poker and blackjack you may have to play dozens of hands until you get a winning hand, and it is the same with relationships. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Cras sit amet eros lacinia</li><li>In tincidunt gravida lectus, id ornare</li><li>Suspendisse at suscipit nunc</li></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":1467} -->
+<figure class="wp-block-image"><img src="https://demo.accesspressthemes.com/zigcy-lite/demo-four/wp-content/uploads/sites/5/2018/11/j-img.jpg" alt="" class="wp-image-1467"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Myspace Layouts The Missing Element</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Then one day I decided I had enough of trying to go to clubs and bars to meet people. I was sick and tired of trying to find someone in the time it takes to finish a drink. It always seemed the ladies I would meet were all wrong for me, or they seemed great after talking to them for 5 minutes but they seemed to have no interest in me.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Then one day I had an idea, it was not an original idea but I decided to use the internet to try to find the right person for me. So I proceeded to make a myspace profile. On this page I tried to put the real me and not the funny guy trying to be charming that was looking for love at the bar.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1468} -->
+<figure class="wp-block-image"><img src="https://demo.accesspressthemes.com/zigcy-lite/demo-four/wp-content/uploads/sites/5/2018/11/j-blog-1024x538.jpg" alt="" class="wp-image-1468"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Luxury is something everyone deserves from time to time. Such an indulgence can make a vacation a truly rejuvenating experience. One of the best ways to get the luxury of the rich and famous to fit into your budget can be yours through yacht charter companies. These companies specialize in creating custom sailing vacations that redefine travel.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>With your budget in mind, it is easy to plan a chartered yacht vacation. Companies often have a fleet of sailing vessels that can accommodate parties of various sizes. You may want to make it a more intimate trip with only close family. There are charters that can be rented for as few as two people. These include either a sailboat or motorboat and can come with or without a crew and captain to sail the ship for you. If you choose not to hire a crew, you will have to show that you are knowledgeable of sailing and can handle the ship competently.<br></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p> “Theme is very flexible and easy to use. Perfect for us. Customer support has been excellent and answered every question we’ve thrown at them with 12 hours.”<br></p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>The next part of planning is to determine your starting and ending ports. This could be a place close to home and sail in one area or start and finish at two different ports. Generally, starting and stopping in the same port will save you money and is usually more convenient. You can also fly to a destination far from home and then sail another exotic sea. There are luxury yacht charter companies that cruise the Caribbean and Mediterranean seas or around Alaska, the Panama Canal, or anyplace you can imagine.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Determining the type of cruise is another aspect of planning a chartered yachting trip. You can have as little or many crew members as the ship will hold. A captain takes all the worries out of navigating and onboard housekeeping services make it a real vacation that rivals the finest hotel services. You can also choose to have a chef and service crew as part of your vacation package.<br></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>302</wp:post_id>
+		<wp:post_date><![CDATA[2019-03-10 09:32:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-03-10 09:32:30]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[spring-summer-fashion-trends]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1465]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>About us</title>
+		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/about-us/</link>
+		<pubDate>Mon, 11 Mar 2019 07:22:50 +0000</pubDate>
+		<dc:creator><![CDATA[Access]]></dc:creator>
+		<guid isPermaLink="false">https://demo.accesspressthemes.com/zigcy-lite/demo-one/?page_id=313</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>313</wp:post_id>
+		<wp:post_date><![CDATA[2019-03-11 07:22:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-03-11 07:22:50]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[about-us]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Shopping Guide</title>
+		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/shopping-guide/</link>
+		<pubDate>Mon, 11 Mar 2019 07:24:23 +0000</pubDate>
+		<dc:creator><![CDATA[Access]]></dc:creator>
+		<guid isPermaLink="false">https://demo.accesspressthemes.com/zigcy-lite/demo-one/?page_id=315</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>315</wp:post_id>
+		<wp:post_date><![CDATA[2019-03-11 07:24:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-03-11 07:24:23]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[shopping-guide]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Delivery Information</title>
+		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/delivery-information/</link>
+		<pubDate>Mon, 11 Mar 2019 07:24:44 +0000</pubDate>
+		<dc:creator><![CDATA[Access]]></dc:creator>
+		<guid isPermaLink="false">https://demo.accesspressthemes.com/zigcy-lite/demo-one/?page_id=317</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>317</wp:post_id>
+		<wp:post_date><![CDATA[2019-03-11 07:24:44]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-03-11 07:24:44]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[delivery-information]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>shop</title>
+		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/shop-2/</link>
+		<pubDate>Fri, 31 May 2019 08:37:18 +0000</pubDate>
+		<dc:creator><![CDATA[Access]]></dc:creator>
+		<guid isPermaLink="false">https://demo.accesspressthemes.com/zigcy-lite/demo-one/?page_id=370</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>375</wp:post_id>
+		<wp:post_date><![CDATA[2019-05-31 08:37:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-05-31 08:37:18]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[shop-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title>Intricate Ring</title>
 		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/product/current-watch/</link>
@@ -8652,20 +7753,15 @@ Etiam dictumst congue a non class risus sed a. Diam adipiscing a condimentum in 
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="product_cat" nicename="diamond-necklace"><![CDATA[Diamond Necklace]]></category>
 		<category domain="product_cat" nicename="diamond-pendant"><![CDATA[Diamond Pendant]]></category>
-		<category domain="product_visibility" nicename="rated-5"><![CDATA[rated-5]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="wedding-ring"><![CDATA[Wedding Ring]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:5;i:1;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5.00]]></wp:meta_value>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -8785,35 +7881,13 @@ Etiam dictumst congue a non class risus sed a. Diam adipiscing a condimentum in 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.6.4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4.1.1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[900]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>52</wp:comment_id>
-			<wp:comment_author><![CDATA[John Doe]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[jeevan@access-keys.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[45.123.221.22]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2020-04-20 10:10:41]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2020-04-20 10:10:41]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[best]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[review]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>1</wp:comment_user_id>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[rating]]></wp:meta_key>
-			<wp:meta_value><![CDATA[5]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[verified]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-							</wp:comment>
-					</item>
+							</item>
 					<item>
 		<title>Drop Diamond Earrings</title>
 		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/product/brown-belt/</link>
@@ -8845,19 +7919,14 @@ Cubilia vestibulum interdum nisl a parturient a auctor vestibulum taciti vel bib
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="product_cat" nicename="diamond-pendant"><![CDATA[Diamond Pendant]]></category>
 		<category domain="product_cat" nicename="gold-ear-rings"><![CDATA[Gold Ear Rings]]></category>
-		<category domain="product_visibility" nicename="rated-5"><![CDATA[rated-5]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:5;i:1;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5.00]]></wp:meta_value>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -8977,35 +8046,13 @@ Cubilia vestibulum interdum nisl a parturient a auctor vestibulum taciti vel bib
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.6.4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4.1.1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1500]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>51</wp:comment_id>
-			<wp:comment_author><![CDATA[John Doe]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[jeevan@access-keys.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[45.123.221.22]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2020-04-20 10:10:21]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2020-04-20 10:10:21]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Good]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[review]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>1</wp:comment_user_id>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[rating]]></wp:meta_key>
-			<wp:meta_value><![CDATA[5]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[verified]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-							</wp:comment>
-					</item>
+							</item>
 					<item>
 		<title>Contact form 1</title>
 		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/?post_type=wpcf7_contact_form&#038;p=266</link>
@@ -9257,118 +8304,6 @@ This e-mail was sent from a contact form on Zigcy Lite (https://demo.accesspress
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Pearl  Earrings</title>
-		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/product/pearl-diamond-earrings/</link>
-		<pubDate>Thu, 14 May 2020 09:39:06 +0000</pubDate>
-		<dc:creator><![CDATA[Access]]></dc:creator>
-		<guid isPermaLink="false">https://demo.accesspressthemes.com/zigcy-lite/demo-four/?post_type=product&#038;p=1376</guid>
-		<description></description>
-		<content:encoded><![CDATA[<div id="tab-description" class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description entry-content wc-tab" role="tabpanel" aria-labelledby="tab-title-description">
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-
-Etiam dictumst congue a non class risus sed a. Diam adipiscing a condimentum in a nisl a maecenas libero pharetra tincidunt phasellus justo molestie bibendum. Vestibulum penatibus vestibulum lobortis vehicula euismod a platea taciti a eget in nec cum eget curabitur justo id enim mi velit at cum. Eu amet ut elit a sociis himenaeos eros nunc at pharetra magna suscipit.
-
-Cubilia vestibulum interdum nisl a parturient a auctor vestibulum taciti vel bibendum tempor adipiscing suspendisse posuere libero penatibus lorem at interdum tristique iaculis redosan condimentum a ac rutrum mollis consectetur. Aenean nascetur vehicula egestas a adipiscing a est egestas suspendisse parturient diam adipiscing mattis elementum velit pulvinar suscipit sagittis facilisis facilisi tortor morbi at aliquam.
-
-</div>]]></content:encoded>
-		<excerpt:encoded><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></excerpt:encoded>
-		<wp:post_id>1376</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-14 09:39:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-14 09:39:06]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pearl-diamond-earrings]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[product]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_cat" nicename="diamond-pendant"><![CDATA[Diamond Pendant]]></category>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[150]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1442,1443,1444]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1433]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.6.4]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[150]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>Untitled</title>
 		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/?post_type=wpcf7_contact_form&#038;p=422</link>
 		<pubDate>Sun, 19 Apr 2020 04:36:43 +0000</pubDate>
@@ -9478,6 +8413,118 @@ This e-mail was sent from a contact form on Zigcy Jewellery (https://demo.access
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
 		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Pearl  Earrings</title>
+		<link>https://demo.accesspressthemes.com/zigcy-lite/demo-four/product/pearl-diamond-earrings/</link>
+		<pubDate>Thu, 14 May 2020 09:39:06 +0000</pubDate>
+		<dc:creator><![CDATA[Access]]></dc:creator>
+		<guid isPermaLink="false">https://demo.accesspressthemes.com/zigcy-lite/demo-four/?post_type=product&#038;p=1376</guid>
+		<description></description>
+		<content:encoded><![CDATA[<div id="tab-description" class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description entry-content wc-tab" role="tabpanel" aria-labelledby="tab-title-description">
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+
+Etiam dictumst congue a non class risus sed a. Diam adipiscing a condimentum in a nisl a maecenas libero pharetra tincidunt phasellus justo molestie bibendum. Vestibulum penatibus vestibulum lobortis vehicula euismod a platea taciti a eget in nec cum eget curabitur justo id enim mi velit at cum. Eu amet ut elit a sociis himenaeos eros nunc at pharetra magna suscipit.
+
+Cubilia vestibulum interdum nisl a parturient a auctor vestibulum taciti vel bibendum tempor adipiscing suspendisse posuere libero penatibus lorem at interdum tristique iaculis redosan condimentum a ac rutrum mollis consectetur. Aenean nascetur vehicula egestas a adipiscing a est egestas suspendisse parturient diam adipiscing mattis elementum velit pulvinar suscipit sagittis facilisis facilisi tortor morbi at aliquam.
+
+</div>]]></content:encoded>
+		<excerpt:encoded><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></excerpt:encoded>
+		<wp:post_id>1376</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-14 09:39:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-14 09:39:06]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[pearl-diamond-earrings]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[product]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="product_cat" nicename="diamond-pendant"><![CDATA[Diamond Pendant]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1442,1443,1444]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1433]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3.6.4]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
