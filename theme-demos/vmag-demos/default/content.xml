@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.2.3" created="2019-09-10 03:55" -->
+	<!-- generator="WordPress/5.5" created="2020-08-15 16:34" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>#1 Free WordPress Magazine Theme 2016 – VMag : Features Demo</title>
 	<link>https://demo.accesspressthemes.com/vmag</link>
 	<description>a free theme by AccessPress Themes</description>
-	<pubDate>Tue, 10 Sep 2019 03:55:43 +0000</pubDate>
+	<pubDate>Sat, 15 Aug 2020 16:34:29 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.accesspressthemes.com/vmag</wp:base_site_url>
@@ -170,210 +170,210 @@
 		<wp:tag_name><![CDATA[World News]]></wp:tag_name>
 	</wp:tag>
 			<wp:term>
-		<wp:term_id><![CDATA[18]]></wp:term_id>
+		<wp:term_id>18</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[business]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Business]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[14]]></wp:term_id>
+		<wp:term_id>14</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[design]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Design]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[5]]></wp:term_id>
+		<wp:term_id>5</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[entertainment]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Entertainment]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[2]]></wp:term_id>
+		<wp:term_id>2</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[fashion]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Fashion]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[6]]></wp:term_id>
+		<wp:term_id>6</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[fashoin]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Fashoin]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[16]]></wp:term_id>
+		<wp:term_id>16</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[featured]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Featured]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[21]]></wp:term_id>
+		<wp:term_id>21</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[fitness]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Fitness]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[20]]></wp:term_id>
+		<wp:term_id>20</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[food]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Food]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[25]]></wp:term_id>
+		<wp:term_id>25</wp:term_id>
 		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[footer-menu]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Footer Menu]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[27]]></wp:term_id>
+		<wp:term_id>27</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[home-slider]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Home Slider]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[3]]></wp:term_id>
+		<wp:term_id>3</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[lifestyle]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Lifestyle]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[7]]></wp:term_id>
+		<wp:term_id>7</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[lifestyle]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Lifestyle]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[8]]></wp:term_id>
+		<wp:term_id>8</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[news]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[News]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[30]]></wp:term_id>
+		<wp:term_id>30</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_format]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[post-format-audio]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Audio]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[28]]></wp:term_id>
+		<wp:term_id>28</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_format]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[post-format-video]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Video]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[9]]></wp:term_id>
+		<wp:term_id>9</wp:term_id>
 		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[primary-menu]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Primary Menu]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[29]]></wp:term_id>
+		<wp:term_id>29</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[slider]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[slider]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[23]]></wp:term_id>
+		<wp:term_id>23</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[space]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Space]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[15]]></wp:term_id>
+		<wp:term_id>15</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[tech-gadget]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Tech &amp; Gadget]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[17]]></wp:term_id>
+		<wp:term_id>17</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[technology]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Technology]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[22]]></wp:term_id>
+		<wp:term_id>22</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[technology]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Technology]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[26]]></wp:term_id>
+		<wp:term_id>26</wp:term_id>
 		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[test]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Test]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[24]]></wp:term_id>
+		<wp:term_id>24</wp:term_id>
 		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[top-menu]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Top Menu]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[13]]></wp:term_id>
+		<wp:term_id>13</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[travel-guide]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Travel Guide]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[4]]></wp:term_id>
+		<wp:term_id>4</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[travels]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Travels]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[11]]></wp:term_id>
+		<wp:term_id>11</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[trends]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Trends]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[1]]></wp:term_id>
+		<wp:term_id>1</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[uncategorized]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Uncategorized]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[10]]></wp:term_id>
+		<wp:term_id>10</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[voge]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Voge]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[12]]></wp:term_id>
+		<wp:term_id>12</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[world-news]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[World News]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[19]]></wp:term_id>
+		<wp:term_id>19</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[world-news]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -388,7 +388,7 @@
 	<wp:term><wp:term_id>24</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu]]></wp:term_slug><wp:term_name><![CDATA[Top Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.2.3</generator>
+	<generator>https://wordpress.org/?v=5.5</generator>
 
 <image>
 	<url>https://demo.accesspressthemes.com/vmag/wp-content/uploads/2016/04/cropped-favicon-1-90x90.png</url>
@@ -2307,6 +2307,317 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title>cropped-2016-05-03.png</title>
+		<link>https://demo.accesspressthemes.com/vmag/cropped-2016-05-03-png/</link>
+		<pubDate>Wed, 23 Aug 2017 07:11:21 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.accesspressthemes.com/vmag/wp-content/uploads/2016/05/cropped-2016-05-03.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[https://demo.accesspressthemes.com/vmag/wp-content/uploads/2016/05/cropped-2016-05-03.png]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>325</wp:post_id>
+		<wp:post_date><![CDATA[2017-08-23 07:11:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-08-23 07:11:21]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cropped-2016-05-03-png]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.accesspressthemes.com/vmag/wp-content/uploads/2016/05/cropped-2016-05-03.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/05/cropped-2016-05-03.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom-logo]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:268;s:6:"height";i:90;s:4:"file";s:30:"2016/05/cropped-2016-05-03.png";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:29:"cropped-2016-05-03-150x90.png";s:5:"width";i:150;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>2020-07-08</title>
+		<link>https://demo.accesspressthemes.com/vmag/2016/04/10/food-health-star-ratings-kelloggs-reveals-the-cereal-that-gets-1-5-stars/2020-07-08/</link>
+		<pubDate>Sun, 12 Jul 2020 06:36:02 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.accesspressthemes.com/vmag/wp-content/uploads/2016/04/2020-07-08.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[Family with kids in face mask in shopping mall or airport. Mother and child wear facemask during coronavirus and flu outbreak. Virus and illness protection, hand sanitizer in public crowded place.]]></excerpt:encoded>
+		<wp:post_id>331</wp:post_id>
+		<wp:post_date><![CDATA[2020-07-12 06:36:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-07-12 06:36:02]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[2020-07-08]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>68</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.accesspressthemes.com/vmag/wp-content/uploads/2016/04/2020-07-08.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/04/2020-07-08.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:600;s:4:"file";s:22:"2016/04/2020-07-08.jpg";s:5:"sizes";a:9:{s:6:"medium";a:4:{s:4:"file";s:22:"2020-07-08-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:22:"2020-07-08-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:22:"2020-07-08-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:17:"vmag-slider-thumb";a:4:{s:4:"file";s:22:"2020-07-08-534x464.jpg";s:5:"width";i:534;s:6:"height";i:464;s:9:"mime-type";s:10:"image/jpeg";}s:21:"vmag-horizontal-thumb";a:4:{s:4:"file";s:22:"2020-07-08-535x261.jpg";s:5:"width";i:535;s:6:"height";i:261;s:9:"mime-type";s:10:"image/jpeg";}s:19:"vmag-featured-thumb";a:4:{s:4:"file";s:22:"2020-07-08-480x357.jpg";s:5:"width";i:480;s:6:"height";i:357;s:9:"mime-type";s:10:"image/jpeg";}s:26:"vmag-vertical-slider-thumb";a:4:{s:4:"file";s:22:"2020-07-08-500x575.jpg";s:5:"width";i:500;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:20:"vmag-rectangle-thumb";a:4:{s:4:"file";s:22:"2020-07-08-510x369.jpg";s:5:"width";i:510;s:6:"height";i:369;s:9:"mime-type";s:10:"image/jpeg";}s:16:"vmag-small-thumb";a:4:{s:4:"file";s:22:"2020-07-08-320x224.jpg";s:5:"width";i:320;s:6:"height";i:224;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:7:"FamVeld";s:6:"camera";s:0:"";s:7:"caption";s:196:"Family with kids in face mask in shopping mall or airport. Mother and child wear facemask during coronavirus and flu outbreak. Virus and illness protection, hand sanitizer in public crowded place.";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:54:"Family Veldman (Family Veldman (Photographer) - [None]";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>2020-07-08 (1)</title>
+		<link>https://demo.accesspressthemes.com/vmag/2016/04/10/top-search-engine-startegies/2020-07-08-1/</link>
+		<pubDate>Sun, 12 Jul 2020 06:40:17 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.accesspressthemes.com/vmag/wp-content/uploads/2016/04/2020-07-08-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[Family with kids in face mask in shopping mall or airport. Mother and child wear facemask during coronavirus and flu outbreak. Virus and illness protection, hand sanitizer in public crowded place.]]></excerpt:encoded>
+		<wp:post_id>333</wp:post_id>
+		<wp:post_date><![CDATA[2020-07-12 06:40:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-07-12 06:40:17]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[2020-07-08-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>50</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.accesspressthemes.com/vmag/wp-content/uploads/2016/04/2020-07-08-1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/04/2020-07-08-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:600;s:4:"file";s:24:"2016/04/2020-07-08-1.jpg";s:5:"sizes";a:9:{s:6:"medium";a:4:{s:4:"file";s:24:"2020-07-08-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:24:"2020-07-08-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"2020-07-08-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:17:"vmag-slider-thumb";a:4:{s:4:"file";s:24:"2020-07-08-1-534x464.jpg";s:5:"width";i:534;s:6:"height";i:464;s:9:"mime-type";s:10:"image/jpeg";}s:21:"vmag-horizontal-thumb";a:4:{s:4:"file";s:24:"2020-07-08-1-535x261.jpg";s:5:"width";i:535;s:6:"height";i:261;s:9:"mime-type";s:10:"image/jpeg";}s:19:"vmag-featured-thumb";a:4:{s:4:"file";s:24:"2020-07-08-1-480x357.jpg";s:5:"width";i:480;s:6:"height";i:357;s:9:"mime-type";s:10:"image/jpeg";}s:26:"vmag-vertical-slider-thumb";a:4:{s:4:"file";s:24:"2020-07-08-1-500x575.jpg";s:5:"width";i:500;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:20:"vmag-rectangle-thumb";a:4:{s:4:"file";s:24:"2020-07-08-1-510x369.jpg";s:5:"width";i:510;s:6:"height";i:369;s:9:"mime-type";s:10:"image/jpeg";}s:16:"vmag-small-thumb";a:4:{s:4:"file";s:24:"2020-07-08-1-320x224.jpg";s:5:"width";i:320;s:6:"height";i:224;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:7:"FamVeld";s:6:"camera";s:0:"";s:7:"caption";s:196:"Family with kids in face mask in shopping mall or airport. Mother and child wear facemask during coronavirus and flu outbreak. Virus and illness protection, hand sanitizer in public crowded place.";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:54:"Family Veldman (Family Veldman (Photographer) - [None]";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>2020-07-08 (2)</title>
+		<link>https://demo.accesspressthemes.com/vmag/2016/04/10/what-do-i-need-to-make-it-in-business/2020-07-08-2/</link>
+		<pubDate>Sun, 12 Jul 2020 06:41:44 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.accesspressthemes.com/vmag/wp-content/uploads/2016/04/2020-07-08-2.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[Family with kids in face mask in shopping mall or airport. Mother and child wear facemask during coronavirus and flu outbreak. Virus and illness protection, hand sanitizer in public crowded place.]]></excerpt:encoded>
+		<wp:post_id>335</wp:post_id>
+		<wp:post_date><![CDATA[2020-07-12 06:41:44]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-07-12 06:41:44]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[2020-07-08-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>53</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.accesspressthemes.com/vmag/wp-content/uploads/2016/04/2020-07-08-2.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/04/2020-07-08-2.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:600;s:4:"file";s:24:"2016/04/2020-07-08-2.jpg";s:5:"sizes";a:9:{s:6:"medium";a:4:{s:4:"file";s:24:"2020-07-08-2-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:24:"2020-07-08-2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"2020-07-08-2-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:17:"vmag-slider-thumb";a:4:{s:4:"file";s:24:"2020-07-08-2-534x464.jpg";s:5:"width";i:534;s:6:"height";i:464;s:9:"mime-type";s:10:"image/jpeg";}s:21:"vmag-horizontal-thumb";a:4:{s:4:"file";s:24:"2020-07-08-2-535x261.jpg";s:5:"width";i:535;s:6:"height";i:261;s:9:"mime-type";s:10:"image/jpeg";}s:19:"vmag-featured-thumb";a:4:{s:4:"file";s:24:"2020-07-08-2-480x357.jpg";s:5:"width";i:480;s:6:"height";i:357;s:9:"mime-type";s:10:"image/jpeg";}s:26:"vmag-vertical-slider-thumb";a:4:{s:4:"file";s:24:"2020-07-08-2-500x575.jpg";s:5:"width";i:500;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:20:"vmag-rectangle-thumb";a:4:{s:4:"file";s:24:"2020-07-08-2-510x369.jpg";s:5:"width";i:510;s:6:"height";i:369;s:9:"mime-type";s:10:"image/jpeg";}s:16:"vmag-small-thumb";a:4:{s:4:"file";s:24:"2020-07-08-2-320x224.jpg";s:5:"width";i:320;s:6:"height";i:224;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:7:"FamVeld";s:6:"camera";s:0:"";s:7:"caption";s:196:"Family with kids in face mask in shopping mall or airport. Mother and child wear facemask during coronavirus and flu outbreak. Virus and illness protection, hand sanitizer in public crowded place.";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:54:"Family Veldman (Family Veldman (Photographer) - [None]";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>2020-07-08 (3)</title>
+		<link>https://demo.accesspressthemes.com/vmag/2016/04/10/which-company-ask-more/2020-07-08-3/</link>
+		<pubDate>Sun, 12 Jul 2020 07:15:15 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.accesspressthemes.com/vmag/wp-content/uploads/2016/04/2020-07-08-3.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[Family with kids in face mask in shopping mall or airport. Mother and child wear facemask during coronavirus and flu outbreak. Virus and illness protection, hand sanitizer in public crowded place.]]></excerpt:encoded>
+		<wp:post_id>337</wp:post_id>
+		<wp:post_date><![CDATA[2020-07-12 07:15:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-07-12 07:15:15]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[2020-07-08-3]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>40</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.accesspressthemes.com/vmag/wp-content/uploads/2016/04/2020-07-08-3.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/04/2020-07-08-3.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:600;s:4:"file";s:24:"2016/04/2020-07-08-3.jpg";s:5:"sizes";a:9:{s:6:"medium";a:4:{s:4:"file";s:24:"2020-07-08-3-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:24:"2020-07-08-3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"2020-07-08-3-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:17:"vmag-slider-thumb";a:4:{s:4:"file";s:24:"2020-07-08-3-534x464.jpg";s:5:"width";i:534;s:6:"height";i:464;s:9:"mime-type";s:10:"image/jpeg";}s:21:"vmag-horizontal-thumb";a:4:{s:4:"file";s:24:"2020-07-08-3-535x261.jpg";s:5:"width";i:535;s:6:"height";i:261;s:9:"mime-type";s:10:"image/jpeg";}s:19:"vmag-featured-thumb";a:4:{s:4:"file";s:24:"2020-07-08-3-480x357.jpg";s:5:"width";i:480;s:6:"height";i:357;s:9:"mime-type";s:10:"image/jpeg";}s:26:"vmag-vertical-slider-thumb";a:4:{s:4:"file";s:24:"2020-07-08-3-500x575.jpg";s:5:"width";i:500;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:20:"vmag-rectangle-thumb";a:4:{s:4:"file";s:24:"2020-07-08-3-510x369.jpg";s:5:"width";i:510;s:6:"height";i:369;s:9:"mime-type";s:10:"image/jpeg";}s:16:"vmag-small-thumb";a:4:{s:4:"file";s:24:"2020-07-08-3-320x224.jpg";s:5:"width";i:320;s:6:"height";i:224;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:7:"FamVeld";s:6:"camera";s:0:"";s:7:"caption";s:196:"Family with kids in face mask in shopping mall or airport. Mother and child wear facemask during coronavirus and flu outbreak. Virus and illness protection, hand sanitizer in public crowded place.";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:54:"Family Veldman (Family Veldman (Photographer) - [None]";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>2020-07-08 (4)</title>
+		<link>https://demo.accesspressthemes.com/vmag/2016/04/10/google-and-motorola-planning-a-new-nexsus-phone/2020-07-08-4/</link>
+		<pubDate>Sun, 12 Jul 2020 07:18:10 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.accesspressthemes.com/vmag/wp-content/uploads/2016/04/2020-07-08-4.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[Family with kids in face mask in shopping mall or airport. Mother and child wear facemask during coronavirus and flu outbreak. Virus and illness protection, hand sanitizer in public crowded place.]]></excerpt:encoded>
+		<wp:post_id>339</wp:post_id>
+		<wp:post_date><![CDATA[2020-07-12 07:18:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-07-12 07:18:10]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[2020-07-08-4]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>47</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.accesspressthemes.com/vmag/wp-content/uploads/2016/04/2020-07-08-4.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/04/2020-07-08-4.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:600;s:4:"file";s:24:"2016/04/2020-07-08-4.jpg";s:5:"sizes";a:9:{s:6:"medium";a:4:{s:4:"file";s:24:"2020-07-08-4-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:24:"2020-07-08-4-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"2020-07-08-4-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:17:"vmag-slider-thumb";a:4:{s:4:"file";s:24:"2020-07-08-4-534x464.jpg";s:5:"width";i:534;s:6:"height";i:464;s:9:"mime-type";s:10:"image/jpeg";}s:21:"vmag-horizontal-thumb";a:4:{s:4:"file";s:24:"2020-07-08-4-535x261.jpg";s:5:"width";i:535;s:6:"height";i:261;s:9:"mime-type";s:10:"image/jpeg";}s:19:"vmag-featured-thumb";a:4:{s:4:"file";s:24:"2020-07-08-4-480x357.jpg";s:5:"width";i:480;s:6:"height";i:357;s:9:"mime-type";s:10:"image/jpeg";}s:26:"vmag-vertical-slider-thumb";a:4:{s:4:"file";s:24:"2020-07-08-4-500x575.jpg";s:5:"width";i:500;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:20:"vmag-rectangle-thumb";a:4:{s:4:"file";s:24:"2020-07-08-4-510x369.jpg";s:5:"width";i:510;s:6:"height";i:369;s:9:"mime-type";s:10:"image/jpeg";}s:16:"vmag-small-thumb";a:4:{s:4:"file";s:24:"2020-07-08-4-320x224.jpg";s:5:"width";i:320;s:6:"height";i:224;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:7:"FamVeld";s:6:"camera";s:0:"";s:7:"caption";s:196:"Family with kids in face mask in shopping mall or airport. Mother and child wear facemask during coronavirus and flu outbreak. Virus and illness protection, hand sanitizer in public crowded place.";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:54:"Family Veldman (Family Veldman (Photographer) - [None]";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>2020-07-08 (5)</title>
+		<link>https://demo.accesspressthemes.com/vmag/2016/04/10/most-anticipated-hotel-openings-in-canary-islands-2016/2020-07-08-5/</link>
+		<pubDate>Sun, 12 Jul 2020 07:19:30 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.accesspressthemes.com/vmag/wp-content/uploads/2016/04/2020-07-08-5.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[Family with kids in face mask in shopping mall or airport. Mother and child wear facemask during coronavirus and flu outbreak. Virus and illness protection, hand sanitizer in public crowded place.]]></excerpt:encoded>
+		<wp:post_id>341</wp:post_id>
+		<wp:post_date><![CDATA[2020-07-12 07:19:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-07-12 07:19:30]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[2020-07-08-5]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>62</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.accesspressthemes.com/vmag/wp-content/uploads/2016/04/2020-07-08-5.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/04/2020-07-08-5.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:600;s:4:"file";s:24:"2016/04/2020-07-08-5.jpg";s:5:"sizes";a:9:{s:6:"medium";a:4:{s:4:"file";s:24:"2020-07-08-5-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:24:"2020-07-08-5-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"2020-07-08-5-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:17:"vmag-slider-thumb";a:4:{s:4:"file";s:24:"2020-07-08-5-534x464.jpg";s:5:"width";i:534;s:6:"height";i:464;s:9:"mime-type";s:10:"image/jpeg";}s:21:"vmag-horizontal-thumb";a:4:{s:4:"file";s:24:"2020-07-08-5-535x261.jpg";s:5:"width";i:535;s:6:"height";i:261;s:9:"mime-type";s:10:"image/jpeg";}s:19:"vmag-featured-thumb";a:4:{s:4:"file";s:24:"2020-07-08-5-480x357.jpg";s:5:"width";i:480;s:6:"height";i:357;s:9:"mime-type";s:10:"image/jpeg";}s:26:"vmag-vertical-slider-thumb";a:4:{s:4:"file";s:24:"2020-07-08-5-500x575.jpg";s:5:"width";i:500;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:20:"vmag-rectangle-thumb";a:4:{s:4:"file";s:24:"2020-07-08-5-510x369.jpg";s:5:"width";i:510;s:6:"height";i:369;s:9:"mime-type";s:10:"image/jpeg";}s:16:"vmag-small-thumb";a:4:{s:4:"file";s:24:"2020-07-08-5-320x224.jpg";s:5:"width";i:320;s:6:"height";i:224;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:7:"FamVeld";s:6:"camera";s:0:"";s:7:"caption";s:196:"Family with kids in face mask in shopping mall or airport. Mother and child wear facemask during coronavirus and flu outbreak. Virus and illness protection, hand sanitizer in public crowded place.";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:54:"Family Veldman (Family Veldman (Photographer) - [None]";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>banner-header-img</title>
+		<link>https://demo.accesspressthemes.com/vmag/banner-header-img/</link>
+		<pubDate>Fri, 14 Aug 2020 11:26:11 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.accesspressthemes.com/vmag/wp-content/uploads/2020/08/banner-header-img.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>344</wp:post_id>
+		<wp:post_date><![CDATA[2020-08-14 11:26:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-08-14 11:26:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[banner-header-img]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.accesspressthemes.com/vmag/wp-content/uploads/2020/08/banner-header-img.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/08/banner-header-img.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:728;s:6:"height";i:90;s:4:"file";s:29:"2020/08/banner-header-img.jpg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:28:"banner-header-img-300x37.jpg";s:5:"width";i:300;s:6:"height";i:37;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:28:"banner-header-img-150x90.jpg";s:5:"width";i:150;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}s:17:"vmag-slider-thumb";a:4:{s:4:"file";s:28:"banner-header-img-534x90.jpg";s:5:"width";i:534;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}s:21:"vmag-horizontal-thumb";a:4:{s:4:"file";s:28:"banner-header-img-535x90.jpg";s:5:"width";i:535;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}s:19:"vmag-featured-thumb";a:4:{s:4:"file";s:28:"banner-header-img-480x90.jpg";s:5:"width";i:480;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}s:26:"vmag-vertical-slider-thumb";a:4:{s:4:"file";s:28:"banner-header-img-500x90.jpg";s:5:"width";i:500;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}s:20:"vmag-rectangle-thumb";a:4:{s:4:"file";s:28:"banner-header-img-510x90.jpg";s:5:"width";i:510;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}s:16:"vmag-small-thumb";a:4:{s:4:"file";s:28:"banner-header-img-320x90.jpg";s:5:"width";i:320;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Home</title>
+		<link>https://demo.accesspressthemes.com/vmag/</link>
+		<pubDate>Wed, 06 Apr 2016 12:01:02 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/themes/vmag/?page_id=22</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>22</wp:post_id>
+		<wp:post_date><![CDATA[2016-04-06 12:01:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-04-06 12:01:02]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[templates/home-template.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[afap_auto_post]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[atap_auto_post]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[vmag_page_sidebar]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default_sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_aioseop_keywords]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Free WP Mag theme, WP Magazine theme, WordPress Magazine theme, #1 Mag theme, Best WordPress Magazine Theme,]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_aioseop_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[VMag is a FREE responsive WordPress theme for online magazines, newspapers and professional blogs. It is completely built on Customizer tool, which allows you to customize most of the theme settings easily with live previews. It is fully widgetized theme so as to let users manage the website using the easy to use widgets.
+Bold typography, large images and beautiful colors are the main features, which make it ideal for magazines and newspapers.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_aioseop_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#1 Free WordPress Magazine Theme 2016 - VMag]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title></title>
 		<link>https://demo.accesspressthemes.com/vmag/2016/04/19/140/</link>
 		<pubDate>Tue, 19 Apr 2016 05:58:01 +0000</pubDate>
@@ -2708,400 +3019,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-2016-05-03.png</title>
-		<link>https://demo.accesspressthemes.com/vmag/cropped-2016-05-03-png/</link>
-		<pubDate>Wed, 23 Aug 2017 07:11:21 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://demo.accesspressthemes.com/vmag/wp-content/uploads/2016/05/cropped-2016-05-03.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[https://demo.accesspressthemes.com/vmag/wp-content/uploads/2016/05/cropped-2016-05-03.png]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>325</wp:post_id>
-		<wp:post_date><![CDATA[2017-08-23 07:11:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-08-23 07:11:21]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-2016-05-03-png]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.accesspressthemes.com/vmag/wp-content/uploads/2016/05/cropped-2016-05-03.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2016/05/cropped-2016-05-03.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom-logo]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:268;s:6:"height";i:90;s:4:"file";s:30:"2016/05/cropped-2016-05-03.png";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:29:"cropped-2016-05-03-150x90.png";s:5:"width";i:150;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Home</title>
-		<link>https://demo.accesspressthemes.com/vmag/</link>
-		<pubDate>Wed, 06 Apr 2016 12:01:02 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/themes/vmag/?page_id=22</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>22</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-06 12:01:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-06 12:01:02]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[templates/home-template.php]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[afap_auto_post]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[atap_auto_post]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[vmag_page_sidebar]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default_sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_aioseop_keywords]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Free WP Mag theme, WP Magazine theme, WordPress Magazine theme, #1 Mag theme, Best WordPress Magazine Theme,]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_aioseop_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[VMag is a FREE responsive WordPress theme for online magazines, newspapers and professional blogs. It is completely built on Customizer tool, which allows you to customize most of the theme settings easily with live previews. It is fully widgetized theme so as to let users manage the website using the easy to use widgets.
-Bold typography, large images and beautiful colors are the main features, which make it ideal for magazines and newspapers.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_aioseop_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#1 Free WordPress Magazine Theme 2016 - VMag]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Contact Us</title>
-		<link>https://demo.accesspressthemes.com/vmag/contact-us/</link>
-		<pubDate>Mon, 11 Apr 2016 09:03:30 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/themes/vmag/?page_id=80</guid>
-		<description></description>
-		<content:encoded><![CDATA[[contact-form-7 id="133" title="Contact form 1"]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>80</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-11 09:03:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-11 09:03:30]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[afap_auto_post]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[atap_auto_post]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[vmag_page_sidebar]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default_sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>About Us</title>
-		<link>https://demo.accesspressthemes.com/vmag/about-us/</link>
-		<pubDate>Mon, 11 Apr 2016 09:06:44 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/themes/vmag/?page_id=82</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>82</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-11 09:06:44]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-11 09:06:44]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[about-us]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Disclaimer</title>
-		<link>https://demo.accesspressthemes.com/vmag/disclaimer/</link>
-		<pubDate>Thu, 14 Apr 2016 05:45:55 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/themes/vmag/?page_id=119</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>119</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-14 05:45:55]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-14 05:45:55]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[disclaimer]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Advertisment</title>
-		<link>https://demo.accesspressthemes.com/vmag/advertisment/</link>
-		<pubDate>Thu, 14 Apr 2016 05:46:12 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/themes/vmag/?page_id=124</guid>
-		<description></description>
-		<content:encoded><![CDATA[When CafePress first started printing shirts in 1999, online retail was still a nascent industry and Google had yet to sell its first ad. Soon CafePress started selling products through search ads on Google, and their business took off. Today, CafePress hosts millions of shops online where customers can choose from more than 325 million products on nearly any topic, from wall art to phone cases.
-
-Letterhead Ads
-
-<img class="size-full wp-image-158 aligncenter" src="https://demo.accesspressthemes.com/vmag/wp-content/uploads/2016/04/header_banner.gif" alt="header_banner" width="720" height="90" />
-Just as CafePress has broadened its offerings over time, we've also worked to improve and expand our search advertising products. What started as three lines of simple text has evolved into ads that are multimedia-rich, location-aware and socially-amplified.
-Today CafePress uses Sitelinks to direct people to specific pages of their website, helping customers find what they’re looking for faster. On average, ads with three rows of links, or three-line Sitelinks, are more than 50 percent likely to get clicked on than ads without Sitelinks. More than 200,000 advertisers have joined CafePress in using Sitelinks in at least one campaign.
-
-Medium Rectangle
-
-<img class="size-medium wp-image-149 alignleft" src="https://demo.accesspressthemes.com/vmag/wp-content/uploads/2016/04/2016-04-19-300x250.png" alt="2016-04-19" width="300" height="250" />
-
-Tends to have more ad inventory available from advertisers, which can increase earnings when both text and image ads are enabled. Just as CafePress has broadened its offerings over time, we've also worked to improve and expand our search advertising products. What started as three lines of simple text has evolved into ads that are multimedia-rich, location-aware and socially-amplified.
-Today CafePress uses Sitelinks to direct people to specific pages of their website, helping customers find what they’re looking for faster. On average, ads with three rows of links, or three-line Sitelinks, are more than 50 percent likely to get clicked on than ads without Sitelinks. More than 200,000 advertisers have joined CafePress in using Sitelinks in at least one campaign.
-
-&nbsp;]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>124</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-14 05:46:12]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-14 05:46:12]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[advertisment]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[afap_auto_post]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[atap_auto_post]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[vmag_page_sidebar]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default_sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Privacy Policy</title>
-		<link>https://demo.accesspressthemes.com/vmag/privacy-policy/</link>
-		<pubDate>Thu, 14 Apr 2016 05:46:19 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/themes/vmag/?page_id=125</guid>
-		<description></description>
-		<content:encoded><![CDATA[The accesspressthemes.com Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
-
-<strong>1) What Information Do We Collect?</strong>
-
-When you visit our website you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and website use information collected on an aggregate basis as you and others browse the site.
-
-<strong>2) Website Use Information</strong>
-
-Similar to other commercial websites, this site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and Web server logs to collect information about how this site is used. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at this site, and the websites visited just before and just after our site. We, our advertisers and ad serving companies may also use small technology or pieces of code to determine which advertisements and promotions users have seen and how users responded to them.
-
-<strong>3) How Do We Use the Information That You Provide to Us?</strong>
-
-Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to this website, new services and special offers we think you will find valuable. You may notify us of your desire not to receive these offers by clicking the unsubscribe link contained in each such email.
-
-<strong>4) What Are Cookies?</strong>
-
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a website, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each website can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites. Some of our business partners (e.g., advertisers) use cookies that originate from their sites. We have no access or control over those cookies.
-
-<strong>5) How Do We Use Information We Collect from Cookies?</strong>
-
-As you use this website, the site uses its cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from seeing unnecessary advertisements or requiring you to log in more than is necessary for security. Cookies, in conjunction with our web server’s log files, allow us to calculate the aggregate number of people visiting this site and which parts of the site are most popular. This helps us gather feedback in order to constantly improve this site and better serve our customers. Cookies do not allow us to gather any personal information about you and we do not generally store any personal information that you provided to us in your cookies.
-
-<strong>6) Sharing Information with Third Parties</strong>
-
-The information we collect is used to improve the content of this site and the quality of our service, and is not shared with or sold to other organizations for commercial purposes. That being said, your information could be shared under the following circumstances:
-
-We use third parties to facilitate our business, including, but not limited to, sending email and processing payments. In connection with these offerings and business operations, these third parties may have access to your personal information for use in connection with those business activities.
-As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions.
-We may also transfer such information in the course of corporate divestitures, mergers, or any dissolution.
-If it becomes necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law.
-
-<strong>7) Certain Disclosures</strong>
-
-We may disclose your personal information if required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law or comply with legal process served on us or affiliated parties; (b) protect and defend our rights and property, our site, the users of our site, and/or our affiliated parties; (c) act under circumstances to protect the safety of users of our site, us, or third parties.
-
-<strong>8) What About Other Websites Linked to This Site?</strong>
-
-We are not responsible for the practices employed by websites linked to or from our site nor the information or content contained therein. Often links to other websites are provided solely as pointers to information on topics that may be useful to the users of our site. Please remember that when you use a link to go from our site to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including sites which have a link on our site, is subject to that website’s own rules and policies. Please read over those rules and policies before proceeding.
-
-<strong>9) Your Consent</strong>
-
-By using this site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on this site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>125</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-14 05:46:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-14 05:46:19]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[afap_auto_post]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[atap_auto_post]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[vmag_page_sidebar]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default_sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Submit News</title>
-		<link>https://demo.accesspressthemes.com/vmag/submit-news/</link>
-		<pubDate>Tue, 03 May 2016 06:35:50 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://demo.accesspressthemes.com/vmag/?page_id=190</guid>
-		<description></description>
-		<content:encoded><![CDATA[[ap-form]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>190</wp:post_id>
-		<wp:post_date><![CDATA[2016-05-03 06:35:50]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-05-03 06:35:50]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[submit-news]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[afap_auto_post]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[atap_auto_post]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[vmag_page_sidebar]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default_sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>No Sidebar Fullwidth</title>
 		<link>https://demo.accesspressthemes.com/vmag/2016/05/03/no-sidebar-fullwidth/</link>
 		<pubDate>Tue, 03 May 2016 06:50:03 +0000</pubDate>
@@ -3209,225 +3126,6 @@ By using this site you consent to our collection and use of your personal inform
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Html Elements</title>
-		<link>https://demo.accesspressthemes.com/vmag/html-elements/</link>
-		<pubDate>Tue, 03 May 2016 07:11:41 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://demo.accesspressthemes.com/vmag/?page_id=201</guid>
-		<description></description>
-		<content:encoded><![CDATA[<strong>Headings</strong>
-<h1>Header one</h1>
-<h2>Header two</h2>
-<h3>Header three</h3>
-<h4>Header four</h4>
-<h5>Header five</h5>
-<h6>Header six</h6>
-<h2>Blockquotes</h2>
-Single line blockquote:
-<blockquote>Stay hungry. Stay foolish.</blockquote>
-Multi line blockquote with a cite reference:
-<blockquote>People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things. <cite>Steve Jobs – Apple Worldwide Developers’ Conference, 1997</cite></blockquote>
-<h2>Tables</h2>
-<table>
-<tbody>
-<tr>
-<th>Employee</th>
-<th class="views">Salary</th>
-<th></th>
-</tr>
-<tr class="odd">
-<td><a href="http://example.com/">Jane</a></td>
-<td>$1</td>
-<td>Because that’s all Steve Job’ needed for a salary.</td>
-</tr>
-<tr class="even">
-<td><a href="http://example.com">John</a></td>
-<td>$100K</td>
-<td>For all the blogging he does.</td>
-</tr>
-<tr class="odd">
-<td><a href="http://example.com/">Jane</a></td>
-<td>$100M</td>
-<td>Pictures are worth a thousand words, right? So Tom x 1,000.</td>
-</tr>
-<tr class="even">
-<td><a href="http://example.com/">Jane</a></td>
-<td>$100B</td>
-<td>With hair like that?! Enough said…</td>
-</tr>
-</tbody>
-</table>
-<h2>Definition Lists</h2>
-<dl>
- 	<dt>Definition List Title</dt>
- 	<dd>Definition list division.</dd>
- 	<dt>Startup</dt>
- 	<dd>A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.</dd>
- 	<dt>#dowork</dt>
- 	<dd>Coined by Rob Dyrdek and his personal body guard Christopher “Big Black” Boykins, “Do Work” works as a self motivator, to motivating your friends.</dd>
- 	<dt>Do It Live</dt>
- 	<dd>I’ll let Bill O’Reilly will <a title="We'll Do It Live" href="https://www.youtube.com/watch?v=O_HyZ5aW76c">explain</a> this one.</dd>
-</dl>
-<h2>Unordered Lists (Nested)</h2>
-<ul>
- 	<li>List item one
-<ul>
- 	<li>List item one
-<ul>
- 	<li>List item one</li>
- 	<li>List item two</li>
- 	<li>List item three</li>
- 	<li>List item four</li>
-</ul>
-</li>
- 	<li>List item two</li>
- 	<li>List item three</li>
- 	<li>List item four</li>
-</ul>
-</li>
- 	<li>List item two</li>
- 	<li>List item three</li>
- 	<li>List item four</li>
-</ul>
-<h2>Ordered List (Nested)</h2>
-<ol>
- 	<li>List item one
-<ol>
- 	<li>List item one
-<ol>
- 	<li>List item one</li>
- 	<li>List item two</li>
- 	<li>List item three</li>
- 	<li>List item four</li>
-</ol>
-</li>
- 	<li>List item two</li>
- 	<li>List item three</li>
- 	<li>List item four</li>
-</ol>
-</li>
- 	<li>List item two</li>
- 	<li>List item three</li>
- 	<li>List item four</li>
-</ol>
-<h2>HTML Tags</h2>
-These supported tags come from the WordPress.com code <a title="Code" href="http://en.support.wordpress.com/code/">FAQ</a>.
-
-<strong>Address Tag</strong>
-
-<address>1 Infinite Loop
-Cupertino, CA 95014
-United States</address><strong>Anchor Tag (aka. Link)</strong>
-
-This is an example of a <a title="Apple" href="http://apple.com">link</a>.
-
-<strong>Abbreviation Tag</strong>
-
-The abbreviation <abbr title="Seriously">srsly</abbr> stands for “seriously”.
-
-<strong>Acronym Tag</strong>
-
-The acronym <acronym title="For The Win">ftw</acronym> stands for “for the win”.
-
-<strong>Big Tag</strong>
-
-These tests are a <big>big</big> deal, but this tag is no longer supported in HTML5.
-
-<strong>Cite Tag</strong>
-
-“Code is poetry.” —<cite>Automattic</cite>
-
-<strong>Code Tag</strong>
-
-You will learn later on in these tests that <code>word-wrap: break-word;</code> will be your best friend.
-
-<strong>Delete Tag</strong>
-
-This tag will let you <del>strikeout text</del>, but this tag is no longer supported in HTML5 (use the <code>&lt;strike&gt;</code> instead).
-
-<strong>Emphasize Tag</strong>
-
-The emphasize tag should <em>italicize</em> text.
-
-<strong>Insert Tag</strong>
-
-This tag should denote <ins>inserted</ins> text.
-
-<strong>Keyboard Tag</strong>
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the <code>&lt;code&gt;</code> tag.
-
-<strong>Preformatted Tag</strong>
-
-This tag styles large blocks of code.
-<pre>.post-title {
-	margin: 0 0 5px;
-	font-weight: bold;
-	font-size: 38px;
-	line-height: 1.2;
-}</pre>
-<strong>Quote Tag</strong>
-
-<q>Developers, developers, developers…</q> –Steve Ballmer
-
-<strong>Strong Tag</strong>
-
-This tag shows <strong>bold<strong> text.</strong></strong>
-
-<strong>Subscript Tag</strong>
-
-Getting our science styling on with H<sub>2</sub>O, which should push the “2” down.
-
-<strong>Superscript Tag</strong>
-
-Still sticking with science and Isaac Newton’s E = MC<sup>2</sup>, which should lift the 2 up.
-
-<strong>Teletype Tag</strong>
-
-This rarely used tag emulates <tt>teletype text</tt>, which is usually styled like the <code>&lt;code&gt;</code> tag.
-
-<strong>Variable Tag</strong>
-
-This allows you to denote <var>variables</var>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>201</wp:post_id>
-		<wp:post_date><![CDATA[2016-05-03 07:11:41]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-05-03 07:11:41]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[html-elements]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[afap_auto_post]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[atap_auto_post]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[vmag_page_sidebar]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default_sidebar]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4313,7 +4011,7 @@ Eam accumsan phaedrum ad. Ferri phaedrum adolescens an sea, urbanitas adversariu
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[229]]></wp:meta_value>
+		<wp:meta_value><![CDATA[337]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[afap_auto_post]]></wp:meta_key>
@@ -4332,6 +4030,718 @@ Eam accumsan phaedrum ad. Ferri phaedrum adolescens an sea, urbanitas adversariu
 		<wp:meta_value><![CDATA[left_sidebar]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title>What Do I Need To Make It In Business?</title>
+		<link>https://demo.accesspressthemes.com/vmag/2016/04/10/what-do-i-need-to-make-it-in-business/</link>
+		<pubDate>Sun, 10 Apr 2016 09:20:36 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/themes/vmag/?p=53</guid>
+		<description></description>
+		<content:encoded><![CDATA[Mea eu novum dicit vitae, mei vivendo aliquando dissentiet ut. Quas ancillae in mel, eam postulant abhorreant ne, veri iudico id usu. Enim euismod nominati ea quo, atqui cetero corrumpit cum ut. Vis an latine docendi, at pri meliore salutandi.
+
+No probatus iracundia constituam sea, in sed aliquid lobortis definitiones. Per ut evertitur rationibus, fabulas ponderum dignissim ea eum. Pro at cibo veniam altera, his cu lorem primis, noster deseruisse vix ex. Suas errem te duo, eum in sint prima sanctus. Et pri unum commune dissentiunt.
+
+Ex pericula petentium his. No semper eligendi mea, et nihil nusquam concludaturque vis. Eu option urbanitas adolescens quo. Graece cotidieque repudiandae at vix, ne legimus forensibus ius. Eu duo regione fuisset.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>53</wp:post_id>
+		<wp:post_date><![CDATA[2016-04-10 09:20:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-04-10 09:20:36]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[what-do-i-need-to-make-it-in-business]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_tag" nicename="business"><![CDATA[Business]]></category>
+		<category domain="category" nicename="featured"><![CDATA[Featured]]></category>
+		<category domain="category" nicename="voge"><![CDATA[Voge]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[335]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[afap_auto_post]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[atap_auto_post]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[vmag_page_sidebar]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default_sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Contact Us</title>
+		<link>https://demo.accesspressthemes.com/vmag/contact-us/</link>
+		<pubDate>Mon, 11 Apr 2016 09:03:30 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/themes/vmag/?page_id=80</guid>
+		<description></description>
+		<content:encoded><![CDATA[[contact-form-7 id="133" title="Contact form 1"]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>80</wp:post_id>
+		<wp:post_date><![CDATA[2016-04-11 09:03:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-04-11 09:03:30]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[afap_auto_post]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[atap_auto_post]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[vmag_page_sidebar]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default_sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>About Us</title>
+		<link>https://demo.accesspressthemes.com/vmag/about-us/</link>
+		<pubDate>Mon, 11 Apr 2016 09:06:44 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/themes/vmag/?page_id=82</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>82</wp:post_id>
+		<wp:post_date><![CDATA[2016-04-11 09:06:44]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-04-11 09:06:44]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[about-us]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Disclaimer</title>
+		<link>https://demo.accesspressthemes.com/vmag/disclaimer/</link>
+		<pubDate>Thu, 14 Apr 2016 05:45:55 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/themes/vmag/?page_id=119</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>119</wp:post_id>
+		<wp:post_date><![CDATA[2016-04-14 05:45:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-04-14 05:45:55]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[disclaimer]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Advertisment</title>
+		<link>https://demo.accesspressthemes.com/vmag/advertisment/</link>
+		<pubDate>Thu, 14 Apr 2016 05:46:12 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/themes/vmag/?page_id=124</guid>
+		<description></description>
+		<content:encoded><![CDATA[When CafePress first started printing shirts in 1999, online retail was still a nascent industry and Google had yet to sell its first ad. Soon CafePress started selling products through search ads on Google, and their business took off. Today, CafePress hosts millions of shops online where customers can choose from more than 325 million products on nearly any topic, from wall art to phone cases.
+
+Letterhead Ads
+
+<img class="size-full wp-image-158 aligncenter" src="https://demo.accesspressthemes.com/vmag/wp-content/uploads/2016/04/header_banner.gif" alt="header_banner" width="720" height="90" />
+Just as CafePress has broadened its offerings over time, we've also worked to improve and expand our search advertising products. What started as three lines of simple text has evolved into ads that are multimedia-rich, location-aware and socially-amplified.
+Today CafePress uses Sitelinks to direct people to specific pages of their website, helping customers find what they’re looking for faster. On average, ads with three rows of links, or three-line Sitelinks, are more than 50 percent likely to get clicked on than ads without Sitelinks. More than 200,000 advertisers have joined CafePress in using Sitelinks in at least one campaign.
+
+Medium Rectangle
+
+<img class="size-medium wp-image-149 alignleft" src="https://demo.accesspressthemes.com/vmag/wp-content/uploads/2016/04/2016-04-19-300x250.png" alt="2016-04-19" width="300" height="250" />
+
+Tends to have more ad inventory available from advertisers, which can increase earnings when both text and image ads are enabled. Just as CafePress has broadened its offerings over time, we've also worked to improve and expand our search advertising products. What started as three lines of simple text has evolved into ads that are multimedia-rich, location-aware and socially-amplified.
+Today CafePress uses Sitelinks to direct people to specific pages of their website, helping customers find what they’re looking for faster. On average, ads with three rows of links, or three-line Sitelinks, are more than 50 percent likely to get clicked on than ads without Sitelinks. More than 200,000 advertisers have joined CafePress in using Sitelinks in at least one campaign.
+
+&nbsp;]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>124</wp:post_id>
+		<wp:post_date><![CDATA[2016-04-14 05:46:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-04-14 05:46:12]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[advertisment]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[afap_auto_post]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[atap_auto_post]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[vmag_page_sidebar]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default_sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Privacy Policy</title>
+		<link>https://demo.accesspressthemes.com/vmag/privacy-policy/</link>
+		<pubDate>Thu, 14 Apr 2016 05:46:19 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/themes/vmag/?page_id=125</guid>
+		<description></description>
+		<content:encoded><![CDATA[The accesspressthemes.com Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
+
+<strong>1) What Information Do We Collect?</strong>
+
+When you visit our website you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and website use information collected on an aggregate basis as you and others browse the site.
+
+<strong>2) Website Use Information</strong>
+
+Similar to other commercial websites, this site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and Web server logs to collect information about how this site is used. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at this site, and the websites visited just before and just after our site. We, our advertisers and ad serving companies may also use small technology or pieces of code to determine which advertisements and promotions users have seen and how users responded to them.
+
+<strong>3) How Do We Use the Information That You Provide to Us?</strong>
+
+Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to this website, new services and special offers we think you will find valuable. You may notify us of your desire not to receive these offers by clicking the unsubscribe link contained in each such email.
+
+<strong>4) What Are Cookies?</strong>
+
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a website, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each website can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites. Some of our business partners (e.g., advertisers) use cookies that originate from their sites. We have no access or control over those cookies.
+
+<strong>5) How Do We Use Information We Collect from Cookies?</strong>
+
+As you use this website, the site uses its cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from seeing unnecessary advertisements or requiring you to log in more than is necessary for security. Cookies, in conjunction with our web server’s log files, allow us to calculate the aggregate number of people visiting this site and which parts of the site are most popular. This helps us gather feedback in order to constantly improve this site and better serve our customers. Cookies do not allow us to gather any personal information about you and we do not generally store any personal information that you provided to us in your cookies.
+
+<strong>6) Sharing Information with Third Parties</strong>
+
+The information we collect is used to improve the content of this site and the quality of our service, and is not shared with or sold to other organizations for commercial purposes. That being said, your information could be shared under the following circumstances:
+
+We use third parties to facilitate our business, including, but not limited to, sending email and processing payments. In connection with these offerings and business operations, these third parties may have access to your personal information for use in connection with those business activities.
+As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions.
+We may also transfer such information in the course of corporate divestitures, mergers, or any dissolution.
+If it becomes necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law.
+
+<strong>7) Certain Disclosures</strong>
+
+We may disclose your personal information if required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law or comply with legal process served on us or affiliated parties; (b) protect and defend our rights and property, our site, the users of our site, and/or our affiliated parties; (c) act under circumstances to protect the safety of users of our site, us, or third parties.
+
+<strong>8) What About Other Websites Linked to This Site?</strong>
+
+We are not responsible for the practices employed by websites linked to or from our site nor the information or content contained therein. Often links to other websites are provided solely as pointers to information on topics that may be useful to the users of our site. Please remember that when you use a link to go from our site to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including sites which have a link on our site, is subject to that website’s own rules and policies. Please read over those rules and policies before proceeding.
+
+<strong>9) Your Consent</strong>
+
+By using this site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on this site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>125</wp:post_id>
+		<wp:post_date><![CDATA[2016-04-14 05:46:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-04-14 05:46:19]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[afap_auto_post]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[atap_auto_post]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[vmag_page_sidebar]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default_sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Submit News</title>
+		<link>https://demo.accesspressthemes.com/vmag/submit-news/</link>
+		<pubDate>Tue, 03 May 2016 06:35:50 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.accesspressthemes.com/vmag/?page_id=190</guid>
+		<description></description>
+		<content:encoded><![CDATA[[ap-form]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>190</wp:post_id>
+		<wp:post_date><![CDATA[2016-05-03 06:35:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-05-03 06:35:50]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[submit-news]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[afap_auto_post]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[atap_auto_post]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[vmag_page_sidebar]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default_sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Html Elements</title>
+		<link>https://demo.accesspressthemes.com/vmag/html-elements/</link>
+		<pubDate>Tue, 03 May 2016 07:11:41 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.accesspressthemes.com/vmag/?page_id=201</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>Headings</strong>
+<h1>Header one</h1>
+<h2>Header two</h2>
+<h3>Header three</h3>
+<h4>Header four</h4>
+<h5>Header five</h5>
+<h6>Header six</h6>
+<h2>Blockquotes</h2>
+Single line blockquote:
+<blockquote>Stay hungry. Stay foolish.</blockquote>
+Multi line blockquote with a cite reference:
+<blockquote>People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things. <cite>Steve Jobs – Apple Worldwide Developers’ Conference, 1997</cite></blockquote>
+<h2>Tables</h2>
+<table>
+<tbody>
+<tr>
+<th>Employee</th>
+<th class="views">Salary</th>
+<th></th>
+</tr>
+<tr class="odd">
+<td><a href="http://example.com/">Jane</a></td>
+<td>$1</td>
+<td>Because that’s all Steve Job’ needed for a salary.</td>
+</tr>
+<tr class="even">
+<td><a href="http://example.com">John</a></td>
+<td>$100K</td>
+<td>For all the blogging he does.</td>
+</tr>
+<tr class="odd">
+<td><a href="http://example.com/">Jane</a></td>
+<td>$100M</td>
+<td>Pictures are worth a thousand words, right? So Tom x 1,000.</td>
+</tr>
+<tr class="even">
+<td><a href="http://example.com/">Jane</a></td>
+<td>$100B</td>
+<td>With hair like that?! Enough said…</td>
+</tr>
+</tbody>
+</table>
+<h2>Definition Lists</h2>
+<dl>
+ 	<dt>Definition List Title</dt>
+ 	<dd>Definition list division.</dd>
+ 	<dt>Startup</dt>
+ 	<dd>A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.</dd>
+ 	<dt>#dowork</dt>
+ 	<dd>Coined by Rob Dyrdek and his personal body guard Christopher “Big Black” Boykins, “Do Work” works as a self motivator, to motivating your friends.</dd>
+ 	<dt>Do It Live</dt>
+ 	<dd>I’ll let Bill O’Reilly will <a title="We'll Do It Live" href="https://www.youtube.com/watch?v=O_HyZ5aW76c">explain</a> this one.</dd>
+</dl>
+<h2>Unordered Lists (Nested)</h2>
+<ul>
+ 	<li>List item one
+<ul>
+ 	<li>List item one
+<ul>
+ 	<li>List item one</li>
+ 	<li>List item two</li>
+ 	<li>List item three</li>
+ 	<li>List item four</li>
+</ul>
+</li>
+ 	<li>List item two</li>
+ 	<li>List item three</li>
+ 	<li>List item four</li>
+</ul>
+</li>
+ 	<li>List item two</li>
+ 	<li>List item three</li>
+ 	<li>List item four</li>
+</ul>
+<h2>Ordered List (Nested)</h2>
+<ol>
+ 	<li>List item one
+<ol>
+ 	<li>List item one
+<ol>
+ 	<li>List item one</li>
+ 	<li>List item two</li>
+ 	<li>List item three</li>
+ 	<li>List item four</li>
+</ol>
+</li>
+ 	<li>List item two</li>
+ 	<li>List item three</li>
+ 	<li>List item four</li>
+</ol>
+</li>
+ 	<li>List item two</li>
+ 	<li>List item three</li>
+ 	<li>List item four</li>
+</ol>
+<h2>HTML Tags</h2>
+These supported tags come from the WordPress.com code <a title="Code" href="http://en.support.wordpress.com/code/">FAQ</a>.
+
+<strong>Address Tag</strong>
+
+<address>1 Infinite Loop
+Cupertino, CA 95014
+United States</address><strong>Anchor Tag (aka. Link)</strong>
+
+This is an example of a <a title="Apple" href="http://apple.com">link</a>.
+
+<strong>Abbreviation Tag</strong>
+
+The abbreviation <abbr title="Seriously">srsly</abbr> stands for “seriously”.
+
+<strong>Acronym Tag</strong>
+
+The acronym <acronym title="For The Win">ftw</acronym> stands for “for the win”.
+
+<strong>Big Tag</strong>
+
+These tests are a <big>big</big> deal, but this tag is no longer supported in HTML5.
+
+<strong>Cite Tag</strong>
+
+“Code is poetry.” —<cite>Automattic</cite>
+
+<strong>Code Tag</strong>
+
+You will learn later on in these tests that <code>word-wrap: break-word;</code> will be your best friend.
+
+<strong>Delete Tag</strong>
+
+This tag will let you <del>strikeout text</del>, but this tag is no longer supported in HTML5 (use the <code>&lt;strike&gt;</code> instead).
+
+<strong>Emphasize Tag</strong>
+
+The emphasize tag should <em>italicize</em> text.
+
+<strong>Insert Tag</strong>
+
+This tag should denote <ins>inserted</ins> text.
+
+<strong>Keyboard Tag</strong>
+
+This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the <code>&lt;code&gt;</code> tag.
+
+<strong>Preformatted Tag</strong>
+
+This tag styles large blocks of code.
+<pre>.post-title {
+	margin: 0 0 5px;
+	font-weight: bold;
+	font-size: 38px;
+	line-height: 1.2;
+}</pre>
+<strong>Quote Tag</strong>
+
+<q>Developers, developers, developers…</q> –Steve Ballmer
+
+<strong>Strong Tag</strong>
+
+This tag shows <strong>bold<strong> text.</strong></strong>
+
+<strong>Subscript Tag</strong>
+
+Getting our science styling on with H<sub>2</sub>O, which should push the “2” down.
+
+<strong>Superscript Tag</strong>
+
+Still sticking with science and Isaac Newton’s E = MC<sup>2</sup>, which should lift the 2 up.
+
+<strong>Teletype Tag</strong>
+
+This rarely used tag emulates <tt>teletype text</tt>, which is usually styled like the <code>&lt;code&gt;</code> tag.
+
+<strong>Variable Tag</strong>
+
+This allows you to denote <var>variables</var>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>201</wp:post_id>
+		<wp:post_date><![CDATA[2016-05-03 07:11:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-05-03 07:11:41]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[html-elements]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[afap_auto_post]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[atap_auto_post]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[vmag_page_sidebar]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default_sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Boxed Layout</title>
+		<link>https://demo.accesspressthemes.com/vmag/boxed-layout/</link>
+		<pubDate>Wed, 04 May 2016 11:02:18 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.accesspressthemes.com/vmag/?page_id=222</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>222</wp:post_id>
+		<wp:post_date><![CDATA[2016-05-04 11:02:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-05-04 11:02:18]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[boxed-layout]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[templates/home-template.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[afap_auto_post]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[atap_auto_post]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[vmag_page_sidebar]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default_sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>de</title>
+		<link>https://demo.accesspressthemes.com/vmag/?p=326</link>
+		<pubDate></pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.accesspressthemes.com/vmag/?p=326</guid>
+		<description></description>
+		<content:encoded><![CDATA[eeee]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>326</wp:post_id>
+		<wp:post_date><![CDATA[2019-10-09 06:23:34]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						</item>
+					<item>
+		<title>Fgcu bjnn jjj</title>
+		<link>https://demo.accesspressthemes.com/vmag/?p=327</link>
+		<pubDate></pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.accesspressthemes.com/vmag/?p=327</guid>
+		<description></description>
+		<content:encoded><![CDATA[Gjkchj]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>327</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-23 01:33:13]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						</item>
+					<item>
+		<title>hello</title>
+		<link>https://demo.accesspressthemes.com/vmag/?p=328</link>
+		<pubDate></pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.accesspressthemes.com/vmag/?p=328</guid>
+		<description></description>
+		<content:encoded><![CDATA[how are you]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>328</wp:post_id>
+		<wp:post_date><![CDATA[2020-02-12 10:53:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						</item>
+					<item>
+		<title>Google Maps</title>
+		<link>https://demo.accesspressthemes.com/vmag/?p=329</link>
+		<pubDate></pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.accesspressthemes.com/vmag/?p=329</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>What google maps?</strong>
+
+Google maps is a way to find your desire location at any place.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>329</wp:post_id>
+		<wp:post_date><![CDATA[2020-03-10 14:33:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						</item>
 					<item>
 		<title>Zeta Architecture: Hexagon is the new circle in 2016</title>
 		<link>https://demo.accesspressthemes.com/vmag/2016/04/10/zeta-architecture-hexagon-is-the-new-circle-in-2016/</link>
@@ -4402,7 +4812,7 @@ Ex pericula petentium his. No semper eligendi mea, et nihil nusquam concludaturq
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[48]]></wp:meta_value>
+		<wp:meta_value><![CDATA[339]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[afap_auto_post]]></wp:meta_key>
@@ -4415,6 +4825,14 @@ Ex pericula petentium his. No semper eligendi mea, et nihil nusquam concludaturq
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[google-and-motorola-planning-a-new-nexsus-phone__trashed]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[vmag_page_sidebar]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default_sidebar]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4451,7 +4869,7 @@ No probatus iracundia constituam sea, in sed aliquid lobortis definitiones. Per 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[51]]></wp:meta_value>
+		<wp:meta_value><![CDATA[333]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[vmag_page_sidebar]]></wp:meta_key>
@@ -4468,59 +4886,6 @@ No probatus iracundia constituam sea, in sed aliquid lobortis definitiones. Per 
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>What Do I Need To Make It In Business?</title>
-		<link>https://demo.accesspressthemes.com/vmag/2016/04/10/what-do-i-need-to-make-it-in-business/</link>
-		<pubDate>Sun, 10 Apr 2016 09:20:36 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/themes/vmag/?p=53</guid>
-		<description></description>
-		<content:encoded><![CDATA[Mea eu novum dicit vitae, mei vivendo aliquando dissentiet ut. Quas ancillae in mel, eam postulant abhorreant ne, veri iudico id usu. Enim euismod nominati ea quo, atqui cetero corrumpit cum ut. Vis an latine docendi, at pri meliore salutandi.
-
-No probatus iracundia constituam sea, in sed aliquid lobortis definitiones. Per ut evertitur rationibus, fabulas ponderum dignissim ea eum. Pro at cibo veniam altera, his cu lorem primis, noster deseruisse vix ex. Suas errem te duo, eum in sint prima sanctus. Et pri unum commune dissentiunt.
-
-Ex pericula petentium his. No semper eligendi mea, et nihil nusquam concludaturque vis. Eu option urbanitas adolescens quo. Graece cotidieque repudiandae at vix, ne legimus forensibus ius. Eu duo regione fuisset.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>53</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-10 09:20:36]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-10 09:20:36]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[what-do-i-need-to-make-it-in-business]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="business"><![CDATA[Business]]></category>
-		<category domain="category" nicename="featured"><![CDATA[Featured]]></category>
-		<category domain="category" nicename="voge"><![CDATA[Voge]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[207]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[afap_auto_post]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[atap_auto_post]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[vmag_page_sidebar]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default_sidebar]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4558,7 +4923,7 @@ https://www.youtube.com/watch?v=cpDrTHzoS6o]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[63]]></wp:meta_value>
+		<wp:meta_value><![CDATA[341]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[vmag_page_sidebar]]></wp:meta_key>
@@ -4583,6 +4948,14 @@ https://www.youtube.com/watch?v=cpDrTHzoS6o]]></content:encoded>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_c1ef1af904745ece977b09cc700fdc68]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="GRAND OPENING HOTEL AVRORA" width="580" height="326" src="https://www.youtube.com/embed/cpDrTHzoS6o?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_c1ef1af904745ece977b09cc700fdc68]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1594538360]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4617,7 +4990,7 @@ Id eos saepe pertinacia. An detracto repudiare gloriatur qui, invenire intellega
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[205]]></wp:meta_value>
+		<wp:meta_value><![CDATA[331]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[afap_auto_post]]></wp:meta_key>
@@ -4790,52 +5163,6 @@ This e-mail was sent from a contact form on VMag (https://demo.accesspressthemes
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
 		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Boxed Layout</title>
-		<link>https://demo.accesspressthemes.com/vmag/boxed-layout/</link>
-		<pubDate>Wed, 04 May 2016 11:02:18 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://demo.accesspressthemes.com/vmag/?page_id=222</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>222</wp:post_id>
-		<wp:post_date><![CDATA[2016-05-04 11:02:18]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-05-04 11:02:18]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[boxed-layout]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[templates/home-template.php]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[afap_auto_post]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[atap_auto_post]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[vmag_page_sidebar]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default_sidebar]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
