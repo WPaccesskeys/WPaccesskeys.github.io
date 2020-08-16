@@ -13,7 +13,7 @@
 			$data = array(
 
 				'storevilla' => array(
-					'demo_name'			=> ('Storevilla Demo'),
+					'demo_name'			=> ('StoreVilla Demo'),
 					'xml_file'     		=> $git_url . 'storevilla/storevilla.xml',
 					'theme_settings' 	=> $git_url . 'storevilla/storevilla.dat',
 					'widgets_file'  	=> $git_url . 'storevilla/storevilla.wie',
