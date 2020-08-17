@@ -1,0 +1,45 @@
+a:4:{s:8:"template";s:6:"bingle";s:4:"mods";a:44:{i:0;b:0;s:18:"nav_menu_locations";a:2:{s:6:"menu-1";i:19;s:6:"menu-2";i:19;}s:31:"bingle_dragndrop_sections_order";s:971:"{"header":{"top-header":[{"panel":"bingle_headercustom_section","section":"customhtml","enable":"1"},{"panel":"bingle_headersocial_section","section":"social","enable":"1"}],"main-header":[{"panel":"title_tagline","section":"site-branding","enable":"1"},{"panel":"bingle_headeraddress_section","section":"address","enable":"1"},{"panel":"bingle_headeremail_section","section":"email","enable":"1"},{"panel":"bingle_headerphone_section","section":"phone","enable":"1"}],"bottom-header":[{"panel":"bingle_headermenu_section","section":"nav-menu","enable":"1"},{"panel":"bingle_headersearch_section","section":"search","enable":"1"},{"panel":"bingle_headerbutton_section","section":"button","enable":"1"}]},"footer":{"top-footer":[{"panel":"bingle_footer_menu_section","section":"footermenu","enable":"0"}],"main-footer":[{"panel":"bingle_footer_copyright_section","section":"copyright","enable":"1"},{"panel":"bingle_footer_social","section":"footersocial","enable":"1"}]}}";s:18:"custom_css_post_id";i:707;s:28:"bingle_header_layout_setting";s:4:"lay1";s:11:"custom_logo";i:107;s:16:"header_textcolor";s:5:"blank";s:19:"bingle_headercustom";s:12:"Language: EN";s:24:"bingle_headercustom_icon";s:31:"dashicons dashicons-translation";s:19:"bingle_header_phone";s:35:"<b>Call Us</b><br />
++977 984123456";s:34:"bingle_header_social_icon_facebook";s:41:"facebook dashicons dashicons-facebook-alt";s:29:"bingle_header_social_facebook";s:1:"#";s:33:"bingle_header_social_icon_twitter";s:35:"twitter dashicons dashicons-twitter";s:28:"bingle_header_social_twitter";s:1:"#";s:35:"bingle_header_social_icon_instagram";s:39:"instagram dashicons dashicons-instagram";s:30:"bingle_header_social_instagram";s:1:"#";s:33:"bingle_header_social_icon_youtube";s:38:"youtube dashicons dashicons-video-alt3";s:28:"bingle_header_social_youtube";s:1:"#";s:33:"bingle_headercustom_section_width";i:50;s:33:"bingle_headersocial_section_width";i:50;s:31:"bingle_header_width_main_header";i:1200;s:19:"title_tagline_width";i:43;s:34:"bingle_headeraddress_section_width";i:20;s:24:"bingle_header_phone_icon";s:21:"lnr lnr-phone-handset";s:32:"bingle_headerphone_section_width";i:13;s:19:"bingle_header_email";s:44:"<b>Email Us</b><br />
+info@8degreethemes.com";s:24:"bingle_header_email_icon";s:16:"lnr lnr-envelope";s:32:"bingle_headeremail_section_width";i:24;s:21:"bingle_header_address";s:47:"<b>Opening Time</b><br />
+Mon-Fri 09:00 - 18:00";s:26:"bingle_header_address_icon";s:13:"lnr lnr-clock";s:30:"bingle_header_width_top_header";i:1200;s:33:"bingle_header_width_bottom_header";i:1200;s:31:"bingle_headermenu_section_width";i:81;s:33:"bingle_headersearch_section_width";i:2;s:33:"bingle_headerbutton_section_width";i:17;s:25:"bingle_header_button_text";s:10:"GET QUOTES";s:25:"bingle_header_button_link";s:1:"#";s:31:"bingle_footer_width_main_footer";i:1200;s:34:"bingle_footer_bkgcolor_main_footer";s:7:"#ffffff";s:37:"bingle_footer_copyright_section_width";i:50;s:26:"bingle_footer_social_width";i:50;s:39:"bingle_footer_marginpadding_main_footer";s:22:"0, -, 0, -, 0, -, 0, -";s:28:"bingle_footer_layout_setting";s:4:"lay3";s:28:"bingle_footer_copyright_text";s:0:"";}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:2319:"@media screen and (max-width: 599px){ 
+	.bingle-health-calendar ul.elementor-icon-list-items.elementor-inline-items {
+    display: block;
+}
+	.bingle-health-calendar ul.elementor-icon-list-items.elementor-inline-items li.elementor-icon-list-item {
+    margin-bottom: 10px;
+}
+	.bingle-health-calendar ul.elementor-icon-list-items.elementor-inline-items li.elementor-icon-list-item span.elementor-icon-list-text br {
+		display: none;
+	}
+	}
+.bingle-cont-sub-btn input[type="submit"], .bingle-cont-sub-btn input[type="submit"]:hover {
+    background: #01d5a3;
+}
+.bing-cont-name input[type="text"], .bing-cont-email input[type="email"], .bing-cont-phone input[type="tel"], .bing-cont-message textarea {
+    background: #e9fffa;
+}
+body:not(.home).footer-lay3 footer {
+	padding-top: 0;
+}
+body:not(.home) .main-footer-bingle-wrapper {
+    padding-top: 30px;
+		border: none;
+}
+body:not(.home).footer-lay3 footer #bingle-top {
+	left: unset;
+	right: 20px;
+}
+.ap-companion-testimonials.layout5 .slick-dots li.slick-active button:before, .ap-companion-testimonials.layout5 .slick-dots li:hover button:before, .footer-lay2 footer .main-footer .main-footer-elem-wrap div a:hover, #secondary ul li a:hover, .blog .entry-header .entry-title a:hover, .search .entry-header .entry-title a:hover, .archive .entry-header .entry-title a:hover{
+    color: #01d5a3;
+}
+.footer-lay2 footer .main-footer .main-footer-elem-wrap div a, .footer-lay2 footer .main-footer .main-footer-elem-wrap div {
+    color: #01d5a3;
+}
+.bingle-cont-sub-btn input[type="submit"], .blog .entry-content a.read-more, .search .entry-content a.read-more, .archive .entry-content a.read-more, #secondary .widget_search input[type="submit"], .comments-area form.comment-form .form-submit input[type="submit"], .bingle-cont-sub-btn input[type="submit"]:focus {
+    background: #01d5a3;
+}
+.bingle-minimal-subscribe .wpcf7-submit:hover, .bingle-cont-sub-btn input[type="submit"]:hover, .blog .entry-content a.read-more:hover, .search .entry-content a.read-more:hover, .archive .entry-content a.read-more:hover, #secondary .widget_search input[type="submit"]:hover, .comments-area form.comment-form .form-submit input[type="submit"]:hover {
+    background: #01d5a3;
+	box-shadow: 0 0 12px 4px rgba(1, 213, 163, 0.23);
+	-webkit-box-shadow: 0 0 12px 4px rgba(1, 213, 163, 0.23);
+}";}

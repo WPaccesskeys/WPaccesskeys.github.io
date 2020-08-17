@@ -1,0 +1,54 @@
+a:4:{s:8:"template";s:6:"bingle";s:4:"mods";a:43:{i:0;b:0;s:18:"nav_menu_locations";a:2:{s:6:"menu-1";i:19;s:6:"menu-2";i:0;}s:31:"bingle_dragndrop_sections_order";s:799:"{"header":{"top-header":[{"panel":"bingle_headersocial_section","section":"social","enable":"1"},{"panel":"bingle_headeremail_section","section":"email","enable":"1"},{"panel":"bingle_headerphone_section","section":"phone","enable":"1"}],"main-header":[{"panel":"title_tagline","section":"site-branding","enable":"1"},{"panel":"bingle_headermenu_section","section":"nav-menu","enable":"1"},{"panel":"bingle_headersearch_section","section":"search","enable":"1"},{"panel":"bingle_headercart_section","section":"cart","enable":"1"}]},"footer":{"top-footer":[{"panel":"bingle_footer_menu_section","section":"footermenu","enable":"0"},{"panel":"bingle_footer_social","section":"footersocial","enable":"0"}],"main-footer":[{"panel":"bingle_footer_copyright_section","section":"copyright","enable":"1"}]}}";s:18:"custom_css_post_id";i:169;s:28:"bingle_header_layout_setting";s:4:"lay2";s:23:"bingle_header_cart_icon";s:12:"lnr lnr-cart";s:33:"bingle_headercustom_section_width";i:80;s:33:"bingle_headersocial_section_width";i:63;s:34:"bingle_header_social_icon_facebook";s:32:"dashicons dashicons-facebook-alt";s:29:"bingle_header_social_facebook";s:1:"#";s:33:"bingle_header_social_icon_twitter";s:27:"dashicons dashicons-twitter";s:28:"bingle_header_social_twitter";s:1:"#";s:35:"bingle_header_social_icon_instagram";s:29:"dashicons dashicons-instagram";s:30:"bingle_header_social_instagram";s:1:"#";s:33:"bingle_header_social_icon_youtube";s:30:"dashicons dashicons-video-alt3";s:28:"bingle_header_social_youtube";s:1:"#";s:19:"bingle_headercustom";s:31:"Language: [POLYLANG dropdown=1]";s:24:"bingle_headercustom_icon";s:31:"dashicons dashicons-translation";s:25:"bingle_header_button_text";s:14:"Get Assistance";s:33:"bingle_headerbutton_section_width";i:20;s:11:"custom_logo";i:186;s:16:"header_textcolor";s:6:"dd3333";s:19:"title_tagline_width";i:22;s:31:"bingle_headermenu_section_width";i:68;s:31:"bingle_headercart_section_width";i:7;s:35:"bingle_headersidemenu_section_width";i:3;s:33:"bingle_headersearch_section_width";i:8;s:19:"bingle_header_phone";s:15:"+977 9841234567";s:24:"bingle_header_phone_icon";s:21:"lnr lnr-phone-handset";s:32:"bingle_headerphone_section_width";i:14;s:32:"bingle_headeremail_section_width";i:20;s:24:"bingle_header_email_icon";s:16:"lnr lnr-envelope";s:19:"bingle_header_email";s:22:"info@8degreethemes.com";s:28:"bingle_footer_copyright_text";s:47:"Copyright © 2019 Bingle. All rights reserved. ";s:34:"bingle_footer_bkgcolor_main_footer";s:7:"#121044";s:31:"bingle_footer_width_main_footer";i:1200;s:39:"bingle_footer_marginpadding_main_footer";s:24:"0, -, 0, -, 30, -, 30, -";s:30:"bingle_footer_width_top_footer";i:1200;s:38:"bingle_footer_marginpadding_top_footer";s:22:"0, -, 0, -, 0, -, 0, -";s:33:"bingle_footer_bkgcolor_top_footer";s:7:"#121044";s:28:"bingle_footer_layout_setting";s:4:"lay2";s:31:"bingle_footer_style_main_footer";s:16:"bingle-fullwidth";s:37:"bingle_footer_copyright_section_width";i:100;}s:7:"options";a:22:{s:22:"woocommerce_demo_store";s:2:"no";s:29:"woocommerce_demo_store_notice";s:79:"This is a demo store for testing purposes &mdash; no orders shall be fulfilled.";s:29:"woocommerce_shop_page_display";s:0:"";s:36:"woocommerce_category_archive_display";s:0:"";s:35:"woocommerce_default_catalog_orderby";s:10:"menu_order";s:27:"woocommerce_catalog_columns";i:4;s:24:"woocommerce_catalog_rows";i:4;s:30:"woocommerce_single_image_width";s:3:"600";s:33:"woocommerce_thumbnail_image_width";s:3:"300";s:30:"woocommerce_thumbnail_cropping";s:3:"1:1";s:43:"woocommerce_thumbnail_cropping_custom_width";s:1:"4";s:44:"woocommerce_thumbnail_cropping_custom_height";s:1:"3";s:34:"woocommerce_checkout_company_field";s:8:"optional";s:36:"woocommerce_checkout_address_2_field";s:8:"optional";s:32:"woocommerce_checkout_phone_field";s:8:"required";s:46:"woocommerce_checkout_highlight_required_fields";s:3:"yes";s:55:"woocommerce_checkout_terms_and_conditions_checkbox_text";s:44:"I have read and agree to the website [terms]";s:40:"woocommerce_checkout_privacy_policy_text";s:161:"Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our [privacy_policy].";s:26:"wp_page_for_privacy_policy";s:0:"";s:25:"woocommerce_terms_page_id";s:0:"";s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:2603:"@media screen and (max-width: 768px) {
+	.bingle-footer-wrap{
+		padding: 0 !important;
+	}
+	footer .footer-elements-wrap{
+		padding-left: 10px !important;
+		padding-right: 10px !important;
+	}
+}
+.header-elements-wrap > div {
+    line-height: 1;
+}
+#secondary .widget-title {
+    font-weight: 700;
+    margin-bottom: 25px;
+    color: #223645;
+    letter-spacing: normal;
+    text-transform: none;
+}
+#secondary .widget a {
+    color: #223645;
+    display: block;
+    line-height: 1.33;
+    letter-spacing: normal;
+    font-size: 15px;
+}
+#secondary .widget_recent_entries a {
+	font-weight:700;
+}
+#secondary .widget .post-date {
+    font-size: 13px;
+    letter-spacing: normal;
+    color: #8f9696;
+}
+.bingle-cont-sub-btn input[type="submit"], .bingle-cont-sub-btn input[type="submit"]:hover {
+    background: #EF324A;
+}
+.bing-cont-name input[type="text"], .bing-cont-email input[type="email"], .bing-cont-phone input[type="tel"], .bing-cont-message textarea {
+    background: rgba(239, 50, 74, 0.2);
+}
+.ap-companion-testimonials.layout5 .slick-dots li.slick-active button:before, .ap-companion-testimonials.layout5 .slick-dots li:hover button:before, .footer-lay2 footer .main-footer .main-footer-elem-wrap div a:hover, #secondary ul li a:hover, .blog .entry-header .entry-title a:hover, .search .entry-header .entry-title a:hover, .archive .entry-header .entry-title a:hover{
+    color: #EF324A;
+}
+.footer-lay2 footer .main-footer .main-footer-elem-wrap div a, .footer-lay2 footer .main-footer .main-footer-elem-wrap div {
+    color: #EF324A;
+}
+.bingle-cont-sub-btn input[type="submit"], .blog .entry-content a.read-more, .search .entry-content a.read-more, .archive .entry-content a.read-more, #secondary .widget_search input[type="submit"], .comments-area form.comment-form .form-submit input[type="submit"], .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt {
+    background: #EF324A;
+}
+.bingle-minimal-subscribe .wpcf7-submit:hover, .bingle-cont-sub-btn input[type="submit"]:hover, .blog .entry-content a.read-more:hover, .search .entry-content a.read-more:hover, .archive .entry-content a.read-more:hover, #secondary .widget_search input[type="submit"]:hover, .comments-area form.comment-form .form-submit input[type="submit"]:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover {
+    background: #EF324A;
+	-webkit-box-shadow: 0 0 12px 4px rgba(239, 50, 74, 0.5);
+    box-shadow: 0 0 12px 4px rgba(239, 50, 74, 0.5);
+}";}

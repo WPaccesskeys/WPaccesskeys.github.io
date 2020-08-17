@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.3.1" created="2019-12-15 10:16" -->
+	<!-- generator="WordPress/5.5" created="2020-08-17 10:00" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,16 +26,16 @@
 >
 
 <channel>
-	<title>App Landing - Bingle</title>
-	<link>http://demo.accesspressthemes.com/bingle/app</link>
-	<description>Just another Bingle Sites site</description>
-	<pubDate>Sun, 15 Dec 2019 10:16:51 +0000</pubDate>
+	<title>Bingle - App</title>
+	<link>https://accesspressthemes.com/import/bingle/app</link>
+	<description>Just another Bingle Import Sites site</description>
+	<pubDate>Mon, 17 Aug 2020 10:00:41 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://demo.accesspressthemes.com/bingle/</wp:base_site_url>
-	<wp:base_blog_url>http://demo.accesspressthemes.com/bingle/app</wp:base_blog_url>
+	<wp:base_site_url>http://accesspressthemes.com/import/bingle/</wp:base_site_url>
+	<wp:base_blog_url>https://accesspressthemes.com/import/bingle/app</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[sadip@access-keys.com]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[AccessAdmin]]></wp:author_login><wp:author_email><![CDATA[sadip@access-keys.com]]></wp:author_email><wp:author_display_name><![CDATA[AccessAdmin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>1</wp:term_id>
@@ -44,45 +44,22 @@
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
 				<wp:term>
-		<wp:term_id><![CDATA[17]]></wp:term_id>
-		<wp:term_taxonomy><![CDATA[language]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[en]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[English]]></wp:term_name>
-		<wp:term_description><![CDATA[a:3:{s:6:"locale";s:5:"en_US";s:3:"rtl";i:0;s:9:"flag_code";s:2:"us";}]]></wp:term_description>
-	</wp:term>
-		<wp:term>
-		<wp:term_id><![CDATA[18]]></wp:term_id>
-		<wp:term_taxonomy><![CDATA[term_language]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[pll_en]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[English]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id><![CDATA[20]]></wp:term_id>
+		<wp:term_id>2</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[page]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[page]]></wp:term_name>
 	</wp:term>
-		<wp:term>
-		<wp:term_id><![CDATA[19]]></wp:term_id>
-		<wp:term_taxonomy><![CDATA[term_translations]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[pll_5dce3b84c20c3]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[pll_5dce3b84c20c3]]></wp:term_name>
-		<wp:term_description><![CDATA[a:1:{s:2:"en";i:1;}]]></wp:term_description>
-	</wp:term>
-			<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[header-menu]]></wp:term_slug><wp:term_name><![CDATA[Header Menu]]></wp:term_name>
+			<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[header-menu]]></wp:term_slug><wp:term_name><![CDATA[Header Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.3.1</generator>
+	<generator>https://wordpress.org/?v=5.5</generator>
 
 		<item>
 		<title>Sample Page</title>
-		<link>http://demo.accesspressthemes.com/bingle/app/sample-page/</link>
+		<link>https://accesspressthemes.com/import/bingle/app/sample-page/</link>
 		<pubDate>Fri, 15 Nov 2019 04:38:17 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[AccessAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle/app/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -90,7 +67,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
+<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like piña coladas. (And gettin' caught in the rain.)</p></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
@@ -102,7 +79,7 @@
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="http://demo.accesspressthemes.com/bingle/app/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<p>As a new WordPress user, you should go to your dashboard to delete this page and create new pages for your content. Have fun!</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
@@ -117,137 +94,30 @@
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="language" nicename="en"><![CDATA[English]]></category>
-						<wp:postmeta>
+														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title>Home</title>
-		<link>http://demo.accesspressthemes.com/bingle/app/2019/11/15/home/</link>
-		<pubDate>Fri, 15 Nov 2019 05:27:43 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle/app/?p=4</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-15 05:27:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-15 05:27:43]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="header-menu"><![CDATA[Header Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://demo.accesspressthemes.com/bingle/app/]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title></title>
-		<link>http://demo.accesspressthemes.com/bingle/app/2019/11/15/5/</link>
-		<pubDate>Fri, 15 Nov 2019 05:27:44 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle/app/?p=5</guid>
+		<link>https://accesspressthemes.com/import/bingle/app/2020/08/16/5/</link>
+		<pubDate>Sun, 16 Aug 2020 08:45:59 +0000</pubDate>
+		<dc:creator><![CDATA[AccessAdmin]]></dc:creator>
+		<guid isPermaLink="false">https://accesspressthemes.com/import/bingle/app/2020/08/16/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>5</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-15 05:27:44]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-15 05:27:44]]></wp:post_date_gmt>
+		<wp:post_date><![CDATA[2020-08-16 08:45:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-08-16 08:45:59]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[5]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="header-menu"><![CDATA[Header Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>http://demo.accesspressthemes.com/bingle/app/2019/11/15/6/</link>
-		<pubDate>Fri, 15 Nov 2019 05:27:44 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle/app/?p=6</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-15 05:27:44]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-15 05:27:44]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[6]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>2</wp:menu_order>
@@ -261,7 +131,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
@@ -289,11 +159,66 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title>Blog</title>
+		<link>https://accesspressthemes.com/import/bingle/app/2020/08/17/blog/</link>
+		<pubDate>Mon, 17 Aug 2020 05:05:37 +0000</pubDate>
+		<dc:creator><![CDATA[AccessAdmin]]></dc:creator>
+		<guid isPermaLink="false">https://accesspressthemes.com/import/bingle/app/?p=61</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>61</wp:post_id>
+		<wp:post_date><![CDATA[2020-08-17 05:05:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-08-17 05:05:37]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blog]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="header-menu"><![CDATA[Header Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title>woocommerce-placeholder</title>
-		<link>http://demo.accesspressthemes.com/bingle/app/woocommerce-placeholder/</link>
+		<link>https://accesspressthemes.com/import/bingle/app/woocommerce-placeholder/</link>
 		<pubDate>Fri, 15 Nov 2019 05:44:55 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/11/woocommerce-placeholder.png</guid>
+		<dc:creator><![CDATA[AccessAdmin]]></dc:creator>
+		<guid isPermaLink="false">https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2019/11/woocommerce-placeholder.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -309,53 +234,22 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/woocommerce-placeholder.png]]></wp:attachment_url>
-							<category domain="language" nicename="en"><![CDATA[English]]></category>
-						<wp:postmeta>
+						<wp:attachment_url><![CDATA[https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2019/11/woocommerce-placeholder.png]]></wp:attachment_url>
+											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[woocommerce-placeholder.png]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2019/11/woocommerce-placeholder.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:1200;s:4:"file";s:27:"woocommerce-placeholder.png";s:5:"sizes";a:4:{s:6:"medium";a:4:{s:4:"file";s:35:"woocommerce-placeholder-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:37:"woocommerce-placeholder-1024x1024.png";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:35:"woocommerce-placeholder-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:35:"woocommerce-placeholder-768x768.png";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>polylang_mo_17</title>
-		<link>http://demo.accesspressthemes.com/bingle/app/?post_type=polylang_mo&#038;p=14</link>
-		<pubDate>Fri, 15 Nov 2019 05:45:41 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle/app/?post_type=polylang_mo&#038;p=14</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>14</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-15 05:45:41]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-15 05:45:41]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[polylang_mo_17]]></wp:post_name>
-		<wp:status><![CDATA[private]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[polylang_mo]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_pll_strings_translations]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:1200;s:4:"file";s:35:"2019/11/woocommerce-placeholder.png";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:35:"woocommerce-placeholder-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:37:"woocommerce-placeholder-1024x1024.png";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:35:"woocommerce-placeholder-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:35:"woocommerce-placeholder-768x768.png";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:9:"image/png";}s:13:"bingle-square";a:4:{s:4:"file";s:35:"woocommerce-placeholder-500x500.png";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title>logo</title>
-		<link>http://demo.accesspressthemes.com/bingle/app/logo/</link>
+		<link>https://accesspressthemes.com/import/bingle/app/logo/</link>
 		<pubDate>Fri, 15 Nov 2019 05:50:51 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/11/logo.png</guid>
+		<dc:creator><![CDATA[AccessAdmin]]></dc:creator>
+		<guid isPermaLink="false">https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2019/11/logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -371,25 +265,24 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/11/logo.png]]></wp:attachment_url>
-							<category domain="language" nicename="en"><![CDATA[English]]></category>
-						<wp:postmeta>
+						<wp:attachment_url><![CDATA[https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2019/11/logo.png]]></wp:attachment_url>
+											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/11/logo.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:141;s:6:"height";i:50;s:4:"file";s:16:"2019/11/logo.png";s:5:"sizes";a:2:{s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:15:"logo-100x50.png";s:5:"width";i:100;s:6:"height";i:50;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:15:"logo-100x50.png";s:5:"width";i:100;s:6:"height";i:50;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:141;s:6:"height";i:50;s:4:"file";s:16:"2019/11/logo.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title>cropped-logo.png</title>
-		<link>http://demo.accesspressthemes.com/bingle/app/cropped-logo-png/</link>
+		<link>https://accesspressthemes.com/import/bingle/app/cropped-logo-png/</link>
 		<pubDate>Fri, 15 Nov 2019 05:51:06 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/11/cropped-logo.png</guid>
+		<dc:creator><![CDATA[AccessAdmin]]></dc:creator>
+		<guid isPermaLink="false">https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2019/11/cropped-logo.png</guid>
 		<description></description>
-		<content:encoded><![CDATA[http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/11/cropped-logo.png]]></content:encoded>
+		<content:encoded><![CDATA[https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2019/11/cropped-logo.png]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>19</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-15 05:51:06]]></wp:post_date>
@@ -403,26 +296,25 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/11/cropped-logo.png]]></wp:attachment_url>
-							<category domain="language" nicename="en"><![CDATA[English]]></category>
-						<wp:postmeta>
+						<wp:attachment_url><![CDATA[https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2019/11/cropped-logo.png]]></wp:attachment_url>
+											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/11/cropped-logo.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:141;s:6:"height";i:50;s:4:"file";s:24:"2019/11/cropped-logo.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
 		<wp:meta_value><![CDATA[custom-logo]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:141;s:6:"height";i:50;s:4:"file";s:24:"2019/11/cropped-logo.png";s:5:"sizes";a:2:{s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:23:"cropped-logo-100x50.png";s:5:"width";i:100;s:6:"height";i:50;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:23:"cropped-logo-100x50.png";s:5:"width";i:100;s:6:"height";i:50;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title>Home</title>
-		<link>http://demo.accesspressthemes.com/bingle/app/</link>
+		<link>https://accesspressthemes.com/import/bingle/app/</link>
 		<pubDate>Fri, 13 Dec 2019 10:23:17 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[AccessAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle/app/?page_id=37</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h2>Make cool landing pages easily with vApp.</h2>		
@@ -430,14 +322,14 @@
 			<a href="#" role="button">
 						Download the App
 					</a>
-										<img width="533" height="576" src="http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/Layer-7.png" alt="" srcset="https://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/Layer-7.png 533w, https://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/Layer-7-278x300.png 278w" sizes="(max-width: 533px) 100vw, 533px" />											
+										<img width="640" height="640" src="https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/700.png" alt="" loading="lazy" srcset="https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/700.png 700w, https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/700-300x300.png 300w, https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/700-150x150.png 150w, https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/700-500x500.png 500w" sizes="(max-width: 640px) 100vw, 640px" />											
 			Learn more about LeadEngine's unique features.		
 		<p style="margin: 0;";>Create the look you want on your website with plentiful shortcodes to ease your workflow.</p>		
-										<img width="194" height="95" src="http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/img1.jpg" alt="" />											
-										<img width="236" height="95" src="http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/img2.jpg" alt="" />											
-										<img width="248" height="95" src="http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/img3.jpg" alt="" />											
-										<img width="274" height="95" src="http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/img4.jpg" alt="" />											
-										<img width="216" height="95" src="http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/img5.jpg" alt="" />											
+										<img width="1920" height="800" src="https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1.png" alt="" loading="lazy" srcset="https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1.png 1920w, https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1-300x125.png 300w, https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1-1024x427.png 1024w, https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1-768x320.png 768w, https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1-1536x640.png 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />											
+										<img width="1920" height="800" src="https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1.png" alt="" loading="lazy" srcset="https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1.png 1920w, https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1-300x125.png 300w, https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1-1024x427.png 1024w, https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1-768x320.png 768w, https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1-1536x640.png 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />											
+										<img width="1920" height="800" src="https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1.png" alt="" loading="lazy" srcset="https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1.png 1920w, https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1-300x125.png 300w, https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1-1024x427.png 1024w, https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1-768x320.png 768w, https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1-1536x640.png 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />											
+										<img width="1920" height="800" src="https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1.png" alt="" loading="lazy" srcset="https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1.png 1920w, https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1-300x125.png 300w, https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1-1024x427.png 1024w, https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1-768x320.png 768w, https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1-1536x640.png 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />											
+										<img width="1920" height="800" src="https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1.png" alt="" loading="lazy" srcset="https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1.png 1920w, https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1-300x125.png 300w, https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1-1024x427.png 1024w, https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1-768x320.png 768w, https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1-1536x640.png 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />											
 			Learn more about LeadEngine's unique features.		
 		<p style="margin: 0;";>Create the look you want on your website with plentiful shortcodes to ease your workflow.</p>		
 			<h2>Easy setup</h2>		
@@ -476,27 +368,27 @@
 Nicole Vnace		
 			Learn more about LeadEngine's unique features.		
 		Create the look you want on your website with plentiful shortcodes to ease your workflow.		
-                                            <img src="https://demo.accesspressthemes.com/bingle/app/wp-content/plugins/ap-companion/assets/img/testimonial-quote.png" alt="" />
-                                        Life before Company was very chaotic — we got a lot of phone calls, a lot of mistyped orders. So with Company, the ability to see the order directly from the customer makes it so streamlined.                
-                                    <img src="http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/testi.jpg" alt="" />
+                            <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="508.044px" height="508.044px" viewBox="0 0 508.044 508.044" style="enable-background:new 0 0 508.044 508.044;" xml:space="preserve"><g><g><path d="M0.108,352.536c0,66.794,54.144,120.938,120.937,120.938c66.794,0,120.938-54.144,120.938-120.938s-54.144-120.937-120.938-120.937c-13.727,0-26.867,2.393-39.168,6.61C109.093,82.118,230.814-18.543,117.979,64.303C-7.138,156.17-0.026,348.84,0.114,352.371C0.114,352.426,0.108,352.475,0.108,352.536z"/><path d="M266.169,352.536c0,66.794,54.144,120.938,120.938,120.938s120.938-54.144,120.938-120.938S453.9,231.599,387.106,231.599c-13.728,0-26.867,2.393-39.168,6.61C375.154,82.118,496.875-18.543,384.04,64.303C258.923,156.17,266.034,348.84,266.175,352.371C266.175,352.426,266.169,352.475,266.169,352.536z"/></g></g></svg>
+                        Life before Company was very chaotic — we got a lot of phone calls, a lot of mistyped orders. So with Company, the ability to see the order directly from the customer makes it so streamlined.                    
+                                    <img src="https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1.png" alt="" />
                                             <h2>
                             Park jin Hyaun                        </h2>
                             CEO                        
-                                            <img src="https://demo.accesspressthemes.com/bingle/app/wp-content/plugins/ap-companion/assets/img/testimonial-quote.png" alt="" />
-                                        Life before Company was very chaotic — we got a lot of phone calls, a lot of mistyped orders. So with Company, the ability to see the order directly from the customer makes it so streamlined.                
-                                    <img src="http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/testi.jpg" alt="" />
+                            <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="508.044px" height="508.044px" viewBox="0 0 508.044 508.044" style="enable-background:new 0 0 508.044 508.044;" xml:space="preserve"><g><g><path d="M0.108,352.536c0,66.794,54.144,120.938,120.937,120.938c66.794,0,120.938-54.144,120.938-120.938s-54.144-120.937-120.938-120.937c-13.727,0-26.867,2.393-39.168,6.61C109.093,82.118,230.814-18.543,117.979,64.303C-7.138,156.17-0.026,348.84,0.114,352.371C0.114,352.426,0.108,352.475,0.108,352.536z"/><path d="M266.169,352.536c0,66.794,54.144,120.938,120.938,120.938s120.938-54.144,120.938-120.938S453.9,231.599,387.106,231.599c-13.728,0-26.867,2.393-39.168,6.61C375.154,82.118,496.875-18.543,384.04,64.303C258.923,156.17,266.034,348.84,266.175,352.371C266.175,352.426,266.169,352.475,266.169,352.536z"/></g></g></svg>
+                        Life before Company was very chaotic — we got a lot of phone calls, a lot of mistyped orders. So with Company, the ability to see the order directly from the customer makes it so streamlined.                    
+                                    <img src="https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1.png" alt="" />
                                             <h2>
                             Park jin Hyaun                        </h2>
                             CEO                        
-                                            <img src="https://demo.accesspressthemes.com/bingle/app/wp-content/plugins/ap-companion/assets/img/testimonial-quote.png" alt="" />
-                                        Life before Company was very chaotic — we got a lot of phone calls, a lot of mistyped orders. So with Company, the ability to see the order directly from the customer makes it so streamlined.                
-                                    <img src="http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/testi.jpg" alt="" />
+                            <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="508.044px" height="508.044px" viewBox="0 0 508.044 508.044" style="enable-background:new 0 0 508.044 508.044;" xml:space="preserve"><g><g><path d="M0.108,352.536c0,66.794,54.144,120.938,120.937,120.938c66.794,0,120.938-54.144,120.938-120.938s-54.144-120.937-120.938-120.937c-13.727,0-26.867,2.393-39.168,6.61C109.093,82.118,230.814-18.543,117.979,64.303C-7.138,156.17-0.026,348.84,0.114,352.371C0.114,352.426,0.108,352.475,0.108,352.536z"/><path d="M266.169,352.536c0,66.794,54.144,120.938,120.938,120.938s120.938-54.144,120.938-120.938S453.9,231.599,387.106,231.599c-13.728,0-26.867,2.393-39.168,6.61C375.154,82.118,496.875-18.543,384.04,64.303C258.923,156.17,266.034,348.84,266.175,352.371C266.175,352.426,266.169,352.475,266.169,352.536z"/></g></g></svg>
+                        Life before Company was very chaotic — we got a lot of phone calls, a lot of mistyped orders. So with Company, the ability to see the order directly from the customer makes it so streamlined.                    
+                                    <img src="https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1.png" alt="" />
                                             <h2>
                             Park jin Hyaun                        </h2>
                             CEO                        
-                                            <img src="https://demo.accesspressthemes.com/bingle/app/wp-content/plugins/ap-companion/assets/img/testimonial-quote.png" alt="" />
-                                        Life before Company was very chaotic — we got a lot of phone calls, a lot of mistyped orders. So with Company, the ability to see the order directly from the customer makes it so streamlined.                
-                                    <img src="http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/testi.jpg" alt="" />
+                            <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="508.044px" height="508.044px" viewBox="0 0 508.044 508.044" style="enable-background:new 0 0 508.044 508.044;" xml:space="preserve"><g><g><path d="M0.108,352.536c0,66.794,54.144,120.938,120.937,120.938c66.794,0,120.938-54.144,120.938-120.938s-54.144-120.937-120.938-120.937c-13.727,0-26.867,2.393-39.168,6.61C109.093,82.118,230.814-18.543,117.979,64.303C-7.138,156.17-0.026,348.84,0.114,352.371C0.114,352.426,0.108,352.475,0.108,352.536z"/><path d="M266.169,352.536c0,66.794,54.144,120.938,120.938,120.938s120.938-54.144,120.938-120.938S453.9,231.599,387.106,231.599c-13.728,0-26.867,2.393-39.168,6.61C375.154,82.118,496.875-18.543,384.04,64.303C258.923,156.17,266.034,348.84,266.175,352.371C266.175,352.426,266.169,352.475,266.169,352.536z"/></g></g></svg>
+                        Life before Company was very chaotic — we got a lot of phone calls, a lot of mistyped orders. So with Company, the ability to see the order directly from the customer makes it so streamlined.                    
+                                    <img src="https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1.png" alt="" />
                                             <h2>
                             Park jin Hyaun                        </h2>
                             CEO                        
@@ -591,18 +483,9 @@ Nicole Vnace
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="language" nicename="en"><![CDATA[English]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:7:"heading";a:3:{s:5:"count";i:24;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:24;s:5:"align";i:9;s:11:"header_size";i:11;}}s:5:"style";a:1:{s:19:"section_title_style";a:6:{s:11:"title_color";i:24;s:21:"typography_typography";i:24;s:20:"typography_font_size";i:24;s:22:"typography_line_height";i:4;s:22:"typography_font_weight";i:23;s:22:"typography_font_family";i:9;}}s:8:"advanced";a:2:{s:14:"_section_style";a:3:{s:7:"_margin";i:12;s:12:"_css_classes";i:6;s:8:"_padding";i:8;}s:17:"_section_position";a:3:{s:9:"_position";i:6;s:9:"_offset_y";i:6;s:9:"_offset_x";i:3;}}}}s:11:"text-editor";a:3:{s:5:"count";i:11;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:11;}}s:5:"style";a:1:{s:13:"section_style";a:8:{s:5:"align";i:7;s:10:"text_color";i:11;s:21:"typography_typography";i:11;s:22:"typography_font_family";i:8;s:20:"typography_font_size";i:11;s:22:"typography_font_weight";i:11;s:22:"typography_line_height";i:10;s:10:"column_gap";i:4;}}s:8:"advanced";a:3:{s:14:"_section_style";a:2:{s:7:"_margin";i:10;s:8:"_padding";i:5;}s:19:"_section_background";a:2:{s:22:"_background_background";i:1;s:17:"_background_color";i:1;}s:15:"_section_border";a:2:{s:27:"_box_shadow_box_shadow_type";i:1;s:22:"_box_shadow_box_shadow";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:7;s:15:"control_percent";i:6;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_button";a:5:{s:4:"text";i:7;s:5:"align";i:1;s:4:"size";i:6;s:13:"selected_icon";i:2;s:11:"icon_indent";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:13:{s:21:"typography_typography";i:7;s:22:"typography_font_family";i:7;s:20:"typography_font_size";i:7;s:22:"typography_font_weight";i:7;s:16:"background_color";i:7;s:29:"button_background_hover_color";i:3;s:13:"border_radius";i:7;s:12:"text_padding";i:7;s:15:"hover_animation";i:1;s:13:"border_border";i:4;s:12:"border_width";i:4;s:12:"border_color";i:4;s:11:"hover_color";i:4;}}s:8:"advanced";a:2:{s:14:"_section_style";a:2:{s:7:"_margin";i:3;s:12:"_css_classes";i:4;}s:17:"_section_position";a:4:{s:9:"_position";i:4;s:9:"_offset_y";i:4;s:14:"_element_width";i:2;s:23:"_element_vertical_align";i:2;}}}}s:6:"column";a:3:{s:5:"count";i:31;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:4:{s:12:"_inline_size";i:23;s:21:"space_between_widgets";i:2;s:16:"content_position";i:5;s:5:"align";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:7:"padding";i:17;s:6:"margin";i:5;s:11:"css_classes";i:3;}}s:5:"style";a:2:{s:14:"section_border";a:8:{s:13:"border_border";i:6;s:12:"border_width";i:8;s:12:"border_color";i:8;s:13:"border_radius";i:4;s:19:"border_hover_border";i:3;s:18:"border_hover_width";i:3;s:18:"border_hover_color";i:3;s:19:"border_radius_hover";i:3;}s:13:"section_style";a:5:{s:27:"background_hover_background";i:4;s:22:"background_hover_color";i:4;s:27:"background_hover_transition";i:4;s:21:"background_background";i:3;s:16:"background_color";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:6;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:6;s:10:"image_size";i:5;}}s:5:"style";a:1:{s:19:"section_style_image";a:4:{s:7:"opacity";i:5;s:13:"opacity_hover";i:5;s:27:"background_hover_transition";i:5;s:15:"hover_animation";i:5;}}}}s:7:"section";a:3:{s:5:"count";i:16;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:6:{s:16:"content_position";i:2;s:3:"gap";i:1;s:6:"layout";i:3;s:12:"height_inner";i:2;s:19:"custom_height_inner";i:2;s:15:"stretch_section";i:2;}s:17:"section_structure";a:1:{s:9:"structure";i:7;}}s:5:"style";a:2:{s:14:"section_border";a:3:{s:13:"border_border";i:2;s:12:"border_width";i:2;s:12:"border_color";i:2;}s:18:"section_background";a:6:{s:21:"background_background";i:4;s:16:"background_image";i:3;s:21:"background_attachment";i:1;s:17:"background_repeat";i:2;s:15:"background_size";i:2;s:16:"background_color";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:7:"padding";i:7;s:6:"margin";i:5;s:11:"css_classes";i:1;}}}}s:4:"icon";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:12:"section_icon";a:2:{s:13:"selected_icon";i:3;s:5:"align";i:3;}}s:5:"style";a:1:{s:18:"section_style_icon";a:1:{s:13:"primary_color";i:3;}}}}s:15:"ap-testimonials";a:3:{s:5:"count";i:1;s:15:"control_percent";i:9;s:8:"controls";a:3:{s:7:"content";a:2:{s:15:"slider_controls";a:1:{s:21:"ap_multiple_test_data";i:1;}s:16:"ap_layout_option";a:1:{s:18:"ap_multiple_layout";i:1;}}s:5:"style";a:1:{s:21:"section_general_style";a:18:{s:10:"name_color";i:1;s:26:"name_typography_typography";i:1;s:27:"name_typography_font_family";i:1;s:25:"name_typography_font_size";i:1;s:27:"name_typography_font_weight";i:1;s:30:"name_typography_text_transform";i:1;s:10:"desi_color";i:1;s:26:"desi_typography_typography";i:1;s:27:"desi_typography_font_family";i:1;s:25:"desi_typography_font_size";i:1;s:27:"desi_typography_font_weight";i:1;s:30:"desi_typography_text_transform";i:1;s:10:"desc_color";i:1;s:26:"desc_typography_typography";i:1;s:27:"desc_typography_font_family";i:1;s:25:"desc_typography_font_size";i:1;s:27:"desc_typography_font_weight";i:1;s:27:"desc_typography_line_height";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:9:"icon-list";a:3:{s:5:"count";i:4;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:12:"section_icon";a:1:{s:9:"icon_list";i:4;}}s:5:"style";a:1:{s:18:"section_text_style";a:7:{s:10:"text_color";i:4;s:26:"icon_typography_typography";i:4;s:27:"icon_typography_font_family";i:4;s:25:"icon_typography_font_size";i:4;s:27:"icon_typography_font_weight";i:4;s:27:"icon_typography_line_height";i:4;s:16:"text_color_hover";i:3;}}}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
+														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[elementor_header_footer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
@@ -614,378 +497,53 @@ Nicole Vnace
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.8.1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2.9.14]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"25941833","elType":"section","settings":[],"elements":[{"id":"1a2e61a","elType":"column","settings":{"_column_size":100,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"54258460","elType":"section","settings":{"content_position":"middle","structure":"20","border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#eaeaea","padding":{"unit":"px","top":"60","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"203c2f22","elType":"column","settings":{"_column_size":50,"_inline_size":56,"space_between_widgets":0},"elements":[{"id":"3df138c4","elType":"widget","settings":{"title":"Make cool landing pages easily with vApp.","align":"center","title_color":"#2d3136","typography_typography":"custom","typography_font_size":{"unit":"px","size":60,"sizes":[]},"typography_line_height":{"unit":"em","size":1.166700000000000070343730840249918401241302490234375,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"4a6380cf","elType":"widget","settings":{"editor":"<p>No one cares about products. People care about ideas. Is a product an idea? No. Is a brand? A good one is.<\/p>","align":"center","text_color":"#818992","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":21,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.520000000000000017763568394002504646778106689453125,"sizes":[]}},"elements":[],"widgetType":"text-editor"},{"id":"70e74e08","elType":"widget","settings":{"text":"Download the App","align":"center","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"500","background_color":"#5254ff","button_background_hover_color":"#3d40ff","border_radius":{"unit":"px","top":"4","right":"4","bottom":"4","left":"4","isLinked":true},"text_padding":{"unit":"px","top":"20","right":"30","bottom":"20","left":"30","isLinked":false},"_margin":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false},"hover_animation":"float"},"elements":[],"widgetType":"button"}],"isInner":true},{"id":"2756c4f0","elType":"column","settings":{"_column_size":50,"_inline_size":44,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"30","isLinked":false}},"elements":[{"id":"6e40831b","elType":"widget","settings":{"image":{"id":39,"url":"http:\/\/demo.accesspressthemes.com\/bingle\/app\/wp-content\/uploads\/sites\/2\/2019\/12\/Layer-7.png"}},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"29cff4c1","elType":"section","settings":{"padding":{"unit":"px","top":"80","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"240defd3","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"63c80cf6","elType":"widget","settings":{"title":"Learn more about LeadEngine's unique features.","header_size":"div","align":"center","title_color":"#828282","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"300"},"elements":[],"widgetType":"heading"},{"id":"56636f66","elType":"widget","settings":{"editor":"<p style=\"margin: 0;\";>Create the look you want on your website with plentiful shortcodes to ease your workflow.<\/p>","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":32,"sizes":[]},"column_gap":{"unit":"px","size":0,"sizes":[]},"_margin":{"unit":"%","top":"0","right":"12","bottom":"0","left":"12","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"text_color":"#1f1f1f","typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.375,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":false}],"isInner":false},{"id":"7c1ee7ee","elType":"section","settings":{"structure":"50","margin":{"unit":"px","top":"30","right":0,"bottom":"80","left":0,"isLinked":false}},"elements":[{"id":"6d0a55f","elType":"column","settings":{"_column_size":20,"_inline_size":null},"elements":[{"id":"76f5ae08","elType":"widget","settings":{"image":{"id":40,"url":"http:\/\/demo.accesspressthemes.com\/bingle\/app\/wp-content\/uploads\/sites\/2\/2019\/12\/img1.jpg"},"image_size":"full","opacity":{"unit":"px","size":0.8000000000000000444089209850062616169452667236328125,"sizes":[]},"opacity_hover":{"unit":"px","size":1,"sizes":[]},"background_hover_transition":{"unit":"px","size":0.5,"sizes":[]},"hover_animation":"grow"},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"61f0febe","elType":"column","settings":{"_column_size":20,"_inline_size":null},"elements":[{"id":"2970c843","elType":"widget","settings":{"image":{"id":41,"url":"http:\/\/demo.accesspressthemes.com\/bingle\/app\/wp-content\/uploads\/sites\/2\/2019\/12\/img2.jpg"},"image_size":"full","opacity":{"unit":"px","size":0.8000000000000000444089209850062616169452667236328125,"sizes":[]},"opacity_hover":{"unit":"px","size":1,"sizes":[]},"background_hover_transition":{"unit":"px","size":0.5,"sizes":[]},"hover_animation":"grow"},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"f1db541","elType":"column","settings":{"_column_size":20,"_inline_size":null},"elements":[{"id":"b8290e7","elType":"widget","settings":{"image":{"id":42,"url":"http:\/\/demo.accesspressthemes.com\/bingle\/app\/wp-content\/uploads\/sites\/2\/2019\/12\/img3.jpg"},"image_size":"full","opacity":{"unit":"px","size":0.8000000000000000444089209850062616169452667236328125,"sizes":[]},"opacity_hover":{"unit":"px","size":1,"sizes":[]},"background_hover_transition":{"unit":"px","size":0.5,"sizes":[]},"hover_animation":"grow"},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"61bd071d","elType":"column","settings":{"_column_size":20,"_inline_size":null},"elements":[{"id":"1b40dae6","elType":"widget","settings":{"image":{"id":43,"url":"http:\/\/demo.accesspressthemes.com\/bingle\/app\/wp-content\/uploads\/sites\/2\/2019\/12\/img4.jpg"},"image_size":"full","opacity":{"unit":"px","size":0.8000000000000000444089209850062616169452667236328125,"sizes":[]},"opacity_hover":{"unit":"px","size":1,"sizes":[]},"background_hover_transition":{"unit":"px","size":0.5,"sizes":[]},"hover_animation":"grow"},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"2a40e8dc","elType":"column","settings":{"_column_size":20,"_inline_size":null},"elements":[{"id":"29a62cb8","elType":"widget","settings":{"image":{"id":44,"url":"http:\/\/demo.accesspressthemes.com\/bingle\/app\/wp-content\/uploads\/sites\/2\/2019\/12\/img5.jpg"},"image_size":"full","opacity":{"unit":"px","size":0.8000000000000000444089209850062616169452667236328125,"sizes":[]},"opacity_hover":{"unit":"px","size":1,"sizes":[]},"background_hover_transition":{"unit":"px","size":0.5,"sizes":[]},"hover_animation":"grow"},"elements":[],"widgetType":"image"}],"isInner":false}],"isInner":false},{"id":"22b1a88","elType":"section","settings":[],"elements":[{"id":"3e0668b0","elType":"column","settings":{"_column_size":100},"elements":[{"id":"326c58aa","elType":"widget","settings":{"title":"Learn more about LeadEngine's unique features.","header_size":"div","align":"center","title_color":"#828282","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"59d9cf58","elType":"widget","settings":{"editor":"<p style=\"margin: 0;\";>Create the look you want on your website with plentiful shortcodes to ease your workflow.<\/p>","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":32,"sizes":[]},"column_gap":{"unit":"px","size":0,"sizes":[]},"_margin":{"unit":"%","top":"0","right":"12","bottom":"0","left":"12","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"text_color":"#1f1f1f","typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.375,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":false}],"isInner":false},{"id":"70617690","elType":"section","settings":{"structure":"30","gap":"wide","margin":{"unit":"px","top":"60","right":0,"bottom":"90","left":0,"isLinked":false}},"elements":[{"id":"59dcf9a0","elType":"column","settings":{"_column_size":33,"_inline_size":null,"border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#eaeaea","border_radius":{"unit":"px","top":"3","right":"3","bottom":"3","left":"3","isLinked":true},"margin":{"unit":"px","top":"0","right":"26","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"30","right":"30","bottom":"45","left":"30","isLinked":false},"css_classes":"hover-layout-1","border_hover_border":"solid","border_hover_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_hover_color":"#f0f0f0","border_radius_hover":{"unit":"px","top":"3","right":"3","bottom":"3","left":"3","isLinked":true}},"elements":[{"id":"7ff05e3a","elType":"widget","settings":{"selected_icon":{"value":"fab fa-bity","library":"fa-brands"},"align":"left","primary_color":"#5153ff"},"elements":[],"widgetType":"icon"},{"id":"44e6ae8d","elType":"widget","settings":{"title":"Easy setup","title_color":"#1f1f1f","typography_typography":"custom","typography_font_size":{"unit":"px","size":24,"sizes":[]},"typography_font_weight":"400","_css_classes":"hover-ef-1-title","_position":"absolute","_offset_y":{"unit":"px","size":70,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"7927d330","elType":"widget","settings":{"title":"Simple, flexible, and predictable pricing.Select which package is best suited for you.","header_size":"div","align":"left","title_color":"#828282","typography_typography":"custom","typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.466699999999999892708046900224871933460235595703125,"sizes":[]},"_css_classes":"hover-ef-1-desc","_position":"absolute","_offset_x":{"size":0,"unit":"px"},"_offset_y":{"size":66,"unit":"%"}},"elements":[],"widgetType":"heading"}],"isInner":false},{"id":"5fbc92c3","elType":"column","settings":{"_column_size":33,"_inline_size":null,"border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#e2e2e2","border_radius":{"unit":"px","top":"3","right":"3","bottom":"3","left":"3","isLinked":true},"margin":{"unit":"px","top":"0","right":"26","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"30","right":"30","bottom":"55","left":"30","isLinked":false},"css_classes":"hover-layout-1","border_hover_border":"solid","border_hover_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_hover_color":"#f0f0f0","border_radius_hover":{"unit":"px","top":"3","right":"3","bottom":"3","left":"3","isLinked":true}},"elements":[{"id":"1c6fe738","elType":"widget","settings":{"selected_icon":{"value":"fab fa-bity","library":"fa-brands"},"align":"left","primary_color":"#5153ff"},"elements":[],"widgetType":"icon"},{"id":"76ed3282","elType":"widget","settings":{"title":"Easy setup","title_color":"#1f1f1f","typography_typography":"custom","typography_font_size":{"unit":"px","size":24,"sizes":[]},"typography_font_weight":"400","_css_classes":"hover-ef-1-title","_position":"absolute","_offset_y":{"unit":"px","size":70,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"12749362","elType":"widget","settings":{"title":"Simple, flexible, and predictable pricing.Select which package is best suited for you.","header_size":"div","align":"left","title_color":"#828282","typography_typography":"custom","typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.466699999999999892708046900224871933460235595703125,"sizes":[]},"_css_classes":"hover-ef-1-desc","_position":"absolute","_offset_x":{"unit":"px","size":0,"sizes":[]},"_offset_y":{"size":66,"unit":"%"}},"elements":[],"widgetType":"heading"}],"isInner":false},{"id":"3fe40758","elType":"column","settings":{"_column_size":33,"_inline_size":null,"border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#e2e2e2","border_radius":{"unit":"px","top":"3","right":"3","bottom":"3","left":"3","isLinked":true},"margin":{"unit":"px","top":"0","right":"26","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"30","right":"30","bottom":"55","left":"30","isLinked":false},"css_classes":"hover-layout-1","border_hover_border":"solid","border_hover_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_hover_color":"#f0f0f0","border_radius_hover":{"unit":"px","top":"3","right":"3","bottom":"3","left":"3","isLinked":true}},"elements":[{"id":"415b8e88","elType":"widget","settings":{"selected_icon":{"value":"fab fa-bity","library":"fa-brands"},"align":"left","primary_color":"#5153ff"},"elements":[],"widgetType":"icon"},{"id":"4b74b762","elType":"widget","settings":{"title":"Easy setup","title_color":"#1f1f1f","typography_typography":"custom","typography_font_size":{"unit":"px","size":24,"sizes":[]},"typography_font_weight":"400","_css_classes":"hover-ef-1-title","_position":"absolute","_offset_y":{"unit":"px","size":70,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"51deb143","elType":"widget","settings":{"title":"Simple, flexible, and predictable pricing.Select which package is best suited for you.","header_size":"div","align":"left","title_color":"#828282","typography_typography":"custom","typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.466699999999999892708046900224871933460235595703125,"sizes":[]},"_css_classes":"hover-ef-1-desc","_position":"absolute","_offset_x":{"size":0,"unit":"px"},"_offset_y":{"size":66,"unit":"%"}},"elements":[],"widgetType":"heading"}],"isInner":false}],"isInner":false},{"id":"4fc14911","elType":"section","settings":{"stretch_section":"section-stretched","layout":"full_width","margin":{"unit":"px","top":"0","right":0,"bottom":"80","left":0,"isLinked":false}},"elements":[{"id":"44f76bc","elType":"column","settings":{"_column_size":100,"space_between_widgets":0,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"541ab8","elType":"section","settings":{"layout":"full_width","height_inner":"min-height","custom_height_inner":{"unit":"px","size":600,"sizes":[]},"structure":"40","background_background":"classic","background_image":{"id":45,"url":"http:\/\/demo.accesspressthemes.com\/bingle\/app\/wp-content\/uploads\/sites\/2\/2019\/12\/Background-4.png"},"background_attachment":"fixed","background_repeat":"no-repeat","background_size":"cover","css_classes":"hover-ef-2"},"elements":[{"id":"50cb906c","elType":"column","settings":{"_column_size":25,"_inline_size":null,"content_position":"bottom","background_hover_background":"classic","background_hover_color":"rgba(12,12,12,0.4)","background_hover_transition":{"unit":"px","size":0.40000000000000002220446049250313080847263336181640625,"sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"1","bottom":"0","left":"0","isLinked":false},"border_color":"rgba(255,255,255,0.34)","padding":{"unit":"px","top":"60","right":"60","bottom":"50","left":"60","isLinked":false}},"elements":[{"id":"1f386844","elType":"widget","settings":{"title":"220","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":46,"sizes":[]},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"heading"},{"id":"26aaf012","elType":"widget","settings":{"title":"Career Opportunities","header_size":"h6","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"300","_margin":{"unit":"px","top":"-5","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"heading"},{"id":"7c4af048","elType":"widget","settings":{"editor":"Simple, flexible, and predictable pricing.Select which package is best suited for you.","text_color":"#b2b2b2","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.466699999999999892708046900224871933460235595703125,"sizes":[]},"_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"24163ae1","elType":"widget","settings":{"text":"Read More","size":"xs","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"400","background_color":"rgba(0,0,0,0)","border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"rgba(255,255,255,0.68)","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"text_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_css_classes":"hover-ef-2-link","_position":"absolute","_offset_y":{"unit":"%","size":91,"sizes":[]},"hover_color":"#5254ff"},"elements":[],"widgetType":"button"}],"isInner":true},{"id":"5cd4ba6e","elType":"column","settings":{"_column_size":25,"_inline_size":null,"content_position":"bottom","background_hover_background":"classic","background_hover_color":"rgba(12,12,12,0.4)","background_hover_transition":{"unit":"px","size":0.40000000000000002220446049250313080847263336181640625,"sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"1","bottom":"0","left":"0","isLinked":false},"border_color":"rgba(255,255,255,0.34)","padding":{"unit":"px","top":"60","right":"60","bottom":"50","left":"60","isLinked":false}},"elements":[{"id":"7ab721de","elType":"widget","settings":{"title":"40K","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":46,"sizes":[]},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"heading"},{"id":"74e23fd2","elType":"widget","settings":{"title":"Income Statement","header_size":"h6","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"300","_margin":{"unit":"px","top":"-5","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"heading"},{"id":"143d0ed8","elType":"widget","settings":{"editor":"Simple, flexible, and predictable pricing.Select which package is best suited for you.","text_color":"#b2b2b2","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.466699999999999892708046900224871933460235595703125,"sizes":[]},"_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"6be32594","elType":"widget","settings":{"text":"Read More","size":"xs","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"400","background_color":"rgba(0,0,0,0)","border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"rgba(255,255,255,0.68)","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"text_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_css_classes":"hover-ef-2-link","_position":"absolute","_offset_y":{"unit":"%","size":91,"sizes":[]},"hover_color":"#5254ff"},"elements":[],"widgetType":"button"}],"isInner":true},{"id":"79698298","elType":"column","settings":{"_column_size":25,"_inline_size":null,"content_position":"bottom","background_hover_background":"classic","background_hover_color":"rgba(12,12,12,0.4)","background_hover_transition":{"unit":"px","size":0.40000000000000002220446049250313080847263336181640625,"sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"1","bottom":"0","left":"0","isLinked":false},"border_color":"rgba(255,255,255,0.34)","padding":{"unit":"px","top":"60","right":"60","bottom":"50","left":"60","isLinked":false}},"elements":[{"id":"5731bfd6","elType":"widget","settings":{"title":"700","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":46,"sizes":[]},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"heading"},{"id":"74925dab","elType":"widget","settings":{"title":"Credits Earned","header_size":"h6","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"300","_margin":{"unit":"px","top":"-5","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"heading"},{"id":"4fc3edfb","elType":"widget","settings":{"editor":"Simple, flexible, and predictable pricing.Select which package is best suited for you.","text_color":"#b2b2b2","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.466699999999999892708046900224871933460235595703125,"sizes":[]},"_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"4fdad5b4","elType":"widget","settings":{"text":"Read More","size":"xs","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"400","background_color":"rgba(0,0,0,0)","border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"rgba(255,255,255,0.68)","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"text_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_css_classes":"hover-ef-2-link","_position":"absolute","_offset_y":{"unit":"%","size":91,"sizes":[]},"hover_color":"#5254ff"},"elements":[],"widgetType":"button"}],"isInner":true},{"id":"2bf492e4","elType":"column","settings":{"_column_size":25,"_inline_size":null,"content_position":"bottom","background_hover_background":"classic","background_hover_color":"rgba(12,12,12,0.4)","background_hover_transition":{"unit":"px","size":0.40000000000000002220446049250313080847263336181640625,"sizes":[]},"border_width":{"unit":"px","top":"0","right":"1","bottom":"0","left":"0","isLinked":false},"border_color":"rgba(255,255,255,0.34)","padding":{"unit":"px","top":"60","right":"60","bottom":"50","left":"60","isLinked":false},"background_background":"classic"},"elements":[{"id":"7602b7a6","elType":"widget","settings":{"title":"98%","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":46,"sizes":[]},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"heading"},{"id":"66ef64b4","elType":"widget","settings":{"title":"Success Rate","header_size":"h6","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"300","_margin":{"unit":"px","top":"-5","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"heading"},{"id":"3dc2b1ef","elType":"widget","settings":{"editor":"Simple, flexible, and predictable pricing.Select which package is best suited for you.","text_color":"#b2b2b2","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.466699999999999892708046900224871933460235595703125,"sizes":[]},"_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"2a81f516","elType":"widget","settings":{"text":"Read More","size":"xs","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"400","background_color":"rgba(0,0,0,0)","border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"rgba(255,255,255,0.68)","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"text_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_css_classes":"hover-ef-2-link","_position":"absolute","_offset_y":{"unit":"%","size":91,"sizes":[]},"hover_color":"#5254ff"},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"4c8d3b4c","elType":"section","settings":{"margin":{"unit":"px","top":"0","right":0,"bottom":"80","left":0,"isLinked":false}},"elements":[{"id":"135a8de0","elType":"column","settings":{"_column_size":100},"elements":[{"id":"2f1fa771","elType":"widget","settings":{"title":"Learn more about LeadEngine's unique features.","header_size":"div","align":"center","title_color":"#828282","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"57bfb9c5","elType":"widget","settings":{"editor":"Create the look you want on your website with plentiful shortcodes to ease your workflow.","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":32,"sizes":[]},"column_gap":{"unit":"px","size":0,"sizes":[]},"_margin":{"unit":"%","top":"0","right":"12","bottom":"0","left":"12","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"35","left":"0","isLinked":false},"text_color":"#1f1f1f","typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.375,"sizes":[]}},"elements":[],"widgetType":"text-editor"},{"id":"916b524","elType":"section","settings":{"height_inner":"min-height","custom_height_inner":{"unit":"px","size":556,"sizes":[]},"content_position":"middle","structure":"20","background_background":"classic","background_image":{"id":46,"url":"http:\/\/demo.accesspressthemes.com\/bingle\/app\/wp-content\/uploads\/sites\/2\/2019\/12\/Layer-19.png"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"186ce643","elType":"column","settings":{"_column_size":50,"_inline_size":35,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"-120","isLinked":false},"padding":{"unit":"px","top":"55","right":"0","bottom":"55","left":"0","isLinked":false}},"elements":[{"id":"795bb1b0","elType":"widget","settings":{"editor":"With plentiful shortcodes to ease your workflow, LeadEngine is meant to simplify the website building experience. One of the fastest multi-purpose themes available on the market.\n<img class=\"alignnone wp-image-523 size-full\" style=\"margin-top: 10px; margin-bottom: 10px;\" src=\"http:\/\/demo.accesspressthemes.com\/bingle\/wp-content\/uploads\/2019\/11\/Layer-21.png\" alt=\"\" width=\"178\" height=\"49\" \/>\n<div style=\"font-size: 18px; font-weight: 500; margin: 0;\">Nicole Vnace<\/div>","align":"left","text_color":"#000000","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":22,"sizes":[]},"typography_font_weight":"400","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"45","right":"50","bottom":"45","left":"50","isLinked":false},"_background_background":"classic","_background_color":"#ffffff","_box_shadow_box_shadow_type":"yes","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":20,"spread":10,"color":"rgba(0,0,0,0.09)"}},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"5913d8","elType":"column","settings":{"_column_size":50,"_inline_size":65},"elements":[],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"746faba6","elType":"section","settings":{"background_background":"classic","background_color":"#feffff","margin":{"unit":"px","top":"0","right":0,"bottom":"80","left":0,"isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"42ea1338","elType":"column","settings":{"_column_size":100},"elements":[{"id":"767e0d7","elType":"widget","settings":{"title":"Learn more about LeadEngine's unique features.","header_size":"div","align":"center","title_color":"#828282","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"1361abc3","elType":"widget","settings":{"editor":"Create the look you want on your website with plentiful shortcodes to ease your workflow.","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":32,"sizes":[]},"column_gap":{"unit":"px","size":0,"sizes":[]},"_margin":{"unit":"%","top":"0","right":"12","bottom":"0","left":"12","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"35","left":"0","isLinked":false},"text_color":"#1f1f1f","typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.375,"sizes":[]},"typography_font_family":"Roboto"},"elements":[],"widgetType":"text-editor"},{"id":"16bd91e9","elType":"widget","settings":{"ap_multiple_test_data":[{"ap_multiple_test_title":"Park jin Hyaun","_id":"7c92751","ap_multiple_img":{"id":47,"url":"http:\/\/demo.accesspressthemes.com\/bingle\/app\/wp-content\/uploads\/sites\/2\/2019\/12\/testi.jpg"},"ap_multiple_designation":"CEO","ap_multiple_desc":"Life before Company was very chaotic \u2014 we got a lot of phone calls, a lot of mistyped orders. So with Company, the ability to see the order directly from the customer makes it so streamlined."},{"ap_multiple_test_title":"Park jin Hyaun","_id":"84cf8f1","ap_multiple_img":{"id":47,"url":"http:\/\/demo.accesspressthemes.com\/bingle\/app\/wp-content\/uploads\/sites\/2\/2019\/12\/testi.jpg"},"ap_multiple_designation":"CEO","ap_multiple_desc":"Life before Company was very chaotic \u2014 we got a lot of phone calls, a lot of mistyped orders. So with Company, the ability to see the order directly from the customer makes it so streamlined."},{"ap_multiple_test_title":"Park jin Hyaun","_id":"2dc4fbe","ap_multiple_img":{"id":47,"url":"http:\/\/demo.accesspressthemes.com\/bingle\/app\/wp-content\/uploads\/sites\/2\/2019\/12\/testi.jpg"},"ap_multiple_designation":"CEO","ap_multiple_desc":"Life before Company was very chaotic \u2014 we got a lot of phone calls, a lot of mistyped orders. So with Company, the ability to see the order directly from the customer makes it so streamlined."},{"ap_multiple_test_title":"Park jin Hyaun","_id":"b77e543","ap_multiple_img":{"id":47,"url":"http:\/\/demo.accesspressthemes.com\/bingle\/app\/wp-content\/uploads\/sites\/2\/2019\/12\/testi.jpg"},"ap_multiple_designation":"CEO","ap_multiple_desc":"Life before Company was very chaotic \u2014 we got a lot of phone calls, a lot of mistyped orders. So with Company, the ability to see the order directly from the customer makes it so streamlined."}],"ap_multiple_layout":"layout3","name_color":"#000000","name_typography_typography":"custom","name_typography_font_family":"Roboto","name_typography_font_size":{"unit":"px","size":24,"sizes":[]},"name_typography_font_weight":"500","name_typography_text_transform":"capitalize","desi_color":"#818992","desi_typography_typography":"custom","desi_typography_font_family":"Roboto","desi_typography_font_size":{"unit":"px","size":16,"sizes":[]},"desi_typography_font_weight":"300","desi_typography_text_transform":"capitalize","desc_color":"#818992","desc_typography_typography":"custom","desc_typography_font_family":"Roboto","desc_typography_font_size":{"unit":"px","size":16,"sizes":[]},"desc_typography_font_weight":"400","desc_typography_line_height":{"unit":"em","size":1.625,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"-15","bottom":"0","left":"-15","isLinked":false}},"elements":[],"widgetType":"ap-testimonials"}],"isInner":false}],"isInner":false},{"id":"6de445f5","elType":"section","settings":{"stretch_section":"section-stretched","layout":"full_width","background_background":"classic","background_image":{"id":48,"url":"http:\/\/demo.accesspressthemes.com\/bingle\/app\/wp-content\/uploads\/sites\/2\/2019\/12\/Background-5.png"},"background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"70","right":"0","bottom":"70","left":"0","isLinked":false}},"elements":[{"id":"367f4ba0","elType":"column","settings":{"_column_size":100,"background_background":"classic"},"elements":[{"id":"1ef3c554","elType":"section","settings":{"structure":"20"},"elements":[{"id":"5a917df9","elType":"column","settings":{"_column_size":50,"_inline_size":60},"elements":[],"isInner":true},{"id":"65ff559a","elType":"column","settings":{"_column_size":50,"_inline_size":40,"content_position":"center","align":"center","background_background":"classic","background_color":"#ffffff","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding":{"unit":"px","top":"80","right":"30","bottom":"80","left":"30","isLinked":false}},"elements":[{"id":"6b2a695b","elType":"widget","settings":{"title":"Download it now","align":"center","title_color":"#1f1f1f","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":32,"sizes":[]},"typography_font_weight":"400"},"elements":[],"widgetType":"heading"},{"id":"66374d13","elType":"widget","settings":{"editor":"Add some helper text here to explain the finer details of your product or service.","align":"center","text_color":"818992","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.467000000000000081712414612411521375179290771484375,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"2c26c30c","elType":"widget","settings":{"text":"App Store","size":"lg","selected_icon":{"value":"fab fa-apple","library":"fa-brands"},"icon_indent":{"unit":"px","size":10,"sizes":[]},"typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"500","background_color":"#2c36fe","button_background_hover_color":"#535afe","border_radius":{"unit":"px","top":"3","right":"3","bottom":"3","left":"3","isLinked":true},"text_padding":{"unit":"px","top":"17","right":"35","bottom":"17","left":"35","isLinked":false},"_margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false},"_element_width":"auto","_element_vertical_align":"center"},"elements":[],"widgetType":"button"},{"id":"51d60883","elType":"widget","settings":{"text":"Google Play","size":"lg","selected_icon":{"value":"fab fa-google-play","library":"fa-brands"},"icon_indent":{"unit":"px","size":10,"sizes":[]},"typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"500","background_color":"#535afe","button_background_hover_color":"#2c36fe","border_radius":{"unit":"px","top":"3","right":"3","bottom":"3","left":"3","isLinked":true},"text_padding":{"unit":"px","top":"17","right":"35","bottom":"17","left":"35","isLinked":false},"_margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false},"_element_width":"auto","_element_vertical_align":"center"},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"7298167b","elType":"section","settings":{"padding":{"unit":"px","top":"75","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"5e14b828","elType":"column","settings":{"_column_size":100,"border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#e5e5e5","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"b894f2","elType":"section","settings":{"structure":"40","border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#e8e8e8","padding":{"unit":"px","top":"0","right":"0","bottom":"35","left":"0","isLinked":false}},"elements":[{"id":"30657a02","elType":"column","settings":{"_column_size":25,"_inline_size":null,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"338683e8","elType":"widget","settings":{"title":"Quick Links","title_color":"#000000","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"400"},"elements":[],"widgetType":"heading"},{"id":"69fc9427","elType":"widget","settings":{"icon_list":[{"text":"Home","selected_icon":{"value":"","library":""},"_id":"ca8a792","link":{"url":"#","is_external":"","nofollow":""}},{"text":"About Us","selected_icon":{"value":"","library":""},"_id":"a09d88b","link":{"url":"#","is_external":"","nofollow":""}},{"text":"Services","selected_icon":{"value":"","library":""},"_id":"6c0e249","link":{"url":"#","is_external":"","nofollow":""}},{"text":"Contact Us","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":""},"_id":"af118c2"}],"text_color":"#828282","icon_typography_typography":"custom","icon_typography_font_family":"Roboto","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]},"icon_typography_font_weight":"400","icon_typography_line_height":{"unit":"em","size":2.5,"sizes":[]},"text_color_hover":"#5254ff"},"elements":[],"widgetType":"icon-list"}],"isInner":true},{"id":"21ee0e","elType":"column","settings":{"_column_size":25,"_inline_size":null,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"55f8d805","elType":"widget","settings":{"title":"Our Service","title_color":"#000000","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"400"},"elements":[],"widgetType":"heading"},{"id":"45217eff","elType":"widget","settings":{"icon_list":[{"text":"Pricing","selected_icon":{"value":"","library":""},"_id":"ca8a792","link":{"url":"#","is_external":"","nofollow":""}},{"text":"Tracking","selected_icon":{"value":"","library":""},"_id":"a09d88b","link":{"url":"#","is_external":"","nofollow":""}},{"text":"Report a Bug","selected_icon":{"value":"","library":""},"_id":"6c0e249","link":{"url":"#","is_external":"","nofollow":""}},{"text":"Terms of Service","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":""},"_id":"4764859"}],"text_color":"#828282","icon_typography_typography":"custom","icon_typography_font_family":"Roboto","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]},"icon_typography_font_weight":"400","icon_typography_line_height":{"unit":"em","size":2.5,"sizes":[]},"text_color_hover":"#5254ff"},"elements":[],"widgetType":"icon-list"}],"isInner":true},{"id":"5be53f4e","elType":"column","settings":{"_column_size":25,"_inline_size":null,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"7cff1d9f","elType":"widget","settings":{"title":"Our Company","title_color":"#000000","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"400"},"elements":[],"widgetType":"heading"},{"id":"6bb6dfb1","elType":"widget","settings":{"icon_list":[{"text":"Reporting","selected_icon":{"value":"","library":""},"_id":"ca8a792","link":{"url":"#","is_external":"","nofollow":""}},{"text":"Get In Touch","selected_icon":{"value":"","library":""},"_id":"a09d88b","link":{"url":"#","is_external":"","nofollow":""}},{"text":"Management","selected_icon":{"value":"","library":""},"_id":"6c0e249","link":{"url":"#","is_external":"","nofollow":""}}],"text_color":"#828282","icon_typography_typography":"custom","icon_typography_font_family":"Roboto","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]},"icon_typography_font_weight":"400","icon_typography_line_height":{"unit":"em","size":2.5,"sizes":[]},"text_color_hover":"#5254ff"},"elements":[],"widgetType":"icon-list"}],"isInner":true},{"id":"5bd1178a","elType":"column","settings":{"_column_size":25,"_inline_size":null,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"30fd49b7","elType":"widget","settings":{"title":"Contact Info","title_color":"#000000","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"400"},"elements":[],"widgetType":"heading"},{"id":"52c46551","elType":"widget","settings":{"icon_list":[{"text":"121 King St. Melbourne VIC","selected_icon":{"value":"","library":""},"_id":"ca8a792","link":{"url":"","is_external":"","nofollow":""}},{"text":"3000, Australia","selected_icon":{"value":"","library":""},"_id":"a09d88b","link":{"url":"","is_external":"","nofollow":""}},{"text":"888-123-4568","selected_icon":{"value":"","library":""},"_id":"6c0e249","link":{"url":"#","is_external":"","nofollow":""}},{"text":"info@example.com","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":""},"_id":"2c4c775"}],"text_color":"#828282","icon_typography_typography":"custom","icon_typography_font_family":"Roboto","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]},"icon_typography_font_weight":"400","icon_typography_line_height":{"unit":"em","size":2.5,"sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"c35862c","elType":"section","settings":[],"elements":[{"id":"3744475a","elType":"column","settings":{"_column_size":100},"elements":[],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"25941833","elType":"section","settings":[],"elements":[{"id":"1a2e61a","elType":"column","settings":{"_column_size":100,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"54258460","elType":"section","settings":{"content_position":"middle","structure":"20","border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#eaeaea","padding":{"unit":"px","top":"60","right":"0","bottom":"60","left":"0","isLinked":false}},"elements":[{"id":"203c2f22","elType":"column","settings":{"_column_size":50,"_inline_size":56,"space_between_widgets":0},"elements":[{"id":"3df138c4","elType":"widget","settings":{"title":"Make cool landing pages easily with vApp.","align":"center","title_color":"#2d3136","typography_typography":"custom","typography_font_size":{"unit":"px","size":60,"sizes":[]},"typography_line_height":{"unit":"em","size":1.166700000000000070343730840249918401241302490234375,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"4a6380cf","elType":"widget","settings":{"editor":"<p>No one cares about products. People care about ideas. Is a product an idea? No. Is a brand? A good one is.<\/p>","align":"center","text_color":"#818992","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":21,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.520000000000000017763568394002504646778106689453125,"sizes":[]}},"elements":[],"widgetType":"text-editor"},{"id":"70e74e08","elType":"widget","settings":{"text":"Download the App","align":"center","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"500","background_color":"#5254ff","button_background_hover_color":"#3d40ff","border_radius":{"unit":"px","top":"4","right":"4","bottom":"4","left":"4","isLinked":true},"text_padding":{"unit":"px","top":"20","right":"30","bottom":"20","left":"30","isLinked":false},"_margin":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false},"hover_animation":"float"},"elements":[],"widgetType":"button"}],"isInner":true},{"id":"2756c4f0","elType":"column","settings":{"_column_size":50,"_inline_size":44,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"30","isLinked":false}},"elements":[{"id":"6e40831b","elType":"widget","settings":{"image":{"id":56,"url":"https:\/\/accesspressthemes.com\/import\/bingle\/app\/wp-content\/uploads\/sites\/3\/2020\/08\/700.png"}},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"29cff4c1","elType":"section","settings":{"padding":{"unit":"px","top":"80","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"240defd3","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"63c80cf6","elType":"widget","settings":{"title":"Learn more about LeadEngine's unique features.","header_size":"div","align":"center","title_color":"#828282","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"300"},"elements":[],"widgetType":"heading"},{"id":"56636f66","elType":"widget","settings":{"editor":"<p style=\"margin: 0;\";>Create the look you want on your website with plentiful shortcodes to ease your workflow.<\/p>","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":32,"sizes":[]},"column_gap":{"unit":"px","size":0,"sizes":[]},"_margin":{"unit":"%","top":"0","right":"12","bottom":"0","left":"12","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"text_color":"#1f1f1f","typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.375,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":false}],"isInner":false},{"id":"7c1ee7ee","elType":"section","settings":{"structure":"50","margin":{"unit":"px","top":"30","right":0,"bottom":"80","left":0,"isLinked":false}},"elements":[{"id":"6d0a55f","elType":"column","settings":{"_column_size":20,"_inline_size":null},"elements":[{"id":"76f5ae08","elType":"widget","settings":{"image":{"id":51,"url":"https:\/\/accesspressthemes.com\/import\/bingle\/app\/wp-content\/uploads\/sites\/3\/2020\/08\/placeholder-1920x800-1.png"},"image_size":"full","opacity":{"unit":"px","size":0.8000000000000000444089209850062616169452667236328125,"sizes":[]},"opacity_hover":{"unit":"px","size":1,"sizes":[]},"background_hover_transition":{"unit":"px","size":0.5,"sizes":[]},"hover_animation":"grow"},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"61f0febe","elType":"column","settings":{"_column_size":20,"_inline_size":null},"elements":[{"id":"2970c843","elType":"widget","settings":{"image":{"id":51,"url":"https:\/\/accesspressthemes.com\/import\/bingle\/app\/wp-content\/uploads\/sites\/3\/2020\/08\/placeholder-1920x800-1.png"},"image_size":"full","opacity":{"unit":"px","size":0.8000000000000000444089209850062616169452667236328125,"sizes":[]},"opacity_hover":{"unit":"px","size":1,"sizes":[]},"background_hover_transition":{"unit":"px","size":0.5,"sizes":[]},"hover_animation":"grow"},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"f1db541","elType":"column","settings":{"_column_size":20,"_inline_size":null},"elements":[{"id":"b8290e7","elType":"widget","settings":{"image":{"id":51,"url":"https:\/\/accesspressthemes.com\/import\/bingle\/app\/wp-content\/uploads\/sites\/3\/2020\/08\/placeholder-1920x800-1.png"},"image_size":"full","opacity":{"unit":"px","size":0.8000000000000000444089209850062616169452667236328125,"sizes":[]},"opacity_hover":{"unit":"px","size":1,"sizes":[]},"background_hover_transition":{"unit":"px","size":0.5,"sizes":[]},"hover_animation":"grow"},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"61bd071d","elType":"column","settings":{"_column_size":20,"_inline_size":null},"elements":[{"id":"1b40dae6","elType":"widget","settings":{"image":{"id":51,"url":"https:\/\/accesspressthemes.com\/import\/bingle\/app\/wp-content\/uploads\/sites\/3\/2020\/08\/placeholder-1920x800-1.png"},"image_size":"full","opacity":{"unit":"px","size":0.8000000000000000444089209850062616169452667236328125,"sizes":[]},"opacity_hover":{"unit":"px","size":1,"sizes":[]},"background_hover_transition":{"unit":"px","size":0.5,"sizes":[]},"hover_animation":"grow"},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"2a40e8dc","elType":"column","settings":{"_column_size":20,"_inline_size":null},"elements":[{"id":"29a62cb8","elType":"widget","settings":{"image":{"id":51,"url":"https:\/\/accesspressthemes.com\/import\/bingle\/app\/wp-content\/uploads\/sites\/3\/2020\/08\/placeholder-1920x800-1.png"},"image_size":"full","opacity":{"unit":"px","size":0.8000000000000000444089209850062616169452667236328125,"sizes":[]},"opacity_hover":{"unit":"px","size":1,"sizes":[]},"background_hover_transition":{"unit":"px","size":0.5,"sizes":[]},"hover_animation":"grow"},"elements":[],"widgetType":"image"}],"isInner":false}],"isInner":false},{"id":"22b1a88","elType":"section","settings":[],"elements":[{"id":"3e0668b0","elType":"column","settings":{"_column_size":100},"elements":[{"id":"326c58aa","elType":"widget","settings":{"title":"Learn more about LeadEngine's unique features.","header_size":"div","align":"center","title_color":"#828282","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"59d9cf58","elType":"widget","settings":{"editor":"<p style=\"margin: 0;\";>Create the look you want on your website with plentiful shortcodes to ease your workflow.<\/p>","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":32,"sizes":[]},"column_gap":{"unit":"px","size":0,"sizes":[]},"_margin":{"unit":"%","top":"0","right":"12","bottom":"0","left":"12","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"text_color":"#1f1f1f","typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.375,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":false}],"isInner":false},{"id":"70617690","elType":"section","settings":{"structure":"30","gap":"wide","margin":{"unit":"px","top":"60","right":0,"bottom":"90","left":0,"isLinked":false}},"elements":[{"id":"59dcf9a0","elType":"column","settings":{"_column_size":33,"_inline_size":null,"border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#eaeaea","border_radius":{"unit":"px","top":"3","right":"3","bottom":"3","left":"3","isLinked":true},"margin":{"unit":"px","top":"0","right":"26","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"30","right":"30","bottom":"45","left":"30","isLinked":false},"css_classes":"hover-layout-1","border_hover_border":"solid","border_hover_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_hover_color":"#f0f0f0","border_radius_hover":{"unit":"px","top":"3","right":"3","bottom":"3","left":"3","isLinked":true}},"elements":[{"id":"7ff05e3a","elType":"widget","settings":{"selected_icon":{"value":"fab fa-bity","library":"fa-brands"},"align":"left","primary_color":"#5153ff"},"elements":[],"widgetType":"icon"},{"id":"44e6ae8d","elType":"widget","settings":{"title":"Easy setup","title_color":"#1f1f1f","typography_typography":"custom","typography_font_size":{"unit":"px","size":24,"sizes":[]},"typography_font_weight":"400","_css_classes":"hover-ef-1-title","_position":"absolute","_offset_y":{"unit":"px","size":70,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"7927d330","elType":"widget","settings":{"title":"Simple, flexible, and predictable pricing.Select which package is best suited for you.","header_size":"div","align":"left","title_color":"#828282","typography_typography":"custom","typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.466699999999999892708046900224871933460235595703125,"sizes":[]},"_css_classes":"hover-ef-1-desc","_position":"absolute","_offset_x":{"size":0,"unit":"px"},"_offset_y":{"size":66,"unit":"%"}},"elements":[],"widgetType":"heading"}],"isInner":false},{"id":"5fbc92c3","elType":"column","settings":{"_column_size":33,"_inline_size":null,"border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#e2e2e2","border_radius":{"unit":"px","top":"3","right":"3","bottom":"3","left":"3","isLinked":true},"margin":{"unit":"px","top":"0","right":"26","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"30","right":"30","bottom":"55","left":"30","isLinked":false},"css_classes":"hover-layout-1","border_hover_border":"solid","border_hover_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_hover_color":"#f0f0f0","border_radius_hover":{"unit":"px","top":"3","right":"3","bottom":"3","left":"3","isLinked":true}},"elements":[{"id":"1c6fe738","elType":"widget","settings":{"selected_icon":{"value":"fab fa-bity","library":"fa-brands"},"align":"left","primary_color":"#5153ff"},"elements":[],"widgetType":"icon"},{"id":"76ed3282","elType":"widget","settings":{"title":"Easy setup","title_color":"#1f1f1f","typography_typography":"custom","typography_font_size":{"unit":"px","size":24,"sizes":[]},"typography_font_weight":"400","_css_classes":"hover-ef-1-title","_position":"absolute","_offset_y":{"unit":"px","size":70,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"12749362","elType":"widget","settings":{"title":"Simple, flexible, and predictable pricing.Select which package is best suited for you.","header_size":"div","align":"left","title_color":"#828282","typography_typography":"custom","typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.466699999999999892708046900224871933460235595703125,"sizes":[]},"_css_classes":"hover-ef-1-desc","_position":"absolute","_offset_x":{"unit":"px","size":0,"sizes":[]},"_offset_y":{"size":66,"unit":"%"}},"elements":[],"widgetType":"heading"}],"isInner":false},{"id":"3fe40758","elType":"column","settings":{"_column_size":33,"_inline_size":null,"border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#e2e2e2","border_radius":{"unit":"px","top":"3","right":"3","bottom":"3","left":"3","isLinked":true},"margin":{"unit":"px","top":"0","right":"26","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"30","right":"30","bottom":"55","left":"30","isLinked":false},"css_classes":"hover-layout-1","border_hover_border":"solid","border_hover_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_hover_color":"#f0f0f0","border_radius_hover":{"unit":"px","top":"3","right":"3","bottom":"3","left":"3","isLinked":true}},"elements":[{"id":"415b8e88","elType":"widget","settings":{"selected_icon":{"value":"fab fa-bity","library":"fa-brands"},"align":"left","primary_color":"#5153ff"},"elements":[],"widgetType":"icon"},{"id":"4b74b762","elType":"widget","settings":{"title":"Easy setup","title_color":"#1f1f1f","typography_typography":"custom","typography_font_size":{"unit":"px","size":24,"sizes":[]},"typography_font_weight":"400","_css_classes":"hover-ef-1-title","_position":"absolute","_offset_y":{"unit":"px","size":70,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"51deb143","elType":"widget","settings":{"title":"Simple, flexible, and predictable pricing.Select which package is best suited for you.","header_size":"div","align":"left","title_color":"#828282","typography_typography":"custom","typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.466699999999999892708046900224871933460235595703125,"sizes":[]},"_css_classes":"hover-ef-1-desc","_position":"absolute","_offset_x":{"size":0,"unit":"px"},"_offset_y":{"size":66,"unit":"%"}},"elements":[],"widgetType":"heading"}],"isInner":false}],"isInner":false},{"id":"4fc14911","elType":"section","settings":{"stretch_section":"section-stretched","layout":"full_width","margin":{"unit":"px","top":"0","right":0,"bottom":"80","left":0,"isLinked":false}},"elements":[{"id":"44f76bc","elType":"column","settings":{"_column_size":100,"space_between_widgets":0,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"541ab8","elType":"section","settings":{"layout":"full_width","height_inner":"min-height","custom_height_inner":{"unit":"px","size":600,"sizes":[]},"structure":"40","background_background":"classic","background_image":{"id":53,"url":"https:\/\/accesspressthemes.com\/import\/bingle\/app\/wp-content\/uploads\/sites\/3\/2020\/08\/000000.png"},"background_attachment":"fixed","background_repeat":"no-repeat","background_size":"cover","css_classes":"hover-ef-2"},"elements":[{"id":"50cb906c","elType":"column","settings":{"_column_size":25,"_inline_size":null,"content_position":"bottom","background_hover_background":"classic","background_hover_color":"rgba(12,12,12,0.4)","background_hover_transition":{"unit":"px","size":0.40000000000000002220446049250313080847263336181640625,"sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"1","bottom":"0","left":"0","isLinked":false},"border_color":"rgba(255,255,255,0.34)","padding":{"unit":"px","top":"60","right":"60","bottom":"50","left":"60","isLinked":false}},"elements":[{"id":"1f386844","elType":"widget","settings":{"title":"220","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":46,"sizes":[]},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"heading"},{"id":"26aaf012","elType":"widget","settings":{"title":"Career Opportunities","header_size":"h6","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"300","_margin":{"unit":"px","top":"-5","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"heading"},{"id":"7c4af048","elType":"widget","settings":{"editor":"Simple, flexible, and predictable pricing.Select which package is best suited for you.","text_color":"#b2b2b2","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.466699999999999892708046900224871933460235595703125,"sizes":[]},"_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"24163ae1","elType":"widget","settings":{"text":"Read More","size":"xs","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"400","background_color":"rgba(0,0,0,0)","border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"rgba(255,255,255,0.68)","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"text_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_css_classes":"hover-ef-2-link","_position":"absolute","_offset_y":{"unit":"%","size":91,"sizes":[]},"hover_color":"#5254ff"},"elements":[],"widgetType":"button"}],"isInner":true},{"id":"5cd4ba6e","elType":"column","settings":{"_column_size":25,"_inline_size":null,"content_position":"bottom","background_hover_background":"classic","background_hover_color":"rgba(12,12,12,0.4)","background_hover_transition":{"unit":"px","size":0.40000000000000002220446049250313080847263336181640625,"sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"1","bottom":"0","left":"0","isLinked":false},"border_color":"rgba(255,255,255,0.34)","padding":{"unit":"px","top":"60","right":"60","bottom":"50","left":"60","isLinked":false}},"elements":[{"id":"7ab721de","elType":"widget","settings":{"title":"40K","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":46,"sizes":[]},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"heading"},{"id":"74e23fd2","elType":"widget","settings":{"title":"Income Statement","header_size":"h6","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"300","_margin":{"unit":"px","top":"-5","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"heading"},{"id":"143d0ed8","elType":"widget","settings":{"editor":"Simple, flexible, and predictable pricing.Select which package is best suited for you.","text_color":"#b2b2b2","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.466699999999999892708046900224871933460235595703125,"sizes":[]},"_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"6be32594","elType":"widget","settings":{"text":"Read More","size":"xs","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"400","background_color":"rgba(0,0,0,0)","border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"rgba(255,255,255,0.68)","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"text_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_css_classes":"hover-ef-2-link","_position":"absolute","_offset_y":{"unit":"%","size":91,"sizes":[]},"hover_color":"#5254ff"},"elements":[],"widgetType":"button"}],"isInner":true},{"id":"79698298","elType":"column","settings":{"_column_size":25,"_inline_size":null,"content_position":"bottom","background_hover_background":"classic","background_hover_color":"rgba(12,12,12,0.4)","background_hover_transition":{"unit":"px","size":0.40000000000000002220446049250313080847263336181640625,"sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"1","bottom":"0","left":"0","isLinked":false},"border_color":"rgba(255,255,255,0.34)","padding":{"unit":"px","top":"60","right":"60","bottom":"50","left":"60","isLinked":false}},"elements":[{"id":"5731bfd6","elType":"widget","settings":{"title":"700","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":46,"sizes":[]},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"heading"},{"id":"74925dab","elType":"widget","settings":{"title":"Credits Earned","header_size":"h6","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"300","_margin":{"unit":"px","top":"-5","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"heading"},{"id":"4fc3edfb","elType":"widget","settings":{"editor":"Simple, flexible, and predictable pricing.Select which package is best suited for you.","text_color":"#b2b2b2","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.466699999999999892708046900224871933460235595703125,"sizes":[]},"_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"4fdad5b4","elType":"widget","settings":{"text":"Read More","size":"xs","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"400","background_color":"rgba(0,0,0,0)","border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"rgba(255,255,255,0.68)","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"text_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_css_classes":"hover-ef-2-link","_position":"absolute","_offset_y":{"unit":"%","size":91,"sizes":[]},"hover_color":"#5254ff"},"elements":[],"widgetType":"button"}],"isInner":true},{"id":"2bf492e4","elType":"column","settings":{"_column_size":25,"_inline_size":null,"content_position":"bottom","background_hover_background":"classic","background_hover_color":"rgba(12,12,12,0.4)","background_hover_transition":{"unit":"px","size":0.40000000000000002220446049250313080847263336181640625,"sizes":[]},"border_width":{"unit":"px","top":"0","right":"1","bottom":"0","left":"0","isLinked":false},"border_color":"rgba(255,255,255,0.34)","padding":{"unit":"px","top":"60","right":"60","bottom":"50","left":"60","isLinked":false},"background_background":"classic"},"elements":[{"id":"7602b7a6","elType":"widget","settings":{"title":"98%","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":46,"sizes":[]},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"heading"},{"id":"66ef64b4","elType":"widget","settings":{"title":"Success Rate","header_size":"h6","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"300","_margin":{"unit":"px","top":"-5","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"heading"},{"id":"3dc2b1ef","elType":"widget","settings":{"editor":"Simple, flexible, and predictable pricing.Select which package is best suited for you.","text_color":"#b2b2b2","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.466699999999999892708046900224871933460235595703125,"sizes":[]},"_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"2a81f516","elType":"widget","settings":{"text":"Read More","size":"xs","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"400","background_color":"rgba(0,0,0,0)","border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"rgba(255,255,255,0.68)","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"text_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_css_classes":"hover-ef-2-link","_position":"absolute","_offset_y":{"unit":"%","size":91,"sizes":[]},"hover_color":"#5254ff"},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"4c8d3b4c","elType":"section","settings":{"margin":{"unit":"px","top":"0","right":0,"bottom":"80","left":0,"isLinked":false}},"elements":[{"id":"135a8de0","elType":"column","settings":{"_column_size":100},"elements":[{"id":"2f1fa771","elType":"widget","settings":{"title":"Learn more about LeadEngine's unique features.","header_size":"div","align":"center","title_color":"#828282","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"57bfb9c5","elType":"widget","settings":{"editor":"Create the look you want on your website with plentiful shortcodes to ease your workflow.","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":32,"sizes":[]},"column_gap":{"unit":"px","size":0,"sizes":[]},"_margin":{"unit":"%","top":"0","right":"12","bottom":"0","left":"12","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"35","left":"0","isLinked":false},"text_color":"#1f1f1f","typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.375,"sizes":[]}},"elements":[],"widgetType":"text-editor"},{"id":"916b524","elType":"section","settings":{"height_inner":"min-height","custom_height_inner":{"unit":"px","size":556,"sizes":[]},"content_position":"middle","structure":"20","background_background":"classic","background_image":{"id":51,"url":"https:\/\/accesspressthemes.com\/import\/bingle\/app\/wp-content\/uploads\/sites\/3\/2020\/08\/placeholder-1920x800-1.png"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"186ce643","elType":"column","settings":{"_column_size":50,"_inline_size":35,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"-120","isLinked":false},"padding":{"unit":"px","top":"55","right":"0","bottom":"55","left":"0","isLinked":false}},"elements":[{"id":"795bb1b0","elType":"widget","settings":{"editor":"With plentiful shortcodes to ease your workflow, LeadEngine is meant to simplify the website building experience. One of the fastest multi-purpose themes available on the market.\n<img class=\"alignnone wp-image-523 size-full\" style=\"margin-top: 10px; margin-bottom: 10px;\" src=\"http:\/\/demo.accesspressthemes.com\/bingle\/wp-content\/uploads\/2019\/11\/Layer-21.png\" alt=\"\" width=\"178\" height=\"49\" \/>\n<div style=\"font-size: 18px; font-weight: 500; margin: 0;\">Nicole Vnace<\/div>","align":"left","text_color":"#000000","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":22,"sizes":[]},"typography_font_weight":"400","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"45","right":"50","bottom":"45","left":"50","isLinked":false},"_background_background":"classic","_background_color":"#ffffff","_box_shadow_box_shadow_type":"yes","_box_shadow_box_shadow":{"horizontal":0,"vertical":0,"blur":20,"spread":10,"color":"rgba(0,0,0,0.09)"}},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"5913d8","elType":"column","settings":{"_column_size":50,"_inline_size":65},"elements":[],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"746faba6","elType":"section","settings":{"background_background":"classic","background_color":"#feffff","margin":{"unit":"px","top":"0","right":0,"bottom":"80","left":0,"isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"42ea1338","elType":"column","settings":{"_column_size":100},"elements":[{"id":"767e0d7","elType":"widget","settings":{"title":"Learn more about LeadEngine's unique features.","header_size":"div","align":"center","title_color":"#828282","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"1361abc3","elType":"widget","settings":{"editor":"Create the look you want on your website with plentiful shortcodes to ease your workflow.","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":32,"sizes":[]},"column_gap":{"unit":"px","size":0,"sizes":[]},"_margin":{"unit":"%","top":"0","right":"12","bottom":"0","left":"12","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"35","left":"0","isLinked":false},"text_color":"#1f1f1f","typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.375,"sizes":[]},"typography_font_family":"Roboto"},"elements":[],"widgetType":"text-editor"},{"id":"16bd91e9","elType":"widget","settings":{"ap_multiple_test_data":[{"ap_multiple_test_title":"Park jin Hyaun","_id":"7c92751","ap_multiple_img":{"id":51,"url":"https:\/\/accesspressthemes.com\/import\/bingle\/app\/wp-content\/uploads\/sites\/3\/2020\/08\/placeholder-1920x800-1.png"},"ap_multiple_designation":"CEO","ap_multiple_desc":"Life before Company was very chaotic \u2014 we got a lot of phone calls, a lot of mistyped orders. So with Company, the ability to see the order directly from the customer makes it so streamlined."},{"ap_multiple_test_title":"Park jin Hyaun","ap_multiple_img":{"id":51,"url":"https:\/\/accesspressthemes.com\/import\/bingle\/app\/wp-content\/uploads\/sites\/3\/2020\/08\/placeholder-1920x800-1.png"},"ap_multiple_designation":"CEO","ap_multiple_desc":"Life before Company was very chaotic \u2014 we got a lot of phone calls, a lot of mistyped orders. So with Company, the ability to see the order directly from the customer makes it so streamlined.","_id":"5ed7394"},{"ap_multiple_test_title":"Park jin Hyaun","ap_multiple_img":{"id":51,"url":"https:\/\/accesspressthemes.com\/import\/bingle\/app\/wp-content\/uploads\/sites\/3\/2020\/08\/placeholder-1920x800-1.png"},"ap_multiple_designation":"CEO","ap_multiple_desc":"Life before Company was very chaotic \u2014 we got a lot of phone calls, a lot of mistyped orders. So with Company, the ability to see the order directly from the customer makes it so streamlined.","_id":"515a484"},{"ap_multiple_test_title":"Park jin Hyaun","ap_multiple_img":{"id":51,"url":"https:\/\/accesspressthemes.com\/import\/bingle\/app\/wp-content\/uploads\/sites\/3\/2020\/08\/placeholder-1920x800-1.png"},"ap_multiple_designation":"CEO","ap_multiple_desc":"Life before Company was very chaotic \u2014 we got a lot of phone calls, a lot of mistyped orders. So with Company, the ability to see the order directly from the customer makes it so streamlined.","_id":"ae65ed6"}],"ap_multiple_layout":"layout3","name_color":"#000000","name_typography_typography":"custom","name_typography_font_family":"Roboto","name_typography_font_size":{"unit":"px","size":24,"sizes":[]},"name_typography_font_weight":"500","name_typography_text_transform":"capitalize","desi_color":"#818992","desi_typography_typography":"custom","desi_typography_font_family":"Roboto","desi_typography_font_size":{"unit":"px","size":16,"sizes":[]},"desi_typography_font_weight":"300","desi_typography_text_transform":"capitalize","desc_color":"#818992","desc_typography_typography":"custom","desc_typography_font_family":"Roboto","desc_typography_font_size":{"unit":"px","size":16,"sizes":[]},"desc_typography_font_weight":"400","desc_typography_line_height":{"unit":"em","size":1.625,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"-15","bottom":"0","left":"-15","isLinked":false}},"elements":[],"widgetType":"ap-testimonials"}],"isInner":false}],"isInner":false},{"id":"6de445f5","elType":"section","settings":{"stretch_section":"section-stretched","layout":"full_width","background_background":"classic","background_image":{"id":51,"url":"https:\/\/accesspressthemes.com\/import\/bingle\/app\/wp-content\/uploads\/sites\/3\/2020\/08\/placeholder-1920x800-1.png"},"background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"70","right":"0","bottom":"70","left":"0","isLinked":false}},"elements":[{"id":"367f4ba0","elType":"column","settings":{"_column_size":100,"background_background":"classic"},"elements":[{"id":"1ef3c554","elType":"section","settings":{"structure":"20"},"elements":[{"id":"5a917df9","elType":"column","settings":{"_column_size":50,"_inline_size":60},"elements":[],"isInner":true},{"id":"65ff559a","elType":"column","settings":{"_column_size":50,"_inline_size":40,"content_position":"center","align":"center","background_background":"classic","background_color":"#ffffff","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding":{"unit":"px","top":"80","right":"30","bottom":"80","left":"30","isLinked":false}},"elements":[{"id":"6b2a695b","elType":"widget","settings":{"title":"Download it now","align":"center","title_color":"#1f1f1f","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":32,"sizes":[]},"typography_font_weight":"400"},"elements":[],"widgetType":"heading"},{"id":"66374d13","elType":"widget","settings":{"editor":"Add some helper text here to explain the finer details of your product or service.","align":"center","text_color":"818992","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.467000000000000081712414612411521375179290771484375,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"2c26c30c","elType":"widget","settings":{"text":"App Store","size":"lg","selected_icon":{"value":"fab fa-apple","library":"fa-brands"},"icon_indent":{"unit":"px","size":10,"sizes":[]},"typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"500","background_color":"#2c36fe","button_background_hover_color":"#535afe","border_radius":{"unit":"px","top":"3","right":"3","bottom":"3","left":"3","isLinked":true},"text_padding":{"unit":"px","top":"17","right":"35","bottom":"17","left":"35","isLinked":false},"_margin":{"unit":"px","top":"0","right":"10","bottom":"10","left":"10","isLinked":false},"_element_width":"auto","_element_vertical_align":"center"},"elements":[],"widgetType":"button"},{"id":"51d60883","elType":"widget","settings":{"text":"Google Play","size":"lg","selected_icon":{"value":"fab fa-google-play","library":"fa-brands"},"icon_indent":{"unit":"px","size":10,"sizes":[]},"typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"500","background_color":"#535afe","button_background_hover_color":"#2c36fe","border_radius":{"unit":"px","top":"3","right":"3","bottom":"3","left":"3","isLinked":true},"text_padding":{"unit":"px","top":"17","right":"35","bottom":"17","left":"35","isLinked":false},"_margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false},"_element_width":"auto","_element_vertical_align":"center"},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"7298167b","elType":"section","settings":{"padding":{"unit":"px","top":"75","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"5e14b828","elType":"column","settings":{"_column_size":100,"border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#e5e5e5","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"b894f2","elType":"section","settings":{"structure":"40","border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#e8e8e8","padding":{"unit":"px","top":"0","right":"0","bottom":"35","left":"0","isLinked":false}},"elements":[{"id":"30657a02","elType":"column","settings":{"_column_size":25,"_inline_size":null,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"338683e8","elType":"widget","settings":{"title":"Quick Links","title_color":"#000000","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"400"},"elements":[],"widgetType":"heading"},{"id":"69fc9427","elType":"widget","settings":{"icon_list":[{"text":"Home","selected_icon":{"value":"","library":""},"_id":"ca8a792","link":{"url":"#","is_external":"","nofollow":""}},{"text":"About Us","selected_icon":{"value":"","library":""},"_id":"a09d88b","link":{"url":"#","is_external":"","nofollow":""}},{"text":"Services","selected_icon":{"value":"","library":""},"_id":"6c0e249","link":{"url":"#","is_external":"","nofollow":""}},{"text":"Contact Us","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":""},"_id":"af118c2"}],"text_color":"#828282","icon_typography_typography":"custom","icon_typography_font_family":"Roboto","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]},"icon_typography_font_weight":"400","icon_typography_line_height":{"unit":"em","size":2.5,"sizes":[]},"text_color_hover":"#5254ff"},"elements":[],"widgetType":"icon-list"}],"isInner":true},{"id":"21ee0e","elType":"column","settings":{"_column_size":25,"_inline_size":null,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"55f8d805","elType":"widget","settings":{"title":"Our Service","title_color":"#000000","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"400"},"elements":[],"widgetType":"heading"},{"id":"45217eff","elType":"widget","settings":{"icon_list":[{"text":"Pricing","selected_icon":{"value":"","library":""},"_id":"ca8a792","link":{"url":"#","is_external":"","nofollow":""}},{"text":"Tracking","selected_icon":{"value":"","library":""},"_id":"a09d88b","link":{"url":"#","is_external":"","nofollow":""}},{"text":"Report a Bug","selected_icon":{"value":"","library":""},"_id":"6c0e249","link":{"url":"#","is_external":"","nofollow":""}},{"text":"Terms of Service","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":""},"_id":"4764859"}],"text_color":"#828282","icon_typography_typography":"custom","icon_typography_font_family":"Roboto","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]},"icon_typography_font_weight":"400","icon_typography_line_height":{"unit":"em","size":2.5,"sizes":[]},"text_color_hover":"#5254ff"},"elements":[],"widgetType":"icon-list"}],"isInner":true},{"id":"5be53f4e","elType":"column","settings":{"_column_size":25,"_inline_size":null,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"7cff1d9f","elType":"widget","settings":{"title":"Our Company","title_color":"#000000","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"400"},"elements":[],"widgetType":"heading"},{"id":"6bb6dfb1","elType":"widget","settings":{"icon_list":[{"text":"Reporting","selected_icon":{"value":"","library":""},"_id":"ca8a792","link":{"url":"#","is_external":"","nofollow":""}},{"text":"Get In Touch","selected_icon":{"value":"","library":""},"_id":"a09d88b","link":{"url":"#","is_external":"","nofollow":""}},{"text":"Management","selected_icon":{"value":"","library":""},"_id":"6c0e249","link":{"url":"#","is_external":"","nofollow":""}}],"text_color":"#828282","icon_typography_typography":"custom","icon_typography_font_family":"Roboto","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]},"icon_typography_font_weight":"400","icon_typography_line_height":{"unit":"em","size":2.5,"sizes":[]},"text_color_hover":"#5254ff"},"elements":[],"widgetType":"icon-list"}],"isInner":true},{"id":"5bd1178a","elType":"column","settings":{"_column_size":25,"_inline_size":null,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"30fd49b7","elType":"widget","settings":{"title":"Contact Info","title_color":"#000000","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"400"},"elements":[],"widgetType":"heading"},{"id":"52c46551","elType":"widget","settings":{"icon_list":[{"text":"121 King St. Melbourne VIC","selected_icon":{"value":"","library":""},"_id":"ca8a792","link":{"url":"","is_external":"","nofollow":""}},{"text":"3000, Australia","selected_icon":{"value":"","library":""},"_id":"a09d88b","link":{"url":"","is_external":"","nofollow":""}},{"text":"888-123-4568","selected_icon":{"value":"","library":""},"_id":"6c0e249","link":{"url":"#","is_external":"","nofollow":""}},{"text":"info@example.com","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":""},"_id":"2c4c775"}],"text_color":"#828282","icon_typography_typography":"custom","icon_typography_font_family":"Roboto","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]},"icon_typography_font_weight":"400","icon_typography_line_height":{"unit":"em","size":2.5,"sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"c35862c","elType":"section","settings":[],"elements":[{"id":"3744475a","elType":"column","settings":{"_column_size":100},"elements":[],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:9:{s:7:"heading";a:3:{s:5:"count";i:24;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:24;s:5:"align";i:9;s:11:"header_size";i:11;}}s:5:"style";a:1:{s:19:"section_title_style";a:6:{s:11:"title_color";i:24;s:21:"typography_typography";i:24;s:20:"typography_font_size";i:24;s:22:"typography_line_height";i:4;s:22:"typography_font_weight";i:23;s:22:"typography_font_family";i:9;}}s:8:"advanced";a:2:{s:14:"_section_style";a:3:{s:7:"_margin";i:12;s:12:"_css_classes";i:6;s:8:"_padding";i:8;}s:17:"_section_position";a:3:{s:9:"_position";i:6;s:9:"_offset_y";i:6;s:9:"_offset_x";i:3;}}}}s:11:"text-editor";a:3:{s:5:"count";i:11;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:11;}}s:5:"style";a:1:{s:13:"section_style";a:8:{s:5:"align";i:7;s:10:"text_color";i:11;s:21:"typography_typography";i:11;s:22:"typography_font_family";i:8;s:20:"typography_font_size";i:11;s:22:"typography_font_weight";i:11;s:22:"typography_line_height";i:10;s:10:"column_gap";i:4;}}s:8:"advanced";a:3:{s:14:"_section_style";a:2:{s:7:"_margin";i:10;s:8:"_padding";i:5;}s:19:"_section_background";a:2:{s:22:"_background_background";i:1;s:17:"_background_color";i:1;}s:15:"_section_border";a:2:{s:27:"_box_shadow_box_shadow_type";i:1;s:22:"_box_shadow_box_shadow";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:7;s:15:"control_percent";i:6;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_button";a:5:{s:4:"text";i:7;s:5:"align";i:1;s:4:"size";i:6;s:13:"selected_icon";i:2;s:11:"icon_indent";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:13:{s:21:"typography_typography";i:7;s:22:"typography_font_family";i:7;s:20:"typography_font_size";i:7;s:22:"typography_font_weight";i:7;s:16:"background_color";i:7;s:29:"button_background_hover_color";i:3;s:13:"border_radius";i:7;s:12:"text_padding";i:7;s:15:"hover_animation";i:1;s:13:"border_border";i:4;s:12:"border_width";i:4;s:12:"border_color";i:4;s:11:"hover_color";i:4;}}s:8:"advanced";a:2:{s:14:"_section_style";a:2:{s:7:"_margin";i:3;s:12:"_css_classes";i:4;}s:17:"_section_position";a:4:{s:9:"_position";i:4;s:9:"_offset_y";i:4;s:14:"_element_width";i:2;s:23:"_element_vertical_align";i:2;}}}}s:6:"column";a:3:{s:5:"count";i:31;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:4:{s:12:"_inline_size";i:23;s:21:"space_between_widgets";i:2;s:16:"content_position";i:5;s:5:"align";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:7:"padding";i:17;s:6:"margin";i:5;s:11:"css_classes";i:3;}}s:5:"style";a:2:{s:14:"section_border";a:8:{s:13:"border_border";i:6;s:12:"border_width";i:8;s:12:"border_color";i:8;s:13:"border_radius";i:4;s:19:"border_hover_border";i:3;s:18:"border_hover_width";i:3;s:18:"border_hover_color";i:3;s:19:"border_radius_hover";i:3;}s:13:"section_style";a:5:{s:27:"background_hover_background";i:4;s:22:"background_hover_color";i:4;s:27:"background_hover_transition";i:4;s:21:"background_background";i:3;s:16:"background_color";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:6;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:6;s:10:"image_size";i:5;}}s:5:"style";a:1:{s:19:"section_style_image";a:4:{s:7:"opacity";i:5;s:13:"opacity_hover";i:5;s:27:"background_hover_transition";i:5;s:15:"hover_animation";i:5;}}}}s:7:"section";a:3:{s:5:"count";i:16;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:6:{s:16:"content_position";i:2;s:3:"gap";i:1;s:6:"layout";i:3;s:12:"height_inner";i:2;s:19:"custom_height_inner";i:2;s:15:"stretch_section";i:2;}s:17:"section_structure";a:1:{s:9:"structure";i:7;}}s:5:"style";a:2:{s:14:"section_border";a:3:{s:13:"border_border";i:2;s:12:"border_width";i:2;s:12:"border_color";i:2;}s:18:"section_background";a:6:{s:21:"background_background";i:4;s:16:"background_image";i:3;s:21:"background_attachment";i:1;s:17:"background_repeat";i:2;s:15:"background_size";i:2;s:16:"background_color";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:7:"padding";i:7;s:6:"margin";i:5;s:11:"css_classes";i:1;}}}}s:4:"icon";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:12:"section_icon";a:2:{s:13:"selected_icon";i:3;s:5:"align";i:3;}}s:5:"style";a:1:{s:18:"section_style_icon";a:1:{s:13:"primary_color";i:3;}}}}s:15:"ap-testimonials";a:3:{s:5:"count";i:1;s:15:"control_percent";i:9;s:8:"controls";a:3:{s:7:"content";a:2:{s:15:"slider_controls";a:1:{s:21:"ap_multiple_test_data";i:1;}s:16:"ap_layout_option";a:1:{s:18:"ap_multiple_layout";i:1;}}s:5:"style";a:1:{s:21:"section_general_style";a:18:{s:10:"name_color";i:1;s:26:"name_typography_typography";i:1;s:27:"name_typography_font_family";i:1;s:25:"name_typography_font_size";i:1;s:27:"name_typography_font_weight";i:1;s:30:"name_typography_text_transform";i:1;s:10:"desi_color";i:1;s:26:"desi_typography_typography";i:1;s:27:"desi_typography_font_family";i:1;s:25:"desi_typography_font_size";i:1;s:27:"desi_typography_font_weight";i:1;s:30:"desi_typography_text_transform";i:1;s:10:"desc_color";i:1;s:26:"desc_typography_typography";i:1;s:27:"desc_typography_font_family";i:1;s:25:"desc_typography_font_size";i:1;s:27:"desc_typography_font_weight";i:1;s:27:"desc_typography_line_height";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:9:"icon-list";a:3:{s:5:"count";i:4;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:12:"section_icon";a:1:{s:9:"icon_list";i:4;}}s:5:"style";a:1:{s:18:"section_text_style";a:7:{s:10:"text_color";i:4;s:26:"icon_typography_typography";i:4;s:27:"icon_typography_font_family";i:4;s:25:"icon_typography_font_size";i:4;s:27:"icon_typography_font_weight";i:4;s:27:"icon_typography_line_height";i:4;s:16:"text_color_hover";i:3;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Layer-7.png</title>
-		<link>http://demo.accesspressthemes.com/bingle/app/layer-7-png/</link>
-		<pubDate>Fri, 13 Dec 2019 10:24:08 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/Layer-7.png</guid>
+		<title>placeholder-1920x800</title>
+		<link>https://accesspressthemes.com/import/bingle/app/home/placeholder-1920x800/</link>
+		<pubDate>Sun, 16 Aug 2020 11:35:42 +0000</pubDate>
+		<dc:creator><![CDATA[AccessAdmin]]></dc:creator>
+		<guid isPermaLink="false">https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>39</wp:post_id>
-		<wp:post_date><![CDATA[2019-12-13 10:24:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-12-13 10:24:08]]></wp:post_date_gmt>
+		<wp:post_id>51</wp:post_id>
+		<wp:post_date><![CDATA[2020-08-16 11:35:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-08-16 11:35:42]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[layer-7-png]]></wp:post_name>
+		<wp:post_name><![CDATA[placeholder-1920x800]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
+		<wp:post_parent>37</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/Layer-7.png]]></wp:attachment_url>
-							<category domain="language" nicename="en"><![CDATA[English]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/12/Layer-7.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
+						<wp:attachment_url><![CDATA[https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/placeholder-1920x800-1.png]]></wp:attachment_url>
+											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:533;s:6:"height";i:576;s:4:"file";s:19:"2019/12/Layer-7.png";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:19:"Layer-7-278x300.png";s:5:"width";i:278;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:19:"Layer-7-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:19:"Layer-7-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:19:"Layer-7-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:12:"shop_catalog";a:4:{s:4:"file";s:19:"Layer-7-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:19:"Layer-7-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:800;s:4:"file";s:34:"2020/08/placeholder-1920x800-1.png";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:34:"placeholder-1920x800-1-300x125.png";s:5:"width";i:300;s:6:"height";i:125;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:35:"placeholder-1920x800-1-1024x427.png";s:5:"width";i:1024;s:6:"height";i:427;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:34:"placeholder-1920x800-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:34:"placeholder-1920x800-1-768x320.png";s:5:"width";i:768;s:6:"height";i:320;s:9:"mime-type";s:9:"image/png";}s:9:"1536x1536";a:4:{s:4:"file";s:35:"placeholder-1920x800-1-1536x640.png";s:5:"width";i:1536;s:6:"height";i:640;s:9:"mime-type";s:9:"image/png";}s:13:"bingle-square";a:4:{s:4:"file";s:34:"placeholder-1920x800-1-500x500.png";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
-		<wp:meta_value><![CDATA[d7d39d052ffa42e6f963046d74736b046f887788]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>img1.jpg</title>
-		<link>http://demo.accesspressthemes.com/bingle/app/img1-jpg/</link>
-		<pubDate>Fri, 13 Dec 2019 10:24:08 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/img1.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>40</wp:post_id>
-		<wp:post_date><![CDATA[2019-12-13 10:24:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-12-13 10:24:08]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[img1-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/img1.jpg]]></wp:attachment_url>
-							<category domain="language" nicename="en"><![CDATA[English]]></category>
-						<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/12/img1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:194;s:6:"height";i:95;s:4:"file";s:16:"2019/12/img1.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:15:"img1-150x95.jpg";s:5:"width";i:150;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:15:"img1-100x95.jpg";s:5:"width";i:100;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:15:"img1-100x95.jpg";s:5:"width";i:100;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2c57b282f3fe48722f54df331ea35a4ee272045d]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>img2.jpg</title>
-		<link>http://demo.accesspressthemes.com/bingle/app/img2-jpg/</link>
-		<pubDate>Fri, 13 Dec 2019 10:24:08 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/img2.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>41</wp:post_id>
-		<wp:post_date><![CDATA[2019-12-13 10:24:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-12-13 10:24:08]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[img2-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/img2.jpg]]></wp:attachment_url>
-							<category domain="language" nicename="en"><![CDATA[English]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/12/img2.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:236;s:6:"height";i:95;s:4:"file";s:16:"2019/12/img2.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:15:"img2-150x95.jpg";s:5:"width";i:150;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:15:"img2-100x95.jpg";s:5:"width";i:100;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:15:"img2-100x95.jpg";s:5:"width";i:100;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
-		<wp:meta_value><![CDATA[b1c54dd74db1fd839fb31baf355c04e9e40d14a4]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>img3.jpg</title>
-		<link>http://demo.accesspressthemes.com/bingle/app/img3-jpg/</link>
-		<pubDate>Fri, 13 Dec 2019 10:24:08 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/img3.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>42</wp:post_id>
-		<wp:post_date><![CDATA[2019-12-13 10:24:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-12-13 10:24:08]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[img3-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/img3.jpg]]></wp:attachment_url>
-							<category domain="language" nicename="en"><![CDATA[English]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/12/img3.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:248;s:6:"height";i:95;s:4:"file";s:16:"2019/12/img3.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:15:"img3-150x95.jpg";s:5:"width";i:150;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:15:"img3-100x95.jpg";s:5:"width";i:100;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:15:"img3-100x95.jpg";s:5:"width";i:100;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
-		<wp:meta_value><![CDATA[8cc2770a3bd7919124764fa46ab89c76bbc97a0f]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>img4.jpg</title>
-		<link>http://demo.accesspressthemes.com/bingle/app/img4-jpg/</link>
-		<pubDate>Fri, 13 Dec 2019 10:24:08 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/img4.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>43</wp:post_id>
-		<wp:post_date><![CDATA[2019-12-13 10:24:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-12-13 10:24:08]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[img4-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/img4.jpg]]></wp:attachment_url>
-							<category domain="language" nicename="en"><![CDATA[English]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/12/img4.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:274;s:6:"height";i:95;s:4:"file";s:16:"2019/12/img4.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:15:"img4-150x95.jpg";s:5:"width";i:150;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:15:"img4-100x95.jpg";s:5:"width";i:100;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:15:"img4-100x95.jpg";s:5:"width";i:100;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
-		<wp:meta_value><![CDATA[072570180f525c00cddeb287f2156d3c1199ee86]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>img5.jpg</title>
-		<link>http://demo.accesspressthemes.com/bingle/app/img5-jpg/</link>
-		<pubDate>Fri, 13 Dec 2019 10:24:08 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/img5.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>44</wp:post_id>
-		<wp:post_date><![CDATA[2019-12-13 10:24:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-12-13 10:24:08]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[img5-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/img5.jpg]]></wp:attachment_url>
-							<category domain="language" nicename="en"><![CDATA[English]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/12/img5.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:216;s:6:"height";i:95;s:4:"file";s:16:"2019/12/img5.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:15:"img5-150x95.jpg";s:5:"width";i:150;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:15:"img5-100x95.jpg";s:5:"width";i:100;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:15:"img5-100x95.jpg";s:5:"width";i:100;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
-		<wp:meta_value><![CDATA[fde6e57172870c8e19225cd2499400f1f7065281]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Background-4.png</title>
-		<link>http://demo.accesspressthemes.com/bingle/app/background-4-png/</link>
-		<pubDate>Fri, 13 Dec 2019 10:24:08 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/Background-4.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>45</wp:post_id>
-		<wp:post_date><![CDATA[2019-12-13 10:24:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-12-13 10:24:08]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[background-4-png]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/Background-4.png]]></wp:attachment_url>
-							<category domain="language" nicename="en"><![CDATA[English]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/12/Background-4.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:593;s:4:"file";s:24:"2019/12/Background-4.png";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:23:"Background-4-300x93.png";s:5:"width";i:300;s:6:"height";i:93;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:25:"Background-4-1024x316.png";s:5:"width";i:1024;s:6:"height";i:316;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:24:"Background-4-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:24:"Background-4-768x237.png";s:5:"width";i:768;s:6:"height";i:237;s:9:"mime-type";s:9:"image/png";}s:9:"1536x1536";a:4:{s:4:"file";s:25:"Background-4-1536x474.png";s:5:"width";i:1536;s:6:"height";i:474;s:9:"mime-type";s:9:"image/png";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:24:"Background-4-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:24:"Background-4-600x185.png";s:5:"width";i:600;s:6:"height";i:185;s:9:"mime-type";s:9:"image/png";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:24:"Background-4-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:12:"shop_catalog";a:4:{s:4:"file";s:24:"Background-4-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:11:"shop_single";a:4:{s:4:"file";s:24:"Background-4-600x185.png";s:5:"width";i:600;s:6:"height";i:185;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:24:"Background-4-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
-		<wp:meta_value><![CDATA[26477a9c6de8c04645c1b91bc2f0d70b878c5933]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Layer-19.png</title>
-		<link>http://demo.accesspressthemes.com/bingle/app/layer-19-png/</link>
-		<pubDate>Fri, 13 Dec 2019 10:24:10 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/Layer-19.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>46</wp:post_id>
-		<wp:post_date><![CDATA[2019-12-13 10:24:10]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-12-13 10:24:10]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[layer-19-png]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/Layer-19.png]]></wp:attachment_url>
-							<category domain="language" nicename="en"><![CDATA[English]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/12/Layer-19.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:500;s:4:"file";s:20:"2019/12/Layer-19.png";s:5:"sizes";a:9:{s:6:"medium";a:4:{s:4:"file";s:20:"Layer-19-300x150.png";s:5:"width";i:300;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:20:"Layer-19-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:20:"Layer-19-768x384.png";s:5:"width";i:768;s:6:"height";i:384;s:9:"mime-type";s:9:"image/png";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:20:"Layer-19-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:20:"Layer-19-600x300.png";s:5:"width";i:600;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:20:"Layer-19-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:12:"shop_catalog";a:4:{s:4:"file";s:20:"Layer-19-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:11:"shop_single";a:4:{s:4:"file";s:20:"Layer-19-600x300.png";s:5:"width";i:600;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:20:"Layer-19-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
-		<wp:meta_value><![CDATA[01d1bf4440d7f59065dd396f9b402a86d40a6739]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>testi.jpg</title>
-		<link>http://demo.accesspressthemes.com/bingle/app/testi-jpg/</link>
-		<pubDate>Fri, 13 Dec 2019 10:24:11 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/testi.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>47</wp:post_id>
-		<wp:post_date><![CDATA[2019-12-13 10:24:11]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-12-13 10:24:11]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[testi-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/testi.jpg]]></wp:attachment_url>
-							<category domain="language" nicename="en"><![CDATA[English]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/12/testi.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:62;s:6:"height";i:62;s:4:"file";s:17:"2019/12/testi.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
-		<wp:meta_value><![CDATA[39f18b7994a5868bcc4c33a20d7a8b4bd828cb4a]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Background-5.png</title>
-		<link>http://demo.accesspressthemes.com/bingle/app/background-5-png/</link>
-		<pubDate>Fri, 13 Dec 2019 10:24:11 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/Background-5.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>48</wp:post_id>
-		<wp:post_date><![CDATA[2019-12-13 10:24:11]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-12-13 10:24:11]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[background-5-png]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/Background-5.png]]></wp:attachment_url>
-							<category domain="language" nicename="en"><![CDATA[English]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/12/Background-5.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:499;s:4:"file";s:24:"2019/12/Background-5.png";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:23:"Background-5-300x78.png";s:5:"width";i:300;s:6:"height";i:78;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:25:"Background-5-1024x266.png";s:5:"width";i:1024;s:6:"height";i:266;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:24:"Background-5-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:24:"Background-5-768x200.png";s:5:"width";i:768;s:6:"height";i:200;s:9:"mime-type";s:9:"image/png";}s:9:"1536x1536";a:4:{s:4:"file";s:25:"Background-5-1536x399.png";s:5:"width";i:1536;s:6:"height";i:399;s:9:"mime-type";s:9:"image/png";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:24:"Background-5-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:24:"Background-5-600x156.png";s:5:"width";i:600;s:6:"height";i:156;s:9:"mime-type";s:9:"image/png";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:24:"Background-5-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:12:"shop_catalog";a:4:{s:4:"file";s:24:"Background-5-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:11:"shop_single";a:4:{s:4:"file";s:24:"Background-5-600x156.png";s:5:"width";i:600;s:6:"height";i:156;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:24:"Background-5-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_source_image_hash]]></wp:meta_key>
-		<wp:meta_value><![CDATA[66970499ab2355835b1fe9b164dd13311b5f4748]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2020/08/placeholder-1920x800-1.png]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title>App Home</title>
-		<link>http://demo.accesspressthemes.com/bingle/app/?elementor_library=app-home</link>
+		<link>https://accesspressthemes.com/import/bingle/app/?elementor_library=app-home</link>
 		<pubDate>Fri, 13 Dec 2019 10:24:12 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[AccessAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle/app/?elementor_library=app-home</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h2>Make cool landing pages easily with vApp.</h2>		
@@ -993,14 +551,14 @@ Nicole Vnace
 			<a href="#" role="button">
 						Download the App
 					</a>
-										<img width="533" height="576" src="http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/Layer-7.png" alt="" srcset="https://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/Layer-7.png 533w, https://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/Layer-7-278x300.png 278w" sizes="(max-width: 533px) 100vw, 533px" />											
+										<img width="533" height="576" src="https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2019/12/Layer-7.png" alt="" srcset="https://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/Layer-7.png 533w, https://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/Layer-7-278x300.png 278w" sizes="(max-width: 533px) 100vw, 533px" />											
 			Learn more about LeadEngine's unique features.		
 		<p style="margin: 0;";>Create the look you want on your website with plentiful shortcodes to ease your workflow.</p>		
-										<img width="194" height="95" src="http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/img1.jpg" alt="" />											
-										<img width="236" height="95" src="http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/img2.jpg" alt="" />											
-										<img width="248" height="95" src="http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/img3.jpg" alt="" />											
-										<img width="274" height="95" src="http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/img4.jpg" alt="" />											
-										<img width="216" height="95" src="http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/img5.jpg" alt="" />											
+										<img width="194" height="95" src="https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2019/12/img1.jpg" alt="" />											
+										<img width="236" height="95" src="https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2019/12/img2.jpg" alt="" />											
+										<img width="248" height="95" src="https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2019/12/img3.jpg" alt="" />											
+										<img width="274" height="95" src="https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2019/12/img4.jpg" alt="" />											
+										<img width="216" height="95" src="https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2019/12/img5.jpg" alt="" />											
 			Learn more about LeadEngine's unique features.		
 		<p style="margin: 0;";>Create the look you want on your website with plentiful shortcodes to ease your workflow.</p>		
 			<h2>Easy setup</h2>		
@@ -1041,25 +599,25 @@ Nicole Vnace
 		Create the look you want on your website with plentiful shortcodes to ease your workflow.		
                                             <img src="https://demo.accesspressthemes.com/bingle/app/wp-content/plugins/ap-companion/assets/img/testimonial-quote.png" alt="" />
                                         Life before Company was very chaotic — we got a lot of phone calls, a lot of mistyped orders. So with Company, the ability to see the order directly from the customer makes it so streamlined.                
-                                    <img src="http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/testi.jpg" alt="" />
+                                    <img src="https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2019/12/testi.jpg" alt="" />
                                             <h2>
                             Park jin Hyaun                        </h2>
                             CEO                        
                                             <img src="https://demo.accesspressthemes.com/bingle/app/wp-content/plugins/ap-companion/assets/img/testimonial-quote.png" alt="" />
                                         Life before Company was very chaotic — we got a lot of phone calls, a lot of mistyped orders. So with Company, the ability to see the order directly from the customer makes it so streamlined.                
-                                    <img src="http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/testi.jpg" alt="" />
+                                    <img src="https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2019/12/testi.jpg" alt="" />
                                             <h2>
                             Park jin Hyaun                        </h2>
                             CEO                        
                                             <img src="https://demo.accesspressthemes.com/bingle/app/wp-content/plugins/ap-companion/assets/img/testimonial-quote.png" alt="" />
                                         Life before Company was very chaotic — we got a lot of phone calls, a lot of mistyped orders. So with Company, the ability to see the order directly from the customer makes it so streamlined.                
-                                    <img src="http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/testi.jpg" alt="" />
+                                    <img src="https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2019/12/testi.jpg" alt="" />
                                             <h2>
                             Park jin Hyaun                        </h2>
                             CEO                        
                                             <img src="https://demo.accesspressthemes.com/bingle/app/wp-content/plugins/ap-companion/assets/img/testimonial-quote.png" alt="" />
                                         Life before Company was very chaotic — we got a lot of phone calls, a lot of mistyped orders. So with Company, the ability to see the order directly from the customer makes it so streamlined.                
-                                    <img src="http://demo.accesspressthemes.com/bingle/app/wp-content/uploads/sites/2/2019/12/testi.jpg" alt="" />
+                                    <img src="https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2019/12/testi.jpg" alt="" />
                                             <h2>
                             Park jin Hyaun                        </h2>
                             CEO                        
@@ -1178,9 +736,9 @@ Nicole Vnace
 							</item>
 					<item>
 		<title>Hello world!</title>
-		<link>http://demo.accesspressthemes.com/bingle/app/2019/11/15/hello-world/</link>
+		<link>https://accesspressthemes.com/import/bingle/app/2019/11/15/hello-world/</link>
 		<pubDate>Fri, 15 Nov 2019 04:38:17 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[AccessAdmin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.accesspressthemes.com/bingle/app/?p=1</guid>
 		<description></description>
 		<content:encoded><![CDATA[Welcome to <a href="http://demo.accesspressthemes.com/bingle/">Bingle Sites</a>. This is your first post. Edit or delete it, then start writing!]]></content:encoded>
@@ -1197,10 +755,9 @@ Nicole Vnace
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="language" nicename="en"><![CDATA[English]]></category>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 						<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
+			<wp:comment_id>2</wp:comment_id>
 			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
 			<wp:comment_author_url>http://demo.accesspressthemes.com/bingle/</wp:comment_author_url>
@@ -1209,13 +766,164 @@ Nicole Vnace
 			<wp:comment_date_gmt><![CDATA[2019-11-15 04:38:17]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:comment_content>
+Commenter avatars come from <a href="https://gravatar.com" rel="nofollow ugc">Gravatar</a>.]]></wp:comment_content>
 			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
 					</item>
+					<item>
+		<title>Default Kit</title>
+		<link>https://accesspressthemes.com/import/bingle/app/?elementor_library=default-kit</link>
+		<pubDate>Sun, 16 Aug 2020 08:46:29 +0000</pubDate>
+		<dc:creator><![CDATA[AccessAdmin]]></dc:creator>
+		<guid isPermaLink="false">https://accesspressthemes.com/import/bingle/app/?elementor_library=default-kit</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>50</wp:post_id>
+		<wp:post_date><![CDATA[2020-08-16 08:46:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-08-16 08:46:29]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[default-kit]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[elementor_library]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[kit]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2.9.14]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>000000</title>
+		<link>https://accesspressthemes.com/import/bingle/app/home/attachment/000000/</link>
+		<pubDate>Sun, 16 Aug 2020 11:38:32 +0000</pubDate>
+		<dc:creator><![CDATA[AccessAdmin]]></dc:creator>
+		<guid isPermaLink="false">https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/000000.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>53</wp:post_id>
+		<wp:post_date><![CDATA[2020-08-16 11:38:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-08-16 11:38:32]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[000000]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>37</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/000000.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/08/000000.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:800;s:4:"file";s:18:"2020/08/000000.png";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:18:"000000-300x125.png";s:5:"width";i:300;s:6:"height";i:125;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:19:"000000-1024x427.png";s:5:"width";i:1024;s:6:"height";i:427;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:18:"000000-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:18:"000000-768x320.png";s:5:"width";i:768;s:6:"height";i:320;s:9:"mime-type";s:9:"image/png";}s:9:"1536x1536";a:4:{s:4:"file";s:19:"000000-1536x640.png";s:5:"width";i:1536;s:6:"height";i:640;s:9:"mime-type";s:9:"image/png";}s:13:"bingle-square";a:4:{s:4:"file";s:18:"000000-500x500.png";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>700</title>
+		<link>https://accesspressthemes.com/import/bingle/app/home/attachment/700/</link>
+		<pubDate>Sun, 16 Aug 2020 11:40:49 +0000</pubDate>
+		<dc:creator><![CDATA[AccessAdmin]]></dc:creator>
+		<guid isPermaLink="false">https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/700.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>56</wp:post_id>
+		<wp:post_date><![CDATA[2020-08-16 11:40:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-08-16 11:40:49]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[700]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>37</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://accesspressthemes.com/import/bingle/app/wp-content/uploads/sites/3/2020/08/700.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/08/700.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:700;s:6:"height";i:700;s:4:"file";s:15:"2020/08/700.png";s:5:"sizes";a:3:{s:6:"medium";a:4:{s:4:"file";s:15:"700-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:15:"700-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:13:"bingle-square";a:4:{s:4:"file";s:15:"700-500x500.png";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://accesspressthemes.com/import/bingle/app/2020/08/17/60/</link>
+		<pubDate>Mon, 17 Aug 2020 05:05:10 +0000</pubDate>
+		<dc:creator><![CDATA[AccessAdmin]]></dc:creator>
+		<guid isPermaLink="false">https://accesspressthemes.com/import/bingle/app/?p=60</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>60</wp:post_id>
+		<wp:post_date><![CDATA[2020-08-17 05:05:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-08-17 05:05:10]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[60]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="header-menu"><![CDATA[Header Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[37]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 				</channel>
 </rss>
 	
