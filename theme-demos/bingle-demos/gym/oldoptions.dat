@@ -1,0 +1,30 @@
+a:4:{s:8:"template";s:6:"bingle";s:4:"mods";a:39:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:6:"menu-1";i:2;}s:31:"bingle_dragndrop_sections_order";s:815:"{"header":{"top-header":[{"panel":"bingle_headercustom_section","section":"customhtml","enable":"0"},{"panel":"bingle_headersocial_section","section":"social","enable":"0"}],"main-header":[{"panel":"title_tagline","section":"site-branding","enable":"1"},{"panel":"bingle_headermenu_section","section":"nav-menu","enable":"1"},{"panel":"bingle_headerbutton_section","section":"button","enable":"0"},{"panel":"bingle_headersearch_section","section":"search","enable":"1"},{"panel":"bingle_headersidemenu_section","section":"sidemenu","enable":"0"}]},"footer":{"top-footer":[{"panel":"bingle_footer_menu_section","section":"footermenu","enable":"0"}],"main-footer":[{"panel":"bingle_footer_copyright_section","section":"copyright","enable":"1"},{"panel":"bingle_footer_social","section":"footersocial","enable":"1"}]}}";s:18:"custom_css_post_id";i:49;s:28:"bingle_header_layout_setting";s:4:"lay9";s:19:"bingle_headercustom";s:82:"Milu is a collective of creatives, mlding and shaping peoples digital experiences.";s:24:"bingle_header_phone_icon";s:21:"lnr lnr-phone-handset";s:24:"bingle_header_email_icon";s:16:"lnr lnr-envelope";s:19:"bingle_header_email";s:22:"example@yourdomain.com";s:19:"bingle_header_phone";s:18:"Call +446788998877";s:34:"bingle_header_social_icon_facebook";s:32:"dashicons dashicons-facebook-alt";s:29:"bingle_header_social_facebook";s:1:"#";s:33:"bingle_header_social_icon_twitter";s:27:"dashicons dashicons-twitter";s:28:"bingle_header_social_twitter";s:1:"#";s:35:"bingle_header_social_icon_instagram";s:29:"dashicons dashicons-instagram";s:30:"bingle_header_social_instagram";s:1:"#";s:35:"bingle_header_social_icon_pinterest";s:0:"";s:30:"bingle_header_social_pinterest";s:0:"";s:33:"bingle_header_social_icon_youtube";s:30:"dashicons dashicons-video-alt3";s:28:"bingle_header_social_youtube";s:1:"#";s:11:"custom_logo";i:682;s:16:"header_textcolor";s:6:"f5355e";s:19:"title_tagline_width";i:20;s:31:"bingle_headermenu_section_width";i:75;s:33:"bingle_headersearch_section_width";i:5;s:35:"bingle_headersidemenu_section_width";i:5;s:33:"bingle_headersocial_section_width";i:50;s:28:"bingle_footer_copyright_text";s:15:"Copyright 2019.";s:37:"bingle_footer_copyright_section_width";i:50;s:34:"bingle_footer_bkgcolor_main_footer";s:7:"#23242f";s:31:"bingle_footer_width_main_footer";i:1280;s:26:"bingle_footer_social_width";i:50;s:28:"bingle_footer_layout_setting";s:4:"lay1";s:31:"bingle_footer_style_main_footer";s:14:"bingle-wrapper";s:39:"bingle_footer_marginpadding_main_footer";s:26:"0, -, 0, -, 20, 10, 30, 10";s:31:"bingle_header_width_main_header";i:1250;s:39:"bingle_header_marginpadding_main_header";s:22:"0, -, 0, -, 0, -, 0, -";s:33:"bingle_inner_single_content_width";i:70;s:33:"bingle_inner_single_meta_elements";s:344:"[{"id":"bingle_titlemeta","name":"Title &amp; Meta","enable":"1"},{"id":"bingle_thumbnail","name":"Thumbnail","enable":"1"},{"id":"bingle_content","name":"Content","enable":"1"},{"id":"bingle_tags","name":"Tags","enable":"1"},{"id":"bingle_postnav","name":"Post Navigation","enable":"1"},{"id":"bingle_comments","name":"Comments","enable":"1"}]";}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:959:"footer.site-footer{
+	background: #23242f;
+}
+.footer-lay1 footer .site-info, .footer-lay1 footer .site-info a{
+	color: #FFF;
+}
+.header-lay9 .social-links a:hover{
+	color: #b82409;
+}
+.header-lay9 .main-header-bingle-wrapper{
+	border: none;
+}
+.ap-companion-slider .inner-wrapp .contents-wrapp{
+	max-width: 1250px;
+}
+
+.header-lay9 .main-navigation li a{
+	text-transform: uppercase;
+	font-family: "Roboto", Sans-serif;
+	font-weight: 400;
+}
+.header-lay9 .main-navigation li.current-menu-ancestor > a, .header-lay9 .main-navigation li.current-menu-item > a, .header-lay9 .main-navigation li.current_page_item > a, .header-lay9 .main-navigation li:hover > a{
+	color: #e56d52;
+}
+.header-lay9 .search-wrapper .search-icon:hover #circle, .header-lay9 .search-wrapper.active #searchopen #wrapper #circle{
+	border-color: #e56d52;
+}
+.header-lay9 .search-wrapper .search-icon:hover #bar, .header-lay9 .search-wrapper.active #searchopen #wrapper #bar{
+	background: #e56d52;
+}";}
