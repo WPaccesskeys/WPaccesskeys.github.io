@@ -20,6 +20,7 @@ $data = array(
 		),
 		'screen'			=> $git_url . 'default/default.png',
 		'preview_url'		=> 'https://demo.accesspressthemes.com/accesspresslite',
+		'home_title'  		=> 'Home',
 		'menus' 			=> array(
 			'primary' => 'Primary menu',
 		),
