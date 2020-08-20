@@ -175,6 +175,11 @@
 								'name'  	=> 'Elementor',
 							),
 							array(
+								'slug'  => 'ap-companion',
+								'init' 	=> 'ap-companion/ap-companion.php',
+								'name' 	=> 'Ap Companion',
+							),
+							array(
 								'slug'  	=> 'woocommerce',
 								'init'  	=> 'woocommerce/woocommerce.php',
 								'name'  	=> 'WooCommerce',
@@ -223,6 +228,11 @@
 								'name'  	=> 'Elementor',
 							),
 							array(
+								'slug'  => 'ap-companion',
+								'init' 	=> 'ap-companion/ap-companion.php',
+								'name' 	=> 'Ap Companion',
+							),
+							array(
 								'slug'  	=> 'woocommerce',
 								'init'  	=> 'woocommerce/woocommerce.php',
 								'name'  	=> 'WooCommerce',
@@ -269,6 +279,11 @@
 								'slug'  	=> 'elementor',
 								'init'  	=> 'elementor/elementor.php',
 								'name'  	=> 'Elementor',
+							),
+							array(
+								'slug'  => 'ap-companion',
+								'init' 	=> 'ap-companion/ap-companion.php',
+								'name' 	=> 'Ap Companion',
 							),
 							array(
 								'slug'  	=> 'woocommerce',
