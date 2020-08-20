@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.5" created="2020-08-19 12:08" -->
+	<!-- generator="WordPress/5.5" created="2020-08-20 11:32" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>AccessPress Lite</title>
 	<link>https://accesspressthemes.com/import/accesspress-lite</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Wed, 19 Aug 2020 12:08:49 +0000</pubDate>
+	<pubDate>Thu, 20 Aug 2020 11:32:49 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://accesspressthemes.com/import/accesspress-lite</wp:base_site_url>
@@ -2077,52 +2077,34 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Privacy Policy</title>
-		<link>https://accesspressthemes.com/import/accesspress-lite/?page_id=3</link>
-		<pubDate>Fri, 14 Aug 2020 06:41:34 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-lite/?page_id=3</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading --><h2>Who we are</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Our website address is: https://accesspressthemes.com/import/accesspress-lite.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What personal data we collect and why we collect it</h2><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Comments</h3><!-- /wp:heading --><!-- wp:paragraph --><p>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Media</h3><!-- /wp:heading --><!-- wp:paragraph --><p>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Contact forms</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Cookies</h3><!-- /wp:heading --><!-- wp:paragraph --><p>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Embedded content from other websites</h3><!-- /wp:heading --><!-- wp:paragraph --><p>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Analytics</h3><!-- /wp:heading --><!-- wp:heading --><h2>Who we share your data with</h2><!-- /wp:heading --><!-- wp:heading --><h2>How long we retain your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What rights you have over your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Where we send your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Visitor comments may be checked through an automated spam detection service.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Your contact information</h2><!-- /wp:heading --><!-- wp:heading --><h2>Additional information</h2><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>How we protect your data</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What data breach procedures we have in place</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What third parties we receive data from</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What automated decision making and/or profiling we do with user data</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Industry regulatory disclosure requirements</h3><!-- /wp:heading -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>3</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-14 06:41:34]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-14 06:41:34]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>About Us</title>
 		<link>https://accesspressthemes.com/import/accesspress-lite/about-us/</link>
 		<pubDate>Thu, 10 Apr 2014 11:36:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wordpresssuperexpress.com/accesspresslite/demo/?page_id=46</guid>
 		<description></description>
-		<content:encoded><![CDATA[Business Firm is a family owned and operated company, founded by highly skilled, experienced and investment specialists, which  provides the expertise and reliability to enable certain business issues found in many business. We engage high quality, independent team members who specialize in significantly reducing risk during times of volatility, while capturing a large majority of the gains of the upside. Our firm believes in working hard and creating unique products to meet the client's requirements. You will never be disappointed with our team's work, we guarantee on that.
-<h3>Objectives of Business Firm</h3>
-Our business strategy revolve around the need to provide quality products to our target customers, in the process fully satisfying their needs. This is undertaken through the implementation of high quality control standards and biotechnological innovations, as well as the recruitment of a professional production and training underwent employees, as the steps inproducing good quality end-products to cater for various kinds of customers.
-<h3>Our Mission Statement</h3>
-Business Firm intends to create a satisfactory environment through the provision of good quality working system. We intend to provide the best possible value to our customers who care about quality and healthy environment, and we want every ringgit spent on our Products are not just a waste. Hence, our value proposition is provide the benefit unique and high quality products.
-<h3>Our Values</h3>
-We are committed towards what we do. Our activities are managed and undertaken ethically, transparently, and in the interests of all concerned stakeholders.
+		<content:encoded><![CDATA[<div>
+<h2>What is Lorem Ipsum?</h2>
+<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-This shall be undertaken through implementation of the following company values:
-<ul>
-	<li>We intend to conduct our business ethically and transparently, respecting all applicable laws.</li>
-	<li>We intend to be a responsible corporate citizen fulfilling our obligations as an integral member of society. Hence our business decisions shall give appropriate weight andconsideration to social and environmental impacts.</li>
-	<li>We intend to provide products of uncompromising quality to meet the needs of our customers.</li>
-</ul>]]></content:encoded>
+</div>
+<div>
+<h2>Why do we use it?</h2>
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+
+</div>
+<div>
+<h2>Where does it come from?</h2>
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+
+</div>
+<div>
+<h2>Where can I get some?</h2>
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+
+</div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>46</wp:post_id>
 		<wp:post_date><![CDATA[2014-04-10 11:36:58]]></wp:post_date>
@@ -2137,6 +2119,10 @@ This shall be undertaken through implementation of the following company values:
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
+		<wp:meta_key><![CDATA[accesspresslite_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[right-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -2152,26 +2138,26 @@ This shall be undertaken through implementation of the following company values:
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wordpresssuperexpress.com/accesspresslite/demo/?page_id=49</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="row">
-<div class="col span4">Our Company offers complete product life cycle support for electronic manufacturing assemblies in different market segments. Our electronics design and electronic manufacturing services (EMS) core focus is vital in the creation of durable products that require high reliability. These products perform exceptionally well in even the most challenging environments.As the population of business products continues to grow and our knowledge base expands, we periodically offer variety of supplemental services to our clients. As the population of business products continues to grow and our knowledge base expands, we periodically offer variety of supplemental services to our clients.
-
-we value our contract electronics customers and their unique needs and expectations. Our customer focus and dedication to unparalleled excellence in electronic assembly design and manufacturing, has resulted in proven success in the contract electronics manufacturing industry.
+		<content:encoded><![CDATA[<div>
+<h2>What is Lorem Ipsum?</h2>
+<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
 </div>
-<div class="col span2">We are proud to have global manufacturing facilities to support our customers.
+<div>
+<h2>Why do we use it?</h2>
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+
+</div>
 <ul>
- 	<li>Product Development</li>
- 	<li>Prototyping</li>
- 	<li>Engineering Design</li>
- 	<li>Supply Chain Management</li>
- 	<li>Program Management</li>
- 	<li>Electronic Manufacturing</li>
- 	<li>Box Build</li>
- 	<li>Post Manufacturing Support</li>
-</ul>
-</div>
-</div>
-<blockquote>With extensive electronics design and innovative manufacturing capabilities, we are able to execute to the highest quality and reliability expectations in the electronics manufacturing industry.</blockquote>]]></content:encoded>
+ 	<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+ 	<li>Quisque vel tortor non dolor auctor tempor non eget purus.</li>
+ 	<li>Sed dignissim nisi imperdiet, semper nibh in, hendrerit augue.</li>
+ 	<li>Nulla accumsan mauris eu metus fringilla volutpat.</li>
+ 	<li>Etiam tristique enim et odio vehicula, sit amet fringilla tortor consectetur.</li>
+ 	<li>Vestibulum non ante vulputate, dignissim libero id, viverra erat.</li>
+ 	<li>Proin volutpat dolor eget dui blandit vestibulum.</li>
+ 	<li>Aenean imperdiet odio efficitur sodales feugiat.</li>
+</ul>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>49</wp:post_id>
 		<wp:post_date><![CDATA[2014-04-10 11:37:27]]></wp:post_date>
@@ -2280,28 +2266,27 @@ Our support is available 24 Hours a day
 		<guid isPermaLink="false">http://wordpresssuperexpress.com/accesspresslite/demo/?page_id=64</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div class="row">
-<div class="span3 col">Our team is dedicated to developing technology markets in all around the world by bridging the gap in communication between our partners and our Corporation. The key focus of the Marketing and Business Development team is communication speed and accuracy. On a daily basis our team members corresponds with key divisions within our companies all around its subsidiaries to ensure we fully understand the market requirements.</div>
-<div class="span3 col">Staff in our company are uniquely positioned to ensure the right message and nuance gets across to the right people.
-With a 200+ high-touch customer network, 2,000+ mid-touch customers, and tens of thousands of customers through our 2nd tier channel network, we can provide information from an overall market perspective down to a granular customer view across the entire range of potential vertical markets.</div>
+<div class="col"><strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</div>
+<div><strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</div>
 </div>
 <h3>Three Column Team layout</h3>
 <div class="row">
 <div class="col span2">
 <div></div>
-<h4>Nacho Monreal</h4>
-panish left back Nacho Monreal enjoyed a promising first few months at Arsenal after arriving on transfer deadline day in January 2013.
+<h4>Jhon Doe</h4>
+<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
 </div>
 <div class="col span2">
 <div></div>
-<h4>Lukasz Fabianski</h4>
-Polish goalkeeper Lukasz Fabianski reminded supporters of his quality after returning from injury in March 2013.
+<h4>Dhon Joe</h4>
+<strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
 </div>
 <div class="col span2">
 <div></div>
-<h4>Per Mertesacker</h4>
-Mertesacker’s second season at Arsenal was hugely impressive as he played a significant role in the Club’s Champions League.
+<h4>Hdon Eoj</h4>
+<strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
 </div>
 </div>
@@ -2309,14 +2294,14 @@ Mertesacker’s second season at Arsenal was hugely impressive as he played a si
 <div class="row">
 <div class="col span3">
 <div></div>
-<h4>Emiliano Viviano</h4>
-Italian goalkeeper Emiliano Viviano joined Arsenal on a season-long loan at the start of September.The towering shot-stopper arrived from Serie B side Palermo.
+<h4>Ondh Eoj</h4>
+<strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
 </div>
 <div class="col span3">
 <div></div>
-<h4>Bacary Sagna</h4>
-French international Bacary Sagna continues to be a consistent performer at right back, having recovered from two serious injuries in the last two years.
+<h4>Donh Eoj</h4>
+<strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
 </div>
 </div>
@@ -2324,10 +2309,8 @@ French international Bacary Sagna continues to be a consistent performer at righ
 <div class="row">
 <div class="col span6">
 <div></div>
-<h4>Tony Colbert</h4>
-Tony’s role in overseeing the players’ fitness and conditioning is a crucial one, and has been throughout his 13 years with the Club.
-
-An expert in football-specific fitness, he draws up detailed, tailored plans for every player before and during each season, as well as undertaking long hours of rehab work with injured first-team squad members. Many players have been quick to praise his attention to detail and guiding influence upon their recoveries from long-term injury.
+<h4>Nodh Oje</h4>
+<strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
 </div>
 </div>]]></content:encoded>
@@ -2368,14 +2351,11 @@ An expert in football-specific fitness, he draws up detailed, tailored plans for
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wordpresssuperexpress.com/accesspresslite/demo/?page_id=130</guid>
 		<description></description>
-		<content:encoded><![CDATA[We are committed towards what we do. Our activities are managed and undertaken ethically, transparently, and in the interests of all concerned stakeholders.
+		<content:encoded><![CDATA[What is Lorem Ipsum?
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-This shall be undertaken through implementation of the following company values:
-<ol>
- 	<li>We intend to conduct our business ethically and transparently, respecting all applicablelaws.</li>
- 	<li>We intend to be a responsible corporate citizen fulfilling our obligations as an integralmember of society. Hence our business decisions shall give appropriate weight andconsideration to social and environmental impacts.</li>
- 	<li>We intend to provide products of uncompromising quality to meet the needs of our customers.</li>
-</ol>]]></content:encoded>
+Why do we use it?
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>130</wp:post_id>
 		<wp:post_date><![CDATA[2014-04-11 09:15:34]]></wp:post_date>
@@ -2904,28 +2884,29 @@ This shall be undertaken through implementation of the following company values:
 		<guid isPermaLink="false">http://wordpresssuperexpress.com/accesspresslite/demo/?page_id=288</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div class="row">
-<div class="span3 col">Our team is dedicated to developing technology markets in all around the world by bridging the gap in communication between our partners and our Corporation. The key focus of the Marketing and Business Development team is communication speed and accuracy. On a daily basis our team members corresponds with key divisions within our companies all around its subsidiaries to ensure we fully understand the market requirements.</div>
-<div class="span3 col">Staff in our company are uniquely positioned to ensure the right message and nuance gets across to the right people.
-With a 200+ high-touch customer network, 2,000+ mid-touch customers, and tens of thousands of customers through our 2nd tier channel network, we can provide information from an overall market perspective down to a granular customer view across the entire range of potential vertical markets.</div>
+<div class="col">
+<div class="row">
+<div class="span3 col"><strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</div>
+<div><strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</div>
 </div>
 <h3>Three Column Team layout</h3>
 <div class="row">
 <div class="col span2">
 <div></div>
-<h4>Nacho Monreal</h4>
-panish left back Nacho Monreal enjoyed a promising first few months at Arsenal after arriving on transfer deadline day in January 2013.
+<h4>Jhon Doe</h4>
+<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
 </div>
 <div class="col span2">
 <div></div>
-<h4>Lukasz Fabianski</h4>
-Polish goalkeeper Lukasz Fabianski reminded supporters of his quality after returning from injury in March 2013.
+<h4>Dhon Joe</h4>
+<strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
 </div>
 <div class="col span2">
 <div></div>
-<h4>Per Mertesacker</h4>
-Mertesacker’s second season at Arsenal was hugely impressive as he played a significant role in the Club’s Champions League.
+<h4>Hdon Eoj</h4>
+<strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
 </div>
 </div>
@@ -2933,14 +2914,14 @@ Mertesacker’s second season at Arsenal was hugely impressive as he played a si
 <div class="row">
 <div class="col span3">
 <div></div>
-<h4>Emiliano Viviano</h4>
-Italian goalkeeper Emiliano Viviano joined Arsenal on a season-long loan at the start of September.The towering shot-stopper arrived from Serie B side Palermo.
+<h4>Ondh Eoj</h4>
+<strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
 </div>
 <div class="col span3">
 <div></div>
-<h4>Bacary Sagna</h4>
-French international Bacary Sagna continues to be a consistent performer at right back, having recovered from two serious injuries in the last two years.
+<h4>Donh Eoj</h4>
+<strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
 </div>
 </div>
@@ -2948,11 +2929,11 @@ French international Bacary Sagna continues to be a consistent performer at righ
 <div class="row">
 <div class="col span6">
 <div></div>
-<h4>Tony Colbert</h4>
-Tony’s role in overseeing the players’ fitness and conditioning is a crucial one, and has been throughout his 13 years with the Club.
+<h4>Nodh Oje</h4>
+<strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
-An expert in football-specific fitness, he draws up detailed, tailored plans for every player before and during each season, as well as undertaking long hours of rehab work with injured first-team squad members. Many players have been quick to praise his attention to detail and guiding influence upon their recoveries from long-term injury.
-
+</div>
+</div>
 </div>
 </div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3047,6 +3028,40 @@ An expert in football-specific fitness, he draws up detailed, tailored plans for
 		</wp:postmeta>
 							</item>
 					<item>
+		<title>Home: Big Icon on Featured Section</title>
+		<link>https://accesspressthemes.com/import/accesspress-lite/home-big-icon-on-featured-section/</link>
+		<pubDate>Tue, 22 Apr 2014 10:02:13 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://wordpresssuperexpress.com/accesspresslite/demo/?page_id=373</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>373</wp:post_id>
+		<wp:post_date><![CDATA[2014-04-22 10:02:13]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2014-04-22 10:02:13]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home-big-icon-on-featured-section]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[templates/template-homepage-with-bigfeatured-icon.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ak_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[right-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title></title>
 		<link>https://accesspressthemes.com/import/accesspress-lite/2020/08/14/640/</link>
 		<pubDate>Fri, 14 Aug 2020 07:29:04 +0000</pubDate>
@@ -3102,71 +3117,13 @@ An expert in football-specific fitness, he draws up detailed, tailored plans for
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sample Page</title>
-		<link>https://accesspressthemes.com/import/accesspress-lite/sample-page__trashed/</link>
-		<pubDate>Fri, 14 Aug 2020 06:41:34 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-lite/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="https://accesspressthemes.com/import/accesspress-lite/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-14 06:41:34]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-14 06:41:34]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[sample-page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1597387692]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>About Us</title>
 		<link>https://accesspressthemes.com/import/accesspress-lite/2014/04/10/welcome-message/</link>
 		<pubDate>Thu, 10 Apr 2014 08:56:36 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wordpresssuperexpress.com/accesspresslite/demo/?p=7</guid>
 		<description></description>
-		<content:encoded><![CDATA[AccessPress Lite is a HTML5 &amp; CSS3 Responsive WordPress Business Theme with clean, minimal yet highly professional design.
-With our years of experience, we've developed this theme and given back to this awesome WordPress community. It is feature rich, multi purpose and flexible responsive theme Suitable for Agencies, Small Biz, Corporates, Bloggers – Anyone and Everyone!
-The theme is complete with many useful features. The intuitive theme options let you manage all the possible options/features of the theme. You can use it to create your next superb website in no time and all for FREE.]]></content:encoded>
+		<content:encoded><![CDATA[<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>7</wp:post_id>
 		<wp:post_date><![CDATA[2014-04-10 08:56:36]]></wp:post_date>
@@ -3182,6 +3139,14 @@ The theme is complete with many useful features. The intuitive theme options let
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[welcome-message__trashed]]></wp:meta_value>
 		</wp:postmeta>
@@ -3239,7 +3204,16 @@ The theme is complete with many useful features. The intuitive theme options let
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wordpresssuperexpress.com/accesspresslite/demo/?p=27</guid>
 		<description></description>
-		<content:encoded><![CDATA[Company today announced to launch its new product by the end of april. the CEO of company announced today on press conference that, the product will be focused to lower middle class family all around the world. It will be affordable and provided with various facilities and services.]]></content:encoded>
+		<content:encoded><![CDATA[<div>
+<h2>What is Lorem Ipsum?</h2>
+<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+</div>
+<div>
+<h2>Why do we use it?</h2>
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+
+</div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>27</wp:post_id>
 		<wp:post_date><![CDATA[2014-04-08 10:24:05]]></wp:post_date>
@@ -3306,7 +3280,16 @@ The theme is complete with many useful features. The intuitive theme options let
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wordpresssuperexpress.com/accesspresslite/demo/?p=32</guid>
 		<description></description>
-		<content:encoded><![CDATA[This study presents an in-depth analysis of the key trends impacting the Business carrier services market, and includes market revenue forecasts, ports forecasts and market share analysis.]]></content:encoded>
+		<content:encoded><![CDATA[<div>
+<h2>What is Lorem Ipsum?</h2>
+<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+</div>
+<div>
+<h2>Why do we use it?</h2>
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+
+</div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>32</wp:post_id>
 		<wp:post_date><![CDATA[2014-04-10 10:30:30]]></wp:post_date>
@@ -3373,8 +3356,16 @@ The theme is complete with many useful features. The intuitive theme options let
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wordpresssuperexpress.com/accesspresslite/demo/?p=35</guid>
 		<description></description>
-		<content:encoded><![CDATA[Recently, company performed outdoor recreational program to motivate all its staffs. All the employees found happy and satisfied by the activity.
-Employee Recreation represents a unique departmentally sponsored program designed to improve recruitment, retention, enjoyment, enthusiasm and commitment among student employees. It is popular and fun for employees but also has personal management advantages, strong marketing implications, and administrative benefits. The rationale for the program centers upon its effectiveness as a medium to positively impact programs and personnel. The opportunity to separately assemble employees in a setting which combines sports/recreation with social ingredients has the potential to stimulate some exceptional staff dynamics.]]></content:encoded>
+		<content:encoded><![CDATA[<div>
+<h2>What is Lorem Ipsum?</h2>
+<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+</div>
+<div>
+<h2>Why do we use it?</h2>
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+
+</div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>35</wp:post_id>
 		<wp:post_date><![CDATA[2014-04-14 10:34:03]]></wp:post_date>
@@ -3445,25 +3436,18 @@ Employee Recreation represents a unique departmentally sponsored program designe
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wordpresssuperexpress.com/accesspresslite/demo/?p=93</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div id="stcpDiv"></div>
-If you create content on the Web — and if you’re trying to get people to find your business or nonprofit online, you should be creating content — then your biggest challenge is to have people find you in search. And, let’s get super obvious here: That means you want them to literally click your link and get to your site, right?
+		<content:encoded><![CDATA[<div id="stcpDiv">
+<div>
+<h2>What is Lorem Ipsum?</h2>
+<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-Now, the first challenge to overcome is show up on the first page of Google search results, given that about 97 percent of people never click through to the second page of results.
+</div>
+<div>
+<h2>Why do we use it?</h2>
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
 
-But the challenges don’t end there. If you create original content, someone, somewhere, at some point has ripped off your material and republished it as their own. Or perhaps they’re a partner site that has your permission to republish your content. Google, Bing and the other search engines often have a hard time determining who published it first and who’s the rightful owner. In other words, whose link should appear higher in the search results? Let’s call that the authentication challenge.
-
-A third and final barrier for you to overcome is the differentiation challenge. Why should a user click on your link vs. the one right above or below it?
-Claiming authorship to increase exposure &amp; authority
-
-The smarties at Google have come up with some solutions that you should be employing on your own website or blog, if you haven’t done so already. They’ve laid out a fairly simple process that you can follow to basically claim ownership of your own digital stuff. It begins with Google Authorship, also called Authorship Markup. Let me explain.
-
-My partner Deltina Hay, an expert on the semantic Web, recently pointed out to me: “I highly recommend updating our site to include proper Google rel-author functionality. This will get more exposure for the blog and the authors alike.” This had been on my to-do list for a long time, so it was the kick in the pants I needed.
-
-Google Authorship sounds daunting, but it’s simply a way for you to verify with Google that the content across the Web that you created is yours. Google will then show your content — and your authorship — in its “author rich snippet search results.” See the image at top for how this looks. Claiming your content will not only help you in the short run with better click-through rates for your content, but it will also help you to build AuthorRank with Google.
-
-As social marketer Mark Traphagen writes: “All that content begins to contribute to a score that Google maintains for you that is their assessment of your trustworthiness, relevance, and popularity in your key topics. Once AuthorRank kicks in as a ranking factor, it will serve as an additional signal to Google that your highly-trusted content should rank higher in search.”
-
-Now, this process is fairly straightforward when you’re the sole content creator at your site or blog. But what if you run a multi-author site or blog, like Socialmedia.biz or our sister site for the nonprofit community, Socialbrite?]]></content:encoded>
+</div>
+</div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>93</wp:post_id>
 		<wp:post_date><![CDATA[2014-04-11 07:25:08]]></wp:post_date>
@@ -3524,27 +3508,25 @@ Now, this process is fairly straightforward when you’re the sole content creat
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wordpresssuperexpress.com/accesspresslite/demo/?p=99</guid>
 		<description></description>
-		<content:encoded><![CDATA[Government contracts for small businesses were discussed this week on Capitol Hill.
+		<content:encoded><![CDATA[<div>
+<h2>What is Lorem Ipsum?</h2>
+<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-U.S. Rep. Sam Graves (R-MO) asked the House Armed Services Committee Wednesday to include more contracting for small businesses in a defense spending bill for 2015. Graves serves as chairman of the House Committee on Small Business. Graves testified before the committee that a bill he proposed should be included in the National Defense Authorization Act.
+</div>
+<div>
+<h2>Why do we use it?</h2>
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+<div>
+<h2>What is Lorem Ipsum?</h2>
+<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-The act is a law passed annually specifying budget and expenditures for the U.S. Department of Defense.
+</div>
+<div>
+<h2>Why do we use it?</h2>
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
 
-Graves introduced the Greater Opportunities for Small Business Act of 2014 earlier this year.
-
-The bill as written would give small businesses more opportunities to compete for federal government contract work. It has been the goal of the federal government to award at least 23 percent of its sub-contracted work to small businesses. But government agencies have historically fallen short of that goal.
-
-Graves’ legislation actually calls for an increase on that 23 percent goal to 25 percent of all contract work going to small businesses. In addition, Graves also asked the House Armed Services Committee to include another bill that would de-bundle larger government contracts. When some contracts are bundled together, that often leaves small businesses feeling unable to compete for the work.
-
-Asking the House Armed Services Committee for help in his fashion is not new. In fact, small business legislation has often looked for support in the House Armed Services Committee.
-
-In a statement following his testimony to the committee, Graves said:
-
-“Recognizing that this is a crucial area for small businesses, over the past three years, the Armed Services Committee and the Small Business Committee have worked together to reduce barriers to entry, create guidance that allows small businesses to compete and facilitates the Department of Defense (DoD) meeting the needs of the warfighter, and ensure that we have a strong small business industrial base.”
-
-In the past, the House Small Business and Armed Forces committees have teamed to better fund small businesses through government contract work. This has included offering incentives and bonuses to federal employees when contracts are awarded to small businesses.
-
-Also, according to Graves, the committees have joined forces to better ensure that larger companies don’t use fronts to procure government contracts posing as small businesses.]]></content:encoded>
+</div>
+</div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>99</wp:post_id>
 		<wp:post_date><![CDATA[2014-04-11 07:31:53]]></wp:post_date>
@@ -3583,25 +3565,16 @@ Also, according to Graves, the committees have joined forces to better ensure th
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wordpresssuperexpress.com/accesspresslite/demo/?p=104</guid>
 		<description></description>
-		<content:encoded><![CDATA[Business by Miles is a business automation platform that handles tasks like scheduling, human resources, billing, invoicing, project management, payroll and accounting in a single cloud-based system. Managing all of these tasks might require several different apps in another situation.
+		<content:encoded><![CDATA[<div>
+<h2>What is Lorem Ipsum?</h2>
+<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-The platform is intended to keep your employees aware of everyone’s schedule, availability, ongoing projects and more. A small business with a single person at the helm can deal with different apps that help get more work done and organized. But that gets tougher with more employees.
+</div>
+<div>
+<h2>Why do we use it?</h2>
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
 
-In an interview with Small Business Trends, Miles Technologies CEO and Founder Chris Miles explains:
-
-“One person can deal with disparaging systems. When a company gets larger, disparaging systems leads to efficiency loss.”
-
-The cloud-based platform has several paid tiers available to businesses. Plans start at $49 per user. Miles says a business with 3 or more employees would benefit most from his company’s $99 per month per user plan.
-
-The Business by Miles platform has been 17 years in the making. Miles’ company, based in Moorestown, N.J., started in 1997 creating custom software for businesses in all industries and of all sizes. It was three years ago when he and his staff began working on Business by Miles.
-
-Miles adds:
-
-“What we’ve done for 17 years in business is we’ve analyzed a specific process and how we can make it better. It’s got all those things that make a person’s job easier to do.”
-
-Miles believes what sets his product apart from others available to small business owners is an eCommerce hook for service professionals. Miles said that professionals like lawyers, architects, building contractors, and accountants, can use Business By Miles to accept payments from clients. This includes the ability to create and accept subscription payments or payment agreements with your clients. The platform features contract management, invoicing and payment portals.
-
-Business by Miles is also fully optimized for a mobile user. It can be used on a laptop, tablet or smartphone.]]></content:encoded>
+</div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>104</wp:post_id>
 		<wp:post_date><![CDATA[2014-04-11 07:34:47]]></wp:post_date>
@@ -3640,21 +3613,16 @@ Business by Miles is also fully optimized for a mobile user. It can be used on a
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wordpresssuperexpress.com/accesspresslite/demo/?p=107</guid>
 		<description></description>
-		<content:encoded><![CDATA[Customer service is important. If you run a business, you already know that. But you might not realize just how great an impact poor customer service can have on your company’s bottom line. The data collected by ClickSoftware explains:
+		<content:encoded><![CDATA[<div>
+<h2>What is Lorem Ipsum?</h2>
+<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-“Poor customer experiences result in an estimated $83 billion loss by U.S. enterprises each year because of defections and abandoned purchases.”
+</div>
+<div>
+<h2>Why do we use it?</h2>
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
 
-When dealing with customer service issues, it can be easy to focus more on the cost that might be associated with correcting issues. But the cost of not making your customers happy can be much greater. In many cases, just one misstep can cost you a customer that could have made future purchases with your business. In fact, the data suggests that 89% of consumers who experience poor service will switch to another brand.
-
-It’s not just bad customer service that can impact your bottom line. The data also states that 63.9% of consumers consider customer service to be more important than price when deciding whether or not to do business with a company. And 55% would actually pay more to guarantee better service.
-
-So even though providing good service can cost your company in some cases, customers appreciate it. And a strong reputation for customer service can actually help you balance out the costs sometimes associated with keeping your customers happy.
-
-In order to maintain a strong reputation for customer service, using social media is almost a necessity. Customers who once had to call, write, or otherwise reach out to a company privately now turn to social media to express concerns or comments. Even though 70% of complaints on Twitter go unanswered, customers expect you to respond to them.
-
-This more public means of airing grievances means that not only do businesses have a responsibility to address the concerns of their customers, but also the concerns of the rest of their social connections as well. Thanks to social media, one poor service experience can do more than just lose you a customer. It can damage your brand with all your followers.
-
-So next time you’re dealing with a customer service issue – be sure to consider the real potential cost.]]></content:encoded>
+</div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>107</wp:post_id>
 		<wp:post_date><![CDATA[2014-04-11 07:36:45]]></wp:post_date>
@@ -5535,49 +5503,13 @@ Vestibulum id malesuada arcu. Integer mollis justo vulputate enim varius commodo
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home: Big Icon on Featured Section</title>
-		<link>https://accesspressthemes.com/import/accesspress-lite/home-big-icon-on-featured-section/</link>
-		<pubDate>Tue, 22 Apr 2014 10:02:13 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wordpresssuperexpress.com/accesspresslite/demo/?page_id=373</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>373</wp:post_id>
-		<wp:post_date><![CDATA[2014-04-22 10:02:13]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2014-04-22 10:02:13]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home-big-icon-on-featured-section]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[templates/template-homepage-with-bigfeatured-icon.php]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ak_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[right-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>trevorwang18</title>
+		<title>Rrev Towang</title>
 		<link>https://accesspressthemes.com/import/accesspress-lite/2014/08/05/trevorwang18/</link>
 		<pubDate>Tue, 05 Aug 2014 05:01:41 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demo.accesspressthemes.com/accesspresslite/?p=413</guid>
 		<description></description>
-		<content:encoded><![CDATA[<strong>Good theme</strong>
-
-very beautiful,and the author is helpful to solve problems!]]></content:encoded>
+		<content:encoded><![CDATA[<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>413</wp:post_id>
 		<wp:post_date><![CDATA[2014-08-05 05:01:41]]></wp:post_date>
@@ -5618,15 +5550,13 @@ very beautiful,and the author is helpful to solve problems!]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>wilsonj</title>
+		<title>Wils Honj</title>
 		<link>https://accesspressthemes.com/import/accesspress-lite/2014/08/05/wilsonj/</link>
 		<pubDate>Tue, 05 Aug 2014 05:07:10 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demo.accesspressthemes.com/accesspresslite/?p=417</guid>
 		<description></description>
-		<content:encoded><![CDATA[<strong>Nice one</strong>
-
-Nice theme, I liked the theme options provided. Keep up the good work.]]></content:encoded>
+		<content:encoded><![CDATA[<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>417</wp:post_id>
 		<wp:post_date><![CDATA[2014-08-05 05:07:10]]></wp:post_date>
@@ -5667,15 +5597,13 @@ Nice theme, I liked the theme options provided. Keep up the good work.]]></conte
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>HoggeHog</title>
+		<title>Leog Geog</title>
 		<link>https://accesspressthemes.com/import/accesspress-lite/2014/08/05/hoggehog/</link>
 		<pubDate>Tue, 05 Aug 2014 05:08:33 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demo.accesspressthemes.com/accesspresslite/?p=419</guid>
 		<description></description>
-		<content:encoded><![CDATA[<strong>Great</strong>
-
-It's just great. Looks very professional in comparison to many other free themes]]></content:encoded>
+		<content:encoded><![CDATA[<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>419</wp:post_id>
 		<wp:post_date><![CDATA[2014-08-05 05:08:33]]></wp:post_date>
@@ -5716,15 +5644,13 @@ It's just great. Looks very professional in comparison to many other free themes
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Jimmyuser</title>
+		<title>Jinm lyser</title>
 		<link>https://accesspressthemes.com/import/accesspress-lite/2014/08/05/jimmyuser/</link>
 		<pubDate>Tue, 05 Aug 2014 05:09:29 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demo.accesspressthemes.com/accesspresslite/?p=421</guid>
 		<description></description>
-		<content:encoded><![CDATA[<strong>Like</strong>
-
-I like it, clean, good layout.]]></content:encoded>
+		<content:encoded><![CDATA[<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>421</wp:post_id>
 		<wp:post_date><![CDATA[2014-08-05 05:09:29]]></wp:post_date>
@@ -5765,15 +5691,13 @@ I like it, clean, good layout.]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>ebsaid</title>
+		<title>Lebs Taid</title>
 		<link>https://accesspressthemes.com/import/accesspress-lite/2014/08/05/ebsaid/</link>
 		<pubDate>Tue, 05 Aug 2014 05:10:15 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demo.accesspressthemes.com/accesspresslite/?p=423</guid>
 		<description></description>
-		<content:encoded><![CDATA[<strong>Liked now Love </strong>
-
-Great theme! Helped out in time of need. Easy to configure.]]></content:encoded>
+		<content:encoded><![CDATA[<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>423</wp:post_id>
 		<wp:post_date><![CDATA[2014-08-05 05:10:15]]></wp:post_date>
@@ -5814,16 +5738,13 @@ Great theme! Helped out in time of need. Easy to configure.]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Jotta Lima</title>
+		<title>Aotta Ljima</title>
 		<link>https://accesspressthemes.com/import/accesspress-lite/2014/08/29/jotta-lima/</link>
 		<pubDate>Fri, 29 Aug 2014 05:38:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demo.accesspressthemes.com/accesspresslite/?p=452</guid>
 		<description></description>
-		<content:encoded><![CDATA[Hello, I would say I am much satisfied!
-I tested installing the theme on my blog and found it very good. Then immediately got the theme and Premium version already installed in some of my blogs.
-Now yes, I feel I have a current and competitive blog.
-Congratulations to team!]]></content:encoded>
+		<content:encoded><![CDATA[<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>452</wp:post_id>
 		<wp:post_date><![CDATA[2014-08-29 05:38:58]]></wp:post_date>
@@ -5864,13 +5785,13 @@ Congratulations to team!]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>David Soriano</title>
+		<title>Savid Dorno</title>
 		<link>https://accesspressthemes.com/import/accesspress-lite/2014/08/29/david-soriano/</link>
 		<pubDate>Fri, 29 Aug 2014 05:43:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demo.accesspressthemes.com/accesspresslite/?p=455</guid>
 		<description></description>
-		<content:encoded><![CDATA[Thank you very much the support team for service, are really wonderful in their care and in the resolution of the problem. Congratulations to Facebook chat and Junu team.]]></content:encoded>
+		<content:encoded><![CDATA[<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>455</wp:post_id>
 		<wp:post_date><![CDATA[2014-08-29 05:43:17]]></wp:post_date>
@@ -5911,14 +5832,13 @@ Congratulations to team!]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Yanetxys Torreblanca</title>
+		<title>Syanetxys Torres</title>
 		<link>https://accesspressthemes.com/import/accesspress-lite/2014/08/29/yanetxys-torreblanca/</link>
 		<pubDate>Fri, 29 Aug 2014 05:48:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demo.accesspressthemes.com/accesspresslite/?p=458</guid>
 		<description></description>
-		<content:encoded><![CDATA[Thanks for delivering top quality services to your clients. It just takes a minute to get an answer from you when in difficulties. I use the chat service and I can say that our staff knows how to shorten the physical distance to its clients.
-Thanks again for making our experience with us the best one online!]]></content:encoded>
+		<content:encoded><![CDATA[<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>458</wp:post_id>
 		<wp:post_date><![CDATA[2014-08-29 05:48:18]]></wp:post_date>
