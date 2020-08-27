@@ -5,10 +5,6 @@
 *
 */
 
-//add_filter('adi_demos_data','zigcy_demo_config');
-
-//function zigcy_demo_config(){
-
 $git_url 		= 'https://raw.githubusercontent.com/WPaccesskeys/WPaccesskeys.github.io/master/theme-demos/accesspress-store-demos/';
 $data = array(
 	'default' => array(
@@ -23,7 +19,7 @@ $data = array(
 		'blog_title'  		=> 'Blogs',
 		'posts_to_show'  	=> '10',
 		'menus' 			=> array(
-			'primary' => 'Primary Menu',
+			'primary' => 'Test Menu',
 		),
 		'required_plugins'  => array(
 			'free' => array(
@@ -50,4 +46,3 @@ $fp = fopen('config.json', 'w');
 fwrite($fp, json_encode($data));
 fclose($fp);
 echo "<h2>Check the folder (http://localhost/accesspress/config.json) and find config.json downloaded there.</h2>";
-//}
