@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.5" created="2020-08-28 08:06" -->
+	<!-- generator="WordPress/5.5" created="2020-08-28 11:51" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Bloger</title>
 	<link>https://accesspressthemes.com/import/bloger</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Fri, 28 Aug 2020 08:06:03 +0000</pubDate>
+	<pubDate>Fri, 28 Aug 2020 11:51:04 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://accesspressthemes.com/import/bloger</wp:base_site_url>
@@ -102,6 +102,147 @@
 	<generator>https://wordpress.org/?v=5.5</generator>
 
 		<item>
+		<title></title>
+		<link>https://accesspressthemes.com/import/bloger/2020/08/28/371/</link>
+		<pubDate>Fri, 28 Aug 2020 11:35:44 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://accesspressthemes.com/import/bloger/?p=371</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>371</wp:post_id>
+		<wp:post_date><![CDATA[2020-08-28 11:35:44]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-08-28 11:35:44]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[371]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[71]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://accesspressthemes.com/import/bloger/2020/08/28/372/</link>
+		<pubDate>Fri, 28 Aug 2020 11:35:44 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://accesspressthemes.com/import/bloger/?p=372</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>372</wp:post_id>
+		<wp:post_date><![CDATA[2020-08-28 11:35:44]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-08-28 11:35:44]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[372]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[59]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>1200x900</title>
+		<link>https://accesspressthemes.com/import/bloger/2016/05/12/156-2/1200x900-2/</link>
+		<pubDate>Fri, 28 Aug 2020 11:20:22 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://accesspressthemes.com/import/bloger/wp-content/uploads/2020/08/1200x900.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>358</wp:post_id>
+		<wp:post_date><![CDATA[2020-08-28 11:20:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-08-28 11:20:22]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[1200x900-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>156</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://accesspressthemes.com/import/bloger/wp-content/uploads/2020/08/1200x900.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/08/1200x900.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:800;s:4:"file";s:20:"2020/08/1200x900.png";s:5:"sizes";a:13:{s:6:"medium";a:4:{s:4:"file";s:20:"1200x900-300x125.png";s:5:"width";i:300;s:6:"height";i:125;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:21:"1200x900-1024x427.png";s:5:"width";i:1024;s:6:"height";i:427;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:20:"1200x900-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:20:"1200x900-768x320.png";s:5:"width";i:768;s:6:"height";i:320;s:9:"mime-type";s:9:"image/png";}s:9:"1536x1536";a:4:{s:4:"file";s:21:"1200x900-1536x640.png";s:5:"width";i:1536;s:6:"height";i:640;s:9:"mime-type";s:9:"image/png";}s:22:"bloger-post-image-size";a:4:{s:4:"file";s:20:"1200x900-940x627.png";s:5:"width";i:940;s:6:"height";i:627;s:9:"mime-type";s:9:"image/png";}s:28:"bloger-homeslider-image-size";a:4:{s:4:"file";s:21:"1200x900-1170x500.png";s:5:"width";i:1170;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";}s:29:"bloger-post-image-withsidebar";a:4:{s:4:"file";s:21:"1200x900-1170x697.png";s:5:"width";i:1170;s:6:"height";i:697;s:9:"mime-type";s:9:"image/png";}s:24:"bloger-about-us-page-img";a:4:{s:4:"file";s:20:"1200x900-840x800.png";s:5:"width";i:840;s:6:"height";i:800;s:9:"mime-type";s:9:"image/png";}s:20:"bloger-grid-view-img";a:4:{s:4:"file";s:20:"1200x900-300x200.png";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:9:"image/png";}s:23:"bloger-feature-page-img";a:4:{s:4:"file";s:20:"1200x900-292x122.png";s:5:"width";i:292;s:6:"height";i:122;s:9:"mime-type";s:9:"image/png";}s:24:"bloger-recent-post-thumb";a:4:{s:4:"file";s:20:"1200x900-480x300.png";s:5:"width";i:480;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:25:"bloger-feature-post-thumb";a:4:{s:4:"file";s:20:"1200x900-290x180.png";s:5:"width";i:290;s:6:"height";i:180;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title>Home</title>
 		<link>https://accesspressthemes.com/import/bloger/home/</link>
 		<pubDate>Fri, 15 Apr 2016 05:28:20 +0000</pubDate>
@@ -160,260 +301,6 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[328]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Home Grid Layout</title>
-		<link>https://accesspressthemes.com/import/bloger/home-grid-layout/</link>
-		<pubDate>Thu, 12 May 2016 08:13:15 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://demo.accesspressthemes.com/bloger/?page_id=121</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>121</wp:post_id>
-		<wp:post_date><![CDATA[2016-05-12 08:13:15]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-05-12 08:13:15]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home-grid-layout]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[template-parts/home-grid-layout.php]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>https://accesspressthemes.com/import/bloger/2020/08/27/307/</link>
-		<pubDate>Thu, 27 Aug 2020 08:52:00 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/bloger/2020/08/27/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>307</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-27 08:52:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-27 08:52:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[307]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[313]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[121]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Layout</title>
-		<link>https://accesspressthemes.com/import/bloger/2020/08/27/layout/</link>
-		<pubDate>Thu, 27 Aug 2020 08:52:00 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/bloger/2020/08/27/layout/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>308</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-27 08:52:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-27 08:52:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[layout]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[308]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Archive Page Layout</title>
-		<link>https://accesspressthemes.com/import/bloger/2020/08/27/archive-page-layout/</link>
-		<pubDate>Thu, 27 Aug 2020 08:52:00 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/bloger/2020/08/27/archive-page-layout/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>312</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-27 08:52:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-27 08:52:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[archive-page-layout]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>10</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[312]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Home</title>
-		<link>https://accesspressthemes.com/import/bloger/2020/08/27/home/</link>
-		<pubDate>Thu, 27 Aug 2020 08:52:00 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/bloger/2020/08/27/home/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>313</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-27 08:52:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-27 08:52:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[313]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.accesspressthemes.com/bloger/]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title></title>
@@ -432,7 +319,7 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 		<wp:post_name><![CDATA[314]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
+		<wp:menu_order>2</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -471,565 +358,6 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home Full Width</title>
-		<link>https://accesspressthemes.com/import/bloger/home-full-width/</link>
-		<pubDate>Thu, 12 May 2016 08:29:15 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://demo.accesspressthemes.com/bloger/?page_id=123</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>123</wp:post_id>
-		<wp:post_date><![CDATA[2016-05-12 08:29:15]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-05-12 08:29:15]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home-full-width]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[template-parts/home-fullwidth-layout.php]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Single Page Sidebar</title>
-		<link>https://accesspressthemes.com/import/bloger/single-page-sidebar/</link>
-		<pubDate>Thu, 12 May 2016 08:47:18 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://demo.accesspressthemes.com/bloger/?page_id=125</guid>
-		<description></description>
-		<content:encoded><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make. a type specimen book. It has survived not only five centuries. but also the leap into electronic typesetting, remaining essentially unchanged. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alterat<img class="alignnone size-medium wp-image-129 alignleft" src="https://accesspressthemes.com/import/bloger/wp-content/uploads/2016/05/insta-4-300x214.jpg" alt="insta 4" width="300" height="214" />ion in some form, by injected humour, or randomised words which don't look even slightly believable.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make. a type specimen book. It has survived not only five centuries. but also the leap into electronic typesetting, remaining essentially unchanged. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
-
-While ComplaintDept does have a point about “If a woman tried it”, s/he obviously knows little about mental health. I am a whovian, mostly new Who, but I know a bit about Tom Baker as he was my husband’s favorite Doctor. He had a confirmed mental breakdown BECAUSE of his wife, who was already leaving him, not the other way around. As for the mother in law, His in-laws prorally told him that, since he was from a poor background and that they had bought gifts for the firstborn, that they owned him, like a slave. That would sure cause me to toss a hoe at the ho (Which iswhat he did). He didn’t leave to become an actor. He left to heal his mind. Acting helped him heal. He doesn’t hide any of this.
-
-know the difference between topic, theme and main idea in textIn sit tale assum nusquam. Laudem delicatissimi in duo, duo ex augue impedit. Eu omnis discere perpetua vis, case praesent ius te, ne dolorum eloquentiam quo.
-
-Qui m<img class="size-medium wp-image-128 alignleft" src="https://accesspressthemes.com/import/bloger/wp-content/uploads/2016/05/insta-1-300x244.jpg" alt="insta 1" width="300" height="244" />odus antiopam instructior ad, cu mei fastidii prodesset. Ei decore disputando mel, perfecto corrumpit cum cu, at vel inani prompta. Phaedrum persecuti pro ut, ius aliquam quaestio constituam no. Duo an congue reprimique. Inani albucius ut eum. Mea no electram ullamcorper, cu wisi tractatos has, nibh iuvaret tacimates eu sed.
-<div class="extra-content-wrapper">
-
-Qui modus antiopam instructior ad, cu mei fastidii prodesset. Ei decore disputando mel, perfecto corrumpit cum cu, at vel inani prompta. Phaedrum persecuti pro ut, ius aliquam quaestio constituam no. Duo an congue reprimique. Inani albucius ut eum. Mea no electram ullamcorper, cu wisi tractatos has, nibh iuvaret tacimates eu sed.
-
-</div>
-&nbsp;
-
-&nbsp;]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>125</wp:post_id>
-		<wp:post_date><![CDATA[2016-05-12 08:47:18]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-05-12 08:47:18]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[single-page-sidebar]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[template-parts/single-page-sidebar.php]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Single Page Full Width</title>
-		<link>https://accesspressthemes.com/import/bloger/single-page-full-width/</link>
-		<pubDate>Thu, 12 May 2016 09:39:50 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://demo.accesspressthemes.com/bloger/?page_id=138</guid>
-		<description></description>
-		<content:encoded><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make. a type specimen book. It has survived not only five centuries. but also the leap into electronic typesetting, remaining essentially unchanged. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alterat<img class="alignnone size-medium wp-image-129 alignleft" src="https://accesspressthemes.com/import/bloger/wp-content/uploads/2016/05/insta-4-300x214.jpg" alt="insta 4" width="300" height="214" />ion in some form, by injected humour, or randomised words which don't look even slightly believable.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make. a type specimen book. It has survived not only five centuries. but also the leap into electronic typesetting, remaining essentially unchanged. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.While ComplaintDept does have a point about “If a woman tried it”, s/he obviously knows little about mental health. I am a whovian, mostly new Who, but I know a bit about Tom Baker as he was my husband’s favorite Doctor.
-
-He had a confirmed mental breakdown BECAUSE of his wife, who was already leaving him, not the other way around.
-
-As for the mother in law, His in-laws prorally told him that, since he was from a poor background and that they had bought gifts for the firstborn, that they owned him, like a slave. That would sure cause me to toss a hoe at the ho (Which iswhat he did). He didn’t leave to become an actor. He left to heal his mind. Acting helped him heal. He doesn’t hide any of this.know the difference between topic, theme and main idea in textIn sit tale assum nusquam. Laudem delicatissimi in duo, duo ex augue impedit. Eu omnis discere perpetua vis, case praesent ius te, ne dolorum eloquentiam quo.<img class="size-medium wp-image-128 alignright" src="https://accesspressthemes.com/import/bloger/wp-content/uploads/2016/05/insta-1-300x244.jpg" alt="insta 1" width="300" height="244" />Qui modus antiopam instructior ad, cu mei fastidii prodesset. Ei decore disputando mel, perfecto corrumpit cum cu, at vel inani prompta. Phaedrum persecuti pro ut, ius aliquam quaestio constituam no. Duo an congue reprimique. Inani albucius ut eum. Mea no electram ullamcorper, cu wisi tractatos has, nibh iuvaret tacimates eu sed.Qui modus antiopam instructior ad, cu mei fastidii prodesset. Ei decore disputando mel, perfecto corrumpit cum cu, at vel inani prompta. Phaedrum persecuti pro ut, ius aliquam quaestio constituam no. Duo an congue reprimique. Inani albucius ut eum. Mea no electram ullamcorper, cu wisi tractatos has, nibh iuvaret tacimates eu sed.While ComplaintDept does have a point about “If a woman tried it”, s/he obviously knows little about mental health. I am a whovian, mostly new Who, but I know a bit about Tom Baker as he was my husband’s favorite Doctor. He had a confirmed mental breakdown BECAUSE of his wife, who was already leaving him, not the other way around. As for the mother in law, His in-laws prorally told him that, since he was from a poor background and that they had bought gifts for the firstborn, that they owned him, like a slave. That would sure cause me to toss a hoe at the ho (Which iswhat he did). He didn’t leave to become an actor. He left to heal his mind. Acting helped him heal. He doesn’t hide any of this.
-
-&nbsp;
-
-&nbsp;]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>138</wp:post_id>
-		<wp:post_date><![CDATA[2016-05-12 09:39:50]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-05-12 09:39:50]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[single-page-full-width]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[template-parts/single-full-width-layout.php]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Contact Us</title>
-		<link>https://accesspressthemes.com/import/bloger/contact-us/</link>
-		<pubDate>Thu, 12 May 2016 11:02:03 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://demo.accesspressthemes.com/bloger/?page_id=147</guid>
-		<description></description>
-		<content:encoded><![CDATA[<div class="form-container">[contact-form-7 id="146" title="Contact form 1"]</div>
-<div class="map-container"><iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3532.70872648898!2d85.291636!3d27.695395999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb1867a1fbba21%3A0xbdccd9a9bc098251!2sAccess+Keys+Pvt.+Ltd.!5e0!3m2!1sen!2snp!4v1429090258053" width="360" height="600" frameborder="0"></iframe></div>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>147</wp:post_id>
-		<wp:post_date><![CDATA[2016-05-12 11:02:03]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-05-12 11:02:03]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>https://accesspressthemes.com/import/bloger/2020/08/27/316/</link>
-		<pubDate>Thu, 27 Aug 2020 08:52:02 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/bloger/2020/08/27/316/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>316</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-27 08:52:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-27 08:52:02]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[316]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[313]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[123]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>https://accesspressthemes.com/import/bloger/2020/08/27/317/</link>
-		<pubDate>Thu, 27 Aug 2020 08:52:02 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/bloger/2020/08/27/317/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>317</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-27 08:52:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-27 08:52:02]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[317]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[308]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[125]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>https://accesspressthemes.com/import/bloger/2020/08/27/318/</link>
-		<pubDate>Thu, 27 Aug 2020 08:52:02 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/bloger/2020/08/27/318/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>318</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-27 08:52:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-27 08:52:02]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[318]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>7</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[308]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[138]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>https://accesspressthemes.com/import/bloger/2020/08/27/319/</link>
-		<pubDate>Thu, 27 Aug 2020 08:52:02 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/bloger/2020/08/27/319/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>319</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-27 08:52:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-27 08:52:02]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[319]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>11</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[312]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[166]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>https://accesspressthemes.com/import/bloger/2020/08/27/320/</link>
-		<pubDate>Thu, 27 Aug 2020 08:52:02 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/bloger/2020/08/27/320/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>320</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-27 08:52:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-27 08:52:02]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[320]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>12</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[312]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[164]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>https://accesspressthemes.com/import/bloger/2020/08/27/321/</link>
-		<pubDate>Thu, 27 Aug 2020 08:52:02 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/bloger/2020/08/27/321/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>321</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-27 08:52:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-27 08:52:02]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[321]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>14</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[185]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>https://accesspressthemes.com/import/bloger/2020/08/27/322/</link>
-		<pubDate>Thu, 27 Aug 2020 08:52:02 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/bloger/2020/08/27/322/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>322</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-27 08:52:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-27 08:52:02]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[322]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>15</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[147]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>1200x900</title>
-		<link>https://accesspressthemes.com/import/bloger/2016/04/15/slider-1/1200x900/</link>
-		<pubDate>Thu, 27 Aug 2020 09:34:52 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/bloger/wp-content/uploads/2016/04/1200x900.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>328</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-27 09:34:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-27 09:34:52]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[1200x900]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>9</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://accesspressthemes.com/import/bloger/wp-content/uploads/2016/04/1200x900.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2016/04/1200x900.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:900;s:4:"file";s:20:"2016/04/1200x900.jpg";s:5:"sizes";a:12:{s:6:"medium";a:4:{s:4:"file";s:20:"1200x900-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:21:"1200x900-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:20:"1200x900-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:20:"1200x900-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:22:"bloger-post-image-size";a:4:{s:4:"file";s:20:"1200x900-940x627.jpg";s:5:"width";i:940;s:6:"height";i:627;s:9:"mime-type";s:10:"image/jpeg";}s:28:"bloger-homeslider-image-size";a:4:{s:4:"file";s:21:"1200x900-1170x500.jpg";s:5:"width";i:1170;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}s:29:"bloger-post-image-withsidebar";a:4:{s:4:"file";s:21:"1200x900-1170x697.jpg";s:5:"width";i:1170;s:6:"height";i:697;s:9:"mime-type";s:10:"image/jpeg";}s:24:"bloger-about-us-page-img";a:4:{s:4:"file";s:20:"1200x900-840x840.jpg";s:5:"width";i:840;s:6:"height";i:840;s:9:"mime-type";s:10:"image/jpeg";}s:20:"bloger-grid-view-img";a:4:{s:4:"file";s:20:"1200x900-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:23:"bloger-feature-page-img";a:4:{s:4:"file";s:20:"1200x900-225x169.jpg";s:5:"width";i:225;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:24:"bloger-recent-post-thumb";a:4:{s:4:"file";s:20:"1200x900-480x300.jpg";s:5:"width";i:480;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:25:"bloger-feature-post-thumb";a:4:{s:4:"file";s:20:"1200x900-290x180.jpg";s:5:"width";i:290;s:6:"height";i:180;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>Travel</title>
 		<link>https://accesspressthemes.com/import/bloger/2016/04/15/slider-1/</link>
 		<pubDate>Fri, 15 Apr 2016 05:39:48 +0000</pubDate>
@@ -1057,8 +385,12 @@ To Live]]></content:encoded>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[328]]></wp:meta_value>
+		<wp:meta_value><![CDATA[358]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1089,8 +421,12 @@ No Spring Skips It's Turn]]></content:encoded>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[328]]></wp:meta_value>
+		<wp:meta_value><![CDATA[358]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1121,8 +457,12 @@ I did Rather be Hiking]]></content:encoded>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[328]]></wp:meta_value>
+		<wp:meta_value><![CDATA[358]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1134,9 +474,11 @@ I did Rather be Hiking]]></content:encoded>
 		<description></description>
 		<content:encoded><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make. a type specimen book. It has survived not only five centuries. but also the leap into electronic typesetting, remaining essentially unchanged. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make. a type specimen book. It has survived not only five centuries. but also the leap into electronic typesetting, remaining essentially unchanged. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
 
-While ComplaintDept does have a <img class=" wp-image-183 alignleft" src="https://accesspressthemes.com/import/bloger/wp-content/uploads/2016/05/blog2-300x103-1.jpg" alt="blog2" width="274" height="94">point about “If a woman tried it”, s/he obviously knows little about mental health. I am a whovian, mostly new Who, but I know&nbsp;a bit about Tom Baker as he was my husband’s favorite Doctor. He had a confirmed mental breakdown BECAUSE of his wife, who was already leaving him, not the other way around. As for the mother in law, His in-laws prorally told him that, since he was from a poor background and that they had bought gifts for the firstborn, that they owned him, like a slave. That would sure cause me to toss a hoe at the ho (Which iswhat he did). He didn’t leave to become an actor. He left to heal his mind. Acting helped him heal. He doesn’t hide any of this.
+While ComplaintDept does have a point about “If a woman tried it”, s/he obviously knows little about mental health. I am a whovian, mostly new Who, but I know a bit about Tom Baker as he was my husband’s favorite Doctor. He had a confirmed mental breakdown BECAUSE of his wife, who was already leaving him, not the other way around. As for the mother in law, His in-laws prorally told him that, since he was from a poor background and that they had bought gifts for the firstborn, that they owned him, like a slave. That would sure cause me to toss a hoe at the ho (Which iswhat he did). He didn’t leave to become an actor. He left to heal his mind. Acting helped him heal. He doesn’t hide any of this.
 
-<img class="wp-image-320 alignleft" src="https://accesspressthemes.com/import/bloger/wp-content/uploads/2016/05/landscape-398500_1280-300x200-1.jpg" alt="landscape-398500_1280" width="296" height="197"> know the difference between topic, theme and main idea in textIn sit tale assum nusquam. Laudem delicatissimi in duo, duo ex augue impedit. Eu omnis discere perpetua vis, case praesent ius te, ne dolorum eloquentiam quo.
+<img class=" wp-image-358 alignleft" src="https://accesspressthemes.com/import/bloger/wp-content/uploads/2020/08/1200x900-1024x427.png" alt="" width="407" height="170" />
+
+know the difference between topic, theme and main idea in textIn sit tale assum nusquam. Laudem delicatissimi in duo, duo ex augue impedit. Eu omnis discere perpetua vis, case praesent ius te, ne dolorum eloquentiam quo.
 
 Qui modus antiopam instructior ad, cu mei fastidii prodesset. Ei decore disputando mel, perfecto corrumpit cum cu, at vel inani prompta. Phaedrum persecuti pro ut, ius aliquam quaestio constituam no. Duo an congue reprimique. Inani albucius ut eum. Mea no electram ullamcorper, cu wisi tractatos has, nibh iuvaret tacimates eu sed.
 <div class="extra-content-wrapper">
@@ -1164,8 +506,12 @@ Qui modus antiopam instructior ad, cu mei fastidii prodesset. Ei decore disputan
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[328]]></wp:meta_value>
+		<wp:meta_value><![CDATA[358]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
@@ -1185,9 +531,11 @@ Qui modus antiopam instructior ad, cu mei fastidii prodesset. Ei decore disputan
 		<description></description>
 		<content:encoded><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make. a type specimen book. It has survived not only five centuries. but also the leap into electronic typesetting, remaining essentially unchanged. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make. a type specimen book. It has survived not only five centuries. but also the leap into electronic typesetting, remaining essentially unchanged. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
 
-While ComplaintDept does have a <img class=" wp-image-183 alignleft" src="https://accesspressthemes.com/import/bloger/wp-content/uploads/2016/05/blog2-300x103-1.jpg" alt="blog2" width="274" height="94">point about “If a woman tried it”, s/he obviously knows little about mental health. I am a whovian, mostly new Who, but I know&nbsp;a bit about Tom Baker as he was my husband’s favorite Doctor. He had a confirmed mental breakdown BECAUSE of his wife, who was already leaving him, not the other way around. As for the mother in law, His in-laws prorally told him that, since he was from a poor background and that they had bought gifts for the firstborn, that they owned him, like a slave. That would sure cause me to toss a hoe at the ho (Which iswhat he did). He didn’t leave to become an actor. He left to heal his mind. Acting helped him heal. He doesn’t hide any of this.
+While ComplaintDept does have a point about “If a woman tried it”, s/he obviously knows little about mental health. I am a whovian, mostly new Who, but I know a bit about Tom Baker as he was my husband’s favorite Doctor. He had a confirmed mental breakdown BECAUSE of his wife, who was already leaving him, not the other way around. As for the mother in law, His in-laws prorally told him that, since he was from a poor background and that they had bought gifts for the firstborn, that they owned him, like a slave. That would sure cause me to toss a hoe at the ho (Which iswhat he did). He didn’t leave to become an actor. He left to heal his mind. Acting helped him heal. He doesn’t hide any of this.
 
-<img class="wp-image-320 alignleft" src="https://accesspressthemes.com/import/bloger/wp-content/uploads/2016/05/landscape-398500_1280-300x200-1.jpg" alt="landscape-398500_1280" width="296" height="197"> know the difference between topic, theme and main idea in textIn sit tale assum nusquam. Laudem delicatissimi in duo, duo ex augue impedit. Eu omnis discere perpetua vis, case praesent ius te, ne dolorum eloquentiam quo.
+<img class=" wp-image-358 alignleft" src="https://accesspressthemes.com/import/bloger/wp-content/uploads/2020/08/1200x900-1024x427.png" alt="" width="407" height="170" />
+
+know the difference between topic, theme and main idea in textIn sit tale assum nusquam. Laudem delicatissimi in duo, duo ex augue impedit. Eu omnis discere perpetua vis, case praesent ius te, ne dolorum eloquentiam quo.
 
 Qui modus antiopam instructior ad, cu mei fastidii prodesset. Ei decore disputando mel, perfecto corrumpit cum cu, at vel inani prompta. Phaedrum persecuti pro ut, ius aliquam quaestio constituam no. Duo an congue reprimique. Inani albucius ut eum. Mea no electram ullamcorper, cu wisi tractatos has, nibh iuvaret tacimates eu sed.
 <div class="extra-content-wrapper">
@@ -1215,8 +563,12 @@ Qui modus antiopam instructior ad, cu mei fastidii prodesset. Ei decore disputan
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[328]]></wp:meta_value>
+		<wp:meta_value><![CDATA[358]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
@@ -1255,8 +607,12 @@ with Coffee]]></excerpt:encoded>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[328]]></wp:meta_value>
+		<wp:meta_value><![CDATA[358]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1287,8 +643,12 @@ with Coffee]]></excerpt:encoded>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[328]]></wp:meta_value>
+		<wp:meta_value><![CDATA[358]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1319,8 +679,12 @@ with Coffee]]></excerpt:encoded>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[328]]></wp:meta_value>
+		<wp:meta_value><![CDATA[358]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1332,9 +696,11 @@ with Coffee]]></excerpt:encoded>
 		<description></description>
 		<content:encoded><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make. a type specimen book. It has survived not only five centuries. but also the leap into electronic typesetting, remaining essentially unchanged. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make. a type specimen book. It has survived not only five centuries. but also the leap into electronic typesetting, remaining essentially unchanged. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
 
-While ComplaintDept does have a <img class=" wp-image-183 alignleft" src="https://accesspressthemes.com/import/bloger/wp-content/uploads/2016/05/blog2-300x103-1.jpg" alt="blog2" width="274" height="94">point about “If a woman tried it”, s/he obviously knows little about mental health. I am a whovian, mostly new Who, but I know&nbsp;a bit about Tom Baker as he was my husband’s favorite Doctor. He had a confirmed mental breakdown BECAUSE of his wife, who was already leaving him, not the other way around. As for the mother in law, His in-laws prorally told him that, since he was from a poor background and that they had bought gifts for the firstborn, that they owned him, like a slave. That would sure cause me to toss a hoe at the ho (Which iswhat he did). He didn’t leave to become an actor. He left to heal his mind. Acting helped him heal. He doesn’t hide any of this.
+While ComplaintDept does have a point about “If a woman tried it”, s/he obviously knows little about mental health. I am a whovian, mostly new Who, but I know a bit about Tom Baker as he was my husband’s favorite Doctor. He had a confirmed mental breakdown BECAUSE of his wife, who was already leaving him, not the other way around. As for the mother in law, His in-laws prorally told him that, since he was from a poor background and that they had bought gifts for the firstborn, that they owned him, like a slave. That would sure cause me to toss a hoe at the ho (Which iswhat he did). He didn’t leave to become an actor. He left to heal his mind. Acting helped him heal. He doesn’t hide any of this.
 
-<img class="wp-image-320 alignleft" src="https://accesspressthemes.com/import/bloger/wp-content/uploads/2016/05/landscape-398500_1280-300x200-1.jpg" alt="landscape-398500_1280" width="296" height="197"> know the difference between topic, theme and main idea in textIn sit tale assum nusquam. Laudem delicatissimi in duo, duo ex augue impedit. Eu omnis discere perpetua vis, case praesent ius te, ne dolorum eloquentiam quo.
+<img class=" wp-image-358 alignleft" src="https://accesspressthemes.com/import/bloger/wp-content/uploads/2020/08/1200x900-1024x427.png" alt="" width="407" height="170" />
+
+know the difference between topic, theme and main idea in textIn sit tale assum nusquam. Laudem delicatissimi in duo, duo ex augue impedit. Eu omnis discere perpetua vis, case praesent ius te, ne dolorum eloquentiam quo.
 
 Qui modus antiopam instructior ad, cu mei fastidii prodesset. Ei decore disputando mel, perfecto corrumpit cum cu, at vel inani prompta. Phaedrum persecuti pro ut, ius aliquam quaestio constituam no. Duo an congue reprimique. Inani albucius ut eum. Mea no electram ullamcorper, cu wisi tractatos has, nibh iuvaret tacimates eu sed.
 <div class="extra-content-wrapper">
@@ -1362,8 +728,12 @@ Qui modus antiopam instructior ad, cu mei fastidii prodesset. Ei decore disputan
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[328]]></wp:meta_value>
+		<wp:meta_value><![CDATA[358]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1375,9 +745,11 @@ Qui modus antiopam instructior ad, cu mei fastidii prodesset. Ei decore disputan
 		<description></description>
 		<content:encoded><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make. a type specimen book. It has survived not only five centuries. but also the leap into electronic typesetting, remaining essentially unchanged. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make. a type specimen book. It has survived not only five centuries. but also the leap into electronic typesetting, remaining essentially unchanged. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
 
-While ComplaintDept does have a <img class=" wp-image-183 alignleft" src="https://accesspressthemes.com/import/bloger/wp-content/uploads/2016/05/blog2-300x103-1.jpg" alt="blog2" width="274" height="94">point about “If a woman tried it”, s/he obviously knows little about mental health. I am a whovian, mostly new Who, but I know&nbsp;a bit about Tom Baker as he was my husband’s favorite Doctor. He had a confirmed mental breakdown BECAUSE of his wife, who was already leaving him, not the other way around. As for the mother in law, His in-laws prorally told him that, since he was from a poor background and that they had bought gifts for the firstborn, that they owned him, like a slave. That would sure cause me to toss a hoe at the ho (Which iswhat he did). He didn’t leave to become an actor. He left to heal his mind. Acting helped him heal. He doesn’t hide any of this.
+While ComplaintDept does have a point about “If a woman tried it”, s/he obviously knows little about mental health. I am a whovian, mostly new Who, but I know a bit about Tom Baker as he was my husband’s favorite Doctor. He had a confirmed mental breakdown BECAUSE of his wife, who was already leaving him, not the other way around. As for the mother in law, His in-laws prorally told him that, since he was from a poor background and that they had bought gifts for the firstborn, that they owned him, like a slave. That would sure cause me to toss a hoe at the ho (Which iswhat he did). He didn’t leave to become an actor. He left to heal his mind. Acting helped him heal. He doesn’t hide any of this.
 
-<img class="wp-image-320 alignleft" src="https://accesspressthemes.com/import/bloger/wp-content/uploads/2016/05/landscape-398500_1280-300x200-1.jpg" alt="landscape-398500_1280" width="296" height="197"> know the difference between topic, theme and main idea in textIn sit tale assum nusquam. Laudem delicatissimi in duo, duo ex augue impedit. Eu omnis discere perpetua vis, case praesent ius te, ne dolorum eloquentiam quo.
+<img class=" wp-image-358 alignleft" src="https://accesspressthemes.com/import/bloger/wp-content/uploads/2020/08/1200x900-1024x427.png" alt="" width="407" height="170" />
+
+know the difference between topic, theme and main idea in textIn sit tale assum nusquam. Laudem delicatissimi in duo, duo ex augue impedit. Eu omnis discere perpetua vis, case praesent ius te, ne dolorum eloquentiam quo.
 
 Qui modus antiopam instructior ad, cu mei fastidii prodesset. Ei decore disputando mel, perfecto corrumpit cum cu, at vel inani prompta. Phaedrum persecuti pro ut, ius aliquam quaestio constituam no. Duo an congue reprimique. Inani albucius ut eum. Mea no electram ullamcorper, cu wisi tractatos has, nibh iuvaret tacimates eu sed.
 <div class="extra-content-wrapper">
@@ -1405,434 +777,12 @@ Qui modus antiopam instructior ad, cu mei fastidii prodesset. Ei decore disputan
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[328]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Travelling with friends</title>
-		<link>https://accesspressthemes.com/import/bloger/2016/05/12/153-2/</link>
-		<pubDate>Thu, 12 May 2016 12:30:37 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://demo.accesspressthemes.com/bloger/?p=153</guid>
-		<description></description>
-		<content:encoded><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make. a type specimen book. It has survived not only five centuries. but also the leap into electronic typesetting, remaining essentially unchanged. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make. a type specimen book. It has survived not only five centuries. but also the leap into electronic typesetting, remaining essentially unchanged. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
-
-While ComplaintDept does have a <img class=" wp-image-183 alignleft" src="https://accesspressthemes.com/import/bloger/wp-content/uploads/2016/05/blog2-300x103-1.jpg" alt="blog2" width="274" height="94">point about “If a woman tried it”, s/he obviously knows little about mental health. I am a whovian, mostly new Who, but I know&nbsp;a bit about Tom Baker as he was my husband’s favorite Doctor. He had a confirmed mental breakdown BECAUSE of his wife, who was already leaving him, not the other way around. As for the mother in law, His in-laws prorally told him that, since he was from a poor background and that they had bought gifts for the firstborn, that they owned him, like a slave. That would sure cause me to toss a hoe at the ho (Which iswhat he did). He didn’t leave to become an actor. He left to heal his mind. Acting helped him heal. He doesn’t hide any of this.
-
-<img class="wp-image-320 alignleft" src="https://accesspressthemes.com/import/bloger/wp-content/uploads/2016/05/landscape-398500_1280-300x200-1.jpg" alt="landscape-398500_1280" width="296" height="197"> know the difference between topic, theme and main idea in textIn sit tale assum nusquam. Laudem delicatissimi in duo, duo ex augue impedit. Eu omnis discere perpetua vis, case praesent ius te, ne dolorum eloquentiam quo.
-
-Qui modus antiopam instructior ad, cu mei fastidii prodesset. Ei decore disputando mel, perfecto corrumpit cum cu, at vel inani prompta. Phaedrum persecuti pro ut, ius aliquam quaestio constituam no. Duo an congue reprimique. Inani albucius ut eum. Mea no electram ullamcorper, cu wisi tractatos has, nibh iuvaret tacimates eu sed.
-<div class="extra-content-wrapper">
-
-Qui modus antiopam instructior ad, cu mei fastidii prodesset. Ei decore disputando mel, perfecto corrumpit cum cu, at vel inani prompta. Phaedrum persecuti pro ut, ius aliquam quaestio constituam no. Duo an congue reprimique. Inani albucius ut eum. Mea no electram ullamcorper, cu wisi tractatos has, nibh iuvaret tacimates eu sed.
-
-</div>
-&nbsp;]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>153</wp:post_id>
-		<wp:post_date><![CDATA[2016-05-12 12:30:37]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-05-12 12:30:37]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[153-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[328]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Man with dream</title>
-		<link>https://accesspressthemes.com/import/bloger/2016/05/12/156-2/</link>
-		<pubDate>Thu, 12 May 2016 12:31:26 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://demo.accesspressthemes.com/bloger/?p=156</guid>
-		<description></description>
-		<content:encoded><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make. a type specimen book. It has survived not only five centuries. but also the leap into electronic typesetting, remaining essentially unchanged. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make. a type specimen book. It has survived not only five centuries. but also the leap into electronic typesetting, remaining essentially unchanged. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
-
-While ComplaintDept does have a <img class=" wp-image-183 alignleft" src="https://accesspressthemes.com/import/bloger/wp-content/uploads/2016/05/blog2-300x103-1.jpg" alt="blog2" width="274" height="94">point about “If a woman tried it”, s/he obviously knows little about mental health. I am a whovian, mostly new Who, but I know&nbsp;a bit about Tom Baker as he was my husband’s favorite Doctor. He had a confirmed mental breakdown BECAUSE of his wife, who was already leaving him, not the other way around. As for the mother in law, His in-laws prorally told him that, since he was from a poor background and that they had bought gifts for the firstborn, that they owned him, like a slave. That would sure cause me to toss a hoe at the ho (Which iswhat he did). He didn’t leave to become an actor. He left to heal his mind. Acting helped him heal. He doesn’t hide any of this.
-
-<img class="wp-image-320 alignleft" src="https://accesspressthemes.com/import/bloger/wp-content/uploads/2016/05/landscape-398500_1280-300x200-1.jpg" alt="landscape-398500_1280" width="296" height="197"> know the difference between topic, theme and main idea in textIn sit tale assum nusquam. Laudem delicatissimi in duo, duo ex augue impedit. Eu omnis discere perpetua vis, case praesent ius te, ne dolorum eloquentiam quo.
-
-Qui modus antiopam instructior ad, cu mei fastidii prodesset. Ei decore disputando mel, perfecto corrumpit cum cu, at vel inani prompta. Phaedrum persecuti pro ut, ius aliquam quaestio constituam no. Duo an congue reprimique. Inani albucius ut eum. Mea no electram ullamcorper, cu wisi tractatos has, nibh iuvaret tacimates eu sed.
-<div class="extra-content-wrapper">
-
-Qui modus antiopam instructior ad, cu mei fastidii prodesset. Ei decore disputando mel, perfecto corrumpit cum cu, at vel inani prompta. Phaedrum persecuti pro ut, ius aliquam quaestio constituam no. Duo an congue reprimique. Inani albucius ut eum. Mea no electram ullamcorper, cu wisi tractatos has, nibh iuvaret tacimates eu sed.
-
-</div>
-&nbsp;]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>156</wp:post_id>
-		<wp:post_date><![CDATA[2016-05-12 12:31:26]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-05-12 12:31:26]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[156-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[328]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Yes we can do</title>
-		<link>https://accesspressthemes.com/import/bloger/2016/05/12/yes-we-can-do/</link>
-		<pubDate>Thu, 12 May 2016 12:32:32 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://demo.accesspressthemes.com/bloger/?p=159</guid>
-		<description></description>
-		<content:encoded><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make. a type specimen book. It has survived not only five centuries. but also the leap into electronic typesetting, remaining essentially unchanged. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make. a type specimen book. It has survived not only five centuries. but also the leap into electronic typesetting, remaining essentially unchanged. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
-
-While ComplaintDept does have a <img class=" wp-image-183 alignleft" src="https://accesspressthemes.com/import/bloger/wp-content/uploads/2016/05/blog2-300x103-1.jpg" alt="blog2" width="274" height="94">point about “If a woman tried it”, s/he obviously knows little about mental health. I am a whovian, mostly new Who, but I know&nbsp;a bit about Tom Baker as he was my husband’s favorite Doctor. He had a confirmed mental breakdown BECAUSE of his wife, who was already leaving him, not the other way around. As for the mother in law, His in-laws prorally told him that, since he was from a poor background and that they had bought gifts for the firstborn, that they owned him, like a slave. That would sure cause me to toss a hoe at the ho (Which iswhat he did). He didn’t leave to become an actor. He left to heal his mind. Acting helped him heal. He doesn’t hide any of this.
-
-<img class="wp-image-320 alignleft" src="https://accesspressthemes.com/import/bloger/wp-content/uploads/2016/05/landscape-398500_1280-300x200-1.jpg" alt="landscape-398500_1280" width="296" height="197"> know the difference between topic, theme and main idea in textIn sit tale assum nusquam. Laudem delicatissimi in duo, duo ex augue impedit. Eu omnis discere perpetua vis, case praesent ius te, ne dolorum eloquentiam quo.
-
-Qui modus antiopam instructior ad, cu mei fastidii prodesset. Ei decore disputando mel, perfecto corrumpit cum cu, at vel inani prompta. Phaedrum persecuti pro ut, ius aliquam quaestio constituam no. Duo an congue reprimique. Inani albucius ut eum. Mea no electram ullamcorper, cu wisi tractatos has, nibh iuvaret tacimates eu sed.
-<div class="extra-content-wrapper">
-
-Qui modus antiopam instructior ad, cu mei fastidii prodesset. Ei decore disputando mel, perfecto corrumpit cum cu, at vel inani prompta. Phaedrum persecuti pro ut, ius aliquam quaestio constituam no. Duo an congue reprimique. Inani albucius ut eum. Mea no electram ullamcorper, cu wisi tractatos has, nibh iuvaret tacimates eu sed.
-
-</div>
-&nbsp;]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>159</wp:post_id>
-		<wp:post_date><![CDATA[2016-05-12 12:32:32]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-05-12 12:32:32]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[yes-we-can-do]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[328]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>This is the way we work</title>
-		<link>https://accesspressthemes.com/import/bloger/2016/05/12/this-is-the-way-we-work/</link>
-		<pubDate>Thu, 12 May 2016 12:33:12 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://demo.accesspressthemes.com/bloger/?p=161</guid>
-		<description></description>
-		<content:encoded><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make. a type specimen book. It has survived not only five centuries. but also the leap into electronic typesetting, remaining essentially unchanged. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make. a type specimen book. It has survived not only five centuries. but also the leap into electronic typesetting, remaining essentially unchanged. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
-
-While ComplaintDept does have a <img class=" wp-image-183 alignleft" src="https://accesspressthemes.com/import/bloger/wp-content/uploads/2016/05/blog2-300x103-1.jpg" alt="blog2" width="274" height="94">point about “If a woman tried it”, s/he obviously knows little about mental health. I am a whovian, mostly new Who, but I know&nbsp;a bit about Tom Baker as he was my husband’s favorite Doctor. He had a confirmed mental breakdown BECAUSE of his wife, who was already leaving him, not the other way around. As for the mother in law, His in-laws prorally told him that, since he was from a poor background and that they had bought gifts for the firstborn, that they owned him, like a slave. That would sure cause me to toss a hoe at the ho (Which iswhat he did). He didn’t leave to become an actor. He left to heal his mind. Acting helped him heal. He doesn’t hide any of this.
-
-<img class="wp-image-320 alignleft" src="https://accesspressthemes.com/import/bloger/wp-content/uploads/2016/05/landscape-398500_1280-300x200-1.jpg" alt="landscape-398500_1280" width="296" height="197"> know the difference between topic, theme and main idea in textIn sit tale assum nusquam. Laudem delicatissimi in duo, duo ex augue impedit. Eu omnis discere perpetua vis, case praesent ius te, ne dolorum eloquentiam quo.
-
-Qui modus antiopam instructior ad, cu mei fastidii prodesset. Ei decore disputando mel, perfecto corrumpit cum cu, at vel inani prompta. Phaedrum persecuti pro ut, ius aliquam quaestio constituam no. Duo an congue reprimique. Inani albucius ut eum. Mea no electram ullamcorper, cu wisi tractatos has, nibh iuvaret tacimates eu sed.
-<div class="extra-content-wrapper">
-
-Qui modus antiopam instructior ad, cu mei fastidii prodesset. Ei decore disputando mel, perfecto corrumpit cum cu, at vel inani prompta. Phaedrum persecuti pro ut, ius aliquam quaestio constituam no. Duo an congue reprimique. Inani albucius ut eum. Mea no electram ullamcorper, cu wisi tractatos has, nibh iuvaret tacimates eu sed.
-
-</div>
-&nbsp;]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>161</wp:post_id>
-		<wp:post_date><![CDATA[2016-05-12 12:33:12]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-05-12 12:33:12]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[this-is-the-way-we-work]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[328]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Grid View category</title>
-		<link>https://accesspressthemes.com/import/bloger/archive/</link>
-		<pubDate>Fri, 13 May 2016 04:58:21 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://demo.accesspressthemes.com/bloger/?page_id=164</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>164</wp:post_id>
-		<wp:post_date><![CDATA[2016-05-13 04:58:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-05-13 04:58:21]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[archive]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category-grid-view.php]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Full Width Category</title>
-		<link>https://accesspressthemes.com/import/bloger/full-width-home/</link>
-		<pubDate>Fri, 13 May 2016 05:18:34 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://demo.accesspressthemes.com/bloger/?page_id=166</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>166</wp:post_id>
-		<wp:post_date><![CDATA[2016-05-13 05:18:34]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-05-13 05:18:34]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[full-width-home]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category-fullwidth-view.php]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Page Markup</title>
-		<link>https://accesspressthemes.com/import/bloger/page-markup/</link>
-		<pubDate>Mon, 16 May 2016 06:25:31 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://demo.accesspressthemes.com/bloger/?page_id=185</guid>
-		<description></description>
-		<content:encoded><![CDATA[<strong>Headings</strong>
-<h1>Header one</h1>
-<h2>Header two</h2>
-<h3>Header three</h3>
-<h4>Header four</h4>
-<h5>Header five</h5>
-<h6>Header six</h6>
-<h2>Blockquotes</h2>
-Single line blockquote:
-<blockquote>Stay hungry. Stay foolish.</blockquote>
-Multi line blockquote with a cite reference:
-<blockquote>People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying no to 1,000 things. <cite>Steve Jobs - Apple Worldwide Developers' Conference, 1997</cite></blockquote>
-<h2>Tables</h2>
-<table>
-<tbody>
-<tr>
-<th>Employee</th>
-<th class="views">Salary</th>
-<th></th>
-</tr>
-<tr class="odd">
-<td><a href="http://example.com/">Jane</a></td>
-<td>$1</td>
-<td>Because that's all Steve Job' needed for a salary.</td>
-</tr>
-<tr class="even">
-<td><a href="http://example.com">John</a></td>
-<td>$100K</td>
-<td>For all the blogging he does.</td>
-</tr>
-<tr class="odd">
-<td><a href="http://example.com/">Jane</a></td>
-<td>$100M</td>
-<td>Pictures are worth a thousand words, right? So Tom x 1,000.</td>
-</tr>
-<tr class="even">
-<td><a href="http://example.com/">Jane</a></td>
-<td>$100B</td>
-<td>With hair like that?! Enough said...</td>
-</tr>
-</tbody>
-</table>
-<h2>Definition Lists</h2>
-<dl><dt>Definition List Title</dt><dd>Definition list division.</dd><dt>Startup</dt><dd>A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.</dd><dt>#dowork</dt><dd>Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.</dd><dt>Do It Live</dt><dd>I'll let Bill O'Reilly will <a title="We'll Do It Live" href="https://www.youtube.com/watch?v=O_HyZ5aW76c">explain</a> this one.</dd></dl>
-<h2>Unordered Lists (Nested)</h2>
-<ul>
-	<li>List item one
-<ul>
-	<li>List item one
-<ul>
-	<li>List item one</li>
-	<li>List item two</li>
-	<li>List item three</li>
-	<li>List item four</li>
-</ul>
-</li>
-	<li>List item two</li>
-	<li>List item three</li>
-	<li>List item four</li>
-</ul>
-</li>
-	<li>List item two</li>
-	<li>List item three</li>
-	<li>List item four</li>
-</ul>
-<h2>Ordered List (Nested)</h2>
-<ol>
-	<li>List item one
-<ol>
-	<li>List item one
-<ol>
-	<li>List item one</li>
-	<li>List item two</li>
-	<li>List item three</li>
-	<li>List item four</li>
-</ol>
-</li>
-	<li>List item two</li>
-	<li>List item three</li>
-	<li>List item four</li>
-</ol>
-</li>
-	<li>List item two</li>
-	<li>List item three</li>
-	<li>List item four</li>
-</ol>
-<h2>HTML Tags</h2>
-These supported tags come from the WordPress.com code <a title="Code" href="http://en.support.wordpress.com/code/">FAQ</a>.
-
-<strong>Address Tag</strong>
-
-<address>1 Infinite Loop
-Cupertino, CA 95014
-United States</address><strong>Anchor Tag (aka. Link)</strong>
-
-This is an example of a <a title="Apple" href="http://apple.com">link</a>.
-
-<strong>Abbreviation Tag</strong>
-
-The abbreviation <abbr title="Seriously">srsly</abbr> stands for "seriously".
-
-<strong>Acronym Tag</strong>
-
-The acronym <acronym title="For The Win">ftw</acronym> stands for "for the win".
-
-<strong>Big Tag</strong>
-
-These tests are a <big>big</big> deal, but this tag is no longer supported in HTML5.
-
-<strong>Cite Tag</strong>
-
-"Code is poetry." --<cite>Automattic</cite>
-
-<strong>Code Tag</strong>
-
-You will learn later on in these tests that <code>word-wrap: break-word;</code> will be your best friend.
-
-<strong>Delete Tag</strong>
-
-This tag will let you <del>strikeout text</del>, but this tag is no longer supported in HTML5 (use the <code>&lt;strike&gt;</code> instead).
-
-<strong>Emphasize Tag</strong>
-
-The emphasize tag should <em>italicize</em> text.
-
-<strong>Insert Tag</strong>
-
-This tag should denote <ins>inserted</ins> text.
-
-<strong>Keyboard Tag</strong>
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the <code>&lt;code&gt;</code> tag.
-
-<strong>Preformatted Tag</strong>
-
-This tag styles large blocks of code.
-<pre>.post-title {
-	margin: 0 0 5px;
-	font-weight: bold;
-	font-size: 38px;
-	line-height: 1.2;
-}</pre>
-<strong>Quote Tag</strong>
-
-<q>Developers, developers, developers...</q> --Steve Ballmer
-
-<strong>Strong Tag</strong>
-
-This tag shows <strong>bold<strong> text.</strong></strong>
-
-<strong>Subscript Tag</strong>
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-<strong>Superscript Tag</strong>
-
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
-
-<strong>Teletype Tag</strong>
-
-This rarely used tag emulates <tt>teletype text</tt>, which is usually styled like the <code>&lt;code&gt;</code> tag.
-
-<strong>Variable Tag</strong>
-
-This allows you to denote <var>variables</var>.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>185</wp:post_id>
-		<wp:post_date><![CDATA[2016-05-16 06:25:31]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-05-16 06:25:31]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[page-markup]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[358]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1864,6 +814,307 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Travelling with friends</title>
+		<link>https://accesspressthemes.com/import/bloger/2016/05/12/153-2/</link>
+		<pubDate>Thu, 12 May 2016 12:30:37 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.accesspressthemes.com/bloger/?p=153</guid>
+		<description></description>
+		<content:encoded><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make. a type specimen book. It has survived not only five centuries. but also the leap into electronic typesetting, remaining essentially unchanged. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make. a type specimen book. It has survived not only five centuries. but also the leap into electronic typesetting, remaining essentially unchanged. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
+
+While ComplaintDept does have a point about “If a woman tried it”, s/he obviously knows little about mental health. I am a whovian, mostly new Who, but I know a bit about Tom Baker as he was my husband’s favorite Doctor. He had a confirmed mental breakdown BECAUSE of his wife, who was already leaving him, not the other way around. As for the mother in law, His in-laws prorally told him that, since he was from a poor background and that they had bought gifts for the firstborn, that they owned him, like a slave. That would sure cause me to toss a hoe at the ho (Which iswhat he did). He didn’t leave to become an actor. He left to heal his mind. Acting helped him heal. He doesn’t hide any of this.
+
+<img class=" wp-image-358 alignleft" src="https://accesspressthemes.com/import/bloger/wp-content/uploads/2020/08/1200x900-1024x427.png" alt="" width="407" height="170" />
+
+know the difference between topic, theme and main idea in textIn sit tale assum nusquam. Laudem delicatissimi in duo, duo ex augue impedit. Eu omnis discere perpetua vis, case praesent ius te, ne dolorum eloquentiam quo.
+
+Qui modus antiopam instructior ad, cu mei fastidii prodesset. Ei decore disputando mel, perfecto corrumpit cum cu, at vel inani prompta. Phaedrum persecuti pro ut, ius aliquam quaestio constituam no. Duo an congue reprimique. Inani albucius ut eum. Mea no electram ullamcorper, cu wisi tractatos has, nibh iuvaret tacimates eu sed.
+<div class="extra-content-wrapper">
+
+Qui modus antiopam instructior ad, cu mei fastidii prodesset. Ei decore disputando mel, perfecto corrumpit cum cu, at vel inani prompta. Phaedrum persecuti pro ut, ius aliquam quaestio constituam no. Duo an congue reprimique. Inani albucius ut eum. Mea no electram ullamcorper, cu wisi tractatos has, nibh iuvaret tacimates eu sed.
+
+</div>
+&nbsp;]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>153</wp:post_id>
+		<wp:post_date><![CDATA[2016-05-12 12:30:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-05-12 12:30:37]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[153-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[358]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://accesspressthemes.com/import/bloger/2020/08/28/348/</link>
+		<pubDate>Fri, 28 Aug 2020 11:15:46 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://accesspressthemes.com/import/bloger/?p=348</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>348</wp:post_id>
+		<wp:post_date><![CDATA[2020-08-28 11:15:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-08-28 11:15:46]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[348]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[306]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://accesspressthemes.com/import/bloger/2020/08/28/349/</link>
+		<pubDate>Fri, 28 Aug 2020 11:15:46 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://accesspressthemes.com/import/bloger/?p=349</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>349</wp:post_id>
+		<wp:post_date><![CDATA[2020-08-28 11:15:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-08-28 11:15:46]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[349]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="menu-1"><![CDATA[Menu 1]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Man with dream</title>
+		<link>https://accesspressthemes.com/import/bloger/2016/05/12/156-2/</link>
+		<pubDate>Thu, 12 May 2016 12:31:26 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.accesspressthemes.com/bloger/?p=156</guid>
+		<description></description>
+		<content:encoded><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make. a type specimen book. It has survived not only five centuries. but also the leap into electronic typesetting, remaining essentially unchanged. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make. a type specimen book. It has survived not only five centuries. but also the leap into electronic typesetting, remaining essentially unchanged. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
+
+While ComplaintDept does have a point about “If a woman tried it”, s/he obviously knows little about mental health. I am a whovian, mostly new Who, but I know a bit about Tom Baker as he was my husband’s favorite Doctor. He had a confirmed mental breakdown BECAUSE of his wife, who was already leaving him, not the other way around. As for the mother in law, His in-laws prorally told him that, since he was from a poor background and that they had bought gifts for the firstborn, that they owned him, like a slave. That would sure cause me to toss a hoe at the ho (Which iswhat he did). He didn’t leave to become an actor. He left to heal his mind. Acting helped him heal. He doesn’t hide any of this.
+
+<img class=" wp-image-358 alignleft" src="https://accesspressthemes.com/import/bloger/wp-content/uploads/2020/08/1200x900-1024x427.png" alt="" width="407" height="170" />
+
+know the difference between topic, theme and main idea in textIn sit tale assum nusquam. Laudem delicatissimi in duo, duo ex augue impedit. Eu omnis discere perpetua vis, case praesent ius te, ne dolorum eloquentiam quo.
+
+Qui modus antiopam instructior ad, cu mei fastidii prodesset. Ei decore disputando mel, perfecto corrumpit cum cu, at vel inani prompta. Phaedrum persecuti pro ut, ius aliquam quaestio constituam no. Duo an congue reprimique. Inani albucius ut eum. Mea no electram ullamcorper, cu wisi tractatos has, nibh iuvaret tacimates eu sed.
+<div class="extra-content-wrapper">
+
+Qui modus antiopam instructior ad, cu mei fastidii prodesset. Ei decore disputando mel, perfecto corrumpit cum cu, at vel inani prompta. Phaedrum persecuti pro ut, ius aliquam quaestio constituam no. Duo an congue reprimique. Inani albucius ut eum. Mea no electram ullamcorper, cu wisi tractatos has, nibh iuvaret tacimates eu sed.
+
+</div>
+&nbsp;]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>156</wp:post_id>
+		<wp:post_date><![CDATA[2016-05-12 12:31:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-05-12 12:31:26]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[156-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[358]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Yes we can do</title>
+		<link>https://accesspressthemes.com/import/bloger/2016/05/12/yes-we-can-do/</link>
+		<pubDate>Thu, 12 May 2016 12:32:32 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.accesspressthemes.com/bloger/?p=159</guid>
+		<description></description>
+		<content:encoded><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make. a type specimen book. It has survived not only five centuries. but also the leap into electronic typesetting, remaining essentially unchanged. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make. a type specimen book. It has survived not only five centuries. but also the leap into electronic typesetting, remaining essentially unchanged. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
+
+While ComplaintDept does have a <img class=" wp-image-183 alignleft" src="https://accesspressthemes.com/import/bloger/wp-content/uploads/2016/05/blog2-300x103-1.jpg" alt="blog2" width="274" height="94" />point about “If a woman tried it”, s/he obviously knows little about mental health. I am a whovian, mostly new Who, but I know a bit about Tom Baker as he was my husband’s favorite Doctor. He had a confirmed mental breakdown BECAUSE of his wife, who was already leaving him, not the other way around. As for the mother in law, His in-laws prorally told him that, since he was from a poor background and that they had bought gifts for the firstborn, that they owned him, like a slave. That would sure cause me to toss a hoe at the ho (Which iswhat he did). He didn’t leave to become an actor. He left to heal his mind. Acting helped him heal. He doesn’t hide any of this.
+
+<img class="wp-image-320 alignleft" src="https://accesspressthemes.com/import/bloger/wp-content/uploads/2016/05/landscape-398500_1280-300x200-1.jpg" alt="landscape-398500_1280" width="296" height="197" /> know the difference between topic, theme and main idea in textIn sit tale assum nusquam. Laudem delicatissimi in duo, duo ex augue impedit. Eu omnis discere perpetua vis, case praesent ius te, ne dolorum eloquentiam quo.
+
+Qui modus antiopam instructior ad, cu mei fastidii prodesset. Ei decore disputando mel, perfecto corrumpit cum cu, at vel inani prompta. Phaedrum persecuti pro ut, ius aliquam quaestio constituam no. Duo an congue reprimique. Inani albucius ut eum. Mea no electram ullamcorper, cu wisi tractatos has, nibh iuvaret tacimates eu sed.
+<div class="extra-content-wrapper">
+
+Qui modus antiopam instructior ad, cu mei fastidii prodesset. Ei decore disputando mel, perfecto corrumpit cum cu, at vel inani prompta. Phaedrum persecuti pro ut, ius aliquam quaestio constituam no. Duo an congue reprimique. Inani albucius ut eum. Mea no electram ullamcorper, cu wisi tractatos has, nibh iuvaret tacimates eu sed.
+
+</div>
+&nbsp;]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>159</wp:post_id>
+		<wp:post_date><![CDATA[2016-05-12 12:32:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-05-12 12:32:32]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[yes-we-can-do]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[358]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>This is the way we work</title>
+		<link>https://accesspressthemes.com/import/bloger/2016/05/12/this-is-the-way-we-work/</link>
+		<pubDate>Thu, 12 May 2016 12:33:12 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.accesspressthemes.com/bloger/?p=161</guid>
+		<description></description>
+		<content:encoded><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make. a type specimen book. It has survived not only five centuries. but also the leap into electronic typesetting, remaining essentially unchanged. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make. a type specimen book. It has survived not only five centuries. but also the leap into electronic typesetting, remaining essentially unchanged. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
+
+While ComplaintDept does have a point about “If a woman tried it”, s/he obviously knows little about mental health. I am a whovian, mostly new Who, but I know a bit about Tom Baker as he was my husband’s favorite Doctor. He had a confirmed mental breakdown BECAUSE of his wife, who was already leaving him, not the other way around. As for the mother in law, His in-laws prorally told him that, since he was from a poor background and that they had bought gifts for the firstborn, that they owned him, like a slave. That would sure cause me to toss a hoe at the ho (Which iswhat he did). He didn’t leave to become an actor. He left to heal his mind. Acting helped him heal. He doesn’t hide any of this.
+
+know the difference between topic, theme and main idea in textIn sit tale assum nusquam. Laudem delicatissimi in duo, duo ex augue impedit. Eu omnis discere perpetua vis, case praesent ius te, ne dolorum eloquentiam quo.
+
+Qui modus antiopam instructior ad, cu mei fastidii prodesset. Ei decore disputando mel, perfecto corrumpit cum cu, at vel inani prompta. Phaedrum persecuti pro ut, ius aliquam quaestio constituam no. Duo an congue reprimique. Inani albucius ut eum. Mea no electram ullamcorper, cu wisi tractatos has, nibh iuvaret tacimates eu sed.
+<div class="extra-content-wrapper">
+
+Qui modus antiopam instructior ad, cu mei fastidii prodesset. Ei decore disputando mel, perfecto corrumpit cum cu, at vel inani prompta. Phaedrum persecuti pro ut, ius aliquam quaestio constituam no. Duo an congue reprimique. Inani albucius ut eum. Mea no electram ullamcorper, cu wisi tractatos has, nibh iuvaret tacimates eu sed.
+
+</div>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>161</wp:post_id>
+		<wp:post_date><![CDATA[2016-05-12 12:33:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-05-12 12:33:12]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[this-is-the-way-we-work]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[358]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
