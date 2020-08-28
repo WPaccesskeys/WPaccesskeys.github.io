@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.5" created="2020-08-27 12:56" -->
+	<!-- generator="WordPress/5.5" created="2020-08-28 11:09" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Accesspress Mag</title>
 	<link>https://accesspressthemes.com/import/accesspress-mag</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Thu, 27 Aug 2020 12:56:49 +0000</pubDate>
+	<pubDate>Fri, 28 Aug 2020 11:09:31 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://accesspressthemes.com/import/accesspress-mag</wp:base_site_url>
@@ -1792,7 +1792,7 @@
 							</item>
 					<item>
 		<title>censorship-610101_1920</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/disclaimer/censorship-610101_1920-2/</link>
+		<link>https://accesspressthemes.com/import/accesspress-mag/censorship-610101_1920-2/</link>
 		<pubDate>Mon, 13 Apr 2015 10:11:42 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-mag/wp-content/uploads/2015/04/censorship-610101_19201.jpg</guid>
@@ -1806,7 +1806,7 @@
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[censorship-610101_1920-2]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>33</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -1823,7 +1823,7 @@
 							</item>
 					<item>
 		<title>cropped-Lorem-Ipsum-banner-CS5</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/advertisement/cropped-lorem-ipsum-banner-cs5/</link>
+		<link>https://accesspressthemes.com/import/accesspress-mag/cropped-lorem-ipsum-banner-cs5/</link>
 		<pubDate>Mon, 13 Apr 2015 10:21:25 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-mag/wp-content/uploads/2015/04/cropped-Lorem-Ipsum-banner-CS5.png</guid>
@@ -1837,7 +1837,7 @@
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-lorem-ipsum-banner-cs5]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>34</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -1854,7 +1854,7 @@
 							</item>
 					<item>
 		<title>728x90</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/advertisement/728x90/</link>
+		<link>https://accesspressthemes.com/import/accesspress-mag/728x90/</link>
 		<pubDate>Mon, 13 Apr 2015 10:21:28 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-mag/wp-content/uploads/2015/04/728x90.jpg</guid>
@@ -1868,7 +1868,7 @@
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[728x90]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>34</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -1885,7 +1885,7 @@
 							</item>
 					<item>
 		<title>privacy</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/privacy/privacy-2/</link>
+		<link>https://accesspressthemes.com/import/accesspress-mag/privacy-2/</link>
 		<pubDate>Mon, 13 Apr 2015 10:23:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-mag/wp-content/uploads/2015/04/privacy.jpg</guid>
@@ -1899,7 +1899,7 @@
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[privacy-2]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>32</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -2973,6 +2973,501 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title>Home</title>
+		<link>https://accesspressthemes.com/import/accesspress-mag/</link>
+		<pubDate>Mon, 13 Apr 2015 04:53:55 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?page_id=10</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>10</wp:post_id>
+		<wp:post_date><![CDATA[2015-04-13 04:53:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-04-13 04:53:55]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[home-page.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[accesspress_mag_page_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[right-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_aioseop_keywords]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Free WordPress Magazine Theme, Best WordPress Mag Theme, ]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_aioseop_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[AccessPress Mag is an amazingly flexible & modern free magazine theme for WordPress. It is fully-responsive and Search Engine Optimized WordPress theme perfect for online magazines, news websites, editorial related projects, blogs or personal websites.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_aioseop_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Best Free WordPress Magazine Theme - AccessPress Mag]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_07f631fa529b246c8bd2b47c9751d898]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1598440163]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_07f631fa529b246c8bd2b47c9751d898]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="Foo Fighters - Live at Wembley Stadium (2008)(Full Concert)" width="640" height="360" src="https://www.youtube.com/embed/jcwBsntqjmY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>About Us</title>
+		<link>https://accesspressthemes.com/import/accesspress-mag/about-us/</link>
+		<pubDate>Mon, 13 Apr 2015 05:06:14 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?page_id=20</guid>
+		<description></description>
+		<content:encoded><![CDATA[Duis efficitur sit amet ex ut auctor. Mauris blandit urna et volutpat ultricies. Donec feugiat, nisi eu varius tempus, eros nunc venenatis lacus, eget vestibulum risus nulla ut felis. Curabitur nec justo ultricies leo suscipit ultricies. Cras sed sollicitudin mi. In tempor, velit in consectetur fringilla, ante erat volutpat orci, et consequat augue leo ut justo. Quisque finibus, tellus at dictum vestibulum, nibh enim pellentesque ante, id bibendum est dui suscipit enim.
+
+Mauris semper gravida eleifend. Ut mi libero, porttitor ut leo viverra, tincidunt pulvinar libero. Praesent congue dui urna, non sagittis quam iaculis ut. Aliquam erat volutpat. Nullam condimentum tellus id mattis bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>20</wp:post_id>
+		<wp:post_date><![CDATA[2015-04-13 05:06:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-04-13 05:06:14]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[about-us]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[accesspress_mag_page_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[right-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Submit News</title>
+		<link>https://accesspressthemes.com/import/accesspress-mag/submit-news/</link>
+		<pubDate>Mon, 13 Apr 2015 05:06:31 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?page_id=23</guid>
+		<description></description>
+		<content:encoded><![CDATA[[ap-form]
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>23</wp:post_id>
+		<wp:post_date><![CDATA[2015-04-13 05:06:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-04-13 05:06:31]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[submit-news]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[accesspress_mag_page_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[right-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Contact US</title>
+		<link>https://accesspressthemes.com/import/accesspress-mag/contact-us/</link>
+		<pubDate>Mon, 13 Apr 2015 05:06:21 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?page_id=24</guid>
+		<description></description>
+		<content:encoded><![CDATA[[contact-form-7 id="85" title="Contact form 1"]
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19003.889812741425!2d-2.2952338126983842!3d53.45976987017589!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487bae72e7e47f69%3A0x6c930e96df4455fe!2sOld%20Trafford!5e0!3m2!1sen!2snp!4v1598612711165!5m2!1sen!2snp" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>24</wp:post_id>
+		<wp:post_date><![CDATA[2015-04-13 05:06:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-04-13 05:06:21]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[accesspress_mag_page_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[right-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Forums</title>
+		<link>https://accesspressthemes.com/import/accesspress-mag/forums/</link>
+		<pubDate>Mon, 13 Apr 2015 05:06:57 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?page_id=29</guid>
+		<description></description>
+		<content:encoded><![CDATA[You can use any forum plugin you like here, and yes - I'm bbPress compatible!]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>29</wp:post_id>
+		<wp:post_date><![CDATA[2015-04-13 05:06:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-04-13 05:06:57]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[forums]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[accesspress_mag_page_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[right-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>How to make people love you best tips and tricks</title>
+		<link>https://accesspressthemes.com/import/accesspress-mag/2015/04/13/how-to-make-people-love-you-best-tips-and-tricks/</link>
+		<pubDate>Mon, 13 Apr 2015 05:21:06 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?p=59</guid>
+		<description></description>
+		<content:encoded><![CDATA[There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+
+But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.
+<figure class="wp-caption alignleft"><img class="alignnone size-medium wp-image-60" src="https://accesspressthemes.com/accesspress-mag/wp-content/uploads/2015/04/apple-570965_640-300x200.jpg" alt="apple-570965_640" width="300" height="200"><figcaption class="wp-caption-text">Fruitfull</figcaption></figure>
+No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>59</wp:post_id>
+		<wp:post_date><![CDATA[2015-04-13 05:21:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-04-13 05:21:06]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[how-to-make-people-love-you-best-tips-and-tricks]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="dont-miss"><![CDATA[Don't Miss]]></category>
+		<category domain="category" nicename="featured"><![CDATA[Featured]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[736]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product_review_option]]></wp:meta_key>
+		<wp:meta_value><![CDATA[norate]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[accesspress_mag_post_template_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[global-template]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[accesspress_mag_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[global-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_source_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[loremipsum]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_via_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[merina]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[435]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Portland is known as one of the most bicycle friendly cities</title>
+		<link>https://accesspressthemes.com/import/accesspress-mag/2015/04/13/portland-is-known-as-one-of-the-most-bicycle-friendly-cities/</link>
+		<pubDate>Mon, 13 Apr 2015 06:10:17 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?p=93</guid>
+		<description></description>
+		<content:encoded><![CDATA[Remember, a Jedi can feel the Force flowing through him. I can’t get involved! I’ve got work to do! It’s not that I like the Empire, I hate it, but there’s nothing I can do about it right now. It’s such a long way from here. I call it luck. You are a part of the Rebel Alliance and a traitor! Take her away!
+
+Soluta honestatis nec cu, similique delicatissimi sit eu. Ut adipisci erroribus quo, ut cum quis interesset, an vel harum utamur consetetur. Eum atqui iriure volutpat no, no qui hinc scribentur, homero platonem posidonium pri ea. Pro ei hinc velit iriure, ex mea pericula reprehendunt, pro no habeo melius eligendi.Nusquam insolens phaedrum ex qui. Sea ex aliquip scribentur. Graece pertinacia adversarium sed eu, sonet suscipit te quo, an ius minimum intellegebat. No ius diam dissentiunt. Ceteros conceptam ea eam. Veri facer moderatius mea id.
+
+Remember, a Jedi can feel the Force flowing through him. I can’t get involved! I’ve got work to do! It’s not that I like the Empire, I hate it, but there’s nothing I can do about it right now. It’s such a long way from here. I call it luck. You are a part of the Rebel Alliance and a traitor! Take her away!
+
+Soluta honestatis nec cu, similique delicatissimi sit eu. Ut adipisci erroribus quo, ut cum quis interesset, an vel harum utamur consetetur. Eum atqui iriure volutpat no, no qui hinc scribentur, homero platonem posidonium pri ea. Pro ei hinc velit iriure, ex mea pericula reprehendunt, pro no habeo melius eligendi.Nusquam insolens phaedrum ex qui. Sea ex aliquip scribentur. Graece pertinacia adversarium sed eu, sonet suscipit te quo, an ius minimum intellegebat. No ius diam dissentiunt. Ceteros conceptam ea eam. Veri facer moderatius mea id.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>93</wp:post_id>
+		<wp:post_date><![CDATA[2015-04-13 06:10:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-04-13 06:10:17]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[portland-is-known-as-one-of-the-most-bicycle-friendly-cities]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="dont-miss"><![CDATA[Don't Miss]]></category>
+		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+		<category domain="category" nicename="travel-guides"><![CDATA[Travel Guides]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[736]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product_review_option]]></wp:meta_key>
+		<wp:meta_value><![CDATA[norate]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[accesspress_mag_post_template_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[global-template]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[accesspress_mag_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[global-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[346]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Next in 2015 fashion industry?</title>
+		<link>https://accesspressthemes.com/import/accesspress-mag/2015/03/13/next-in-2015-fashion-industry/</link>
+		<pubDate>Fri, 13 Mar 2015 09:10:58 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?p=139</guid>
+		<description></description>
+		<content:encoded><![CDATA[With a New Year right here, we are again at that point of the year when we try to figure out what the next big thing in fashion will be. New fashion collections appear for 2015, like Alexander Wang's, and we all do our best to prepare for a new year of innovation, one that seems to be a lot more interesting than 2014. The fashion world is always evolving. It changes and what is really hot right now will most likely be seen as an old, expired trend tomorrow. Fashion watchers now see the fashion industry practically introducing brand new looks every day to respond to an increase in demands.
+
+<a href="https://accesspressthemes.com/import/accesspress-mag/wp-content/uploads/2015/04/women-428896_640.jpg"><img class="alignnone size-full wp-image-140" src="https://accesspressthemes.com/accesspress-mag/wp-content/uploads/2015/04/women-428896_640.jpg" alt="women-428896_640" width="640" height="359"></a>
+
+Social media also becomes an important medium for the small to medium sized fashion designers and retailers to sell, making it easier to increase profits. People are much more aware of what happens and in 2015 we will see even more traffic revolving around fashion sectors of social networks. We will see new fashion designers who try to use social media and the internet to sell and promote their creations.
+
+<strong>Temporary tattoos</strong>
+
+<a href="https://accesspressthemes.com/import/accesspress-mag/wp-content/uploads/2015/04/tattoo-366330_640.jpg"><img class="alignnone size-medium wp-image-141" src="https://accesspressthemes.com/accesspress-mag/wp-content/uploads/2015/04/tattoo-366330_640-168x300.jpg" alt="tattoo-366330_640" width="168" height="300"></a>The fashion accessory we will surely see develop really fast in 2015 is the temporary tattoo. It is quickly becoming a hit on the aisle and on the runway. Very big fashion industry players like Chanel will invest in temporary tattoos as it launches a limited skin art edition.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>139</wp:post_id>
+		<wp:post_date><![CDATA[2015-03-13 09:10:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-03-13 09:10:58]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[next-in-2015-fashion-industry]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="dont-miss"><![CDATA[Don't Miss]]></category>
+		<category domain="post_tag" nicename="fashion"><![CDATA[Fashion]]></category>
+		<category domain="category" nicename="fashion-and-trends"><![CDATA[Fashion and Trends]]></category>
+		<category domain="post_tag" nicename="next-fashion"><![CDATA[Next Fashion]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[736]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product_review_option]]></wp:meta_key>
+		<wp:meta_value><![CDATA[norate]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[accesspress_mag_post_template_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[global-template]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[accesspress_mag_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[global-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_source_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Fibre 2 fashion]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_source_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://www.fibre2fashion.com/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_via_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Boris Dzhingarov]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[356]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[what-is-the-next-big-thing-in-the-2015-fashion-industry]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>‘Fast &amp; Furious 7′ Will Retire (Not Kill) Paul Walker’s Brian O’Connor</title>
+		<link>https://accesspressthemes.com/import/accesspress-mag/2015/03/17/fast-furious-7%e2%80%b2-will-retire-not-kill-paul-walkers-brian-oconnor/</link>
+		<pubDate>Tue, 17 Mar 2015 06:16:15 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?p=301</guid>
+		<description></description>
+		<content:encoded><![CDATA[In what is probably the most obvious piece of a news to come out this year (so far), Universal has decided that yes, as most of us surmised, in order to continue with Fast &amp; Furious 7 they need a viable workaround for the late Paul Walker’s Brian O’Connor, without hitting too close to Walker’s actual death as a result of a high-speed sports car crash. Hard to do in a Fast &amp; Furious movie.
+
+Surprise, surprise, that solution has now been officially settled upon: Brian O’Connor will get a happier ending than Paul Walker did.
+
+THR reports that F&amp;F7 director James Wan and writer Chris Morgan are tweaking the script in a way that they can use what footage of Walker they already shot (about half the film), while also creating a send off for Walker’s character Brian that would still allow the franchise to continue. The film has currently been pushed back to April 10, 2015 to allow the cast time to grieve and the necessary changes to be made.
+
+I said the following in the immediate aftermath of Walker’s passing, when we were all wondering what was going to happen with the franchise:]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>301</wp:post_id>
+		<wp:post_date><![CDATA[2015-03-17 06:16:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-03-17 06:16:15]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[fast-furious-7%e2%80%b2-will-retire-not-kill-paul-walkers-brian-oconnor]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
+		<category domain="post_tag" nicename="movie"><![CDATA[movie]]></category>
+		<category domain="post_tag" nicename="sportst"><![CDATA[sportst]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[736]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{i:1;a:2:{s:12:"feature_name";s:18:"Movie presentation";s:12:"feature_star";s:3:"4.5";}i:2;a:2:{s:12:"feature_name";s:17:"Use of technology";s:12:"feature_star";s:1:"4";}i:3;a:2:{s:12:"feature_name";s:9:"Marketing";s:12:"feature_star";s:1:"5";}i:4;a:2:{s:12:"feature_name";s:14:"Story writing ";s:12:"feature_star";s:1:"4";}i:5;a:2:{s:12:"feature_name";s:19:"Actors performances";s:12:"feature_star";s:3:"4.5";}i:6;a:2:{s:12:"feature_name";s:17:"Business strategy";s:12:"feature_star";s:1:"5";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product_review_option]]></wp:meta_key>
+		<wp:meta_value><![CDATA[rate_stars]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product_rate_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[I said the following in the immediate aftermath of Walker’s passing, when we were all wondering what was going to happen with the franchise]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[accesspress_mag_post_template_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[global-template]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[accesspress_mag_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[right-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_source_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Screen Rant]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_source_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://accesspressthemes.com/accesspress-mag/#]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_via_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Kofi Outlaw]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_via_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://accesspressthemes.com/accesspress-mag/#]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[768]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[review_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title>Login</title>
 		<link>https://accesspressthemes.com/import/accesspress-mag/2020/08/26/login/</link>
 		<pubDate>Wed, 26 Aug 2020 08:06:45 +0000</pubDate>
@@ -3028,501 +3523,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>404 Page</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/2020/08/26/404-page/</link>
-		<pubDate>Wed, 26 Aug 2020 08:06:45 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-mag/2020/08/26/404-page/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>627</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-26 08:06:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-26 08:06:45]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[404-page]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>8</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[650]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[627]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://accesspressthemes.com/accesspress-mag/404]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Search Page</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/2020/08/26/search-page/</link>
-		<pubDate>Wed, 26 Aug 2020 08:06:45 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-mag/2020/08/26/search-page/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>628</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-26 08:06:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-26 08:06:45]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[search-page]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>9</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[650]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[628]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://accesspressthemes.com/accesspress-mag/?s=mag]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Archive pages</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/2020/08/26/archive-pages/</link>
-		<pubDate>Wed, 26 Aug 2020 08:06:45 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-mag/2020/08/26/archive-pages/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>629</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-26 08:06:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-26 08:06:45]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[archive-pages]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>10</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[650]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[629]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://accesspressthemes.com/accesspress-mag/archive-pages]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Forum</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/2020/08/26/forum/</link>
-		<pubDate>Wed, 26 Aug 2020 08:06:45 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-mag/2020/08/26/forum/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>630</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-26 08:06:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-26 08:06:45]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[forum]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="top-menu"><![CDATA[Top Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[630]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://accesspressthemes.com/support/forum/themes/free-themes/theme-accesspress-mag/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/2020/08/26/631/</link>
-		<pubDate>Wed, 26 Aug 2020 08:06:45 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-mag/2020/08/26/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>631</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-26 08:06:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-26 08:06:45]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[631]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>19</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[650]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[28]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>BUY PRO VERSION</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/2020/08/26/buy-pro-version/</link>
-		<pubDate>Wed, 26 Aug 2020 08:06:45 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-mag/2020/08/26/buy-pro-version/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>632</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-26 08:06:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-26 08:06:45]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[buy-pro-version]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>20</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[632]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://accesspressthemes.com/wordpress-themes/accesspress-mag-pro/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>View MAG Pro</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/2020/08/26/view-mag-pro/</link>
-		<pubDate>Wed, 26 Aug 2020 08:06:45 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-mag/2020/08/26/view-mag-pro/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>633</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-26 08:06:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-26 08:06:45]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[view-mag-pro]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>21</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[633]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.accesspressthemes.com/accesspress-mag-pro/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Default Layout</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/2020/08/26/default-layout/</link>
-		<pubDate>Wed, 26 Aug 2020 08:06:45 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-mag/2020/08/26/default-layout/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>634</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-26 08:06:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-26 08:06:45]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[default-layout]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>14</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[658]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[634]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://accesspressthemes.com/accesspress-mag/designer-to-watch/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Style 1 Layout</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/2020/08/26/style-1-layout/</link>
-		<pubDate>Wed, 26 Aug 2020 08:06:45 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-mag/2020/08/26/style-1-layout/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>635</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-26 08:06:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-26 08:06:45]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[style-1-layout]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>15</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[658]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[635]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://accesspressthemes.com/accesspress-mag/about-the-growing-gap-profits/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title></title>
 		<link>https://accesspressthemes.com/import/accesspress-mag/2020/08/26/636/</link>
 		<pubDate>Wed, 26 Aug 2020 08:06:45 +0000</pubDate>
@@ -3539,7 +3539,7 @@
 		<wp:post_name><![CDATA[636]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
+		<wp:menu_order>2</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3594,7 +3594,7 @@
 		<wp:post_name><![CDATA[637]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
+		<wp:menu_order>4</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3649,7 +3649,7 @@
 		<wp:post_name><![CDATA[tech]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
+		<wp:menu_order>3</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3704,7 +3704,7 @@
 		<wp:post_name><![CDATA[639]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
+		<wp:menu_order>3</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3743,6 +3743,83 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title>The rankings are bestowed by the League</title>
+		<link>https://accesspressthemes.com/import/accesspress-mag/2015/04/13/the-rankings-are-bestowed-by-the-league/</link>
+		<pubDate>Mon, 13 Apr 2015 04:31:05 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?p=4</guid>
+		<description></description>
+		<content:encoded><![CDATA[All right. Well, take care yourself. I guess that’s what you’re best, presence old master? A tremor in the Force. The last time felt it was in the presence of my old master. I have traced the Rebel spies to her. Now she is my only link to finding their secret base. A tremor in the Force. The last time I felt it was in the presence of my old master.
+
+Remember, a Jedi can feel the Force flowing through him. I can’t get involved! I’ve got work to do! It’s not that I like the Empire, I hate it, but there’s nothing I can do about it right now. It’s such a long way from here. I call it luck. You are a part of the Rebel Alliance and a traitor! Take her away!
+
+<em><strong>Design is not just what it looks like and feels like. Design is how it works.</strong></em>
+
+The plans you refer to will soon be back in our hands. The plans you refer to will soon be back in our hands. Leave that to me. Send a distress signal, and inform the Senate that all on board were killed. Red Five standing by.
+
+I find your lack of faith disturbing. A tremor in the Force. The last time I felt it was in the presence of my old master. Hey, Luke! May the Force be with you. Red Five standing by. Red Five standing by. Your eyes can deceive you. Don’t trust them.
+
+<a href="https://accesspressthemes.com/import/accesspress-mag/wp-content/uploads/2015/04/hockey-610552_640.jpg"><img class="alignnone size-full wp-image-5" src="https://accesspressthemes.com/accesspress-mag/wp-content/uploads/2015/04/hockey-610552_640.jpg" alt="hockey-610552_640" width="640" height="425"></a>
+
+Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I find your lack of faith disturbing. The more you tighten your grip, Tarkin, the more star systems will slip through your fingers. As you wish.
+
+The more you tighten your grip, Tarkin, the more star systems will slip through your fingers. In my experience, there is no such thing as luck. Red Five standing by.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>640</wp:post_id>
+		<wp:post_date><![CDATA[2015-04-13 04:31:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-04-13 04:31:05]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[the-rankings-are-bestowed-by-the-league]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="dont-miss"><![CDATA[Don't Miss]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[736]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product_review_option]]></wp:meta_key>
+		<wp:meta_value><![CDATA[norate]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[accesspress_mag_post_template_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[global-template]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[accesspress_mag_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[global-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_source_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[bbc.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_via_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[games.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[136]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title></title>
 		<link>https://accesspressthemes.com/import/accesspress-mag/2020/08/26/642/</link>
 		<pubDate>Wed, 26 Aug 2020 08:06:47 +0000</pubDate>
@@ -3775,61 +3852,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[10]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/2020/08/26/643/</link>
-		<pubDate>Wed, 26 Aug 2020 08:06:47 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-mag/2020/08/26/643/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>643</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-26 08:06:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-26 08:06:47]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[643]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="top-menu"><![CDATA[Top Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[23]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
@@ -3964,842 +3986,6 @@
 							</item>
 					<item>
 		<title></title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/2020/08/26/646/</link>
-		<pubDate>Wed, 26 Aug 2020 08:06:47 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-mag/2020/08/26/646/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>646</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-26 08:06:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-26 08:06:47]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[646]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[34]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>300x250</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/300x250/</link>
-		<pubDate>Wed, 26 Aug 2020 10:33:11 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-mag/wp-content/uploads/2020/08/300x250.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>771</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-26 10:33:11]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-26 10:33:11]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[300x250]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://accesspressthemes.com/import/accesspress-mag/wp-content/uploads/2020/08/300x250.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/08/300x250.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:300;s:6:"height";i:250;s:4:"file";s:19:"2020/08/300x250.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:19:"300x250-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:34:"accesspress-mag-slider-small-thumb";a:4:{s:4:"file";s:19:"300x250-300x164.jpg";s:5:"width";i:300;s:6:"height";i:164;s:9:"mime-type";s:10:"image/jpeg";}s:33:"accesspress-mag-block-small-thumb";a:4:{s:4:"file";s:19:"300x250-177x118.jpg";s:5:"width";i:177;s:6:"height";i:118;s:9:"mime-type";s:10:"image/jpeg";}s:33:"accesspress-mag-singlepost-style1";a:4:{s:4:"file";s:19:"300x250-300x235.jpg";s:5:"width";i:300;s:6:"height";i:235;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Home</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/</link>
-		<pubDate>Mon, 13 Apr 2015 04:53:55 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?page_id=10</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10</wp:post_id>
-		<wp:post_date><![CDATA[2015-04-13 04:53:55]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-04-13 04:53:55]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[home]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[home-page.php]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_page_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[right-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_aioseop_keywords]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Free WordPress Magazine Theme, Best WordPress Mag Theme, ]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_aioseop_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[AccessPress Mag is an amazingly flexible & modern free magazine theme for WordPress. It is fully-responsive and Search Engine Optimized WordPress theme perfect for online magazines, news websites, editorial related projects, blogs or personal websites.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_aioseop_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Best Free WordPress Magazine Theme - AccessPress Mag]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_time_07f631fa529b246c8bd2b47c9751d898]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1598440163]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_07f631fa529b246c8bd2b47c9751d898]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<iframe title="Foo Fighters - Live at Wembley Stadium (2008)(Full Concert)" width="640" height="360" src="https://www.youtube.com/embed/jcwBsntqjmY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Search Page</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/search-page/</link>
-		<pubDate>Mon, 13 Apr 2015 05:04:55 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?page_id=15</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>15</wp:post_id>
-		<wp:post_date><![CDATA[2015-04-13 05:04:55]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-04-13 05:04:55]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[search-page]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_page_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[right-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>About Us</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/about-us/</link>
-		<pubDate>Mon, 13 Apr 2015 05:06:14 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?page_id=20</guid>
-		<description></description>
-		<content:encoded><![CDATA[<a href="https://accesspressthemes.com/import/accesspress-mag/wp-content/uploads/2015/04/statistics-706382_1280.jpg"><img class="alignnone size-full wp-image-73" src="https://accesspressthemes.com/accesspress-mag/wp-content/uploads/2015/04/statistics-706382_1280.jpg" alt="statistics-706382_1280" width="1280" height="905" /></a>
-
-Duis efficitur sit amet ex ut auctor. Mauris blandit urna et volutpat ultricies. Donec feugiat, nisi eu varius tempus, eros nunc venenatis lacus, eget vestibulum risus nulla ut felis. Curabitur nec justo ultricies leo suscipit ultricies. Cras sed sollicitudin mi. In tempor, velit in consectetur fringilla, ante erat volutpat orci, et consequat augue leo ut justo. Quisque finibus, tellus at dictum vestibulum, nibh enim pellentesque ante, id bibendum est dui suscipit enim.
-
-Mauris semper gravida eleifend. Ut mi libero, porttitor ut leo viverra, tincidunt pulvinar libero. Praesent congue dui urna, non sagittis quam iaculis ut. Aliquam erat volutpat. Nullam condimentum tellus id mattis bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>20</wp:post_id>
-		<wp:post_date><![CDATA[2015-04-13 05:06:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-04-13 05:06:14]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[about-us]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_page_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[right-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Submit News</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/submit-news/</link>
-		<pubDate>Mon, 13 Apr 2015 05:06:31 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?page_id=23</guid>
-		<description></description>
-		<content:encoded><![CDATA[[ap-form]
-]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>23</wp:post_id>
-		<wp:post_date><![CDATA[2015-04-13 05:06:31]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-04-13 05:06:31]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[submit-news]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_page_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[right-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Contact US</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/contact-us/</link>
-		<pubDate>Mon, 13 Apr 2015 05:06:21 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?page_id=24</guid>
-		<description></description>
-		<content:encoded><![CDATA[[contact-form-7 id="85" title="Contact form 1"]
-
-<iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7065.460188409535!2d85.29231191686986!3d27.69473577274197!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb1867a1fbba21%3A0xbdccd9a9bc098251!2sAccess+Keys+Pvt.+Ltd.!5e0!3m2!1sen!2snp!4v1427025499223" width="800" height="400" frameborder="0"></iframe>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>24</wp:post_id>
-		<wp:post_date><![CDATA[2015-04-13 05:06:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-04-13 05:06:21]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_page_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[right-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Page Markup And Formatting</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/page-markup-and-formatting/</link>
-		<pubDate>Mon, 13 Apr 2015 05:06:49 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?page_id=28</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p><strong>Headings</strong></p>
-<h1>Header one</h1>
-<h2>Header two</h2>
-<h3>Header three</h3>
-<h4>Header four</h4>
-<h5>Header five</h5>
-<h6>Header six</h6>
-<h2>Blockquotes</h2>
-<p>Single line blockquote:</p>
-<blockquote><p>Stay hungry. Stay foolish.</p></blockquote>
-<p>Multi line blockquote with a cite reference:</p>
-<blockquote><p>People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things. <cite>Steve Jobs – Apple Worldwide Developers’ Conference, 1997</cite></p></blockquote>
-<h2>Tables</h2>
-<table>
-<tbody>
-<tr>
-<th>Employee</th>
-<th class="views">Salary</th>
-<th></th>
-</tr>
-<tr class="odd">
-<td><a href="http://example.com/">Jane</a></td>
-<td>$1</td>
-<td>Because that’s all Steve Job’ needed for a salary.</td>
-</tr>
-<tr class="even">
-<td><a href="http://example.com">John</a></td>
-<td>$100K</td>
-<td>For all the blogging he does.</td>
-</tr>
-<tr class="odd">
-<td><a href="http://example.com/">Jane</a></td>
-<td>$100M</td>
-<td>Pictures are worth a thousand words, right? So Tom x 1,000.</td>
-</tr>
-<tr class="even">
-<td><a href="http://example.com/">Jane</a></td>
-<td>$100B</td>
-<td>With hair like that?! Enough said…</td>
-</tr>
-</tbody>
-</table>
-<h2>Definition Lists</h2>
-<dl>
-<dt>Definition List Title</dt>
-<dd>Definition list division.</dd>
-<dt>Startup</dt>
-<dd>A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.</dd>
-<dt>#dowork</dt>
-<dd>Coined by Rob Dyrdek and his personal body guard Christopher “Big Black” Boykins, “Do Work” works as a self motivator, to motivating your friends.</dd>
-<dt>Do It Live</dt>
-<dd>I’ll let Bill O’Reilly will <a title="We'll Do It Live" href="https://www.youtube.com/watch?v=O_HyZ5aW76c">explain</a> this one.</dd>
-</dl>
-<h2>Unordered Lists (Nested)</h2>
-<ul>
-<li>List item one
-<ul>
-<li>List item one
-<ul>
-<li>List item one</li>
-<li>List item two</li>
-<li>List item three</li>
-<li>List item four</li>
-</ul>
-</li>
-<li>List item two</li>
-<li>List item three</li>
-<li>List item four</li>
-</ul>
-</li>
-<li>List item two</li>
-<li>List item three</li>
-<li>List item four</li>
-</ul>
-<h2>Ordered List (Nested)</h2>
-<ol>
-<li>List item one
-<ol>
-<li>List item one
-<ol>
-<li>List item one</li>
-<li>List item two</li>
-<li>List item three</li>
-<li>List item four</li>
-</ol>
-</li>
-<li>List item two</li>
-<li>List item three</li>
-<li>List item four</li>
-</ol>
-</li>
-<li>List item two</li>
-<li>List item three</li>
-<li>List item four</li>
-</ol>
-<h2>HTML Tags</h2>
-<p>These supported tags come from the WordPress.com code <a title="Code" href="http://en.support.wordpress.com/code/">FAQ</a>.</p>
-<p><strong>Address Tag</strong></p>
-<address>1 Infinite Loop<br>
-Cupertino, CA 95014<br>
-United States</address>
-<p><strong>Anchor Tag (aka. Link)</strong></p>
-<p>This is an example of a <a title="Apple" href="http://apple.com">link</a>.</p>
-<p><strong>Abbreviation Tag</strong></p>
-<p>The abbreviation <abbr title="Seriously">srsly</abbr> stands for “seriously”.</p>
-<p><strong>Acronym Tag</strong></p>
-<p>The acronym <acronym title="For The Win">ftw</acronym> stands for “for the win”.</p>
-<p><strong>Big Tag</strong></p>
-<p>These tests are a <big>big</big> deal, but this tag is no longer supported in HTML5.</p>
-<p><strong>Cite Tag</strong></p>
-<p>“Code is poetry.” –<cite>Automattic</cite></p>
-<p><strong>Code Tag</strong></p>
-<p>You will learn later on in these tests that <code>word-wrap: break-word;</code> will be your best friend.</p>
-<p><strong>Delete Tag</strong></p>
-<p>This tag will let you <del>strikeout text</del>, but this tag is no longer supported in HTML5 (use the <code>&lt;strike&gt;</code> instead).</p>
-<p><strong>Emphasize Tag</strong></p>
-<p>The emphasize tag should <em>italicize</em> text.</p>
-<p><strong>Insert Tag</strong></p>
-<p>This tag should denote <ins>inserted</ins> text.</p>
-<p><strong>Keyboard Tag</strong></p>
-<p>This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the <code>&lt;code&gt;</code> tag.</p>
-<p><strong>Preformatted Tag</strong></p>
-<p>This tag styles large blocks of code.</p>
-<pre>.post-title {
-	margin: 0 0 5px;
-	font-weight: bold;
-	font-size: 38px;
-	line-height: 1.2;
-}</pre>
-<p><strong>Quote Tag</strong></p>
-<p><q>Developers, developers, developers…</q> –Steve Ballmer</p>
-<p><strong>Strong Tag</strong></p>
-<p>This tag shows <strong>bold<strong> text.</strong></strong></p>
-<p><strong>Subscript Tag</strong></p>
-<p>Getting our science styling on with H<sub>2</sub>O, which should push the “2” down.</p>
-<p><strong>Superscript Tag</strong></p>
-<p>Still sticking with science and Isaac Newton’s E = MC<sup>2</sup>, which should lift the 2 up.</p>
-<p><strong>Teletype Tag</strong></p>
-<p>This rarely used tag emulates <tt>teletype text</tt>, which is usually styled like the <code>&lt;code&gt;</code> tag.</p>
-<p><strong>Variable Tag</strong></p>
-<p>This allows you to denote <var>variables</var>.</p>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>28</wp:post_id>
-		<wp:post_date><![CDATA[2015-04-13 05:06:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-04-13 05:06:49]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[page-markup-and-formatting]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_page_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[right-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Forums</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/forums/</link>
-		<pubDate>Mon, 13 Apr 2015 05:06:57 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?page_id=29</guid>
-		<description></description>
-		<content:encoded><![CDATA[You can use any forum plugin you like here, and yes - I'm bbPress compatible!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>29</wp:post_id>
-		<wp:post_date><![CDATA[2015-04-13 05:06:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-04-13 05:06:57]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[forums]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_page_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[right-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Privacy</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/privacy/</link>
-		<pubDate>Mon, 13 Apr 2015 05:07:29 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?page_id=32</guid>
-		<description></description>
-		<content:encoded><![CDATA[The accesspressthemes.com Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
-<h4>1) What Information Do We Collect?</h4>
-When you visit our website you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and website use information collected on an aggregate basis as you and others browse the site.
-<h4>2) Website Use Information</h4>
-Similar to other commercial websites, this site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and Web server logs to collect information about how this site is used. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at this site, and the websites visited just before and just after our site. We, our advertisers and ad serving companies may also use small technology or pieces of code to determine which advertisements and promotions users have seen and how users responded to them.
-<h4>3) How Do We Use the Information That You Provide to Us?</h4>
-Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to this website, new services and special offers we think you will find valuable. You may notify us of your desire not to receive these offers by clicking the unsubscribe link contained in each such email.
-<h4>4) What Are Cookies?</h4>
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a website, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each website can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites. Some of our business partners (e.g., advertisers) use cookies that originate from their sites. We have no access or control over those cookies.
-<h4>5) How Do We Use Information We Collect from Cookies?</h4>
-As you use this website, the site uses its cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from seeing unnecessary advertisements or requiring you to log in more than is necessary for security. Cookies, in conjunction with our web server’s log files, allow us to calculate the aggregate number of people visiting this site and which parts of the site are most popular. This helps us gather feedback in order to constantly improve this site and better serve our customers. Cookies do not allow us to gather any personal information about you and we do not generally store any personal information that you provided to us in your cookies.
-<h4>6) Sharing Information with Third Parties</h4>
-The information we collect is used to improve the content of this site and the quality of our service, and is not shared with or sold to other organizations for commercial purposes. That being said, your information could be shared under the following circumstances:
-
-We use third parties to facilitate our business, including, but not limited to, sending email and processing payments. In connection with these offerings and business operations, these third parties may have access to your personal information for use in connection with those business activities.
-As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions.
-We may also transfer such information in the course of corporate divestitures, mergers, or any dissolution.
-If it becomes necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law.
-<h4>7) Certain Disclosures</h4>
-We may disclose your personal information if required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law or comply with legal process served on us or affiliated parties; (b) protect and defend our rights and property, our site, the users of our site, and/or our affiliated parties; (c) act under circumstances to protect the safety of users of our site, us, or third parties.
-<h4>8) What About Other Websites Linked to This Site?</h4>
-We are not responsible for the practices employed by websites linked to or from our site nor the information or content contained therein. Often links to other websites are provided solely as pointers to information on topics that may be useful to the users of our site. Please remember that when you use a link to go from our site to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including sites which have a link on our site, is subject to that website’s own rules and policies. Please read over those rules and policies before proceeding.
-<h4>9) Your Consent</h4>
-By using this site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on this site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>32</wp:post_id>
-		<wp:post_date><![CDATA[2015-04-13 05:07:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-04-13 05:07:29]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[privacy]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_page_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Disclaimer</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/disclaimer/</link>
-		<pubDate>Mon, 13 Apr 2015 05:07:22 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?page_id=33</guid>
-		<description></description>
-		<content:encoded><![CDATA[<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s,
-<ol>
-	<li>When an unknown printer took a galley of type and scrambled it to make a type specimen book.</li>
-	<li>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</li>
-	<li>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more.</li>
-	<li>Recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</li>
-</ol>
-<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-<ul>
-	<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, Aliquam tincidunt mauris eu risus.</li>
-	<li>Aliquam tincidunt mauris eu risus, remaining essentially unchanged. It was popularised in the 1960s.</li>
-	<li>Vestibulum auctor dapibus neque, dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard.</li>
-	<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit five centuries, but also the leap into electronic typesetting,.</li>
-	<li>Aliquam tincidunt mauris eu risus Letraset sheets containing Lorem Ipsum passages.</li>
-	<li>Vestibulum auctor dapibus neque passages, and more recently with desktop publishing software like.</li>
-</ul>
-<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>33</wp:post_id>
-		<wp:post_date><![CDATA[2015-04-13 05:07:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-04-13 05:07:22]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[disclaimer]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_page_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[right-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Advertisement</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/advertisement/</link>
-		<pubDate>Mon, 13 Apr 2015 05:07:44 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?page_id=34</guid>
-		<description></description>
-		<content:encoded><![CDATA[Te per enim ullum appellantur, sit habeo reprehendunt cu, lorem repudiandae cu ius. Cu usu accumsan splendide intellegat, vero putent in per, liber diceret omittam est no. Vix id quodsi nostrum expetendis. Discere suscipit theophrastus eam no. Aperiri phaedrum deserunt id has. Natum sanctus vix no, mei te ullum urbanitas intellegebat, ad pri iudicabit assueverit. Et debet mundi simul qui, nominati antiopam id quo, epicuri convenire ea usu.
-
-In sit tale assum nusquam. Laudem delicatissimi in duo, duo ex augue impedit. Eu omnis discere perpetua vis, case praesent ius te, ne dolorum eloquentiam quo. Qui modus antiopam instructior ad, cu mei fastidii prodesset. Ei decore disputando mel, perfecto corrumpit cum cu, at vel inani prompta. Phaedrum persecuti pro ut, ius aliquam quaestio constituam no. Duo an congue reprimique.
-
-Te per enim ullum appellantur, sit habeo reprehendunt cu, lorem repudiandae cu ius. Cu usu accumsan splendide intellegat, vero putent in per, liber diceret omittam est no. Vix id quodsi nostrum expetendis. Discere suscipit theophrastus eam no. Aperiri phaedrum deserunt id has. Natum sanctus vix no, mei te ullum urbanitas intellegebat, ad pri iudicabit assueverit. Et debet mundi simul qui, nominati antiopam id quo, epicuri convenire ea usu.
-
-In sit tale assum nusquam. Laudem delicatissimi in duo, duo ex augue impedit. Eu omnis discere perpetua vis, case praesent ius te, ne dolorum eloquentiam quo. Qui modus antiopam instructior ad, cu mei fastidii prodesset. Ei decore disputando mel, perfecto corrumpit cum cu, at vel inani prompta. Phaedrum persecuti pro ut, ius aliquam quaestio constituam no. Duo an congue reprimique.
-
-Te per enim ullum appellantur, sit habeo reprehendunt cu, lorem repudiandae cu ius. Cu usu accumsan splendide intellegat, vero putent in per, liber diceret omittam est no. Vix id quodsi nostrum expetendis. Discere suscipit theophrastus eam no. Aperiri phaedrum deserunt id has. Natum sanctus vix no, mei te ullum urbanitas intellegebat, ad pri iudicabit assueverit. Et debet mundi simul qui, nominati antiopam id quo, epicuri convenire ea usu.
-
-In sit tale assum nusquam. Laudem delicatissimi in duo, duo ex augue impedit. Eu omnis discere perpetua vis, case praesent ius te, ne dolorum eloquentiam quo. Qui modus antiopam instructior ad, cu mei fastidii prodesset. Ei decore disputando mel, perfecto corrumpit cum cu, at vel inani prompta. Phaedrum persecuti pro ut, ius aliquam quaestio constituam no. Duo an congue reprimique.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>34</wp:post_id>
-		<wp:post_date><![CDATA[2015-04-13 05:07:44]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-04-13 05:07:44]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[advertisement]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_page_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[right-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Video</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/video-featured/</link>
-		<pubDate>Wed, 15 Apr 2015 09:24:22 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?page_id=219</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>219</wp:post_id>
-		<wp:post_date><![CDATA[2015-04-15 09:24:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-04-15 09:24:22]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[video-featured]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_page_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[right-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Default Category</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/archive-default/</link>
-		<pubDate>Wed, 15 Apr 2015 10:20:16 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?page_id=238</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>238</wp:post_id>
-		<wp:post_date><![CDATA[2015-04-15 10:20:16]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-04-15 10:20:16]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[archive-default]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[template-default-category.php]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_page_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[right-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Style1 Category</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/style1-category/</link>
-		<pubDate>Wed, 15 Apr 2015 10:31:39 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?page_id=242</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>242</wp:post_id>
-		<wp:post_date><![CDATA[2015-04-15 10:31:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-04-15 10:31:39]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[style1-category]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[template-style1-category.php]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_page_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[right-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Post Layout</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/post-layout/</link>
-		<pubDate>Mon, 03 Aug 2015 07:56:23 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?page_id=373</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>373</wp:post_id>
-		<wp:post_date><![CDATA[2015-08-03 07:56:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-08-03 07:56:23]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[post-layout]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_page_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[right-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/2020/08/26/647/</link>
-		<pubDate>Wed, 26 Aug 2020 08:06:47 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-mag/2020/08/26/647/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>647</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-26 08:06:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-26 08:06:47]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[647]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[32]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/2020/08/26/648/</link>
-		<pubDate>Wed, 26 Aug 2020 08:06:47 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-mag/2020/08/26/648/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>648</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-26 08:06:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-26 08:06:47]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[648]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[33]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
 		<link>https://accesspressthemes.com/import/accesspress-mag/2020/08/26/649/</link>
 		<pubDate>Wed, 26 Aug 2020 08:06:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
@@ -4854,236 +4040,34 @@ In sit tale assum nusquam. Laudem delicatissimi in duo, duo ex augue impedit. Eu
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/2020/08/26/656/</link>
-		<pubDate>Wed, 26 Aug 2020 08:06:47 +0000</pubDate>
+		<title>300x250</title>
+		<link>https://accesspressthemes.com/import/accesspress-mag/300x250/</link>
+		<pubDate>Wed, 26 Aug 2020 10:33:11 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-mag/2020/08/26/656/</guid>
+		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-mag/wp-content/uploads/2020/08/300x250.jpg</guid>
 		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>656</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-26 08:06:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-26 08:06:47]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[656]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>11</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[629]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[238]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/2020/08/26/657/</link>
-		<pubDate>Wed, 26 Aug 2020 08:06:47 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-mag/2020/08/26/657/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>657</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-26 08:06:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-26 08:06:47]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[657]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>12</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[629]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[242]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/2020/08/26/658/</link>
-		<pubDate>Wed, 26 Aug 2020 08:06:47 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-mag/2020/08/26/658/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>658</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-26 08:06:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-26 08:06:47]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[658]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>13</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[650]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[373]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>How to make people love you best tips and tricks</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/2015/04/13/how-to-make-people-love-you-best-tips-and-tricks/</link>
-		<pubDate>Mon, 13 Apr 2015 05:21:06 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?p=59</guid>
-		<description></description>
-		<content:encoded><![CDATA[There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
-
-But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.
-<figure class="wp-caption alignleft"><img class="alignnone size-medium wp-image-60" src="https://accesspressthemes.com/accesspress-mag/wp-content/uploads/2015/04/apple-570965_640-300x200.jpg" alt="apple-570965_640" width="300" height="200"><figcaption class="wp-caption-text">Fruitfull</figcaption></figure>
-No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>59</wp:post_id>
-		<wp:post_date><![CDATA[2015-04-13 05:21:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-04-13 05:21:06]]></wp:post_date_gmt>
+		<wp:post_id>771</wp:post_id>
+		<wp:post_date><![CDATA[2020-08-26 10:33:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-08-26 10:33:11]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[how-to-make-people-love-you-best-tips-and-tricks]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[300x250]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="dont-miss"><![CDATA[Don't Miss]]></category>
-		<category domain="category" nicename="featured"><![CDATA[Featured]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://accesspressthemes.com/import/accesspress-mag/wp-content/uploads/2020/08/300x250.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/08/300x250.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[736]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[product_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[product_review_option]]></wp:meta_key>
-		<wp:meta_value><![CDATA[norate]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_post_template_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[global-template]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[global-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_source_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[loremipsum]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_via_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[merina]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[435]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:300;s:6:"height";i:250;s:4:"file";s:19:"2020/08/300x250.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:19:"300x250-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:34:"accesspress-mag-slider-small-thumb";a:4:{s:4:"file";s:19:"300x250-300x164.jpg";s:5:"width";i:300;s:6:"height";i:164;s:9:"mime-type";s:10:"image/jpeg";}s:33:"accesspress-mag-block-small-thumb";a:4:{s:4:"file";s:19:"300x250-177x118.jpg";s:5:"width";i:177;s:6:"height";i:118;s:9:"mime-type";s:10:"image/jpeg";}s:33:"accesspress-mag-singlepost-style1";a:4:{s:4:"file";s:19:"300x250-300x235.jpg";s:5:"width";i:300;s:6:"height";i:235;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5158,69 +4142,6 @@ Ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis dolorib
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[review_count]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Portland is known as one of the most bicycle friendly cities</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/2015/04/13/portland-is-known-as-one-of-the-most-bicycle-friendly-cities/</link>
-		<pubDate>Mon, 13 Apr 2015 06:10:17 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?p=93</guid>
-		<description></description>
-		<content:encoded><![CDATA[Remember, a Jedi can feel the Force flowing through him. I can’t get involved! I’ve got work to do! It’s not that I like the Empire, I hate it, but there’s nothing I can do about it right now. It’s such a long way from here. I call it luck. You are a part of the Rebel Alliance and a traitor! Take her away!
-
-Soluta honestatis nec cu, similique delicatissimi sit eu. Ut adipisci erroribus quo, ut cum quis interesset, an vel harum utamur consetetur. Eum atqui iriure volutpat no, no qui hinc scribentur, homero platonem posidonium pri ea. Pro ei hinc velit iriure, ex mea pericula reprehendunt, pro no habeo melius eligendi.Nusquam insolens phaedrum ex qui. Sea ex aliquip scribentur. Graece pertinacia adversarium sed eu, sonet suscipit te quo, an ius minimum intellegebat. No ius diam dissentiunt. Ceteros conceptam ea eam. Veri facer moderatius mea id.
-
-Remember, a Jedi can feel the Force flowing through him. I can’t get involved! I’ve got work to do! It’s not that I like the Empire, I hate it, but there’s nothing I can do about it right now. It’s such a long way from here. I call it luck. You are a part of the Rebel Alliance and a traitor! Take her away!
-
-Soluta honestatis nec cu, similique delicatissimi sit eu. Ut adipisci erroribus quo, ut cum quis interesset, an vel harum utamur consetetur. Eum atqui iriure volutpat no, no qui hinc scribentur, homero platonem posidonium pri ea. Pro ei hinc velit iriure, ex mea pericula reprehendunt, pro no habeo melius eligendi.Nusquam insolens phaedrum ex qui. Sea ex aliquip scribentur. Graece pertinacia adversarium sed eu, sonet suscipit te quo, an ius minimum intellegebat. No ius diam dissentiunt. Ceteros conceptam ea eam. Veri facer moderatius mea id.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>93</wp:post_id>
-		<wp:post_date><![CDATA[2015-04-13 06:10:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-04-13 06:10:17]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[portland-is-known-as-one-of-the-most-bicycle-friendly-cities]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="dont-miss"><![CDATA[Don't Miss]]></category>
-		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
-		<category domain="category" nicename="travel-guides"><![CDATA[Travel Guides]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[736]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[product_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[product_review_option]]></wp:meta_key>
-		<wp:meta_value><![CDATA[norate]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_post_template_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[global-template]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[global-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[346]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5757,41 +4678,187 @@ Sit no audire bonorum impedit, id vis tale sale ceteros. Sed ut quod omnesque ar
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Next in 2015 fashion industry?</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/2015/03/13/next-in-2015-fashion-industry/</link>
-		<pubDate>Fri, 13 Mar 2015 09:10:58 +0000</pubDate>
+		<title>Nepal&#039;s year-round trekking route</title>
+		<link>https://accesspressthemes.com/import/accesspress-mag/2015/04/13/nepals-year-round-trekking-route/</link>
+		<pubDate>Mon, 13 Apr 2015 08:36:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?p=139</guid>
+		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?p=125</guid>
 		<description></description>
-		<content:encoded><![CDATA[With a New Year right here, we are again at that point of the year when we try to figure out what the next big thing in fashion will be. New fashion collections appear for 2015, like Alexander Wang's, and we all do our best to prepare for a new year of innovation, one that seems to be a lot more interesting than 2014. The fashion world is always evolving. It changes and what is really hot right now will most likely be seen as an old, expired trend tomorrow. Fashion watchers now see the fashion industry practically introducing brand new looks every day to respond to an increase in demands.
+		<content:encoded><![CDATA[<em>“Ukaalo</em>, <em>oraalo</em>,” said our guide, Naresh Gurung, describing the three-hour hike we’d just begun toward Three Mountain Lodge in central Nepal. He undulated his hand: “up” and “down”.
 
-<a href="https://accesspressthemes.com/import/accesspress-mag/wp-content/uploads/2015/04/women-428896_640.jpg"><img class="alignnone size-full wp-image-140" src="https://accesspressthemes.com/accesspress-mag/wp-content/uploads/2015/04/women-428896_640.jpg" alt="women-428896_640" width="640" height="359"></a>
-
-Social media also becomes an important medium for the small to medium sized fashion designers and retailers to sell, making it easier to increase profits. People are much more aware of what happens and in 2015 we will see even more traffic revolving around fashion sectors of social networks. We will see new fashion designers who try to use social media and the internet to sell and promote their creations.
-
-<strong>Temporary tattoos</strong>
-
-<a href="https://accesspressthemes.com/import/accesspress-mag/wp-content/uploads/2015/04/tattoo-366330_640.jpg"><img class="alignnone size-medium wp-image-141" src="https://accesspressthemes.com/accesspress-mag/wp-content/uploads/2015/04/tattoo-366330_640-168x300.jpg" alt="tattoo-366330_640" width="168" height="300"></a>The fashion accessory we will surely see develop really fast in 2015 is the temporary tattoo. It is quickly becoming a hit on the aisle and on the runway. Very big fashion industry players like Chanel will invest in temporary tattoos as it launches a limited skin art edition.]]></content:encoded>
+Nepal’s classic Himalayan treks –&nbsp;the Annapurna Circuit, say, and the route to Everest Base Camp –&nbsp;are arduous journeys that approach altitudes of 5,416m. This trek I’d signed on for couldn’t be more different: a moderate hike in the 1,200m midlands. We would admire the high Himalayas from afar without being in them. There would be no altitude sickness, no bitter cold, and no avalanches like the one that <a href="#">killed dozens of people on the Annapurna Circuit in October 2014</a>. And after our hike, we’d arrive at lodges – two on this trip – with soft beds, warm showers, and even a cocktail hour.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>139</wp:post_id>
-		<wp:post_date><![CDATA[2015-03-13 09:10:58]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-03-13 09:10:58]]></wp:post_date_gmt>
+		<wp:post_id>125</wp:post_id>
+		<wp:post_date><![CDATA[2015-04-13 08:36:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-04-13 08:36:06]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[next-in-2015-fashion-industry]]></wp:post_name>
+		<wp:post_name><![CDATA[nepals-year-round-trekking-route]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="dont-miss"><![CDATA[Don't Miss]]></category>
-		<category domain="post_tag" nicename="fashion"><![CDATA[Fashion]]></category>
-		<category domain="category" nicename="fashion-and-trends"><![CDATA[Fashion and Trends]]></category>
-		<category domain="post_tag" nicename="next-fashion"><![CDATA[Next Fashion]]></category>
+										<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
+		<category domain="post_tag" nicename="hiking"><![CDATA[Hiking]]></category>
+		<category domain="post_tag" nicename="nepal"><![CDATA[Nepal]]></category>
+		<category domain="category" nicename="travel-guides"><![CDATA[Travel Guides]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[736]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{i:1;a:2:{s:12:"feature_name";s:13:"Article topic";s:12:"feature_star";s:1:"5";}i:2;a:2:{s:12:"feature_name";s:15:"Image selection";s:12:"feature_star";s:1:"4";}i:3;a:2:{s:12:"feature_name";s:12:"Presentation";s:12:"feature_star";s:1:"4";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product_review_option]]></wp:meta_key>
+		<wp:meta_value><![CDATA[rate_stars]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product_rate_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA["We were passing villages that belonged to the Gurung people, one of Nepal’s many ethic groups. Our guide was one of them. Although he travelled abroad and, like many Gurungs"]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[accesspress_mag_post_template_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[global-template]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[accesspress_mag_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[global-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_source_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[bbc travel]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_source_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://www.bbc.com/travel/story/20150323-nepals-year-round-trekking-route]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_via_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Christina Ammon]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_via_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://www.bbc.com/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[361]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[review_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>The secret world of Irish dance</title>
+		<link>https://accesspressthemes.com/import/accesspress-mag/2015/04/13/the-secret-world-of-irish-dance/</link>
+		<pubDate>Mon, 13 Apr 2015 08:42:55 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?p=132</guid>
+		<description></description>
+		<content:encoded><![CDATA[Meet the artists who are putting a distinctly New York spin on traditional Irish craic, all in the lead up to the largest Irish parade in the world.
+
+Has te velit consul dissentiet, has at corpora appetere tincidunt! Vis cu fabulas moderatius, nec nostro salutandi appellantur no? Ei vel vocent omittam, ut adhuc phaedrum qui.
+<figure class="wp-caption aligncenter"><img class="alignnone size-large wp-image-133" src="https://accesspressthemes.com/accesspress-mag/wp-content/uploads/2015/04/p02m518h-1024x410.jpg" alt="p02m518h" width="640" height="256"></figure>
+Mea id solum possim, voluptatum sadipscing cum et, adhuc reque erroribus mel no? At eum modo choro minimum! Cu denique moderatius vim, no expetendis scribentur vim, vidit scaevola accusamus ut vis.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>132</wp:post_id>
+		<wp:post_date><![CDATA[2015-04-13 08:42:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-04-13 08:42:55]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[the-secret-world-of-irish-dance]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_tag" nicename="dance"><![CDATA[dance]]></category>
+		<category domain="category" nicename="fashion-and-trends"><![CDATA[Fashion and Trends]]></category>
+		<category domain="post_tag" nicename="irish"><![CDATA[irish]]></category>
+		<category domain="category" nicename="travel-guides"><![CDATA[Travel Guides]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[736]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product_review_option]]></wp:meta_key>
+		<wp:meta_value><![CDATA[norate]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[accesspress_mag_post_template_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[global-template]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[accesspress_mag_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[global-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[629]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Living in towns without light</title>
+		<link>https://accesspressthemes.com/import/accesspress-mag/2015/04/13/living-in-towns-without-light/</link>
+		<pubDate>Mon, 13 Apr 2015 08:56:05 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?p=136</guid>
+		<description></description>
+		<content:encoded><![CDATA[The rising and setting of the sun controls many of our daily rituals, from when we eat breakfast in the morning to when we wind down at night. But what happens to us if the sun never rises?
+<ul>
+ 	<li><a href="#"><strong>Related article: Seven unknown architectural wonders</strong></a></li>
+</ul>
+To find out, we turned to question and answer community Quora.com, asking “<a href="#">What is it like to live in places with 24 hours of complete daylight or darkness?</a>” Turns out, respondents found pros and cons to sacrificing the sun or the stars for a few months each year.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>136</wp:post_id>
+		<wp:post_date><![CDATA[2015-04-13 08:56:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-04-13 08:56:05]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[living-in-towns-without-light]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="featured"><![CDATA[Featured]]></category>
+		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+		<category domain="post_tag" nicename="nolight"><![CDATA[nolight]]></category>
+		<category domain="category" nicename="travel-guides"><![CDATA[Travel Guides]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -5815,27 +4882,149 @@ Social media also becomes an important medium for the small to medium sized fash
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_source_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Fibre 2 fashion]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_source_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://www.fibre2fashion.com/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[BBC Travel]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_via_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Boris Dzhingarov]]></wp:meta_value>
+		<wp:meta_value><![CDATA[Lindsey Galloway]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[356]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1312]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>The Best Celebrity Shoes of the Week</title>
+		<link>https://accesspressthemes.com/import/accesspress-mag/2015/04/13/the-best-celebrity-shoes-of-the-week/</link>
+		<pubDate>Mon, 13 Apr 2015 09:20:09 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?p=144</guid>
+		<description></description>
+		<content:encoded><![CDATA[We're in the off-season for celebrity red-carpet appearances—minus Lily James's <a href="#" target="_blank" rel="noopener noreferrer">epic Cinderella tour</a>, which is somehow still going strong—so that explains the smaller-than-usual batch this week. <em>But</em>, as they say, "quality over quantity" and "these shoes are all worth ogling anyway."
+
+<a href="https://accesspressthemes.com/import/accesspress-mag/wp-content/uploads/2015/04/fashion-605508_1280.jpg"><img class="alignnone size-medium wp-image-145" src="https://accesspressthemes.com/accesspress-mag/wp-content/uploads/2015/04/fashion-605508_1280-300x199.jpg" alt="fashion-605508_1280" width="300" height="199"></a>Mea id solum possim, voluptatum sadipscing cum et, adhuc reque erroribus mel no? At eum modo choro minimum! Cu denique moderatius vim, no expetendis scribentur vim, vidit scaevola accusamus ut vis. Eum putant invenire gloriatur ad, at est falli dicant volutpat, quo te accumsan salutatus.Ei sonet definiebas sit, qui zril iudicabit efficiantur ut, duo minim oratio id. Ex partem utamur delicatissimi vel! At qui ubique nemore, case summo accusam mea eu. Quo alii labitur cu, ut scaevola probatus qualisque pri!]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>144</wp:post_id>
+		<wp:post_date><![CDATA[2015-04-13 09:20:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-04-13 09:20:09]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[the-best-celebrity-shoes-of-the-week]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_tag" nicename="fashion"><![CDATA[Fashion]]></category>
+		<category domain="category" nicename="fashion-and-trends"><![CDATA[Fashion and Trends]]></category>
+		<category domain="post_tag" nicename="shoes"><![CDATA[Shoes]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[what-is-the-next-big-thing-in-the-2015-fashion-industry]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[736]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product_review_option]]></wp:meta_key>
+		<wp:meta_value><![CDATA[norate]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[accesspress_mag_post_template_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[global-template]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[accesspress_mag_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[global-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[416]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>A Fashion Editor&#039;s Secret Styling Tricks</title>
+		<link>https://accesspressthemes.com/import/accesspress-mag/2015/04/13/a-fashion-editors-secret-styling-tricks/</link>
+		<pubDate>Mon, 13 Apr 2015 09:29:26 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?p=148</guid>
+		<description></description>
+		<content:encoded><![CDATA[I'm Lauren, associate editor for MarieClaire.com. Come springtime, I like to revamp my wardrobe with a mix of breezy-chic staples and a slew of new styling tricks I've picked up from the runways or streets of NYC. Click through to see how I style two of my favorite weekend looks.
+
+Mea id solum possim, voluptatum sadipscing cum et, adhuc reque erroribus mel no? At eum modo choro minimum! Cu denique moderatius vim, no expetendis scribentur vim, vidit scaevola accusamus ut vis. Eum putant invenire gloriatur ad, at est falli dicant volutpat, quo te accumsan salutatus.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>148</wp:post_id>
+		<wp:post_date><![CDATA[2015-04-13 09:29:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-04-13 09:29:26]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[a-fashion-editors-secret-styling-tricks]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
+		<category domain="category" nicename="dont-miss"><![CDATA[Don't Miss]]></category>
+		<category domain="category" nicename="fashion-and-trends"><![CDATA[Fashion and Trends]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[736]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product_review_option]]></wp:meta_key>
+		<wp:meta_value><![CDATA[norate]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[accesspress_mag_post_template_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[global-template]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[accesspress_mag_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[global-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_source_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Marieclaire]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_source_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://www.marieclaire.com/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_via_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[LAUREN VALENTI]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_via_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://www.marieclaire.com/author/1546/lauren-valenti/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1635]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6262,244 +5451,6 @@ Quo ut nemore aliquam vocibus. Homero sanctus in his. Sed an quot bonorum. Id pr
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>‘Fast &amp; Furious 7′ Will Retire (Not Kill) Paul Walker’s Brian O’Connor</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/2015/03/17/fast-furious-7%e2%80%b2-will-retire-not-kill-paul-walkers-brian-oconnor/</link>
-		<pubDate>Tue, 17 Mar 2015 06:16:15 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?p=301</guid>
-		<description></description>
-		<content:encoded><![CDATA[In what is probably the most obvious piece of a news to come out this year (so far), Universal has decided that yes, as most of us surmised, in order to continue with Fast &amp; Furious 7 they need a viable workaround for the late Paul Walker’s Brian O’Connor, without hitting too close to Walker’s actual death as a result of a high-speed sports car crash. Hard to do in a Fast &amp; Furious movie.
-
-Surprise, surprise, that solution has now been officially settled upon: Brian O’Connor will get a happier ending than Paul Walker did.
-
-THR reports that F&amp;F7 director James Wan and writer Chris Morgan are tweaking the script in a way that they can use what footage of Walker they already shot (about half the film), while also creating a send off for Walker’s character Brian that would still allow the franchise to continue. The film has currently been pushed back to April 10, 2015 to allow the cast time to grieve and the necessary changes to be made.
-
-I said the following in the immediate aftermath of Walker’s passing, when we were all wondering what was going to happen with the franchise:]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>301</wp:post_id>
-		<wp:post_date><![CDATA[2015-03-17 06:16:15]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-03-17 06:16:15]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[fast-furious-7%e2%80%b2-will-retire-not-kill-paul-walkers-brian-oconnor]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
-		<category domain="post_tag" nicename="movie"><![CDATA[movie]]></category>
-		<category domain="post_tag" nicename="sportst"><![CDATA[sportst]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[736]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[product_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{i:1;a:2:{s:12:"feature_name";s:18:"Movie presentation";s:12:"feature_star";s:3:"4.5";}i:2;a:2:{s:12:"feature_name";s:17:"Use of technology";s:12:"feature_star";s:1:"4";}i:3;a:2:{s:12:"feature_name";s:9:"Marketing";s:12:"feature_star";s:1:"5";}i:4;a:2:{s:12:"feature_name";s:14:"Story writing ";s:12:"feature_star";s:1:"4";}i:5;a:2:{s:12:"feature_name";s:19:"Actors performances";s:12:"feature_star";s:3:"4.5";}i:6;a:2:{s:12:"feature_name";s:17:"Business strategy";s:12:"feature_star";s:1:"5";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[product_review_option]]></wp:meta_key>
-		<wp:meta_value><![CDATA[rate_stars]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[product_rate_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[I said the following in the immediate aftermath of Walker’s passing, when we were all wondering what was going to happen with the franchise]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_post_template_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[global-template]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[right-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_source_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Screen Rant]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_source_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://accesspressthemes.com/accesspress-mag/#]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_via_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Kofi Outlaw]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_via_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://accesspressthemes.com/accesspress-mag/#]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[768]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>The rankings are bestowed by the League</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/2015/04/13/the-rankings-are-bestowed-by-the-league/</link>
-		<pubDate>Mon, 13 Apr 2015 04:31:05 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?p=4</guid>
-		<description></description>
-		<content:encoded><![CDATA[All right. Well, take care yourself. I guess that’s what you’re best, presence old master? A tremor in the Force. The last time felt it was in the presence of my old master. I have traced the Rebel spies to her. Now she is my only link to finding their secret base. A tremor in the Force. The last time I felt it was in the presence of my old master.
-
-Remember, a Jedi can feel the Force flowing through him. I can’t get involved! I’ve got work to do! It’s not that I like the Empire, I hate it, but there’s nothing I can do about it right now. It’s such a long way from here. I call it luck. You are a part of the Rebel Alliance and a traitor! Take her away!
-
-<em><strong>Design is not just what it looks like and feels like. Design is how it works.</strong></em>
-
-The plans you refer to will soon be back in our hands. The plans you refer to will soon be back in our hands. Leave that to me. Send a distress signal, and inform the Senate that all on board were killed. Red Five standing by.
-
-I find your lack of faith disturbing. A tremor in the Force. The last time I felt it was in the presence of my old master. Hey, Luke! May the Force be with you. Red Five standing by. Red Five standing by. Your eyes can deceive you. Don’t trust them.
-
-<a href="https://accesspressthemes.com/import/accesspress-mag/wp-content/uploads/2015/04/hockey-610552_640.jpg"><img class="alignnone size-full wp-image-5" src="https://accesspressthemes.com/accesspress-mag/wp-content/uploads/2015/04/hockey-610552_640.jpg" alt="hockey-610552_640" width="640" height="425"></a>
-
-Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I find your lack of faith disturbing. The more you tighten your grip, Tarkin, the more star systems will slip through your fingers. As you wish.
-
-The more you tighten your grip, Tarkin, the more star systems will slip through your fingers. In my experience, there is no such thing as luck. Red Five standing by.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>640</wp:post_id>
-		<wp:post_date><![CDATA[2015-04-13 04:31:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-04-13 04:31:05]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[the-rankings-are-bestowed-by-the-league]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="dont-miss"><![CDATA[Don't Miss]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[736]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[product_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[product_review_option]]></wp:meta_key>
-		<wp:meta_value><![CDATA[norate]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_post_template_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[global-template]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[global-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_source_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[bbc.com]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_via_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[games.com]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[136]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Hello world!</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/2015/04/10/hello-world__trashed/</link>
-		<pubDate>Fri, 10 Apr 2015 05:36:35 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date><![CDATA[2015-04-10 05:36:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-04-10 05:36:35]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1598436052]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:7;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[168]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[product_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[product_review_option]]></wp:meta_key>
-		<wp:meta_value><![CDATA[norate]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_post_template_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[global-template]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[global-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>7</wp:comment_id>
-			<wp:comment_author><![CDATA[Mr WordPress]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[]]></wp:comment_author_email>
-			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2015-04-10 05:36:35]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2015-04-10 05:36:35]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To delete a comment, just log in and view the post&#039;s comments. There you will have the option to edit or delete them.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
-					<item>
 		<title>Contact form 1</title>
 		<link>https://accesspressthemes.com/import/accesspress-mag/?post_type=wpcf7_contact_form&#038;p=85</link>
 		<pubDate>Mon, 13 Apr 2015 05:57:13 +0000</pubDate>
@@ -6633,356 +5584,6 @@ This e-mail was sent from a contact form on Accesspress Mag (http://accesspresst
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
 		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Nepal&#039;s year-round trekking route</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/2015/04/13/nepals-year-round-trekking-route/</link>
-		<pubDate>Mon, 13 Apr 2015 08:36:06 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?p=125</guid>
-		<description></description>
-		<content:encoded><![CDATA[<em>“Ukaalo</em>, <em>oraalo</em>,” said our guide, Naresh Gurung, describing the three-hour hike we’d just begun toward Three Mountain Lodge in central Nepal. He undulated his hand: “up” and “down”.
-
-Nepal’s classic Himalayan treks –&nbsp;the Annapurna Circuit, say, and the route to Everest Base Camp –&nbsp;are arduous journeys that approach altitudes of 5,416m. This trek I’d signed on for couldn’t be more different: a moderate hike in the 1,200m midlands. We would admire the high Himalayas from afar without being in them. There would be no altitude sickness, no bitter cold, and no avalanches like the one that <a href="#">killed dozens of people on the Annapurna Circuit in October 2014</a>. And after our hike, we’d arrive at lodges – two on this trip – with soft beds, warm showers, and even a cocktail hour.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>125</wp:post_id>
-		<wp:post_date><![CDATA[2015-04-13 08:36:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-04-13 08:36:06]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[nepals-year-round-trekking-route]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
-		<category domain="post_tag" nicename="hiking"><![CDATA[Hiking]]></category>
-		<category domain="post_tag" nicename="nepal"><![CDATA[Nepal]]></category>
-		<category domain="category" nicename="travel-guides"><![CDATA[Travel Guides]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[736]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[product_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:3:{i:1;a:2:{s:12:"feature_name";s:13:"Article topic";s:12:"feature_star";s:1:"5";}i:2;a:2:{s:12:"feature_name";s:15:"Image selection";s:12:"feature_star";s:1:"4";}i:3;a:2:{s:12:"feature_name";s:12:"Presentation";s:12:"feature_star";s:1:"4";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[product_review_option]]></wp:meta_key>
-		<wp:meta_value><![CDATA[rate_stars]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[product_rate_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA["We were passing villages that belonged to the Gurung people, one of Nepal’s many ethic groups. Our guide was one of them. Although he travelled abroad and, like many Gurungs"]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_post_template_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[global-template]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[global-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_source_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[bbc travel]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_source_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://www.bbc.com/travel/story/20150323-nepals-year-round-trekking-route]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_via_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Christina Ammon]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_via_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://www.bbc.com/]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[361]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>The secret world of Irish dance</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/2015/04/13/the-secret-world-of-irish-dance/</link>
-		<pubDate>Mon, 13 Apr 2015 08:42:55 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?p=132</guid>
-		<description></description>
-		<content:encoded><![CDATA[Meet the artists who are putting a distinctly New York spin on traditional Irish craic, all in the lead up to the largest Irish parade in the world.
-
-Has te velit consul dissentiet, has at corpora appetere tincidunt! Vis cu fabulas moderatius, nec nostro salutandi appellantur no? Ei vel vocent omittam, ut adhuc phaedrum qui.
-<figure class="wp-caption aligncenter"><img class="alignnone size-large wp-image-133" src="https://accesspressthemes.com/accesspress-mag/wp-content/uploads/2015/04/p02m518h-1024x410.jpg" alt="p02m518h" width="640" height="256"></figure>
-Mea id solum possim, voluptatum sadipscing cum et, adhuc reque erroribus mel no? At eum modo choro minimum! Cu denique moderatius vim, no expetendis scribentur vim, vidit scaevola accusamus ut vis.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>132</wp:post_id>
-		<wp:post_date><![CDATA[2015-04-13 08:42:55]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-04-13 08:42:55]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[the-secret-world-of-irish-dance]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="dance"><![CDATA[dance]]></category>
-		<category domain="category" nicename="fashion-and-trends"><![CDATA[Fashion and Trends]]></category>
-		<category domain="post_tag" nicename="irish"><![CDATA[irish]]></category>
-		<category domain="category" nicename="travel-guides"><![CDATA[Travel Guides]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[736]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[product_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[product_review_option]]></wp:meta_key>
-		<wp:meta_value><![CDATA[norate]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_post_template_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[global-template]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[global-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[629]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Living in towns without light</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/2015/04/13/living-in-towns-without-light/</link>
-		<pubDate>Mon, 13 Apr 2015 08:56:05 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?p=136</guid>
-		<description></description>
-		<content:encoded><![CDATA[The rising and setting of the sun controls many of our daily rituals, from when we eat breakfast in the morning to when we wind down at night. But what happens to us if the sun never rises?
-<ul>
- 	<li><a href="#"><strong>Related article: Seven unknown architectural wonders</strong></a></li>
-</ul>
-To find out, we turned to question and answer community Quora.com, asking “<a href="#">What is it like to live in places with 24 hours of complete daylight or darkness?</a>” Turns out, respondents found pros and cons to sacrificing the sun or the stars for a few months each year.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>136</wp:post_id>
-		<wp:post_date><![CDATA[2015-04-13 08:56:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-04-13 08:56:05]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[living-in-towns-without-light]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="featured"><![CDATA[Featured]]></category>
-		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
-		<category domain="post_tag" nicename="nolight"><![CDATA[nolight]]></category>
-		<category domain="category" nicename="travel-guides"><![CDATA[Travel Guides]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[736]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[product_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[product_review_option]]></wp:meta_key>
-		<wp:meta_value><![CDATA[norate]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_post_template_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[global-template]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[global-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_source_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[BBC Travel]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_via_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Lindsey Galloway]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1312]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>The Best Celebrity Shoes of the Week</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/2015/04/13/the-best-celebrity-shoes-of-the-week/</link>
-		<pubDate>Mon, 13 Apr 2015 09:20:09 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?p=144</guid>
-		<description></description>
-		<content:encoded><![CDATA[We're in the off-season for celebrity red-carpet appearances—minus Lily James's <a href="#" target="_blank" rel="noopener noreferrer">epic Cinderella tour</a>, which is somehow still going strong—so that explains the smaller-than-usual batch this week. <em>But</em>, as they say, "quality over quantity" and "these shoes are all worth ogling anyway."
-
-<a href="https://accesspressthemes.com/import/accesspress-mag/wp-content/uploads/2015/04/fashion-605508_1280.jpg"><img class="alignnone size-medium wp-image-145" src="https://accesspressthemes.com/accesspress-mag/wp-content/uploads/2015/04/fashion-605508_1280-300x199.jpg" alt="fashion-605508_1280" width="300" height="199"></a>Mea id solum possim, voluptatum sadipscing cum et, adhuc reque erroribus mel no? At eum modo choro minimum! Cu denique moderatius vim, no expetendis scribentur vim, vidit scaevola accusamus ut vis. Eum putant invenire gloriatur ad, at est falli dicant volutpat, quo te accumsan salutatus.Ei sonet definiebas sit, qui zril iudicabit efficiantur ut, duo minim oratio id. Ex partem utamur delicatissimi vel! At qui ubique nemore, case summo accusam mea eu. Quo alii labitur cu, ut scaevola probatus qualisque pri!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>144</wp:post_id>
-		<wp:post_date><![CDATA[2015-04-13 09:20:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-04-13 09:20:09]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[the-best-celebrity-shoes-of-the-week]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="fashion"><![CDATA[Fashion]]></category>
-		<category domain="category" nicename="fashion-and-trends"><![CDATA[Fashion and Trends]]></category>
-		<category domain="post_tag" nicename="shoes"><![CDATA[Shoes]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[736]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[product_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[product_review_option]]></wp:meta_key>
-		<wp:meta_value><![CDATA[norate]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_post_template_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[global-template]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[global-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[416]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>A Fashion Editor&#039;s Secret Styling Tricks</title>
-		<link>https://accesspressthemes.com/import/accesspress-mag/2015/04/13/a-fashion-editors-secret-styling-tricks/</link>
-		<pubDate>Mon, 13 Apr 2015 09:29:26 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-mag/?p=148</guid>
-		<description></description>
-		<content:encoded><![CDATA[I'm Lauren, associate editor for MarieClaire.com. Come springtime, I like to revamp my wardrobe with a mix of breezy-chic staples and a slew of new styling tricks I've picked up from the runways or streets of NYC. Click through to see how I style two of my favorite weekend looks.
-
-Mea id solum possim, voluptatum sadipscing cum et, adhuc reque erroribus mel no? At eum modo choro minimum! Cu denique moderatius vim, no expetendis scribentur vim, vidit scaevola accusamus ut vis. Eum putant invenire gloriatur ad, at est falli dicant volutpat, quo te accumsan salutatus.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>148</wp:post_id>
-		<wp:post_date><![CDATA[2015-04-13 09:29:26]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-04-13 09:29:26]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[a-fashion-editors-secret-styling-tricks]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
-		<category domain="category" nicename="dont-miss"><![CDATA[Don't Miss]]></category>
-		<category domain="category" nicename="fashion-and-trends"><![CDATA[Fashion and Trends]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[apss_content_flag]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[736]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[product_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[product_review_option]]></wp:meta_key>
-		<wp:meta_value><![CDATA[norate]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_post_template_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[global-template]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[accesspress_mag_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[global-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_source_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Marieclaire]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_source_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://www.marieclaire.com/]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_via_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[LAUREN VALENTI]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_via_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://www.marieclaire.com/author/1546/lauren-valenti/]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1635]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
