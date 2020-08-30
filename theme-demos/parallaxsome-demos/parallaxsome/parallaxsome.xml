@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.5" created="2020-08-30 04:21" -->
+	<!-- generator="WordPress/5.5" created="2020-08-30 04:27" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Parallaxsome</title>
 	<link>https://accesspressthemes.com/import/parallaxsome</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Sun, 30 Aug 2020 04:21:17 +0000</pubDate>
+	<pubDate>Sun, 30 Aug 2020 04:27:03 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://accesspressthemes.com/import/parallaxsome</wp:base_site_url>
@@ -245,37 +245,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>3b</title>
-		<link>https://accesspressthemes.com/import/parallaxsome/3b/</link>
-		<pubDate>Tue, 25 Aug 2020 11:31:02 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/parallaxsome/wp-content/uploads/2020/08/3b.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>309</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-25 11:31:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-25 11:31:02]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[3b]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://accesspressthemes.com/import/parallaxsome/wp-content/uploads/2020/08/3b.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/08/3b.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:400;s:6:"height";i:300;s:4:"file";s:14:"2020/08/3b.png";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:14:"3b-300x225.png";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:14:"3b-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:22:"parallaxsome-site-logo";a:4:{s:4:"file";s:13:"3b-120x90.png";s:5:"width";i:120;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}s:27:"parallaxsome_services_thumb";a:4:{s:4:"file";s:14:"3b-393x300.png";s:5:"width";i:393;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:23:"parallaxsome_team_thumb";a:4:{s:4:"file";s:14:"3b-230x300.png";s:5:"width";i:230;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>300</title>
 		<link>https://accesspressthemes.com/import/parallaxsome/about-us/attachment/300/</link>
 		<pubDate>Sun, 30 Aug 2020 04:15:10 +0000</pubDate>
@@ -304,251 +273,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:300;s:6:"height";i:300;s:4:"file";s:15:"2020/08/300.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:15:"300-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:22:"parallaxsome-site-logo";a:4:{s:4:"file";s:13:"300-90x90.png";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}s:23:"parallaxsome_team_thumb";a:4:{s:4:"file";s:15:"300-230x300.png";s:5:"width";i:230;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>7b</title>
-		<link>https://accesspressthemes.com/import/parallaxsome/2016/08/29/vintage/7b/</link>
-		<pubDate>Mon, 29 Aug 2016 05:03:00 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/parallaxsome/wp-content/uploads/2016/08/7b.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>92</wp:post_id>
-		<wp:post_date><![CDATA[2016-08-29 05:03:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-08-29 05:03:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[7b]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>91</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://accesspressthemes.com/import/parallaxsome/wp-content/uploads/2016/08/7b.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2016/08/7b.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:400;s:6:"height";i:300;s:4:"file";s:14:"2016/08/7b.png";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:14:"7b-300x225.png";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:14:"7b-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:22:"parallaxsome-site-logo";a:4:{s:4:"file";s:13:"7b-120x90.png";s:5:"width";i:120;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}s:27:"parallaxsome_services_thumb";a:4:{s:4:"file";s:14:"7b-393x300.png";s:5:"width";i:393;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:23:"parallaxsome_team_thumb";a:4:{s:4:"file";s:14:"7b-230x300.png";s:5:"width";i:230;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:15.479272355788765480610891245305538177490234375;s:5:"bytes";i:13334;s:11:"size_before";i:86141;s:10:"size_after";i:72807;s:4:"time";d:0.309999999999999997779553950749686919152736663818359375;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:5:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:16.629999999999999005240169935859739780426025390625;s:5:"bytes";i:1470;s:11:"size_before";i:8842;s:10:"size_after";i:7372;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:18.300000000000000710542735760100185871124267578125;s:5:"bytes";i:3948;s:11:"size_before";i:21579;s:10:"size_after";i:17631;s:4:"time";d:0.059999999999999997779553950749686919152736663818359375;}s:22:"parallaxsome-site-logo";O:8:"stdClass":5:{s:7:"percent";d:19.440000000000001278976924368180334568023681640625;s:5:"bytes";i:956;s:11:"size_before";i:4917;s:10:"size_after";i:3961;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:23:"parallaxsome_team_thumb";O:8:"stdClass":5:{s:7:"percent";d:18.6099999999999994315658113919198513031005859375;s:5:"bytes";i:4022;s:11:"size_before";i:21617;s:10:"size_after";i:17595;s:4:"time";d:0.11999999999999999555910790149937383830547332763671875;}s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:10.07000000000000028421709430404007434844970703125;s:5:"bytes";i:2938;s:11:"size_before";i:29186;s:10:"size_after";i:26248;s:4:"time";d:0.08000000000000000166533453693773481063544750213623046875;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>woody</title>
-		<link>https://accesspressthemes.com/import/parallaxsome/2016/08/29/woody/woody/</link>
-		<pubDate>Mon, 29 Aug 2016 05:26:32 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/parallaxsome/wp-content/uploads/2016/08/woody.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>98</wp:post_id>
-		<wp:post_date><![CDATA[2016-08-29 05:26:32]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-08-29 05:26:32]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[woody]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>97</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://accesspressthemes.com/import/parallaxsome/wp-content/uploads/2016/08/woody.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2016/08/woody.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:139;s:6:"height";i:95;s:4:"file";s:17:"2016/08/woody.png";s:5:"sizes";a:1:{s:22:"parallaxsome-site-logo";a:4:{s:4:"file";s:16:"woody-132x90.png";s:5:"width";i:132;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:26.46209386281588393785568769089877605438232421875;s:5:"bytes";i:2932;s:11:"size_before";i:11080;s:10:"size_after";i:8148;s:4:"time";d:0.070000000000000006661338147750939242541790008544921875;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:2:{s:22:"parallaxsome-site-logo";O:8:"stdClass":5:{s:7:"percent";d:24.780000000000001136868377216160297393798828125;s:5:"bytes";i:1697;s:11:"size_before";i:6848;s:10:"size_after";i:5151;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:29.17999999999999971578290569595992565155029296875;s:5:"bytes";i:1235;s:11:"size_before";i:4232;s:10:"size_after";i:2997;s:4:"time";d:0.05000000000000000277555756156289135105907917022705078125;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>amazing</title>
-		<link>https://accesspressthemes.com/import/parallaxsome/2016/08/29/woody/amazing/</link>
-		<pubDate>Mon, 29 Aug 2016 05:26:33 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/parallaxsome/wp-content/uploads/2016/08/amazing.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>99</wp:post_id>
-		<wp:post_date><![CDATA[2016-08-29 05:26:33]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-08-29 05:26:33]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[amazing]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>97</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://accesspressthemes.com/import/parallaxsome/wp-content/uploads/2016/08/amazing.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2016/08/amazing.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:119;s:6:"height";i:97;s:4:"file";s:19:"2016/08/amazing.png";s:5:"sizes";a:1:{s:22:"parallaxsome-site-logo";a:4:{s:4:"file";s:18:"amazing-110x90.png";s:5:"width";i:110;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:22.572433929774650351873788167722523212432861328125;s:5:"bytes";i:3015;s:11:"size_before";i:13357;s:10:"size_after";i:10342;s:4:"time";d:0.070000000000000006661338147750939242541790008544921875;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:2:{s:22:"parallaxsome-site-logo";O:8:"stdClass":5:{s:7:"percent";d:21.67999999999999971578290569595992565155029296875;s:5:"bytes";i:1537;s:11:"size_before";i:7091;s:10:"size_after";i:5554;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:23.589999999999999857891452847979962825775146484375;s:5:"bytes";i:1478;s:11:"size_before";i:6266;s:10:"size_after";i:4788;s:4:"time";d:0.040000000000000000832667268468867405317723751068115234375;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>henderson</title>
-		<link>https://accesspressthemes.com/import/parallaxsome/2016/08/29/woody/henderson/</link>
-		<pubDate>Mon, 29 Aug 2016 05:26:34 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/parallaxsome/wp-content/uploads/2016/08/henderson.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>100</wp:post_id>
-		<wp:post_date><![CDATA[2016-08-29 05:26:34]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-08-29 05:26:34]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[henderson]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>97</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://accesspressthemes.com/import/parallaxsome/wp-content/uploads/2016/08/henderson.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2016/08/henderson.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:132;s:6:"height";i:105;s:4:"file";s:21:"2016/08/henderson.png";s:5:"sizes";a:1:{s:22:"parallaxsome-site-logo";a:4:{s:4:"file";s:20:"henderson-113x90.png";s:5:"width";i:113;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:24.25753797324869509566269698552787303924560546875;s:5:"bytes";i:3210;s:11:"size_before";i:13233;s:10:"size_after";i:10023;s:4:"time";d:0.1000000000000000055511151231257827021181583404541015625;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:2:{s:22:"parallaxsome-site-logo";O:8:"stdClass":5:{s:7:"percent";d:24.280000000000001136868377216160297393798828125;s:5:"bytes";i:1671;s:11:"size_before";i:6883;s:10:"size_after";i:5212;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:24.239999999999998436805981327779591083526611328125;s:5:"bytes";i:1539;s:11:"size_before";i:6350;s:10:"size_after";i:4811;s:4:"time";d:0.08000000000000000166533453693773481063544750213623046875;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>mountain</title>
-		<link>https://accesspressthemes.com/import/parallaxsome/2016/08/29/woody/mountain/</link>
-		<pubDate>Mon, 29 Aug 2016 05:26:35 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/parallaxsome/wp-content/uploads/2016/08/mountain.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>101</wp:post_id>
-		<wp:post_date><![CDATA[2016-08-29 05:26:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-08-29 05:26:35]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[mountain]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>97</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://accesspressthemes.com/import/parallaxsome/wp-content/uploads/2016/08/mountain.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2016/08/mountain.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:140;s:6:"height";i:104;s:4:"file";s:20:"2016/08/mountain.png";s:5:"sizes";a:1:{s:22:"parallaxsome-site-logo";a:4:{s:4:"file";s:19:"mountain-121x90.png";s:5:"width";i:121;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:21.70423915706934536729022511281073093414306640625;s:5:"bytes";i:3543;s:11:"size_before";i:16324;s:10:"size_after";i:12781;s:4:"time";d:0.040000000000000000832667268468867405317723751068115234375;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:2:{s:22:"parallaxsome-site-logo";O:8:"stdClass":5:{s:7:"percent";d:23.969999999999998863131622783839702606201171875;s:5:"bytes";i:1948;s:11:"size_before";i:8127;s:10:"size_after";i:6179;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:19.46000000000000085265128291212022304534912109375;s:5:"bytes";i:1595;s:11:"size_before";i:8197;s:10:"size_after";i:6602;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>typography</title>
-		<link>https://accesspressthemes.com/import/parallaxsome/2016/08/29/woody/typography/</link>
-		<pubDate>Mon, 29 Aug 2016 05:26:36 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/parallaxsome/wp-content/uploads/2016/08/typography.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>102</wp:post_id>
-		<wp:post_date><![CDATA[2016-08-29 05:26:36]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-08-29 05:26:36]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[typography]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>97</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://accesspressthemes.com/import/parallaxsome/wp-content/uploads/2016/08/typography.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2016/08/typography.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:118;s:6:"height";i:104;s:4:"file";s:22:"2016/08/typography.png";s:5:"sizes";a:1:{s:22:"parallaxsome-site-logo";a:4:{s:4:"file";s:21:"typography-102x90.png";s:5:"width";i:102;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:22.84874581368327284280894673429429531097412109375;s:5:"bytes";i:3343;s:11:"size_before";i:14631;s:10:"size_after";i:11288;s:4:"time";d:0.040000000000000000832667268468867405317723751068115234375;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:2:{s:22:"parallaxsome-site-logo";O:8:"stdClass":5:{s:7:"percent";d:22.949999999999999289457264239899814128875732421875;s:5:"bytes";i:1807;s:11:"size_before";i:7874;s:10:"size_after";i:6067;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:22.730000000000000426325641456060111522674560546875;s:5:"bytes";i:1536;s:11:"size_before";i:6757;s:10:"size_after";i:5221;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>cl11</title>
-		<link>https://accesspressthemes.com/import/parallaxsome/2016/11/20/the-infinite-west-2/cl11/</link>
-		<pubDate>Sun, 20 Nov 2016 06:48:00 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/parallaxsome/wp-content/uploads/2016/11/cl11.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>167</wp:post_id>
-		<wp:post_date><![CDATA[2016-11-20 06:48:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-11-20 06:48:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cl11]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>165</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://accesspressthemes.com/import/parallaxsome/wp-content/uploads/2016/11/cl11.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2016/11/cl11.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:150;s:6:"height";i:158;s:4:"file";s:16:"2016/11/cl11.png";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:16:"cl11-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:22:"parallaxsome-site-logo";a:4:{s:4:"file";s:14:"cl11-85x90.png";s:5:"width";i:85;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:21.150317572335922022830345667898654937744140625;s:5:"bytes";i:5994;s:11:"size_before";i:28340;s:10:"size_after";i:22346;s:4:"time";d:0.15000000000000002220446049250313080847263336181640625;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:3:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:21.199999999999999289457264239899814128875732421875;s:5:"bytes";i:2116;s:11:"size_before";i:9980;s:10:"size_after";i:7864;s:4:"time";d:0.05000000000000000277555756156289135105907917022705078125;}s:22:"parallaxsome-site-logo";O:8:"stdClass":5:{s:7:"percent";d:19.4200000000000017053025658242404460906982421875;s:5:"bytes";i:1289;s:11:"size_before";i:6637;s:10:"size_after";i:5348;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:22.0799999999999982946974341757595539093017578125;s:5:"bytes";i:2589;s:11:"size_before";i:11723;s:10:"size_after";i:9134;s:4:"time";d:0.08000000000000000166533453693773481063544750213623046875;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -665,6 +389,68 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title>Lorem Ipsum is simply</title>
+		<link>https://accesspressthemes.com/import/parallaxsome/2016/08/05/we-are-access-wordpress-agency/</link>
+		<pubDate>Fri, 05 Aug 2016 09:30:54 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?p=7</guid>
+		<description></description>
+		<content:encoded><![CDATA[dummy text of the printing and typesetting industry.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>7</wp:post_id>
+		<wp:post_date><![CDATA[2016-08-05 09:30:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-08-05 09:30:54]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[we-are-access-wordpress-agency]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="slider"><![CDATA[Slider]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[314]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Lorem Ipsum is simply</title>
+		<link>https://accesspressthemes.com/import/parallaxsome/2016/08/05/professional-code-is-core-power/</link>
+		<pubDate>Fri, 05 Aug 2016 10:03:46 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?p=13</guid>
+		<description></description>
+		<content:encoded><![CDATA[dummy text of the printing and typesetting industry.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>13</wp:post_id>
+		<wp:post_date><![CDATA[2016-08-05 10:03:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-08-05 10:03:46]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[professional-code-is-core-power]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="slider"><![CDATA[Slider]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[314]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title>About Us</title>
 		<link>https://accesspressthemes.com/import/parallaxsome/about-us/</link>
 		<pubDate>Fri, 05 Aug 2016 10:37:20 +0000</pubDate>
@@ -752,6 +538,37 @@ Designer]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
+		<title>Sara Jones</title>
+		<link>https://accesspressthemes.com/import/parallaxsome/2016/08/05/sara-jones/</link>
+		<pubDate>Fri, 05 Aug 2016 11:29:21 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?p=23</guid>
+		<description></description>
+		<content:encoded><![CDATA[Cu mel quis decore, ad ludus inimicus consequat his, quaestio ullamcorper eu qui. Vim ne autem eruditi, nam at harum]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>23</wp:post_id>
+		<wp:post_date><![CDATA[2016-08-05 11:29:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-08-05 11:29:21]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sara-jones]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="team"><![CDATA[Team]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[314]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title>Home</title>
 		<link>https://accesspressthemes.com/import/parallaxsome/</link>
 		<pubDate>Fri, 05 Aug 2016 11:33:27 +0000</pubDate>
@@ -831,234 +648,6 @@ Designer]]></content:encoded>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>https://accesspressthemes.com/import/parallaxsome/2020/08/25/215/</link>
-		<pubDate>Tue, 25 Aug 2020 10:24:57 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/parallaxsome/2020/08/25/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>215</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-25 10:24:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-25 10:24:57]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[215]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="top-menu"><![CDATA[Top Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[20]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>parallaxsome</title>
-		<link>https://accesspressthemes.com/import/parallaxsome/2017/09/21/parallaxsome/</link>
-		<pubDate>Thu, 21 Sep 2017 09:42:48 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://demo.accesspressthemes.com/parallaxsome/parallaxsome/</guid>
-		<description></description>
-		<content:encoded><![CDATA[/*
-You can add your own CSS here.
-
-Click the help icon above to learn more.
-*/
-
-.row {
-    width: 100%;
-    margin-top: 15px;
-}
-
-.row *{
-width: 100%;
-}
-
-.row .col:nth-child(1) {
-    float: left;
-width: 49%;
-}
-
-.row .col:nth-child(2) {
-    float: right;
-width: 49%;
-}
-
-.row input[type="text"], .row input[type="email"] {
-    line-height: 25px;
-}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>279</wp:post_id>
-		<wp:post_date><![CDATA[2017-09-21 09:42:48]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-09-21 09:42:48]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[parallaxsome]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title>1200x900</title>
-		<link>https://accesspressthemes.com/import/parallaxsome/1200x900/</link>
-		<pubDate>Fri, 28 Aug 2020 12:16:18 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/parallaxsome/wp-content/uploads/2020/08/1200x900.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>314</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-28 12:16:18]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-28 12:16:18]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[1200x900]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://accesspressthemes.com/import/parallaxsome/wp-content/uploads/2020/08/1200x900.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/08/1200x900.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:900;s:4:"file";s:20:"2020/08/1200x900.png";s:5:"sizes";a:9:{s:6:"medium";a:4:{s:4:"file";s:20:"1200x900-300x225.png";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:21:"1200x900-1024x768.png";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:20:"1200x900-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:20:"1200x900-768x576.png";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:9:"image/png";}s:22:"parallaxsome-site-logo";a:4:{s:4:"file";s:19:"1200x900-120x90.png";s:5:"width";i:120;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}s:26:"parallaxsome_project_thumb";a:4:{s:4:"file";s:20:"1200x900-450x422.png";s:5:"width";i:450;s:6:"height";i:422;s:9:"mime-type";s:9:"image/png";}s:27:"parallaxsome_services_thumb";a:4:{s:4:"file";s:20:"1200x900-393x384.png";s:5:"width";i:393;s:6:"height";i:384;s:9:"mime-type";s:9:"image/png";}s:23:"parallaxsome_team_thumb";a:4:{s:4:"file";s:20:"1200x900-230x316.png";s:5:"width";i:230;s:6:"height";i:316;s:9:"mime-type";s:9:"image/png";}s:25:"parallaxsome_single_thumb";a:4:{s:4:"file";s:20:"1200x900-820x421.png";s:5:"width";i:820;s:6:"height";i:421;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Lorem Ipsum is simply</title>
-		<link>https://accesspressthemes.com/import/parallaxsome/2016/08/05/we-are-access-wordpress-agency/</link>
-		<pubDate>Fri, 05 Aug 2016 09:30:54 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?p=7</guid>
-		<description></description>
-		<content:encoded><![CDATA[dummy text of the printing and typesetting industry.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>7</wp:post_id>
-		<wp:post_date><![CDATA[2016-08-05 09:30:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-08-05 09:30:54]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[we-are-access-wordpress-agency]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="slider"><![CDATA[Slider]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[314]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Lorem Ipsum is simply</title>
-		<link>https://accesspressthemes.com/import/parallaxsome/2016/08/05/professional-code-is-core-power/</link>
-		<pubDate>Fri, 05 Aug 2016 10:03:46 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?p=13</guid>
-		<description></description>
-		<content:encoded><![CDATA[dummy text of the printing and typesetting industry.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>13</wp:post_id>
-		<wp:post_date><![CDATA[2016-08-05 10:03:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-08-05 10:03:46]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[professional-code-is-core-power]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="slider"><![CDATA[Slider]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[314]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Sara Jones</title>
-		<link>https://accesspressthemes.com/import/parallaxsome/2016/08/05/sara-jones/</link>
-		<pubDate>Fri, 05 Aug 2016 11:29:21 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?p=23</guid>
-		<description></description>
-		<content:encoded><![CDATA[Cu mel quis decore, ad ludus inimicus consequat his, quaestio ullamcorper eu qui. Vim ne autem eruditi, nam at harum]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>23</wp:post_id>
-		<wp:post_date><![CDATA[2016-08-05 11:29:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-08-05 11:29:21]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sara-jones]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="team"><![CDATA[Team]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[314]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -1160,6 +749,61 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 		</wp:postmeta>
 							</item>
 					<item>
+		<title></title>
+		<link>https://accesspressthemes.com/import/parallaxsome/2020/08/25/215/</link>
+		<pubDate>Tue, 25 Aug 2020 10:24:57 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://accesspressthemes.com/import/parallaxsome/2020/08/25/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>215</wp:post_id>
+		<wp:post_date><![CDATA[2020-08-25 10:24:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-08-25 10:24:57]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[215]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="top-menu"><![CDATA[Top Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[20]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title>Blog</title>
 		<link>https://accesspressthemes.com/import/parallaxsome/blog-page/</link>
 		<pubDate>Mon, 28 Nov 2016 09:06:37 +0000</pubDate>
@@ -1209,6 +853,86 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>parallaxsome</title>
+		<link>https://accesspressthemes.com/import/parallaxsome/2017/09/21/parallaxsome/</link>
+		<pubDate>Thu, 21 Sep 2017 09:42:48 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.accesspressthemes.com/parallaxsome/parallaxsome/</guid>
+		<description></description>
+		<content:encoded><![CDATA[/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+.row {
+    width: 100%;
+    margin-top: 15px;
+}
+
+.row *{
+width: 100%;
+}
+
+.row .col:nth-child(1) {
+    float: left;
+width: 49%;
+}
+
+.row .col:nth-child(2) {
+    float: right;
+width: 49%;
+}
+
+.row input[type="text"], .row input[type="email"] {
+    line-height: 25px;
+}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>279</wp:post_id>
+		<wp:post_date><![CDATA[2017-09-21 09:42:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-09-21 09:42:48]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[parallaxsome]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title>1200x900</title>
+		<link>https://accesspressthemes.com/import/parallaxsome/1200x900/</link>
+		<pubDate>Fri, 28 Aug 2020 12:16:18 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://accesspressthemes.com/import/parallaxsome/wp-content/uploads/2020/08/1200x900.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>314</wp:post_id>
+		<wp:post_date><![CDATA[2020-08-28 12:16:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-08-28 12:16:18]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[1200x900]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://accesspressthemes.com/import/parallaxsome/wp-content/uploads/2020/08/1200x900.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/08/1200x900.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:900;s:4:"file";s:20:"2020/08/1200x900.png";s:5:"sizes";a:9:{s:6:"medium";a:4:{s:4:"file";s:20:"1200x900-300x225.png";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:21:"1200x900-1024x768.png";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:20:"1200x900-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:20:"1200x900-768x576.png";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:9:"image/png";}s:22:"parallaxsome-site-logo";a:4:{s:4:"file";s:19:"1200x900-120x90.png";s:5:"width";i:120;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}s:26:"parallaxsome_project_thumb";a:4:{s:4:"file";s:20:"1200x900-450x422.png";s:5:"width";i:450;s:6:"height";i:422;s:9:"mime-type";s:9:"image/png";}s:27:"parallaxsome_services_thumb";a:4:{s:4:"file";s:20:"1200x900-393x384.png";s:5:"width";i:393;s:6:"height";i:384;s:9:"mime-type";s:9:"image/png";}s:23:"parallaxsome_team_thumb";a:4:{s:4:"file";s:20:"1200x900-230x316.png";s:5:"width";i:230;s:6:"height";i:316;s:9:"mime-type";s:9:"image/png";}s:25:"parallaxsome_single_thumb";a:4:{s:4:"file";s:20:"1200x900-820x421.png";s:5:"width";i:820;s:6:"height";i:421;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1566,134 +1290,6 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Daniel Jones</title>
-		<link>https://accesspressthemes.com/import/parallaxsome/2016/08/28/daniel-jones/</link>
-		<pubDate>Sun, 28 Aug 2016 05:56:07 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?p=186</guid>
-		<description></description>
-		<content:encoded><![CDATA[In pri eius ocurreret, no regione conclusionemque vis. Legere nominavi consequat ut per, no vis veniam decore denique]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>186</wp:post_id>
-		<wp:post_date><![CDATA[2016-08-28 05:56:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-08-28 05:56:07]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[daniel-jones]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="team"><![CDATA[Team]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[314]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Tips for Staying Creative</title>
-		<link>https://accesspressthemes.com/import/parallaxsome/2016/11/28/tips-for-staying-creative/</link>
-		<pubDate>Mon, 28 Nov 2016 04:31:02 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?p=81</guid>
-		<description></description>
-		<content:encoded><![CDATA[In pri eius ocurreret, no regione conclusionemque vis. Legere nominavi consequat ut per, no vis veniam decore denique]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>81</wp:post_id>
-		<wp:post_date><![CDATA[2016-11-28 04:31:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-11-28 04:31:02]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[tips-for-staying-creative]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[314]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Books Aspiring Entrepreneur Must Read</title>
-		<link>https://accesspressthemes.com/import/parallaxsome/2016/11/28/books-aspiring-entrepreneur-must-read/</link>
-		<pubDate>Mon, 28 Nov 2016 04:42:23 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?p=84</guid>
-		<description></description>
-		<content:encoded><![CDATA[In pri eius ocurreret, no regione conclusionemque vis. Legere nominavi consequat ut per, no vis veniam decore denique]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>84</wp:post_id>
-		<wp:post_date><![CDATA[2016-11-28 04:42:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-11-28 04:42:23]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[books-aspiring-entrepreneur-must-read]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[314]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5-books-every-aspiring-entrepreneur-must-read]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Taking the Road to Nowhere</title>
-		<link>https://accesspressthemes.com/import/parallaxsome/2016/11/28/taking-the-road-to-nowhere/</link>
-		<pubDate>Mon, 28 Nov 2016 04:52:24 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?p=87</guid>
-		<description></description>
-		<content:encoded><![CDATA[In pri eius ocurreret, no regione conclusionemque vis. Legere nominavi consequat ut per, no vis veniam decore denique]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>87</wp:post_id>
-		<wp:post_date><![CDATA[2016-11-28 04:52:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-11-28 04:52:24]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[taking-the-road-to-nowhere]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[314]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>The American</title>
 		<link>https://accesspressthemes.com/import/parallaxsome/2016/08/29/the-american/</link>
 		<pubDate>Mon, 29 Aug 2016 05:12:37 +0000</pubDate>
@@ -1880,6 +1476,165 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 		</wp:postmeta>
 							</item>
 					<item>
+		<title>Daniel Jones</title>
+		<link>https://accesspressthemes.com/import/parallaxsome/2016/08/28/daniel-jones/</link>
+		<pubDate>Sun, 28 Aug 2016 05:56:07 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?p=186</guid>
+		<description></description>
+		<content:encoded><![CDATA[In pri eius ocurreret, no regione conclusionemque vis. Legere nominavi consequat ut per, no vis veniam decore denique]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>186</wp:post_id>
+		<wp:post_date><![CDATA[2016-08-28 05:56:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-08-28 05:56:07]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[daniel-jones]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="team"><![CDATA[Team]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[314]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>The Infinite West</title>
+		<link>https://accesspressthemes.com/import/parallaxsome/2016/11/20/the-infinite-west-2/</link>
+		<pubDate>Sun, 20 Nov 2016 06:47:03 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?p=165</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>165</wp:post_id>
+		<wp:post_date><![CDATA[2016-11-20 06:47:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-11-20 06:47:03]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[the-infinite-west-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="clients"><![CDATA[Clients]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[314]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Tips for Staying Creative</title>
+		<link>https://accesspressthemes.com/import/parallaxsome/2016/11/28/tips-for-staying-creative/</link>
+		<pubDate>Mon, 28 Nov 2016 04:31:02 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?p=81</guid>
+		<description></description>
+		<content:encoded><![CDATA[In pri eius ocurreret, no regione conclusionemque vis. Legere nominavi consequat ut per, no vis veniam decore denique]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>81</wp:post_id>
+		<wp:post_date><![CDATA[2016-11-28 04:31:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-11-28 04:31:02]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[tips-for-staying-creative]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[314]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Books Aspiring Entrepreneur Must Read</title>
+		<link>https://accesspressthemes.com/import/parallaxsome/2016/11/28/books-aspiring-entrepreneur-must-read/</link>
+		<pubDate>Mon, 28 Nov 2016 04:42:23 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?p=84</guid>
+		<description></description>
+		<content:encoded><![CDATA[In pri eius ocurreret, no regione conclusionemque vis. Legere nominavi consequat ut per, no vis veniam decore denique]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>84</wp:post_id>
+		<wp:post_date><![CDATA[2016-11-28 04:42:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-11-28 04:42:23]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[books-aspiring-entrepreneur-must-read]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[314]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5-books-every-aspiring-entrepreneur-must-read]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Taking the Road to Nowhere</title>
+		<link>https://accesspressthemes.com/import/parallaxsome/2016/11/28/taking-the-road-to-nowhere/</link>
+		<pubDate>Mon, 28 Nov 2016 04:52:24 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?p=87</guid>
+		<description></description>
+		<content:encoded><![CDATA[In pri eius ocurreret, no regione conclusionemque vis. Legere nominavi consequat ut per, no vis veniam decore denique]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>87</wp:post_id>
+		<wp:post_date><![CDATA[2016-11-28 04:52:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-11-28 04:52:24]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[taking-the-road-to-nowhere]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[314]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title>Footer Contact</title>
 		<link>https://accesspressthemes.com/import/parallaxsome/?post_type=wpcf7_contact_form&#038;p=118</link>
 		<pubDate>Mon, 29 Aug 2016 05:45:11 +0000</pubDate>
@@ -2011,37 +1766,6 @@ This e-mail was sent from a contact form on ParallaxSome (http://demo.accesspres
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_config_errors]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{s:11:"mail.sender";a:1:{i:0;a:2:{s:4:"code";i:103;s:4:"args";a:3:{s:7:"message";s:0:"";s:6:"params";a:0:{}s:4:"link";s:70:"https://contactform7.com/configuration-errors/email-not-in-site-domain";}}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>The Infinite West</title>
-		<link>https://accesspressthemes.com/import/parallaxsome/2016/11/20/the-infinite-west-2/</link>
-		<pubDate>Sun, 20 Nov 2016 06:47:03 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?p=165</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>165</wp:post_id>
-		<wp:post_date><![CDATA[2016-11-20 06:47:03]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-11-20 06:47:03]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[the-infinite-west-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="clients"><![CDATA[Clients]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[314]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
