@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.5" created="2020-08-28 12:25" -->
+	<!-- generator="WordPress/5.5" created="2020-08-30 04:21" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Parallaxsome</title>
 	<link>https://accesspressthemes.com/import/parallaxsome</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Fri, 28 Aug 2020 12:25:25 +0000</pubDate>
+	<pubDate>Sun, 30 Aug 2020 04:21:17 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://accesspressthemes.com/import/parallaxsome</wp:base_site_url>
@@ -273,6 +273,37 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:400;s:6:"height";i:300;s:4:"file";s:14:"2020/08/3b.png";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:14:"3b-300x225.png";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:14:"3b-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:22:"parallaxsome-site-logo";a:4:{s:4:"file";s:13:"3b-120x90.png";s:5:"width";i:120;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}s:27:"parallaxsome_services_thumb";a:4:{s:4:"file";s:14:"3b-393x300.png";s:5:"width";i:393;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:23:"parallaxsome_team_thumb";a:4:{s:4:"file";s:14:"3b-230x300.png";s:5:"width";i:230;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>300</title>
+		<link>https://accesspressthemes.com/import/parallaxsome/about-us/attachment/300/</link>
+		<pubDate>Sun, 30 Aug 2020 04:15:10 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://accesspressthemes.com/import/parallaxsome/wp-content/uploads/2020/08/300.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>343</wp:post_id>
+		<wp:post_date><![CDATA[2020-08-30 04:15:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-08-30 04:15:10]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[300]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>20</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://accesspressthemes.com/import/parallaxsome/wp-content/uploads/2020/08/300.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/08/300.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:300;s:6:"height";i:300;s:4:"file";s:15:"2020/08/300.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:15:"300-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:22:"parallaxsome-site-logo";a:4:{s:4:"file";s:13:"300-90x90.png";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}s:23:"parallaxsome_team_thumb";a:4:{s:4:"file";s:15:"300-230x300.png";s:5:"width";i:230;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -555,14 +586,6 @@
 		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_parallaxsome]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1503474250]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[parallaxsome]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:5.50772228070451053127953855437226593494415283203125;s:5:"bytes";i:7011;s:11:"size_before";i:127294;s:10:"size_after";i:120283;s:4:"time";d:0.179999999999999993338661852249060757458209991455078125;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:8:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:7.6699999999999999289457264239899814128875732421875;s:5:"bytes";i:613;s:11:"size_before";i:7995;s:10:"size_after";i:7382;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:6.1500000000000003552713678800500929355621337890625;s:5:"bytes";i:243;s:11:"size_before";i:3951;s:10:"size_after";i:3708;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:4.75;s:5:"bytes";i:670;s:11:"size_before";i:14095;s:10:"size_after";i:13425;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:4.42999999999999971578290569595992565155029296875;s:5:"bytes";i:916;s:11:"size_before";i:20698;s:10:"size_after";i:19782;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:22:"parallaxsome-site-logo";O:8:"stdClass":5:{s:7:"percent";d:6.29000000000000003552713678800500929355621337890625;s:5:"bytes";i:227;s:11:"size_before";i:3609;s:10:"size_after";i:3382;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:26:"parallaxsome_project_thumb";O:8:"stdClass":5:{s:7:"percent";d:5.6500000000000003552713678800500929355621337890625;s:5:"bytes";i:1424;s:11:"size_before";i:25214;s:10:"size_after";i:23790;s:4:"time";d:0.05000000000000000277555756156289135105907917022705078125;}s:23:"parallaxsome_team_thumb";O:8:"stdClass":5:{s:7:"percent";d:6.63999999999999968025576890795491635799407958984375;s:5:"bytes";i:1089;s:11:"size_before";i:16398;s:10:"size_after";i:15309;s:4:"time";d:0.040000000000000000832667268468867405317723751068115234375;}s:25:"parallaxsome_single_thumb";O:8:"stdClass":5:{s:7:"percent";d:5.17999999999999971578290569595992565155029296875;s:5:"bytes";i:1829;s:11:"size_before";i:35334;s:10:"size_after";i:33505;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}}}]]></wp:meta_value>
 		</wp:postmeta>
@@ -648,39 +671,32 @@
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?page_id=20</guid>
 		<description></description>
-		<content:encoded><![CDATA[
-			<h2>We are passionate in people's solutions<br/>even before the need arises.</h2>		
-		https://vimeo.com/234388327		
-							Etiam vel nunc vel dolor pulvinar aliquam ut ut ipsum. Ut id magna in magna porttitor gravida. Etiam nisl lectus, semper ac consequat et, bibendum vitae lectus.
-							<img src="https://accesspressthemes.com/import/parallaxsome/wp-content/uploads/2016/08/members22.png" alt="Manager" />
-													John Doe
-													Designer
-			<h2>We believe in Better than the Best</h2>		
-		<p>Etiam vel nunc vel dolor pulvinar aliquam ut ut ipsum. Ut id magna in magna porttitor gravida.</p>		
-			<a href="#">
-						Read More
-					</a>
-				<h3>
-					This is the heading
-				</h3>
-				<p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
-				<h3>
-					This is the heading
-				</h3>
-				<p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
-				<h3>
-					This is the heading
-				</h3>
-				<p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc faucibus et nisi eu tincidunt. Sed ac purus quis augue venenatis sagittis ut ac augue.
-							<img src="https://accesspressthemes.com/import/parallaxsome/wp-content/uploads/2016/08/members22.png" alt="Manager" />
-													John Doe
-													Designer
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc faucibus et nisi eu tincidunt. Sed ac purus quis augue venenatis sagittis ut ac augue.
-							<img src="https://accesspressthemes.com/import/parallaxsome/wp-content/uploads/2016/08/members22.png" alt="Manager" />
-													John Doe
-													Designer
-		]]></content:encoded>
+		<content:encoded><![CDATA[<h2>Lorem ipsum is dummy text of the printing and typesetting industry..</h2>
+Etiam vel nunc vel dolor pulvinar aliquam ut ut ipsum. Ut id magna in magna porttitor gravida. Etiam nisl lectus, semper ac consequat et, bibendum vitae lectus.
+<img class="alignnone size-full wp-image-343" src="https://accesspressthemes.com/import/parallaxsome/wp-content/uploads/2020/08/300.png" alt="" width="300" height="300" />
+John Doe
+Designer
+<h2>Lorem ipsum is dummy text</h2>
+Etiam vel nunc vel dolor pulvinar aliquam ut ut ipsum. Ut id magna in magna porttitor gravida.
+
+<a href="#">
+Read More
+</a>
+<h3>This is the heading</h3>
+Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+<h3>This is the heading</h3>
+Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+<h3>This is the heading</h3>
+Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc faucibus et nisi eu tincidunt. Sed ac purus quis augue venenatis sagittis ut ac augue.
+<img class="alignnone size-full wp-image-343" src="https://accesspressthemes.com/import/parallaxsome/wp-content/uploads/2020/08/300.png" alt="" width="300" height="300" />
+John Doe
+Designer
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc faucibus et nisi eu tincidunt. Sed ac purus quis augue venenatis sagittis ut ac augue.
+<img class="alignnone size-full wp-image-343" src="https://accesspressthemes.com/import/parallaxsome/wp-content/uploads/2020/08/300.png" alt="" width="300" height="300" />
+John Doe
+Designer]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>20</wp:post_id>
 		<wp:post_date><![CDATA[2016-08-05 10:37:20]]></wp:post_date>
@@ -695,6 +711,10 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
@@ -724,11 +744,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_7d84eafff72c14d856732418e6840b02]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<iframe src="https://player.vimeo.com/video/234388327" width="640" height="360" frameborder="0" title="FRIENDLY FIRE (Music by SKRILLEX)" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>]]></wp:meta_value>
+		<wp:meta_value><![CDATA[<iframe title="FRIENDLY FIRE (Music by SKRILLEX)" src="https://player.vimeo.com/video/234388327?dnt=1&amp;app_id=122963" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_7d84eafff72c14d856732418e6840b02]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1505980719]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1598760801]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -764,9 +784,7 @@
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?page_id=34</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="content-left"><img class="alignnone wp-image-38 size-full" src="https://accesspressthemes.com/import/parallaxsome/wp-content/uploads/2016/08/desktop.png" alt="desktop" width="393" height="384" /></div>
-<div class="content-right">Tangram is built with Foundation 5, the professional choice for designers, developers and teams, with simplicity and beautiful typography is suitable for personal, corporate or creative use. We added 10 predefined colour schemes to make your work easier, you will surely find a colour that fits your need. Vix legimus dissentiet at, mandamus praesent voluptatum in qui.
-<a class="button ps-btn" href="http://accesspressthemes.com/" target="_blank" rel="noopener noreferrer">Learn More</a></div>]]></content:encoded>
+		<content:encoded><![CDATA[<div class="content-left">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>34</wp:post_id>
 		<wp:post_date><![CDATA[2016-08-05 11:38:36]]></wp:post_date>
@@ -784,6 +802,10 @@
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>Programming</title>
@@ -792,9 +814,7 @@
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?page_id=35</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="content-left"><img class="alignnone wp-image-38 size-full" src="https://accesspressthemes.com/import/parallaxsome/wp-content/uploads/2016/08/desktop.png" alt="desktop" width="393" height="384" /></div>
-<div class="content-right">Tangram is built with Foundation 5, the professional choice for designers, developers and teams, with simplicity and beautiful typography is suitable for personal, corporate or creative use. We added 10 predefined colour schemes to make your work easier, you will surely find a colour that fits your need. Vix legimus dissentiet at, mandamus praesent voluptatum in qui.
-<a class="button ps-btn" href="http://accesspressthemes.com/" target="_blank" rel="noopener noreferrer">Learn More</a></div>]]></content:encoded>
+		<content:encoded><![CDATA[<div class="content-left">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>35</wp:post_id>
 		<wp:post_date><![CDATA[2016-08-05 11:39:12]]></wp:post_date>
@@ -811,6 +831,10 @@
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -918,61 +942,6 @@ width: 49%;
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title></title>
-		<link>https://accesspressthemes.com/import/parallaxsome/2020/08/25/280/</link>
-		<pubDate>Tue, 25 Aug 2020 10:24:58 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/parallaxsome/2020/08/25/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>280</wp:post_id>
-		<wp:post_date><![CDATA[2020-08-25 10:24:58]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-08-25 10:24:58]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[280]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="top-menu"><![CDATA[Top Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[246]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>1200x900</title>
 		<link>https://accesspressthemes.com/import/parallaxsome/1200x900/</link>
 		<pubDate>Fri, 28 Aug 2020 12:16:18 +0000</pubDate>
@@ -1004,13 +973,13 @@ width: 49%;
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>We are Access WordPress Agency</title>
+		<title>Lorem Ipsum is simply</title>
 		<link>https://accesspressthemes.com/import/parallaxsome/2016/08/05/we-are-access-wordpress-agency/</link>
 		<pubDate>Fri, 05 Aug 2016 09:30:54 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?p=7</guid>
 		<description></description>
-		<content:encoded><![CDATA[We create products and services for a connected world.]]></content:encoded>
+		<content:encoded><![CDATA[dummy text of the printing and typesetting industry.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>7</wp:post_id>
 		<wp:post_date><![CDATA[2016-08-05 09:30:54]]></wp:post_date>
@@ -1035,13 +1004,13 @@ width: 49%;
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Professional code is core power</title>
+		<title>Lorem Ipsum is simply</title>
 		<link>https://accesspressthemes.com/import/parallaxsome/2016/08/05/professional-code-is-core-power/</link>
 		<pubDate>Fri, 05 Aug 2016 10:03:46 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?p=13</guid>
 		<description></description>
-		<content:encoded><![CDATA[We craft unique &amp; new digital experience layouts!]]></content:encoded>
+		<content:encoded><![CDATA[dummy text of the printing and typesetting industry.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>13</wp:post_id>
 		<wp:post_date><![CDATA[2016-08-05 10:03:46]]></wp:post_date>
@@ -1103,9 +1072,7 @@ width: 49%;
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?page_id=36</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="content-left"><img class="alignnone wp-image-38 size-full" src="https://accesspressthemes.com/import/parallaxsome/wp-content/uploads/2016/08/desktop.png" alt="desktop" width="393" height="384" /></div>
-<div class="content-right">Tangram is built with Foundation 5, the professional choice for designers, developers and teams, with simplicity and beautiful typography is suitable for personal, corporate or creative use. We added 10 predefined colour schemes to make your work easier, you will surely find a colour that fits your need. Vix legimus dissentiet at, mandamus praesent voluptatum in qui.
-<a class="button ps-btn" href="http://accesspressthemes.com/" target="_blank" rel="noopener noreferrer">Learn More</a></div>]]></content:encoded>
+		<content:encoded><![CDATA[<div class="content-left">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>36</wp:post_id>
 		<wp:post_date><![CDATA[2016-08-05 11:39:22]]></wp:post_date>
@@ -1123,6 +1090,10 @@ width: 49%;
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>Coffee cups</title>
@@ -1131,9 +1102,11 @@ width: 49%;
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?page_id=37</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="content-left"><img class="alignnone wp-image-38 size-full" src="https://accesspressthemes.com/import/parallaxsome/wp-content/uploads/2016/08/desktop.png" alt="desktop" width="393" height="384" /></div>
-<div class="content-right">Tangram is built with Foundation 5, the professional choice for designers, developers and teams, with simplicity and beautiful typography is suitable for personal, corporate or creative use. We added 10 predefined colour schemes to make your work easier, you will surely find a color that fits your need. Vix legimus dissentiet at, mandamus praesent voluptatum in qui.
-<a class="button ps-btn" href="http://accesspressthemes.com/" target="_blank" rel="noopener noreferrer">Learn More</a></div>]]></content:encoded>
+		<content:encoded><![CDATA[<div class="content-left">
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book
+
+</div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>37</wp:post_id>
 		<wp:post_date><![CDATA[2016-08-05 11:39:33]]></wp:post_date>
@@ -1151,6 +1124,10 @@ width: 49%;
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>Database Update</title>
@@ -1159,9 +1136,7 @@ width: 49%;
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?page_id=43</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="content-left"><img class="alignnone wp-image-38 size-full" src="https://accesspressthemes.com/import/parallaxsome/wp-content/uploads/2016/08/desktop.png" alt="desktop" width="393" height="384" /></div>
-<div class="content-right">Tangram is built with Foundation 5, the professional choice for designers, developers and teams, with simplicity and beautiful typography is suitable for personal, corporate or creative use. We added 10 predefined colour schemes to make your work easier, you will surely find a colour that fits your need. Vix legimus dissentiet at, mandamus praesent voluptatum in qui.
-<a class="button ps-btn" href="http://accesspressthemes.com/" target="_blank" rel="noopener noreferrer">Learn More</a></div>]]></content:encoded>
+		<content:encoded><![CDATA[<div class="content-left">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>43</wp:post_id>
 		<wp:post_date><![CDATA[2016-08-05 11:41:48]]></wp:post_date>
@@ -1178,6 +1153,10 @@ width: 49%;
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1204,64 +1183,6 @@ width: 49%;
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Contact Us</title>
-		<link>https://accesspressthemes.com/import/parallaxsome/contact-us/</link>
-		<pubDate>Sat, 05 Aug 2017 05:46:32 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?page_id=246</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-				<h3>
-					Mail
-				</h3>
-				<p>info@yoursite.com<br/>
-email@yoursite.com</p>
-				<h3>
-					Location
-				</h3>
-				<p>Rabibhawan, Kalimati,<br/>
-Kathmandu, Nepal</p>
-				<h3>
-					Phone
-				</h3>
-				<p>+01 2345 6789<br/>+09 8765 4321</p>
-			<h2><a href="#">Mail Us</a></h2>		
-		[contact-form-7 id="277" title="Contact Us Form"]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>246</wp:post_id>
-		<wp:post_date><![CDATA[2017-08-05 05:46:32]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-08-05 05:46:32]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ps_post_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no_sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"x81a0a1","elType":"section","settings":{"structure":"30","padding":{"unit":"px","top":"0","right":"0","bottom":"80","left":"0","isLinked":false}},"elements":[{"id":"5s5t95c","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"fdi5rwi","elType":"widget","settings":{"icon":"fa fa-envelope-open","title_text":"Mail","description_text":"info@yoursite.com<br\/>\nemail@yoursite.com","primary_color":"#e24f31","title_color":"#e24f31","selected_icon":{"value":"fas fa-envelope-open","library":"fa-solid"}},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"1nqnqkv","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"aobumon","elType":"widget","settings":{"icon":"fa fa-map-marker","title_text":"Location","description_text":"Rabibhawan, Kalimati,<br\/>\nKathmandu, Nepal","primary_color":"#e24f31","title_color":"#e24f31","selected_icon":{"value":"fas fa-map-marker-alt","library":"fa-solid"}},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"0ymuzan","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"rmw6blt","elType":"widget","settings":{"icon":"fa fa-headphones","title_text":"Phone","description_text":"+01 2345 6789<br\/>+09 8765 4321","primary_color":"#e24f31","title_color":"#e24f31","selected_icon":{"value":"fas fa-headphones","library":"fa-solid"}},"elements":[],"widgetType":"icon-box"}],"isInner":false}],"isInner":false},{"id":"taf5xnu","elType":"section","settings":{"structure":"30","background_background":"classic","background_color":"#3e3e3e","padding":{"unit":"px","top":"80","right":"0","bottom":"80","left":"0","isLinked":false},"stretch_section":"section-stretched"},"elements":[{"id":"mcs4c8z","elType":"column","settings":{"_column_size":33,"_inline_size":10},"elements":[],"isInner":false},{"id":"oi9d392","elType":"column","settings":{"_column_size":33,"_inline_size":79.3319999999999936335370875895023345947265625},"elements":[{"id":"yk6lx2l","elType":"widget","settings":{"title":"Mail Us","link":{"url":"#","is_external":"","nofollow":""},"align":"center","title_color":"#e24f31","typography_typography":"custom","typography_font_size":{"unit":"px","size":35},"typography_font_family":"Lato","_margin":{"unit":"px","top":"0","right":"0","bottom":"45","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"tt6tfk7","elType":"widget","settings":{"shortcode":"[contact-form-7 id=\"277\" title=\"Contact Us Form\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false},{"id":"7ptdgfo","elType":"column","settings":{"_column_size":33,"_inline_size":10},"elements":[],"isInner":false}],"isInner":false}]]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0.4]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1359,7 +1280,7 @@ Kathmandu, Nepal</p>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?p=47</guid>
 		<description></description>
-		<content:encoded><![CDATA[Tangram is built with Foundation 5, the professional choice for designers, developers and teams, with simplicity and beautiful typography is suitable for personal, corporate or creative use.]]></content:encoded>
+		<content:encoded><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>47</wp:post_id>
 		<wp:post_date><![CDATA[2016-08-05 11:49:03]]></wp:post_date>
@@ -1390,7 +1311,7 @@ Kathmandu, Nepal</p>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?p=48</guid>
 		<description></description>
-		<content:encoded><![CDATA[Tangram is built with Foundation 5, the professional choice for designers, developers and teams, with simplicity and beautiful typography is suitable for personal, corporate or creative use.]]></content:encoded>
+		<content:encoded><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>48</wp:post_id>
 		<wp:post_date><![CDATA[2016-08-05 11:49:28]]></wp:post_date>
@@ -1421,7 +1342,7 @@ Kathmandu, Nepal</p>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?p=49</guid>
 		<description></description>
-		<content:encoded><![CDATA[Tangram is built with Foundation 5, the professional choice for designers, developers and teams, with simplicity and beautiful typography is suitable for personal, corporate or creative use.]]></content:encoded>
+		<content:encoded><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>49</wp:post_id>
 		<wp:post_date><![CDATA[2016-08-05 11:49:45]]></wp:post_date>
@@ -1477,14 +1398,6 @@ Kathmandu, Nepal</p>
 										<category domain="category" nicename="portfolio"><![CDATA[Portfolio]]></category>
 		<category domain="category" nicename="web"><![CDATA[Web]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[314]]></wp:meta_value>
 		</wp:postmeta>
@@ -1500,7 +1413,7 @@ Kathmandu, Nepal</p>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?p=62</guid>
 		<description></description>
-		<content:encoded><![CDATA[Falli percipitur scripserit nec an. Vix eu mentitum apeirian dignissim, lorem movet similique ei qui, dolorem maiestatis scriptorem mei cu. Impedit repudiandae vix no, per cu sumo omnium. At eum quando putant.]]></content:encoded>
+		<content:encoded><![CDATA[In pri eius ocurreret, no regione conclusionemque vis. Legere nominavi consequat ut per, no vis veniam decore denique]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>62</wp:post_id>
 		<wp:post_date><![CDATA[2016-08-08 05:51:11]]></wp:post_date>
@@ -1532,7 +1445,7 @@ Kathmandu, Nepal</p>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?p=65</guid>
 		<description></description>
-		<content:encoded><![CDATA[Falli percipitur scripserit nec an. Vix eu mentitum apeirian dignissim, lorem movet similique ei qui, dolorem maiestatis scriptorem mei cu. Impedit repudiandae vix no, per cu sumo omnium. At eum quando putant.]]></content:encoded>
+		<content:encoded><![CDATA[In pri eius ocurreret, no regione conclusionemque vis. Legere nominavi consequat ut per, no vis veniam decore denique]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>65</wp:post_id>
 		<wp:post_date><![CDATA[2016-08-08 06:00:08]]></wp:post_date>
@@ -1564,7 +1477,7 @@ Kathmandu, Nepal</p>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?p=68</guid>
 		<description></description>
-		<content:encoded><![CDATA[Falli percipitur scripserit nec an. Vix eu mentitum apeirian dignissim, lorem movet similique ei qui, dolorem maiestatis scriptorem mei cu. Impedit repudiandae vix no, per cu sumo omnium. At eum quando putant.]]></content:encoded>
+		<content:encoded><![CDATA[In pri eius ocurreret, no regione conclusionemque vis. Legere nominavi consequat ut per, no vis veniam decore denique]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>68</wp:post_id>
 		<wp:post_date><![CDATA[2016-08-08 06:04:08]]></wp:post_date>
@@ -1596,7 +1509,7 @@ Kathmandu, Nepal</p>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?p=71</guid>
 		<description></description>
-		<content:encoded><![CDATA[Falli percipitur scripserit nec an. Vix eu mentitum apeirian dignissim, lorem movet similique ei qui, dolorem maiestatis scriptorem mei cu. Impedit repudiandae vix no, per cu sumo omnium. At eum quando putant.]]></content:encoded>
+		<content:encoded><![CDATA[In pri eius ocurreret, no regione conclusionemque vis. Legere nominavi consequat ut per, no vis veniam decore denique]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>71</wp:post_id>
 		<wp:post_date><![CDATA[2016-08-08 06:08:06]]></wp:post_date>
@@ -1622,13 +1535,44 @@ Kathmandu, Nepal</p>
 		</wp:postmeta>
 							</item>
 					<item>
+		<title>Vintage</title>
+		<link>https://accesspressthemes.com/import/parallaxsome/2016/08/29/vintage/</link>
+		<pubDate>Mon, 29 Aug 2016 05:03:13 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?p=91</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>91</wp:post_id>
+		<wp:post_date><![CDATA[2016-08-29 05:03:13]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-08-29 05:03:13]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[vintage]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="clients"><![CDATA[Clients]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[314]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title>Daniel Jones</title>
 		<link>https://accesspressthemes.com/import/parallaxsome/2016/08/28/daniel-jones/</link>
 		<pubDate>Sun, 28 Aug 2016 05:56:07 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?p=186</guid>
 		<description></description>
-		<content:encoded><![CDATA[Audiam volumus intellegam ex per. Sed cu iusto mundi cotidieque, vel sumo democritum complectitur ei]]></content:encoded>
+		<content:encoded><![CDATA[In pri eius ocurreret, no regione conclusionemque vis. Legere nominavi consequat ut per, no vis veniam decore denique]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>186</wp:post_id>
 		<wp:post_date><![CDATA[2016-08-28 05:56:07]]></wp:post_date>
@@ -1659,7 +1603,7 @@ Kathmandu, Nepal</p>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?p=81</guid>
 		<description></description>
-		<content:encoded><![CDATA[A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents.]]></content:encoded>
+		<content:encoded><![CDATA[In pri eius ocurreret, no regione conclusionemque vis. Legere nominavi consequat ut per, no vis veniam decore denique]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>81</wp:post_id>
 		<wp:post_date><![CDATA[2016-11-28 04:31:02]]></wp:post_date>
@@ -1690,7 +1634,7 @@ Kathmandu, Nepal</p>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?p=84</guid>
 		<description></description>
-		<content:encoded><![CDATA[I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary]]></content:encoded>
+		<content:encoded><![CDATA[In pri eius ocurreret, no regione conclusionemque vis. Legere nominavi consequat ut per, no vis veniam decore denique]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>84</wp:post_id>
 		<wp:post_date><![CDATA[2016-11-28 04:42:23]]></wp:post_date>
@@ -1725,7 +1669,7 @@ Kathmandu, Nepal</p>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?p=87</guid>
 		<description></description>
-		<content:encoded><![CDATA[I throw myself down among the tall grass by the trickling stream; and, as I lie close to the earth, a thousand unknown plants are noticed by me: when I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath]]></content:encoded>
+		<content:encoded><![CDATA[In pri eius ocurreret, no regione conclusionemque vis. Legere nominavi consequat ut per, no vis veniam decore denique]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>87</wp:post_id>
 		<wp:post_date><![CDATA[2016-11-28 04:52:24]]></wp:post_date>
@@ -1750,33 +1694,6 @@ Kathmandu, Nepal</p>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Vintage</title>
-		<link>https://accesspressthemes.com/import/parallaxsome/2016/08/29/vintage/</link>
-		<pubDate>Mon, 29 Aug 2016 05:03:13 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?p=91</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>91</wp:post_id>
-		<wp:post_date><![CDATA[2016-08-29 05:03:13]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-08-29 05:03:13]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[vintage]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="clients"><![CDATA[Clients]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[92]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>The American</title>
 		<link>https://accesspressthemes.com/import/parallaxsome/2016/08/29/the-american/</link>
 		<pubDate>Mon, 29 Aug 2016 05:12:37 +0000</pubDate>
@@ -1798,7 +1715,15 @@ Kathmandu, Nepal</p>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="clients"><![CDATA[Clients]]></category>
-						</item>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[314]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title>Woody</title>
 		<link>https://accesspressthemes.com/import/parallaxsome/2016/08/29/woody/</link>
@@ -1822,8 +1747,12 @@ Kathmandu, Nepal</p>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="clients"><![CDATA[Clients]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[98]]></wp:meta_value>
+		<wp:meta_value><![CDATA[314]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1849,8 +1778,12 @@ Kathmandu, Nepal</p>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="clients"><![CDATA[Clients]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[99]]></wp:meta_value>
+		<wp:meta_value><![CDATA[314]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1876,8 +1809,12 @@ Kathmandu, Nepal</p>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="clients"><![CDATA[Clients]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[100]]></wp:meta_value>
+		<wp:meta_value><![CDATA[314]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1903,8 +1840,12 @@ Kathmandu, Nepal</p>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="clients"><![CDATA[Clients]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[101]]></wp:meta_value>
+		<wp:meta_value><![CDATA[314]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1930,8 +1871,12 @@ Kathmandu, Nepal</p>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="clients"><![CDATA[Clients]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[102]]></wp:meta_value>
+		<wp:meta_value><![CDATA[314]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2091,8 +2036,12 @@ This e-mail was sent from a contact form on ParallaxSome (http://demo.accesspres
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="clients"><![CDATA[Clients]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[167]]></wp:meta_value>
+		<wp:meta_value><![CDATA[314]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2102,9 +2051,7 @@ This e-mail was sent from a contact form on ParallaxSome (http://demo.accesspres
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?p=189</guid>
 		<description></description>
-		<content:encoded><![CDATA[Usu mollis perfecto no, pro equidem appellantur eu, nibh efficiendi eos ad. Atqui forensibus voluptaria te ius, ei quo indoctum voluptaria constituto. Elit causae deleniti nec ea, porro augue id eum. Vim ex maiorum verterem. His nibh scaevola omittantur an, quo ea eros facilisis. Sit mentitum maluisset id, nihil qualisque constituto eum an.
-
-Cu dictas eripuit eam. Mel ei appareat molestiae, an pri dicit vulputate, at nam fierent accusamus. Sea hinc senserit ei, quas splendide philosophia sed at. Eos ut ipsum alterum maiestatis, ex nobis causae pri. Vix quod altera molestiae ut, vix affert invenire ut. Ad alii consetetur usu, repudiandae conclusionemque usu id, reque melius et sed.]]></content:encoded>
+		<content:encoded><![CDATA[In pri eius ocurreret, no regione conclusionemque vis. Legere nominavi consequat ut per, no vis veniam decore denique]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>189</wp:post_id>
 		<wp:post_date><![CDATA[2016-11-28 06:04:19]]></wp:post_date>
@@ -2136,7 +2083,7 @@ Cu dictas eripuit eam. Mel ei appareat molestiae, an pri dicit vulputate, at nam
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://demo.accesspressthemes.com/parallaxsome/?p=213</guid>
 		<description></description>
-		<content:encoded><![CDATA[Audiam volumus intellegam ex per. Sed cu iusto mundi cotidieque, vel sumo democritum complectitur ei]]></content:encoded>
+		<content:encoded><![CDATA[In pri eius ocurreret, no regione conclusionemque vis. Legere nominavi consequat ut per, no vis veniam decore denique]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>213</wp:post_id>
 		<wp:post_date><![CDATA[2016-11-29 10:59:02]]></wp:post_date>
@@ -2214,6 +2161,10 @@ Cu dictas eripuit eam. Mel ei appareat molestiae, an pri dicit vulputate, at nam
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="clients"><![CDATA[Clients]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[314]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
