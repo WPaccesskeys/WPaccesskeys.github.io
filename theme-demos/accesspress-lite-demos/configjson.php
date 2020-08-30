@@ -14,10 +14,6 @@ $data = array(
 		'xml_file'     		=> $git_url . 'default/content.xml',
 		'widgets_file'  	=> $git_url . 'default/widgets.wie',
 		'theme_settings' 	=> $git_url . 'default/customizer.dat',
-		'import_redux'		=> array(
-			'file_url'		=> $git_url .'default/options.json',
-			'option_name' 	=> 'accesspresslite_options',
-		),
 		'screen'			=> $git_url . 'default/default.png',
 		'preview_url'		=> 'https://demo.accesspressthemes.com/accesspresslite',
 		'home_title'  		=> 'Home',
