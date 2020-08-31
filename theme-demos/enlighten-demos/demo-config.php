@@ -28,9 +28,7 @@ function enlighten_demo_config(){
 				'required_plugins'  => array(
 					'free' => array(
 						array(
-							'slug'  	=> 'accesspress-twitter-feed',
-							'init'  	=> 'accesspress-twitter-feed/accesspress-twitter-feed.php',
-							'name'  	=> 'WP TFeed',
+							
 						),
 					),
 					'premium' => array(
