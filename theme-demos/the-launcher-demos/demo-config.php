@@ -26,6 +26,11 @@
 											),
 					'required_plugins'  => array(
 						'free' => array(
+							array(
+								'slug'  => 'ultimate-form-builder-lite',
+								'init' 	=> 'ultimate-form-builder-lite.php',
+								'name' 	=> 'Ultimate Form Builder Lite',
+							)
 						),
 						'premium' => array(
 
@@ -45,6 +50,11 @@
 					
 					'required_plugins'  => array(
 						'free' => array(
+							array(
+								'slug'  => 'ultimate-form-builder-lite',
+								'init' 	=> 'ultimate-form-builder-lite.php',
+								'name' 	=> 'Ultimate Form Builder Lite',
+							)
 						),
 						'premium' => array(
 						),
@@ -63,6 +73,11 @@
 					
 					'required_plugins'  => array(
 						'free' => array(
+							array(
+								'slug'  => 'ultimate-form-builder-lite',
+								'init' 	=> 'ultimate-form-builder-lite.php',
+								'name' 	=> 'Ultimate Form Builder Lite',
+							)
 						),
 						'premium' => array(
 							
