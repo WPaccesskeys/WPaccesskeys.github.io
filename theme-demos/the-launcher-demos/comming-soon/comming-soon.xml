@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.5" created="2020-09-01 13:05" -->
+	<!-- generator="WordPress/5.5.1" created="2020-09-02 06:16" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Coming Soon</title>
 	<link>https://accesspressthemes.com/import/the-launcher/coming-soon</link>
 	<description>Just another The Launcher Sites site</description>
-	<pubDate>Tue, 01 Sep 2020 13:05:07 +0000</pubDate>
+	<pubDate>Wed, 02 Sep 2020 06:16:51 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://accesspressthemes.com/import/the-launcher/</wp:base_site_url>
@@ -64,7 +64,7 @@
 		<wp:term_name><![CDATA[Uncategorized]]></wp:term_name>
 	</wp:term>
 		
-	<generator>https://wordpress.org/?v=5.5</generator>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
 
 		<item>
 		<title>Sample Page</title>
