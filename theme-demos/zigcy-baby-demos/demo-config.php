@@ -43,6 +43,11 @@ $data = array(
 					'init'  	=> 'yith-woocommerce-quick-view/init.php',
 					'name'  	=> 'YITH WooCommerce Quick View',
 				),
+				array(
+					'slug'  	=> 'mailchimp-for-wp',
+					'init'  	=> 'mailchimp-for-wp/mailchimp-for-wp.php',
+					'name'  	=> 'MC4WP: Mailchimp for WordPress',
+				),
 			),
 		),
 	),
