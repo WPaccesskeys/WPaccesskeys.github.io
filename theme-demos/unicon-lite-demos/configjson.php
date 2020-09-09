@@ -25,6 +25,21 @@ $data = array(
 		),
 		'required_plugins'  => array(
 			'free' => array(
+				array(
+					'slug'  => 'contact-form-7',
+					'init' 	=> 'contact-form-7/wp-contact-form-7.php',
+					'name' 	=> 'Contact Form 7',
+				),
+				array(
+					'slug' => 'accesspress-twitter-feed',
+					'init' => 'accesspress-twitter-feed/accesspress-twitter-feed.php',
+					'name' => 'WP TFeed'
+				),
+				array(
+					'slug'  	=> 'elementor',
+					'init'  	=> 'elementor/elementor.php',
+					'name'  	=> 'Elementor',
+				),
 			),
 			'premium' => array()
 		)
