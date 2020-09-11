@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.5.1" created="2020-09-11 11:27" -->
+	<!-- generator="WordPress/5.5.1" created="2020-09-11 11:57" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Zigcy Cosmetics</title>
 	<link>https://accesspressthemes.com/import/zigcy-cosmetics</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Fri, 11 Sep 2020 11:27:38 +0000</pubDate>
+	<pubDate>Fri, 11 Sep 2020 11:57:51 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://accesspressthemes.com/import/zigcy-cosmetics</wp:base_site_url>
@@ -111,7 +111,7 @@
 		</wp:termmeta>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[438]]></wp:meta_value>
+			<wp:meta_value><![CDATA[622]]></wp:meta_value>
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
@@ -166,7 +166,7 @@
 		</wp:termmeta>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[210]]></wp:meta_value>
+			<wp:meta_value><![CDATA[622]]></wp:meta_value>
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
@@ -228,7 +228,7 @@
 		</wp:termmeta>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[537]]></wp:meta_value>
+			<wp:meta_value><![CDATA[622]]></wp:meta_value>
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
@@ -346,7 +346,7 @@
 		</wp:termmeta>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[237]]></wp:meta_value>
+			<wp:meta_value><![CDATA[622]]></wp:meta_value>
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
@@ -428,7 +428,7 @@
 		</wp:termmeta>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[536]]></wp:meta_value>
+			<wp:meta_value><![CDATA[622]]></wp:meta_value>
 		</wp:termmeta>
 	</wp:term>
 			<wp:term><wp:term_id>30</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[extra]]></wp:term_slug><wp:term_name><![CDATA[Extra]]></wp:term_name>
