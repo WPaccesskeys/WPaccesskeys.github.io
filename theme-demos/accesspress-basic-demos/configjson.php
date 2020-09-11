@@ -17,10 +17,6 @@ $data = array(
 		'widgets_file'  	=> $git_url . 'default/widgets.wie',
 		'theme_settings' 	=> $git_url . 'default/customizer.dat',
 		'home_title'  		=> 'Home',
-		'import_redux'		=> array(
-			'file_url'		=> $git_url .'default/themeoptions.json',
-			'option_name' 	=> 'apbasic_options',
-		),
 		'screen'			=> $git_url . 'default/default.png',
 		'preview_url'		=> 'https://demo.accesspressthemes.com/accesspress-basic',
 		'menus' 			=> array(
