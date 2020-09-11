@@ -48,6 +48,16 @@ $data = array(
 					'init'  	=> 'smart-slider-3/smart-slider-3.php',
 					'name'  	=> 'Smart Slider 3',
 				),
+				array(
+					'slug'  	=> 'siteorigin-panels',
+					'init'  	=> 'siteorigin-panels/siteorigin-panels.php',
+					'name'  	=> 'Page Builder by SiteOrigin',
+				),
+				array(
+					'slug'  	=> 'contact-form-7',
+					'init'  	=> 'contact-form-7/wp-contact-form-7.php',
+					'name'  	=> 'Contact Form 7',
+				)
 			),
 		),
 	),
