@@ -43,6 +43,11 @@ $data = array(
 					'init'  	=> 'woocommerce/woocommerce.php',
 					'name'  	=> 'WooCommerce',
 				),
+				array(
+					'slug'  	=> 'kirki',
+					'init'  	=> 'kirki/kirki.php',
+					'name'  	=> 'kirki',
+				),
 			),
 			'premium' => array()
 		)
