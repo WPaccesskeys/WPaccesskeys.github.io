@@ -32,16 +32,6 @@ $data = array(
 					'name' 	=> 'Contact Form 7',
 				),
 				array(
-					'slug'  => 'accesspress-social-icons',
-					'init' 	=> 'accesspress-social-icons/accesspress-social-icons.php',
-					'name' 	=> 'AccessPress Social Icons',
-				),
-				array(
-					'slug'  	=> 'woocommerce',
-					'init'  	=> 'woocommerce/woocommerce.php',
-					'name'  	=> 'WooCommerce',
-				),
-				array(
 					'slug'  	=> 'kirki',
 					'init'  	=> 'kirki/kirki.php',
 					'name'  	=> 'kirki',
