@@ -16,12 +16,10 @@ $data = array(
 		'xml_file'     		=> $git_url . 'default/content.xml',
 		'widgets_file'  	=> $git_url . 'default/widgets.wie',
 		'theme_settings' 	=> $git_url . 'default/customizer.dat',
-		'import_redux'		=> array(
-			'file_url'		=> $git_url .'default/themeoptions.json',
-			'option_name' 	=> 'accesspress-staple',
-		),
 		'screen'			=> $git_url . 'default/default.png',
 		'preview_url'		=> 'https://demo.accesspressthemes.com/accesspress-staple',
+		'home_title'  		=> 'Home',
+		'blog_title'  		=> 'Blog',
 		'is_shop'			=> true,
 		'menus' 			=> array(
 			'primary' => 'Main Menu',
