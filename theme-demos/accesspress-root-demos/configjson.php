@@ -16,10 +16,6 @@ $data = array(
 		'xml_file'     		=> $git_url . 'default/content.xml',
 		'widgets_file'  	=> $git_url . 'default/widgets.wie',
 		'theme_settings' 	=> $git_url . 'default/customizer.dat',
-		'import_redux'		=> array(
-			'file_url'		=> $git_url .'default/themeoptions.json',
-			'option_name' 	=> 'accesspress-root',
-		),
 		'screen'			=> $git_url . 'default/default.png',
 		'preview_url'		=> 'https://demo.accesspressthemes.com/accesspress-root',
 		'home_title'  		=> 'Home',
@@ -34,21 +30,6 @@ $data = array(
 					'slug'  => 'kirki',
 					'init' 	=> 'kirki/kirki.php',
 					'name' 	=> 'Kirki Customizer Framework',
-				),
-				array(
-					'slug'  => 'accesspress-social-share',
-					'init' 	=> 'accesspress-social-share/accesspress-social-share.php',
-					'name' 	=> 'AccessPress Social Share',
-				),
-				array(
-					'slug'  => 'accesspress-social-icons',
-					'init' 	=> 'accesspress-social-icons/accesspress-social-icons.php',
-					'name' 	=> 'AccessPress Social Icons',
-				),
-				array(
-					'slug' => 'accesspress-twitter-feed',
-					'init' => 'accesspress-twitter-feed/accesspress-twitter-feed.php',
-					'name' => 'WP TFeed'
 				),
 				array(
 					'slug'  => 'contact-form-7',
