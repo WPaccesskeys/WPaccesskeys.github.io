@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.5.1" created="2020-09-17 05:48" -->
+	<!-- generator="WordPress/5.5.1" created="2020-09-17 10:40" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Accesspress Root</title>
 	<link>https://accesspressthemes.com/import/accesspress-root</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Thu, 17 Sep 2020 05:48:17 +0000</pubDate>
+	<pubDate>Thu, 17 Sep 2020 10:40:18 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://accesspressthemes.com/import/accesspress-root</wp:base_site_url>
@@ -346,285 +346,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>service-root-4</title>
-		<link>https://accesspressthemes.com/import/accesspress-root/?attachment_id=290</link>
-		<pubDate>Fri, 11 Sep 2020 10:37:02 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-root/wp-content/uploads/2020/09/service-root-4-1.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>290</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-11 10:37:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-11 10:37:02]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[service-root-4]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>71</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://accesspressthemes.com/import/accesspress-root/wp-content/uploads/2020/09/service-root-4-1.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/09/service-root-4-1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:530;s:4:"file";s:28:"2020/09/service-root-4-1.jpg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:28:"service-root-4-1-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:28:"service-root-4-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:28:"service-root-4-1-768x509.jpg";s:5:"width";i:768;s:6:"height";i:509;s:9:"mime-type";s:10:"image/jpeg";}s:34:"accesspress-root-service-thumbnail";a:4:{s:4:"file";s:28:"service-root-4-1-380x252.jpg";s:5:"width";i:380;s:6:"height";i:252;s:9:"mime-type";s:10:"image/jpeg";}s:31:"accesspress-root-blog-thumbnail";a:4:{s:4:"file";s:28:"service-root-4-1-558x237.jpg";s:5:"width";i:558;s:6:"height";i:237;s:9:"mime-type";s:10:"image/jpeg";}s:34:"accesspress-root-project-thumbnail";a:4:{s:4:"file";s:28:"service-root-4-1-264x200.jpg";s:5:"width";i:264;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:38:"accesspress-root-project-big-thumbnail";a:4:{s:4:"file";s:28:"service-root-4-1-558x160.jpg";s:5:"width";i:558;s:6:"height";i:160;s:9:"mime-type";s:10:"image/jpeg";}s:35:"accesspress-root-blog-big-thumbnail";a:4:{s:4:"file";s:28:"service-root-4-1-760x300.jpg";s:5:"width";i:760;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>service-root-3</title>
-		<link>https://accesspressthemes.com/import/accesspress-root/?attachment_id=291</link>
-		<pubDate>Fri, 11 Sep 2020 10:37:04 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-root/wp-content/uploads/2020/09/service-root-3-1.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>291</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-11 10:37:04]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-11 10:37:04]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[service-root-3]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>71</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://accesspressthemes.com/import/accesspress-root/wp-content/uploads/2020/09/service-root-3-1.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/09/service-root-3-1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:530;s:4:"file";s:28:"2020/09/service-root-3-1.jpg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:28:"service-root-3-1-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:28:"service-root-3-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:28:"service-root-3-1-768x509.jpg";s:5:"width";i:768;s:6:"height";i:509;s:9:"mime-type";s:10:"image/jpeg";}s:34:"accesspress-root-service-thumbnail";a:4:{s:4:"file";s:28:"service-root-3-1-380x252.jpg";s:5:"width";i:380;s:6:"height";i:252;s:9:"mime-type";s:10:"image/jpeg";}s:31:"accesspress-root-blog-thumbnail";a:4:{s:4:"file";s:28:"service-root-3-1-558x237.jpg";s:5:"width";i:558;s:6:"height";i:237;s:9:"mime-type";s:10:"image/jpeg";}s:34:"accesspress-root-project-thumbnail";a:4:{s:4:"file";s:28:"service-root-3-1-264x200.jpg";s:5:"width";i:264;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:38:"accesspress-root-project-big-thumbnail";a:4:{s:4:"file";s:28:"service-root-3-1-558x160.jpg";s:5:"width";i:558;s:6:"height";i:160;s:9:"mime-type";s:10:"image/jpeg";}s:35:"accesspress-root-blog-big-thumbnail";a:4:{s:4:"file";s:28:"service-root-3-1-760x300.jpg";s:5:"width";i:760;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>service-root-2</title>
-		<link>https://accesspressthemes.com/import/accesspress-root/?attachment_id=292</link>
-		<pubDate>Fri, 11 Sep 2020 10:37:08 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-root/wp-content/uploads/2020/09/service-root-2-1.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>292</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-11 10:37:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-11 10:37:08]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[service-root-2]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>71</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://accesspressthemes.com/import/accesspress-root/wp-content/uploads/2020/09/service-root-2-1.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/09/service-root-2-1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:530;s:4:"file";s:28:"2020/09/service-root-2-1.jpg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:28:"service-root-2-1-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:28:"service-root-2-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:28:"service-root-2-1-768x509.jpg";s:5:"width";i:768;s:6:"height";i:509;s:9:"mime-type";s:10:"image/jpeg";}s:34:"accesspress-root-service-thumbnail";a:4:{s:4:"file";s:28:"service-root-2-1-380x252.jpg";s:5:"width";i:380;s:6:"height";i:252;s:9:"mime-type";s:10:"image/jpeg";}s:31:"accesspress-root-blog-thumbnail";a:4:{s:4:"file";s:28:"service-root-2-1-558x237.jpg";s:5:"width";i:558;s:6:"height";i:237;s:9:"mime-type";s:10:"image/jpeg";}s:34:"accesspress-root-project-thumbnail";a:4:{s:4:"file";s:28:"service-root-2-1-264x200.jpg";s:5:"width";i:264;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:38:"accesspress-root-project-big-thumbnail";a:4:{s:4:"file";s:28:"service-root-2-1-558x160.jpg";s:5:"width";i:558;s:6:"height";i:160;s:9:"mime-type";s:10:"image/jpeg";}s:35:"accesspress-root-blog-big-thumbnail";a:4:{s:4:"file";s:28:"service-root-2-1-760x300.jpg";s:5:"width";i:760;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>service-root-1</title>
-		<link>https://accesspressthemes.com/import/accesspress-root/?attachment_id=293</link>
-		<pubDate>Fri, 11 Sep 2020 10:37:10 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-root/wp-content/uploads/2020/09/service-root-1-1.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>293</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-11 10:37:10]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-11 10:37:10]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[service-root-1]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>71</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://accesspressthemes.com/import/accesspress-root/wp-content/uploads/2020/09/service-root-1-1.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/09/service-root-1-1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:530;s:4:"file";s:28:"2020/09/service-root-1-1.jpg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:28:"service-root-1-1-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:28:"service-root-1-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:28:"service-root-1-1-768x509.jpg";s:5:"width";i:768;s:6:"height";i:509;s:9:"mime-type";s:10:"image/jpeg";}s:34:"accesspress-root-service-thumbnail";a:4:{s:4:"file";s:28:"service-root-1-1-380x252.jpg";s:5:"width";i:380;s:6:"height";i:252;s:9:"mime-type";s:10:"image/jpeg";}s:31:"accesspress-root-blog-thumbnail";a:4:{s:4:"file";s:28:"service-root-1-1-558x237.jpg";s:5:"width";i:558;s:6:"height";i:237;s:9:"mime-type";s:10:"image/jpeg";}s:34:"accesspress-root-project-thumbnail";a:4:{s:4:"file";s:28:"service-root-1-1-264x200.jpg";s:5:"width";i:264;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:38:"accesspress-root-project-big-thumbnail";a:4:{s:4:"file";s:28:"service-root-1-1-558x160.jpg";s:5:"width";i:558;s:6:"height";i:160;s:9:"mime-type";s:10:"image/jpeg";}s:35:"accesspress-root-blog-big-thumbnail";a:4:{s:4:"file";s:28:"service-root-1-1-760x300.jpg";s:5:"width";i:760;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>project-root4</title>
-		<link>https://accesspressthemes.com/import/accesspress-root/?attachment_id=300</link>
-		<pubDate>Fri, 11 Sep 2020 10:45:27 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-root/wp-content/uploads/2015/01/project-root4-1.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>300</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-11 10:45:27]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-11 10:45:27]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[project-root4]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>136</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://accesspressthemes.com/import/accesspress-root/wp-content/uploads/2015/01/project-root4-1.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2015/01/project-root4-1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:530;s:4:"file";s:27:"2015/01/project-root4-1.jpg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:27:"project-root4-1-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:27:"project-root4-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:27:"project-root4-1-768x509.jpg";s:5:"width";i:768;s:6:"height";i:509;s:9:"mime-type";s:10:"image/jpeg";}s:34:"accesspress-root-service-thumbnail";a:4:{s:4:"file";s:27:"project-root4-1-380x252.jpg";s:5:"width";i:380;s:6:"height";i:252;s:9:"mime-type";s:10:"image/jpeg";}s:31:"accesspress-root-blog-thumbnail";a:4:{s:4:"file";s:27:"project-root4-1-558x237.jpg";s:5:"width";i:558;s:6:"height";i:237;s:9:"mime-type";s:10:"image/jpeg";}s:34:"accesspress-root-project-thumbnail";a:4:{s:4:"file";s:27:"project-root4-1-264x200.jpg";s:5:"width";i:264;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:38:"accesspress-root-project-big-thumbnail";a:4:{s:4:"file";s:27:"project-root4-1-558x160.jpg";s:5:"width";i:558;s:6:"height";i:160;s:9:"mime-type";s:10:"image/jpeg";}s:35:"accesspress-root-blog-big-thumbnail";a:4:{s:4:"file";s:27:"project-root4-1-760x300.jpg";s:5:"width";i:760;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>project-root3</title>
-		<link>https://accesspressthemes.com/import/accesspress-root/?attachment_id=301</link>
-		<pubDate>Fri, 11 Sep 2020 10:45:29 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-root/wp-content/uploads/2015/01/project-root3-1.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>301</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-11 10:45:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-11 10:45:29]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[project-root3]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>136</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://accesspressthemes.com/import/accesspress-root/wp-content/uploads/2015/01/project-root3-1.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2015/01/project-root3-1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:530;s:4:"file";s:27:"2015/01/project-root3-1.jpg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:27:"project-root3-1-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:27:"project-root3-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:27:"project-root3-1-768x509.jpg";s:5:"width";i:768;s:6:"height";i:509;s:9:"mime-type";s:10:"image/jpeg";}s:34:"accesspress-root-service-thumbnail";a:4:{s:4:"file";s:27:"project-root3-1-380x252.jpg";s:5:"width";i:380;s:6:"height";i:252;s:9:"mime-type";s:10:"image/jpeg";}s:31:"accesspress-root-blog-thumbnail";a:4:{s:4:"file";s:27:"project-root3-1-558x237.jpg";s:5:"width";i:558;s:6:"height";i:237;s:9:"mime-type";s:10:"image/jpeg";}s:34:"accesspress-root-project-thumbnail";a:4:{s:4:"file";s:27:"project-root3-1-264x200.jpg";s:5:"width";i:264;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:38:"accesspress-root-project-big-thumbnail";a:4:{s:4:"file";s:27:"project-root3-1-558x160.jpg";s:5:"width";i:558;s:6:"height";i:160;s:9:"mime-type";s:10:"image/jpeg";}s:35:"accesspress-root-blog-big-thumbnail";a:4:{s:4:"file";s:27:"project-root3-1-760x300.jpg";s:5:"width";i:760;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>project-root2</title>
-		<link>https://accesspressthemes.com/import/accesspress-root/?attachment_id=302</link>
-		<pubDate>Fri, 11 Sep 2020 10:45:32 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-root/wp-content/uploads/2015/01/project-root2-1.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>302</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-11 10:45:32]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-11 10:45:32]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[project-root2]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>136</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://accesspressthemes.com/import/accesspress-root/wp-content/uploads/2015/01/project-root2-1.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2015/01/project-root2-1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:530;s:4:"file";s:27:"2015/01/project-root2-1.jpg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:27:"project-root2-1-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:27:"project-root2-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:27:"project-root2-1-768x509.jpg";s:5:"width";i:768;s:6:"height";i:509;s:9:"mime-type";s:10:"image/jpeg";}s:34:"accesspress-root-service-thumbnail";a:4:{s:4:"file";s:27:"project-root2-1-380x252.jpg";s:5:"width";i:380;s:6:"height";i:252;s:9:"mime-type";s:10:"image/jpeg";}s:31:"accesspress-root-blog-thumbnail";a:4:{s:4:"file";s:27:"project-root2-1-558x237.jpg";s:5:"width";i:558;s:6:"height";i:237;s:9:"mime-type";s:10:"image/jpeg";}s:34:"accesspress-root-project-thumbnail";a:4:{s:4:"file";s:27:"project-root2-1-264x200.jpg";s:5:"width";i:264;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:38:"accesspress-root-project-big-thumbnail";a:4:{s:4:"file";s:27:"project-root2-1-558x160.jpg";s:5:"width";i:558;s:6:"height";i:160;s:9:"mime-type";s:10:"image/jpeg";}s:35:"accesspress-root-blog-big-thumbnail";a:4:{s:4:"file";s:27:"project-root2-1-760x300.jpg";s:5:"width";i:760;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>project-root1</title>
-		<link>https://accesspressthemes.com/import/accesspress-root/?attachment_id=304</link>
-		<pubDate>Fri, 11 Sep 2020 10:45:34 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-root/wp-content/uploads/2015/01/project-root1-1.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>304</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-11 10:45:34]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-11 10:45:34]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[project-root1]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>136</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://accesspressthemes.com/import/accesspress-root/wp-content/uploads/2015/01/project-root1-1.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2015/01/project-root1-1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:530;s:4:"file";s:27:"2015/01/project-root1-1.jpg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:27:"project-root1-1-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:27:"project-root1-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:27:"project-root1-1-768x509.jpg";s:5:"width";i:768;s:6:"height";i:509;s:9:"mime-type";s:10:"image/jpeg";}s:34:"accesspress-root-service-thumbnail";a:4:{s:4:"file";s:27:"project-root1-1-380x252.jpg";s:5:"width";i:380;s:6:"height";i:252;s:9:"mime-type";s:10:"image/jpeg";}s:31:"accesspress-root-blog-thumbnail";a:4:{s:4:"file";s:27:"project-root1-1-558x237.jpg";s:5:"width";i:558;s:6:"height";i:237;s:9:"mime-type";s:10:"image/jpeg";}s:34:"accesspress-root-project-thumbnail";a:4:{s:4:"file";s:27:"project-root1-1-264x200.jpg";s:5:"width";i:264;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:38:"accesspress-root-project-big-thumbnail";a:4:{s:4:"file";s:27:"project-root1-1-558x160.jpg";s:5:"width";i:558;s:6:"height";i:160;s:9:"mime-type";s:10:"image/jpeg";}s:35:"accesspress-root-blog-big-thumbnail";a:4:{s:4:"file";s:27:"project-root1-1-760x300.jpg";s:5:"width";i:760;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>whatwe</title>
-		<link>https://accesspressthemes.com/import/accesspress-root/?attachment_id=318</link>
-		<pubDate>Fri, 11 Sep 2020 10:56:54 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-root/wp-content/uploads/2020/09/whatwe-1.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>318</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-11 10:56:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-11 10:56:54]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[whatwe]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>152</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://accesspressthemes.com/import/accesspress-root/wp-content/uploads/2020/09/whatwe-1.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/09/whatwe-1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:530;s:4:"file";s:20:"2020/09/whatwe-1.jpg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:20:"whatwe-1-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:20:"whatwe-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:20:"whatwe-1-768x509.jpg";s:5:"width";i:768;s:6:"height";i:509;s:9:"mime-type";s:10:"image/jpeg";}s:34:"accesspress-root-service-thumbnail";a:4:{s:4:"file";s:20:"whatwe-1-380x252.jpg";s:5:"width";i:380;s:6:"height";i:252;s:9:"mime-type";s:10:"image/jpeg";}s:31:"accesspress-root-blog-thumbnail";a:4:{s:4:"file";s:20:"whatwe-1-558x237.jpg";s:5:"width";i:558;s:6:"height";i:237;s:9:"mime-type";s:10:"image/jpeg";}s:34:"accesspress-root-project-thumbnail";a:4:{s:4:"file";s:20:"whatwe-1-264x200.jpg";s:5:"width";i:264;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:38:"accesspress-root-project-big-thumbnail";a:4:{s:4:"file";s:20:"whatwe-1-558x160.jpg";s:5:"width";i:558;s:6:"height";i:160;s:9:"mime-type";s:10:"image/jpeg";}s:35:"accesspress-root-blog-big-thumbnail";a:4:{s:4:"file";s:20:"whatwe-1-760x300.jpg";s:5:"width";i:760;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>test-3</title>
 		<link>https://accesspressthemes.com/import/accesspress-root/?attachment_id=320</link>
 		<pubDate>Fri, 11 Sep 2020 11:12:59 +0000</pubDate>
@@ -770,6 +491,37 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[http://#]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>738x738</title>
+		<link>https://accesspressthemes.com/import/accesspress-root/?attachment_id=381</link>
+		<pubDate>Thu, 17 Sep 2020 10:36:53 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-root/wp-content/uploads/2020/09/738x738.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>381</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-17 10:36:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-17 10:36:53]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[738x738]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://accesspressthemes.com/import/accesspress-root/wp-content/uploads/2020/09/738x738.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/09/738x738.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:738;s:6:"height";i:738;s:4:"file";s:19:"2020/09/738x738.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:19:"738x738-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:19:"738x738-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:34:"accesspress-root-service-thumbnail";a:4:{s:4:"file";s:19:"738x738-380x252.jpg";s:5:"width";i:380;s:6:"height";i:252;s:9:"mime-type";s:10:"image/jpeg";}s:31:"accesspress-root-blog-thumbnail";a:4:{s:4:"file";s:19:"738x738-558x237.jpg";s:5:"width";i:558;s:6:"height";i:237;s:9:"mime-type";s:10:"image/jpeg";}s:34:"accesspress-root-project-thumbnail";a:4:{s:4:"file";s:19:"738x738-264x200.jpg";s:5:"width";i:264;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:38:"accesspress-root-project-big-thumbnail";a:4:{s:4:"file";s:19:"738x738-558x160.jpg";s:5:"width";i:558;s:6:"height";i:160;s:9:"mime-type";s:10:"image/jpeg";}s:35:"accesspress-root-blog-big-thumbnail";a:4:{s:4:"file";s:19:"738x738-738x300.jpg";s:5:"width";i:738;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -935,445 +687,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Home</title>
-		<link>https://accesspressthemes.com/import/accesspress-root/</link>
-		<pubDate>Thu, 22 Jan 2015 08:06:14 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-root/?page_id=5</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5</wp:post_id>
-		<wp:post_date><![CDATA[2015-01-22 08:06:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-01-22 08:06:14]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[home]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[tmpl-home.php]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[tmpl-home.php]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Excel tincidute</title>
-		<link>https://accesspressthemes.com/import/accesspress-root/?page_id=29</link>
-		<pubDate>Thu, 22 Jan 2015 11:33:47 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-root/?page_id=29</guid>
-		<description></description>
-		<content:encoded><![CDATA[Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, onsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, onsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus.
-<div id="__if72ru4sdfsdfrkjahiuyi_once" style="display: none;"></div>
-<div id="__if72ru4sdfsdfruh7fewui_once" style="display: none;"></div>
-<div id="__hggasdgjhsagd_once" style="display: none;"></div>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>29</wp:post_id>
-		<wp:post_date><![CDATA[2015-01-22 11:33:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-01-22 11:33:47]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[excel-tincidute]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Blog</title>
-		<link>https://accesspressthemes.com/import/accesspress-root/?page_id=37</link>
-		<pubDate>Fri, 23 Jan 2015 11:16:42 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-root/?page_id=37</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>37</wp:post_id>
-		<wp:post_date><![CDATA[2015-01-23 11:16:42]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-01-23 11:16:42]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[blog]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>About</title>
-		<link>https://accesspressthemes.com/import/accesspress-root/?page_id=39</link>
-		<pubDate>Fri, 23 Jan 2015 11:16:57 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-root/?page_id=39</guid>
-		<description></description>
-		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porttitor tempus turpis, sed faucibus nunc interdum non. Sed scelerisque tellus quis magna ultrices, sit amet egestas lectus euismod. Aliquam erat volutpat. Nulla suscipit erat vitae scelerisque hendrerit. Nunc euismod rutrum neque non sodales. Proin leo diam, tristique nec mi nec, fringilla pretium tortor. Proin a commodo arcu, eget malesuada justo. Ut ut nunc a est porttitor ornare commodo quis turpis. Aliquam placerat leo elit, nec tempus erat tincidunt vel. Donec et volutpat sem. Integer rhoncus laoreet risus volutpat egestas. Fusce porttitor fermentum orci nec egestas.
-
-Morbi facilisis pharetra metus, vel efficitur augue bibendum id. Cras id nisl orci. Morbi in lorem sed diam rhoncus facilisis. Donec vulputate felis at volutpat pellentesque. Mauris sapien quam, condimentum lacinia rutrum vitae, condimentum id purus. Nunc non lectus orci. In tincidunt aliquet lacinia. Quisque vulputate laoreet nulla, quis fringilla enim commodo sit amet. In luctus massa quis ex suscipit, nec lacinia nunc semper. Nam mattis ipsum mattis est tincidunt, ac euismod sem feugiat. Ut porta ultricies urna a tincidunt. Suspendisse quis nunc ac nibh lobortis facilisis. Curabitur ac diam metus. Curabitur egestas massa auctor leo aliquet, quis fringilla odio iaculis.
-
-Curabitur fringilla porta porttitor. Vestibulum quis tincidunt turpis. Maecenas sed augue purus. Nunc venenatis vel lorem tempus tincidunt. Proin rutrum, velit sed gravida mattis, justo purus interdum mi, bibendum finibus augue erat nec ligula. Nullam sit amet libero lectus. Mauris placerat ultrices dapibus. Donec congue finibus lorem sit amet fermentum. Curabitur cursus orci nibh, quis semper augue rutrum sed. Vestibulum porttitor lectus ut finibus vulputate. Curabitur ac ante varius, aliquam odio eget, faucibus orci. Quisque semper sem in commodo accumsan. Quisque nunc erat, aliquet ut enim a, volutpat scelerisque nibh. Proin vitae tristique urna.
-
-Vivamus eu arcu eleifend, tempor ante eu, laoreet erat. Donec odio nunc, pellentesque sed aliquam ac, convallis quis dolor. Sed nisl dui, ultricies a dolor placerat, egestas imperdiet nisl. Aliquam laoreet aliquet felis, a placerat ex consectetur molestie. Aenean id eleifend quam, at sollicitudin augue. In euismod gravida nibh. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In vel bibendum tellus, a consectetur arcu. Morbi in quam cursus, pharetra lectus sit amet, aliquet diam. Nulla vulputate sodales neque, convallis varius orci convallis convallis. In eu condimentum tellus. Maecenas ullamcorper cursus velit et mattis. Nullam ac arcu ut mi sagittis faucibus sit amet feugiat sem. Nullam et dolor sit amet turpis maximus suscipit. Nulla facilisi. Nulla eget vulputate nisl.
-
-Quisque dapibus metus sapien, nec ultricies lorem iaculis id. Curabitur sapien arcu, mollis id placerat vel, luctus in est. Sed quis magna libero. Proin elementum tortor velit, quis porta lacus ultrices a. In at ullamcorper turpis. Quisque maximus ante id nisi pharetra, tincidunt cursus est faucibus. Nunc suscipit vitae velit quis malesuada. Suspendisse pulvinar porta fermentum. Curabitur sit amet accumsan nisi. Pellentesque fringilla purus tortor, non dictum mi semper a. Quisque fringilla convallis tortor, eu tincidunt arcu eleifend nec. Ut sollicitudin aliquet tempor.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>39</wp:post_id>
-		<wp:post_date><![CDATA[2015-01-23 11:16:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-01-23 11:16:57]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[about]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Layouts</title>
-		<link>https://accesspressthemes.com/import/accesspress-root/?page_id=42</link>
-		<pubDate>Fri, 23 Jan 2015 11:17:14 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-root/?page_id=42</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>42</wp:post_id>
-		<wp:post_date><![CDATA[2015-01-23 11:17:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-01-23 11:17:14]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[layouts]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Analytic Solutions</title>
-		<link>https://accesspressthemes.com/import/accesspress-root/?page_id=65</link>
-		<pubDate>Mon, 26 Jan 2015 05:44:36 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-root/?page_id=65</guid>
-		<description></description>
-		<content:encoded><![CDATA[Divided beginning morning, him days fruitful replenish midst as greater they are under were female great all own is bring us whales cattle green great. Also place creeping fill land let thing fruitful which second. Said is forward seed. Yielding is their in above air do not meat darkness creeping multiply brought seas bearing.
-<div id="__if72ru4sdfsdfrkjahiuyi_once" style="display: none;"></div>
-<div id="__if72ru4sdfsdfruh7fewui_once" style="display: none;"></div>
-<div id="__hggasdgjhsagd_once" style="display: none;"></div>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>65</wp:post_id>
-		<wp:post_date><![CDATA[2015-01-26 05:44:36]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-01-26 05:44:36]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[clean-and-smart-theme]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Responsive Design</title>
-		<link>https://accesspressthemes.com/import/accesspress-root/?page_id=67</link>
-		<pubDate>Mon, 26 Jan 2015 05:45:11 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-root/?page_id=67</guid>
-		<description></description>
-		<content:encoded><![CDATA[Responsive website design is technique of developing websites which are hugely functional and the development that interact to user's behavior depending on screen sizes platform and orientation. It uses fluid grids, flexible images and a smart  usage of CSS media queries. Since the user switches from laptop to iPad, the responsive website automatically swap to accommodate for resolution, image size and scripting skills and consist technologies that automatically respond to user’s preferences.
-<div id="__if72ru4sdfsdfrkjahiuyi_once" style="display: none;"></div>
-<div id="__if72ru4sdfsdfruh7fewui_once" style="display: none;"></div>
-<div id="__hggasdgjhsagd_once" style="display: none;"></div>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>67</wp:post_id>
-		<wp:post_date><![CDATA[2015-01-26 05:45:11]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-01-26 05:45:11]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[responsive-design]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[92]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[92]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Save Time &amp; Effort</title>
-		<link>https://accesspressthemes.com/import/accesspress-root/?page_id=69</link>
-		<pubDate>Mon, 26 Jan 2015 05:45:42 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-root/?page_id=69</guid>
-		<description></description>
-		<content:encoded><![CDATA[Develop a Great Websites Within less time and effort. With Built in Easy to use Theme Options You may choose looks of the site as per your requirement. We develop great website with professional design.
-<div id="__if72ru4sdfsdfrkjahiuyi_once" style="display: none;"></div>
-<div id="__if72ru4sdfsdfruh7fewui_once" style="display: none;"></div>
-<div id="__hggasdgjhsagd_once" style="display: none;"></div>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>69</wp:post_id>
-		<wp:post_date><![CDATA[2015-01-26 05:45:42]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-01-26 05:45:42]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[save-time-effort]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[91]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[91]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>A great value for your business</title>
-		<link>https://accesspressthemes.com/import/accesspress-root/?page_id=71</link>
-		<pubDate>Mon, 26 Jan 2015 05:58:15 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-root/?page_id=71</guid>
-		<description></description>
-		<content:encoded><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>71</wp:post_id>
-		<wp:post_date><![CDATA[2015-01-26 05:58:15]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-01-26 05:58:15]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[web-design]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[293]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[293]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Achieve online success</title>
-		<link>https://accesspressthemes.com/import/accesspress-root/?page_id=75</link>
-		<pubDate>Mon, 26 Jan 2015 05:59:27 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-root/?page_id=75</guid>
-		<description></description>
-		<content:encoded><![CDATA[Praesent molestie nec neque in vehicula. Ut purus mi, maximus eu porta in, interdum a nunc. Nullam molestie metus et leo facilisis, in ornare tellus semper. Donec at urna ac magna ultrices scelerisque. Aenean id maximus quam, nec egestas arcu. Ut molestie molestie lacinia. Vivamus in rhoncus mi. Sed velit diam, lacinia at condimentum ac, bibendum in tellus. Aliquam libero tortor, malesuada ac accumsan quis, placerat et erat. Aliquam auctor nec magna hendrerit faucibus.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>75</wp:post_id>
-		<wp:post_date><![CDATA[2015-01-26 05:59:27]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-01-26 05:59:27]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[theme-development]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[292]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[292]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Transform your ideas</title>
-		<link>https://accesspressthemes.com/import/accesspress-root/?page_id=78</link>
-		<pubDate>Mon, 26 Jan 2015 06:08:09 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-root/?page_id=78</guid>
-		<description></description>
-		<content:encoded><![CDATA[Phasellus ornare ligula sit amet dolor sollicitudin, et porta nunc hendrerit. Suspendisse elementum tempor ante, euismod vulputate tortor fermentum sit amet. Cras accumsan velit vel enim volutpat laoreet. Quisque scelerisque dictum molestie. Aliquam consequat justo et lectus feugiat sollicitudin. Duis sollicitudin pharetra nulla et eleifend. Phasellus suscipit auctor sem, eu ultrices nulla eleifend non. Sed tincidunt cursus ligula, nec placerat velit rhoncus nec. Maecenas interdum in est nec rutrum. Nullam pulvinar tincidunt scelerisque. In in ornare arcu. Nunc feugiat molestie nisl, ac interdum diam ultrices ut. Ut hendrerit pretium lorem, vel egestas dui volutpat a. Fusce vel aliquet eros. Nunc quis mollis purus, ac venenatis nisl.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>78</wp:post_id>
-		<wp:post_date><![CDATA[2015-01-26 06:08:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-01-26 06:08:09]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[support]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[291]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[291]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Ready for a challenge</title>
-		<link>https://accesspressthemes.com/import/accesspress-root/?page_id=86</link>
-		<pubDate>Mon, 26 Jan 2015 06:34:37 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-root/?page_id=86</guid>
-		<description></description>
-		<content:encoded><![CDATA[Ut mollis elit quis faucibus pulvinar. In sed ex non ante euismod ultrices tincidunt eu nibh. Cras commodo mi a libero dictum, eget ultricies diam lobortis. Nulla tempor, nibh a congue congue, neque nunc sodales arcu, sed bibendum massa eros id arcu. Suspendisse fermentum, neque a aliquet pulvinar, sapien tortor finibus arcu, at eleifend ligula odio eu lorem. Cras imperdiet eu libero id lacinia. Vestibulum eget aliquam est, vel sagittis dui. Donec in tincidunt metus. Maecenas a ipsum tellus.
-<div id="__if72ru4sdfsdfrkjahiuyi_once" style="display: none;"></div>
-<div id="__if72ru4sdfsdfruh7fewui_once" style="display: none;"></div>
-<div id="__hggasdgjhsagd_once" style="display: none;"></div>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>86</wp:post_id>
-		<wp:post_date><![CDATA[2015-01-26 06:34:37]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-01-26 06:34:37]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[internet-marketing]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_cd82c9551ec49427348bb8daf0f8f8fa]]></wp:meta_key>
-		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[290]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_cd82c9551ec49427348bb8daf0f8f8fa]]></wp:meta_key>
-		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[290]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1817,85 +1130,412 @@ Quisque dapibus metus sapien, nec ultricies lorem iaculis id. Curabitur sapien a
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>We Deliver Dreams that Matches Aspirations</title>
-		<link>https://accesspressthemes.com/import/accesspress-root/?p=12</link>
-		<pubDate>Thu, 22 Jan 2015 10:49:11 +0000</pubDate>
+		<title>Home</title>
+		<link>https://accesspressthemes.com/import/accesspress-root/</link>
+		<pubDate>Thu, 22 Jan 2015 08:06:14 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-root/?p=12</guid>
+		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-root/?page_id=5</guid>
 		<description></description>
-		<content:encoded><![CDATA[Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur lorem adipiscing elit, sed do eiusmod tempor incididunt ut labore et.
-<div id="__if72ru4sdfsdfrkjahiuyi_once" style="display: none;"></div>
-<div id="__if72ru4sdfsdfruh7fewui_once" style="display: none;"></div>
-<div id="__hggasdgjhsagd_once" style="display: none;"></div>]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>12</wp:post_id>
-		<wp:post_date><![CDATA[2015-01-22 10:49:11]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-01-22 10:49:11]]></wp:post_date_gmt>
+		<wp:post_id>5</wp:post_id>
+		<wp:post_date><![CDATA[2015-01-22 08:06:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-01-22 08:06:14]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[accesspress-has-over-5000-users-and-counting-2]]></wp:post_name>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="text-slider"><![CDATA[Text slider]]></category>
-						</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[tmpl-home.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[tmpl-home.php]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
-		<title>Every Dream to RealityUltimate Experience</title>
-		<link>https://accesspressthemes.com/import/accesspress-root/?p=14</link>
-		<pubDate>Thu, 22 Jan 2015 10:52:17 +0000</pubDate>
+		<title>Excel tincidute</title>
+		<link>https://accesspressthemes.com/import/accesspress-root/?page_id=29</link>
+		<pubDate>Thu, 22 Jan 2015 11:33:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-root/?p=14</guid>
+		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-root/?page_id=29</guid>
 		<description></description>
-		<content:encoded><![CDATA[Divided beginning morning, him days fruitful replenish midst as greater they are under were female great all own is bring us whales cattle green great. Also place creeping fill land let thing fruitful which second.
+		<content:encoded><![CDATA[Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, onsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, onsequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus.
 <div id="__if72ru4sdfsdfrkjahiuyi_once" style="display: none;"></div>
 <div id="__if72ru4sdfsdfruh7fewui_once" style="display: none;"></div>
 <div id="__hggasdgjhsagd_once" style="display: none;"></div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>14</wp:post_id>
-		<wp:post_date><![CDATA[2015-01-22 10:52:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-01-22 10:52:17]]></wp:post_date_gmt>
+		<wp:post_id>29</wp:post_id>
+		<wp:post_date><![CDATA[2015-01-22 11:33:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-01-22 11:33:47]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[accesspress-has-over-5000-users-and-counting%ef%bb%bf]]></wp:post_name>
+		<wp:post_name><![CDATA[excel-tincidute]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="text-slider"><![CDATA[Text slider]]></category>
-						</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
-		<title>Create a Truly Unique Work Experience</title>
-		<link>https://accesspressthemes.com/import/accesspress-root/?p=16</link>
-		<pubDate>Thu, 22 Jan 2015 10:52:47 +0000</pubDate>
+		<title>Blog</title>
+		<link>https://accesspressthemes.com/import/accesspress-root/?page_id=37</link>
+		<pubDate>Fri, 23 Jan 2015 11:16:42 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-root/?p=16</guid>
+		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-root/?page_id=37</guid>
 		<description></description>
-		<content:encoded><![CDATA[Skills in almost all aspects of web promotion, Android App development, online company branding, software development &amp; testing. Expertise in the area of in-house application design.
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>37</wp:post_id>
+		<wp:post_date><![CDATA[2015-01-23 11:16:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-01-23 11:16:42]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[blog]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>About</title>
+		<link>https://accesspressthemes.com/import/accesspress-root/?page_id=39</link>
+		<pubDate>Fri, 23 Jan 2015 11:16:57 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-root/?page_id=39</guid>
+		<description></description>
+		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porttitor tempus turpis, sed faucibus nunc interdum non. Sed scelerisque tellus quis magna ultrices, sit amet egestas lectus euismod. Aliquam erat volutpat. Nulla suscipit erat vitae scelerisque hendrerit. Nunc euismod rutrum neque non sodales. Proin leo diam, tristique nec mi nec, fringilla pretium tortor. Proin a commodo arcu, eget malesuada justo. Ut ut nunc a est porttitor ornare commodo quis turpis. Aliquam placerat leo elit, nec tempus erat tincidunt vel. Donec et volutpat sem. Integer rhoncus laoreet risus volutpat egestas. Fusce porttitor fermentum orci nec egestas.
+
+Morbi facilisis pharetra metus, vel efficitur augue bibendum id. Cras id nisl orci. Morbi in lorem sed diam rhoncus facilisis. Donec vulputate felis at volutpat pellentesque. Mauris sapien quam, condimentum lacinia rutrum vitae, condimentum id purus. Nunc non lectus orci. In tincidunt aliquet lacinia. Quisque vulputate laoreet nulla, quis fringilla enim commodo sit amet. In luctus massa quis ex suscipit, nec lacinia nunc semper. Nam mattis ipsum mattis est tincidunt, ac euismod sem feugiat. Ut porta ultricies urna a tincidunt. Suspendisse quis nunc ac nibh lobortis facilisis. Curabitur ac diam metus. Curabitur egestas massa auctor leo aliquet, quis fringilla odio iaculis.
+
+Curabitur fringilla porta porttitor. Vestibulum quis tincidunt turpis. Maecenas sed augue purus. Nunc venenatis vel lorem tempus tincidunt. Proin rutrum, velit sed gravida mattis, justo purus interdum mi, bibendum finibus augue erat nec ligula. Nullam sit amet libero lectus. Mauris placerat ultrices dapibus. Donec congue finibus lorem sit amet fermentum. Curabitur cursus orci nibh, quis semper augue rutrum sed. Vestibulum porttitor lectus ut finibus vulputate. Curabitur ac ante varius, aliquam odio eget, faucibus orci. Quisque semper sem in commodo accumsan. Quisque nunc erat, aliquet ut enim a, volutpat scelerisque nibh. Proin vitae tristique urna.
+
+Vivamus eu arcu eleifend, tempor ante eu, laoreet erat. Donec odio nunc, pellentesque sed aliquam ac, convallis quis dolor. Sed nisl dui, ultricies a dolor placerat, egestas imperdiet nisl. Aliquam laoreet aliquet felis, a placerat ex consectetur molestie. Aenean id eleifend quam, at sollicitudin augue. In euismod gravida nibh. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In vel bibendum tellus, a consectetur arcu. Morbi in quam cursus, pharetra lectus sit amet, aliquet diam. Nulla vulputate sodales neque, convallis varius orci convallis convallis. In eu condimentum tellus. Maecenas ullamcorper cursus velit et mattis. Nullam ac arcu ut mi sagittis faucibus sit amet feugiat sem. Nullam et dolor sit amet turpis maximus suscipit. Nulla facilisi. Nulla eget vulputate nisl.
+
+Quisque dapibus metus sapien, nec ultricies lorem iaculis id. Curabitur sapien arcu, mollis id placerat vel, luctus in est. Sed quis magna libero. Proin elementum tortor velit, quis porta lacus ultrices a. In at ullamcorper turpis. Quisque maximus ante id nisi pharetra, tincidunt cursus est faucibus. Nunc suscipit vitae velit quis malesuada. Suspendisse pulvinar porta fermentum. Curabitur sit amet accumsan nisi. Pellentesque fringilla purus tortor, non dictum mi semper a. Quisque fringilla convallis tortor, eu tincidunt arcu eleifend nec. Ut sollicitudin aliquet tempor.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>39</wp:post_id>
+		<wp:post_date><![CDATA[2015-01-23 11:16:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-01-23 11:16:57]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[about]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Layouts</title>
+		<link>https://accesspressthemes.com/import/accesspress-root/?page_id=42</link>
+		<pubDate>Fri, 23 Jan 2015 11:17:14 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-root/?page_id=42</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>42</wp:post_id>
+		<wp:post_date><![CDATA[2015-01-23 11:17:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-01-23 11:17:14]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[layouts]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Analytic Solutions</title>
+		<link>https://accesspressthemes.com/import/accesspress-root/?page_id=65</link>
+		<pubDate>Mon, 26 Jan 2015 05:44:36 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-root/?page_id=65</guid>
+		<description></description>
+		<content:encoded><![CDATA[Divided beginning morning, him days fruitful replenish midst as greater they are under were female great all own is bring us whales cattle green great. Also place creeping fill land let thing fruitful which second. Said is forward seed. Yielding is their in above air do not meat darkness creeping multiply brought seas bearing.
 <div id="__if72ru4sdfsdfrkjahiuyi_once" style="display: none;"></div>
 <div id="__if72ru4sdfsdfruh7fewui_once" style="display: none;"></div>
 <div id="__hggasdgjhsagd_once" style="display: none;"></div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>16</wp:post_id>
-		<wp:post_date><![CDATA[2015-01-22 10:52:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-01-22 10:52:47]]></wp:post_date_gmt>
+		<wp:post_id>65</wp:post_id>
+		<wp:post_date><![CDATA[2015-01-26 05:44:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-01-26 05:44:36]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[accesspress-has-over-5000-users-and-counting-3]]></wp:post_name>
+		<wp:post_name><![CDATA[clean-and-smart-theme]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="good"><![CDATA[Good]]></category>
-		<category domain="post_tag" nicename="new"><![CDATA[New]]></category>
-		<category domain="category" nicename="text-slider"><![CDATA[Text slider]]></category>
-						</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Responsive Design</title>
+		<link>https://accesspressthemes.com/import/accesspress-root/?page_id=67</link>
+		<pubDate>Mon, 26 Jan 2015 05:45:11 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-root/?page_id=67</guid>
+		<description></description>
+		<content:encoded><![CDATA[Responsive website design is technique of developing websites which are hugely functional and the development that interact to user's behavior depending on screen sizes platform and orientation. It uses fluid grids, flexible images and a smart  usage of CSS media queries. Since the user switches from laptop to iPad, the responsive website automatically swap to accommodate for resolution, image size and scripting skills and consist technologies that automatically respond to user’s preferences.
+<div id="__if72ru4sdfsdfrkjahiuyi_once" style="display: none;"></div>
+<div id="__if72ru4sdfsdfruh7fewui_once" style="display: none;"></div>
+<div id="__hggasdgjhsagd_once" style="display: none;"></div>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>67</wp:post_id>
+		<wp:post_date><![CDATA[2015-01-26 05:45:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-01-26 05:45:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[responsive-design]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[92]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[92]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Save Time &amp; Effort</title>
+		<link>https://accesspressthemes.com/import/accesspress-root/?page_id=69</link>
+		<pubDate>Mon, 26 Jan 2015 05:45:42 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-root/?page_id=69</guid>
+		<description></description>
+		<content:encoded><![CDATA[Develop a Great Websites Within less time and effort. With Built in Easy to use Theme Options You may choose looks of the site as per your requirement. We develop great website with professional design.
+<div id="__if72ru4sdfsdfrkjahiuyi_once" style="display: none;"></div>
+<div id="__if72ru4sdfsdfruh7fewui_once" style="display: none;"></div>
+<div id="__hggasdgjhsagd_once" style="display: none;"></div>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>69</wp:post_id>
+		<wp:post_date><![CDATA[2015-01-26 05:45:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-01-26 05:45:42]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[save-time-effort]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[91]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[91]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>A great value for your business</title>
+		<link>https://accesspressthemes.com/import/accesspress-root/?page_id=71</link>
+		<pubDate>Mon, 26 Jan 2015 05:58:15 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-root/?page_id=71</guid>
+		<description></description>
+		<content:encoded><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>71</wp:post_id>
+		<wp:post_date><![CDATA[2015-01-26 05:58:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-01-26 05:58:15]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[web-design]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Achieve online success</title>
+		<link>https://accesspressthemes.com/import/accesspress-root/?page_id=75</link>
+		<pubDate>Mon, 26 Jan 2015 05:59:27 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-root/?page_id=75</guid>
+		<description></description>
+		<content:encoded><![CDATA[Praesent molestie nec neque in vehicula. Ut purus mi, maximus eu porta in, interdum a nunc. Nullam molestie metus et leo facilisis, in ornare tellus semper. Donec at urna ac magna ultrices scelerisque. Aenean id maximus quam, nec egestas arcu. Ut molestie molestie lacinia. Vivamus in rhoncus mi. Sed velit diam, lacinia at condimentum ac, bibendum in tellus. Aliquam libero tortor, malesuada ac accumsan quis, placerat et erat. Aliquam auctor nec magna hendrerit faucibus.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>75</wp:post_id>
+		<wp:post_date><![CDATA[2015-01-26 05:59:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-01-26 05:59:27]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[theme-development]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Transform your ideas</title>
+		<link>https://accesspressthemes.com/import/accesspress-root/?page_id=78</link>
+		<pubDate>Mon, 26 Jan 2015 06:08:09 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-root/?page_id=78</guid>
+		<description></description>
+		<content:encoded><![CDATA[Phasellus ornare ligula sit amet dolor sollicitudin, et porta nunc hendrerit. Suspendisse elementum tempor ante, euismod vulputate tortor fermentum sit amet. Cras accumsan velit vel enim volutpat laoreet. Quisque scelerisque dictum molestie. Aliquam consequat justo et lectus feugiat sollicitudin. Duis sollicitudin pharetra nulla et eleifend. Phasellus suscipit auctor sem, eu ultrices nulla eleifend non. Sed tincidunt cursus ligula, nec placerat velit rhoncus nec. Maecenas interdum in est nec rutrum. Nullam pulvinar tincidunt scelerisque. In in ornare arcu. Nunc feugiat molestie nisl, ac interdum diam ultrices ut. Ut hendrerit pretium lorem, vel egestas dui volutpat a. Fusce vel aliquet eros. Nunc quis mollis purus, ac venenatis nisl.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>78</wp:post_id>
+		<wp:post_date><![CDATA[2015-01-26 06:08:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-01-26 06:08:09]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[support]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Ready for a challenge</title>
+		<link>https://accesspressthemes.com/import/accesspress-root/?page_id=86</link>
+		<pubDate>Mon, 26 Jan 2015 06:34:37 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-root/?page_id=86</guid>
+		<description></description>
+		<content:encoded><![CDATA[Ut mollis elit quis faucibus pulvinar. In sed ex non ante euismod ultrices tincidunt eu nibh. Cras commodo mi a libero dictum, eget ultricies diam lobortis. Nulla tempor, nibh a congue congue, neque nunc sodales arcu, sed bibendum massa eros id arcu. Suspendisse fermentum, neque a aliquet pulvinar, sapien tortor finibus arcu, at eleifend ligula odio eu lorem. Cras imperdiet eu libero id lacinia. Vestibulum eget aliquam est, vel sagittis dui. Donec in tincidunt metus. Maecenas a ipsum tellus.
+<div id="__if72ru4sdfsdfrkjahiuyi_once" style="display: none;"></div>
+<div id="__if72ru4sdfsdfruh7fewui_once" style="display: none;"></div>
+<div id="__hggasdgjhsagd_once" style="display: none;"></div>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>86</wp:post_id>
+		<wp:post_date><![CDATA[2015-01-26 06:34:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-01-26 06:34:37]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[internet-marketing]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_cd82c9551ec49427348bb8daf0f8f8fa]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_cd82c9551ec49427348bb8daf0f8f8fa]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title>Flexible Layout</title>
 		<link>https://accesspressthemes.com/import/accesspress-root/?page_id=89</link>
@@ -1938,37 +1578,6 @@ Quisque dapibus metus sapien, nec ultricies lorem iaculis id. Curabitur sapien a
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Harvy Hamersmith</title>
-		<link>https://accesspressthemes.com/import/accesspress-root/?p=114</link>
-		<pubDate>Mon, 26 Jan 2015 07:09:43 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-root/?p=114</guid>
-		<description></description>
-		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>114</wp:post_id>
-		<wp:post_date><![CDATA[2015-01-26 07:09:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-01-26 07:09:43]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[lucy-stones]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="testimonials"><![CDATA[Testimonials]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[320]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[320]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>We create experiences that transform brand</title>
 		<link>https://accesspressthemes.com/import/accesspress-root/?page_id=152</link>
 		<pubDate>Mon, 26 Jan 2015 07:54:41 +0000</pubDate>
@@ -1997,16 +1606,8 @@ Quisque dapibus metus sapien, nec ultricies lorem iaculis id. Curabitur sapien a
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[318]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[318]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2261,6 +1862,129 @@ Quisque dapibus metus sapien, nec ultricies lorem iaculis id. Curabitur sapien a
 		</wp:postmeta>
 							</item>
 					<item>
+		<title>We Deliver Dreams that Matches Aspirations</title>
+		<link>https://accesspressthemes.com/import/accesspress-root/?p=12</link>
+		<pubDate>Thu, 22 Jan 2015 10:49:11 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-root/?p=12</guid>
+		<description></description>
+		<content:encoded><![CDATA[Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur lorem adipiscing elit, sed do eiusmod tempor incididunt ut labore et.
+<div id="__if72ru4sdfsdfrkjahiuyi_once" style="display: none;"></div>
+<div id="__if72ru4sdfsdfruh7fewui_once" style="display: none;"></div>
+<div id="__hggasdgjhsagd_once" style="display: none;"></div>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>12</wp:post_id>
+		<wp:post_date><![CDATA[2015-01-22 10:49:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-01-22 10:49:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[accesspress-has-over-5000-users-and-counting-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="text-slider"><![CDATA[Text slider]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[381]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Every Dream to RealityUltimate Experience</title>
+		<link>https://accesspressthemes.com/import/accesspress-root/?p=14</link>
+		<pubDate>Thu, 22 Jan 2015 10:52:17 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-root/?p=14</guid>
+		<description></description>
+		<content:encoded><![CDATA[Divided beginning morning, him days fruitful replenish midst as greater they are under were female great all own is bring us whales cattle green great. Also place creeping fill land let thing fruitful which second.
+<div id="__if72ru4sdfsdfrkjahiuyi_once" style="display: none;"></div>
+<div id="__if72ru4sdfsdfruh7fewui_once" style="display: none;"></div>
+<div id="__hggasdgjhsagd_once" style="display: none;"></div>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>14</wp:post_id>
+		<wp:post_date><![CDATA[2015-01-22 10:52:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-01-22 10:52:17]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[accesspress-has-over-5000-users-and-counting%ef%bb%bf]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="text-slider"><![CDATA[Text slider]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[381]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Create a Truly Unique Work Experience</title>
+		<link>https://accesspressthemes.com/import/accesspress-root/?p=16</link>
+		<pubDate>Thu, 22 Jan 2015 10:52:47 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-root/?p=16</guid>
+		<description></description>
+		<content:encoded><![CDATA[Skills in almost all aspects of web promotion, Android App development, online company branding, software development &amp; testing. Expertise in the area of in-house application design.
+<div id="__if72ru4sdfsdfrkjahiuyi_once" style="display: none;"></div>
+<div id="__if72ru4sdfsdfruh7fewui_once" style="display: none;"></div>
+<div id="__hggasdgjhsagd_once" style="display: none;"></div>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>16</wp:post_id>
+		<wp:post_date><![CDATA[2015-01-22 10:52:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-01-22 10:52:47]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[accesspress-has-over-5000-users-and-counting-3]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_tag" nicename="good"><![CDATA[Good]]></category>
+		<category domain="post_tag" nicename="new"><![CDATA[New]]></category>
+		<category domain="category" nicename="text-slider"><![CDATA[Text slider]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[381]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Harvy Hamersmith</title>
+		<link>https://accesspressthemes.com/import/accesspress-root/?p=114</link>
+		<pubDate>Mon, 26 Jan 2015 07:09:43 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-root/?p=114</guid>
+		<description></description>
+		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>114</wp:post_id>
+		<wp:post_date><![CDATA[2015-01-26 07:09:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-01-26 07:09:43]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[lucy-stones]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="testimonials"><![CDATA[Testimonials]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[320]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[320]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title>Blog Image Medium</title>
 		<link>https://accesspressthemes.com/import/accesspress-root/?page_id=200</link>
 		<pubDate>Thu, 29 Jan 2015 12:11:44 +0000</pubDate>
@@ -2450,11 +2174,7 @@ The theme is complete with many useful features. The intuitive theme options let
 										<category domain="category" nicename="project"><![CDATA[Project]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[301]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[301]]></wp:meta_value>
+		<wp:meta_value><![CDATA[381]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2490,35 +2210,9 @@ Everything you ever wanted for your website – Attractive graphics, easy naviga
 										<category domain="category" nicename="project"><![CDATA[Project]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[302]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[302]]></wp:meta_value>
+		<wp:meta_value><![CDATA[381]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
-					<item>
-		<title>Newsletter</title>
-		<link>https://accesspressthemes.com/import/accesspress-root/?page_id=343</link>
-		<pubDate>Wed, 16 Sep 2020 06:26:06 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-root/?page_id=343</guid>
-		<description></description>
-		<content:encoded><![CDATA[[newsletter]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>343</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-16 06:26:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-16 06:26:06]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[newsletter]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
 					<item>
 		<title>Branding Strategy</title>
 		<link>https://accesspressthemes.com/import/accesspress-root/?p=136</link>
@@ -2546,11 +2240,7 @@ Everything you ever wanted for your website – Attractive graphics, easy naviga
 										<category domain="category" nicename="project"><![CDATA[Project]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[304]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[304]]></wp:meta_value>
+		<wp:meta_value><![CDATA[381]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2560,10 +2250,10 @@ Everything you ever wanted for your website – Attractive graphics, easy naviga
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://accesspressthemes.com/accesspress-root/?p=150</guid>
 		<description></description>
-		<content:encoded><![CDATA[<p>AccessPress Parallax is a HTML5 &amp; CSS3 Responsive WordPress Business Theme with clean, minimal yet highly professional design.<br />With our years of experience, we’ve developed this theme and given back to this awesome WordPress community. It is feature rich, multi purpose and flexible responsive theme Suitable for Agencies, Small Biz, Corporates, Bloggers – Anyone and Everyone!<br />The theme is complete with many useful features. The intuitive theme options let you manage all the possible options/features of the theme. You can use it to create your next superb website in no time and all for FREE.</p>
-<div id="__if72ru4sdfsdfrkjahiuyi_once" style="display: none;"> </div>
-<div id="__if72ru4sdfsdfruh7fewui_once" style="display: none;"> </div>
-<div id="__hggasdgjhsagd_once" style="display: none;"> </div>
+		<content:encoded><![CDATA[<p>AccessPress Parallax is a HTML5 &amp; CSS3 Responsive WordPress Business Theme with clean, minimal yet highly professional design.<br>With our years of experience, we’ve developed this theme and given back to this awesome WordPress community. It is feature rich, multi purpose and flexible responsive theme Suitable for Agencies, Small Biz, Corporates, Bloggers – Anyone and Everyone!<br>The theme is complete with many useful features. The intuitive theme options let you manage all the possible options/features of the theme. You can use it to create your next superb website in no time and all for FREE.</p>
+<div id="__if72ru4sdfsdfrkjahiuyi_once" style="display: none;">&nbsp;</div>
+<div id="__if72ru4sdfsdfruh7fewui_once" style="display: none;">&nbsp;</div>
+<div id="__hggasdgjhsagd_once" style="display: none;">&nbsp;</div>
 
 <!-- wp:heading {"level":4} -->
 <h4><br>The theme is complete with many useful features.</h4>
@@ -2577,10 +2267,10 @@ Everything you ever wanted for your website – Attractive graphics, easy naviga
 <h2>Divided beginning morning, him days fruitful replenish midst </h2>
 <!-- /wp:heading -->
 
-<p>AccessPress Parallax is a HTML5 &amp; CSS3 Responsive WordPress Business Theme with clean, minimal yet highly professional design.<br />With our years of experience, we’ve developed this theme and given back to this awesome WordPress community. It is feature rich, multi purpose and flexible responsive theme Suitable for Agencies, Small Biz, Corporates, Bloggers – Anyone and Everyone!<br />The theme is complete with many useful features. The intuitive theme options let you manage all the possible options/features of the theme. You can use it to create your next superb website in no time and all for FREE.</p>
-<div id="__if72ru4sdfsdfrkjahiuyi_once" style="display: none;"> </div>
-<div id="__if72ru4sdfsdfruh7fewui_once" style="display: none;"> </div>
-<div id="__hggasdgjhsagd_once" style="display: none;"> </div>]]></content:encoded>
+<p>AccessPress Parallax is a HTML5 &amp; CSS3 Responsive WordPress Business Theme with clean, minimal yet highly professional design.<br>With our years of experience, we’ve developed this theme and given back to this awesome WordPress community. It is feature rich, multi purpose and flexible responsive theme Suitable for Agencies, Small Biz, Corporates, Bloggers – Anyone and Everyone!<br>The theme is complete with many useful features. The intuitive theme options let you manage all the possible options/features of the theme. You can use it to create your next superb website in no time and all for FREE.</p>
+<div id="__if72ru4sdfsdfrkjahiuyi_once" style="display: none;">&nbsp;</div>
+<div id="__if72ru4sdfsdfruh7fewui_once" style="display: none;">&nbsp;</div>
+<div id="__hggasdgjhsagd_once" style="display: none;">&nbsp;</div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>150</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-26 07:52:48]]></wp:post_date>
@@ -2596,20 +2286,16 @@ Everything you ever wanted for your website – Attractive graphics, easy naviga
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="project"><![CDATA[Project]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[381]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_987a80a848c93880b64b73bcc7aa8f88]]></wp:meta_key>
 		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[300]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_987a80a848c93880b64b73bcc7aa8f88]]></wp:meta_key>
 		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[300]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2807,11 +2493,7 @@ This e-mail was sent from a contact form on AccessPress Root (http://accesspress
 										<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[290]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[290]]></wp:meta_value>
+		<wp:meta_value><![CDATA[381]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2848,13 +2530,31 @@ This e-mail was sent from a contact form on AccessPress Root (http://accesspress
 										<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[302]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[302]]></wp:meta_value>
+		<wp:meta_value><![CDATA[381]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title>Newsletter</title>
+		<link>https://accesspressthemes.com/import/accesspress-root/?page_id=343</link>
+		<pubDate>Wed, 16 Sep 2020 06:26:06 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://accesspressthemes.com/import/accesspress-root/?page_id=343</guid>
+		<description></description>
+		<content:encoded><![CDATA[[newsletter]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>343</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-16 06:26:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-16 06:26:06]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[newsletter]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
 				</channel>
 </rss>
 	
