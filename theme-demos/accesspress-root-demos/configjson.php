@@ -36,12 +36,6 @@ $data = array(
 					'init' 	=> 'contact-form-7/wp-contact-form-7.php',
 					'name' 	=> 'Contact Form 7',
 				),
-				array(
-					'slug'  => 'newsletter',
-					'init' 	=> 'newsletter/plugin.php',
-					'name' 	=> 'Newsletter',
-				)
-
 			),
 			'premium' => array()
 		)
