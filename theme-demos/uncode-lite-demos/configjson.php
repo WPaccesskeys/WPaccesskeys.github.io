@@ -25,26 +25,6 @@ $data = array(
 		),
 		'required_plugins'  => array(
 			'free' => array(
-				array(
-					'slug'  => 'ultimate-form-builder-lite',
-					'init' 	=> 'ultimate-form-builder-lite/ultimate-form-builder-lite.php',
-					'name' 	=> 'Ultimate Form Builder Lite',
-				),
-				array(
-					'slug' => 'accesspress-instagram-feed',
-					'init' => 'accesspress-instagram-feed/accesspress-instagram-feed.php',
-					'name' => 'AccessPress iFeeds'
-				),
-				array(
-					'slug'  => 'accesspress-social-icons',
-					'init' 	=> 'accesspress-social-icons/accesspress-social-icons.php',
-					'name' 	=> 'AccessPress Social Icons',
-				),
-				array(
-					'slug'  => 'accesspress-social-share',
-					'init' 	=> 'accesspress-social-share/accesspress-social-share.php',
-					'name' 	=> 'AccessPress Social Share',
-				),
 			),
 			'premium' => array()
 		)
