@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.5.3" created="2020-11-05 05:03" -->
+	<!-- generator="WordPress/5.5.3" created="2020-11-05 12:05" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Uncode Lite</title>
 	<link>https://accesspressthemes.com/import/uncode</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Thu, 05 Nov 2020 05:03:26 +0000</pubDate>
+	<pubDate>Thu, 05 Nov 2020 12:05:03 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://accesspressthemes.com/import/uncode</wp:base_site_url>
