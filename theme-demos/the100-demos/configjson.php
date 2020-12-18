@@ -49,6 +49,20 @@ $data = array(
 			'menu-1' => 'Primary Menu',
 		),
 	),
+	'dark-restaurant' => array(
+		'demo_name' => 'Dark Restaurant Demo',
+		'xml_file'     		=> $git_url . 'dark-restaurant/content.xml',
+		'widgets_file'  	=> $git_url . 'dark-restaurant/widgets.wie',
+		'theme_settings'  	=> $git_url . 'dark-restaurant/customizer_options.dat',
+		'screen'			=> $git_url . 'dark-restaurant/dark-restaurant.jpg',
+		'preview_url'		=> 'https://8degreethemes.com/demo/the100/dark-restaurant/',
+		'is_shop'			=> true,
+		'home_title'  		=> 'Homepage',
+		'blog_title'  		=> '',
+		'menus' 			=> array(
+			'menu-1' => 'Primary Menu',
+		),
+	),
 	'events' => array(
 		'demo_name' => 'Events Demo',
 		'xml_file'     		=> $git_url . 'events/content.xml',
