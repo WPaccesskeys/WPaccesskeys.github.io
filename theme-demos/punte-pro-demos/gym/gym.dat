@@ -1,0 +1,45 @@
+a:4:{s:8:"template";s:5:"punte";s:4:"mods";a:6:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:7:"primary";i:16;}s:18:"custom_css_post_id";i:55;s:13:"punte_options";a:1:{s:11:"upload-logo";a:9:{s:3:"url";s:83:"http://demo.thepunte.com/punte/gym/wp-content/uploads/sites/14/2019/11/gym-logo.png";s:2:"id";s:2:"51";s:6:"height";s:2:"30";s:5:"width";s:3:"167";s:9:"thumbnail";s:0:"";s:5:"title";s:8:"gym-logo";s:7:"caption";s:0:"";s:3:"alt";s:0:"";s:11:"description";s:0:"";}}s:11:"custom_logo";i:69;s:16:"header_textcolor";s:5:"blank";}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:772:".ap-footer-subscription {
+    display: flex;
+    width: 100%;
+}
+
+.ap-footer-subscription label {
+		position: relative;
+}
+
+.ap-footer-subscription label::after {
+		position: absolute;
+		content: '\e87a';
+		right: -50px;
+	  top: 0;
+	  font-family: Linearicons-Free;
+		height: 50px;
+		line-height: 50px;
+		width: 50px;
+		text-align: center;
+}
+
+.ap-footer-subscription .wpcf7-submit {
+	width: 50px;
+	height: 50px;
+	background-color: #eb5a56;
+	color: transparent;
+}
+
+.ap-footer-subscription label .wpcf7-email {
+	height: 50px;
+	width: calc(100% - 5px);
+	background-color: #30303c;
+	border: none;
+	padding: 0 15px;
+	color: #fff;
+}
+
+.ap-footer-subscription label .wpcf7-email:focus {
+	outline: none;
+}
+
+.ap-footer-subscription .wpcf7-submit:hover {
+	background-color: #f53b36;
+}
+";}

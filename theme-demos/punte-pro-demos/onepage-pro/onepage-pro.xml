@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.4.6" created="2021-06-15 06:12" -->
+	<!-- generator="WordPress/5.4.2" created="2020-07-22 07:31" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>OnePage</title>
 	<link>https://demo.thepunte.com/punte-pro/onepage</link>
 	<description>OnePage WordPress Template</description>
-	<pubDate>Tue, 15 Jun 2021 06:12:35 +0000</pubDate>
+	<pubDate>Wed, 22 Jul 2020 07:31:02 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.thepunte.com/punte-pro/</wp:base_site_url>
@@ -106,7 +106,7 @@
 			<wp:term><wp:term_id>9</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[Main Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.4.6</generator>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
 
 		<item>
 		<title>loogo (1)</title>
@@ -1750,7 +1750,33 @@ Mauris viverra erat eget euismod fermentum. Fusce blandit mauris vitae lacus con
 		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
 		<wp:meta_value><![CDATA[false]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+							<wp:comment>
+			<wp:comment_id>2</wp:comment_id>
+			<wp:comment_author><![CDATA[Chi Tuzzolo]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[ellegood@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://yong2331.miso7700.com</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[203.245.8.143]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2018-10-06 08:48:57]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2018-10-06 08:48:57]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Black on black in the Charg I\'m creepin\' Rub me the right way, you might get a genie B.o.B, black Houdini https://php665.com/]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+						<wp:commentmeta>
+	<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1538815737]]></wp:meta_value>
+			</wp:commentmeta>
+						<wp:commentmeta>
+	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:3:{s:4:"time";s:15:"1538815737.3749";s:5:"event";s:11:"check-error";s:4:"meta";a:1:{s:8:"response";s:7:"invalid";}}]]></wp:meta_value>
+			</wp:commentmeta>
+						<wp:commentmeta>
+	<wp:meta_key><![CDATA[akismet_delayed_moderation_email]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			</wp:commentmeta>
+							</wp:comment>
+					</item>
 					<item>
 		<title>New Content Writers hired</title>
 		<link>https://demo.thepunte.com/punte-pro/onepage/2016/12/16/new-content-writers-hired/</link>
@@ -1856,7 +1882,33 @@ Mauris viverra erat eget euismod fermentum. Fusce blandit mauris vitae lacus con
 		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
 		<wp:meta_value><![CDATA[false]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+							<wp:comment>
+			<wp:comment_id>3</wp:comment_id>
+			<wp:comment_author><![CDATA[1]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[sample@email.tst]]></wp:comment_author_email>
+			<wp:comment_author_url>http://1</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[74.120.221.250]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2017-09-22 00:12:22]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2017-09-22 00:12:22]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[1]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+						<wp:commentmeta>
+	<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1506039142]]></wp:meta_value>
+			</wp:commentmeta>
+						<wp:commentmeta>
+	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:3:{s:4:"time";s:15:"1506039142.9911";s:5:"event";s:11:"check-error";s:4:"meta";a:1:{s:8:"response";s:7:"invalid";}}]]></wp:meta_value>
+			</wp:commentmeta>
+						<wp:commentmeta>
+	<wp:meta_key><![CDATA[akismet_delayed_moderation_email]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			</wp:commentmeta>
+							</wp:comment>
+					</item>
 					<item>
 		<title>Test Page</title>
 		<link>https://demo.thepunte.com/punte-pro/onepage/test-page/</link>
@@ -2773,6 +2825,61 @@ support@accesspressthemes.com" font_container="tag:div|text_align:center" use_th
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title>Hello world!</title>
+		<link>https://demo.thepunte.com/punte-pro/onepage/2020/06/03/hello-world__trashed/</link>
+		<pubDate>Wed, 03 Jun 2020 06:14:35 +0000</pubDate>
+		<dc:creator><![CDATA[Access]]></dc:creator>
+		<guid isPermaLink="false">https://demo.thepunte.com/punte-pro/onepage/?p=1</guid>
+		<description></description>
+		<content:encoded><![CDATA[Welcome to <a href="http://demo.thepunte.com/punte-pro/">Punte Pro Sites</a>. This is your first post. Edit or delete it, then start writing!]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1</wp:post_id>
+		<wp:post_date><![CDATA[2020-06-03 06:14:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-06-03 06:14:35]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[hello-world__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1594092435]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>1</wp:comment_id>
+			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
+			<wp:comment_author_url>http://demo.thepunte.com/punte-pro/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2020-06-03 06:14:35]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2020-06-03 06:14:35]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
 					<item>
 		<title>Punte Blog Grid</title>
 		<link>https://demo.thepunte.com/punte-pro/onepage/vc_grid_item/punte-blog-grid/</link>

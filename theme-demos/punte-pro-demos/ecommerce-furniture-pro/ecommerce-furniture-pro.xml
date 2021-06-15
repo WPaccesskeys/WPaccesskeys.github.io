@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.4.6" created="2021-06-15 06:11" -->
+	<!-- generator="WordPress/5.4.2" created="2020-07-22 07:57" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Ecommerce Furniture</title>
 	<link>https://demo.thepunte.com/punte-pro/ecommerce-furniture</link>
 	<description>Best WordPress Store Theme</description>
-	<pubDate>Tue, 15 Jun 2021 06:11:13 +0000</pubDate>
+	<pubDate>Wed, 22 Jul 2020 07:57:04 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.thepunte.com/punte-pro/</wp:base_site_url>
@@ -441,7 +441,7 @@
 	<wp:term><wp:term_id>28</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[useful-links]]></wp:term_slug><wp:term_name><![CDATA[Useful Links]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.4.6</generator>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
 
 		<item>
 		<title>woocommerce-placeholder</title>
@@ -4907,6 +4907,61 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title>Hello world!</title>
+		<link>https://demo.thepunte.com/punte-pro/ecommerce-furniture/hello-world__trashed/</link>
+		<pubDate>Wed, 03 Jun 2020 07:44:02 +0000</pubDate>
+		<dc:creator><![CDATA[Access]]></dc:creator>
+		<guid isPermaLink="false">https://demo.thepunte.com/punte-pro/ecommerce-furniture/?p=1</guid>
+		<description></description>
+		<content:encoded><![CDATA[Welcome to <a href="http://demo.thepunte.com/punte-pro/">Punte Pro Sites</a>. This is your first post. Edit or delete it, then start writing!]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1</wp:post_id>
+		<wp:post_date><![CDATA[2020-06-03 07:44:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-06-03 07:44:02]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[hello-world__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1594004238]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>1</wp:comment_id>
+			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
+			<wp:comment_author_url>http://demo.thepunte.com/punte-pro/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2020-06-03 07:44:02]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2020-06-03 07:44:02]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
+					<item>
 		<title>Sample Page</title>
 		<link>https://demo.thepunte.com/punte-pro/ecommerce-furniture/sample-page/</link>
 		<pubDate>Wed, 03 Jun 2020 07:44:02 +0000</pubDate>
@@ -7203,6 +7258,403 @@ Curabitur egestas malesuada volutpat. Nunc vel vestibulum odio, ac pellentesque 
 		</wp:postmeta>
 							</item>
 					<item>
+		<title>Hello world!</title>
+		<link>https://demo.thepunte.com/punte-pro/ecommerce-furniture/hello-world-2__trashed/</link>
+		<pubDate>Wed, 01 Mar 2017 06:26:32 +0000</pubDate>
+		<dc:creator><![CDATA[Access]]></dc:creator>
+		<guid isPermaLink="false">http://demo.thepunte.com/punte/ecommerce-furniture/?p=1</guid>
+		<description></description>
+		<content:encoded><![CDATA[Welcome to <a href="http://demo.thepunte.com/punte/">Punte Sites</a>. This is your first post. Edit or delete it, then start blogging!]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>142</wp:post_id>
+		<wp:post_date><![CDATA[2017-03-01 06:26:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-03-01 06:26:32]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[hello-world-2__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[access]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1594004238]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[hello-world-2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:2;s:1:"1";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>2</wp:comment_id>
+			<wp:comment_author><![CDATA[]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2017-03-01 06:26:32]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2017-03-01 06:26:32]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
+					<item>
+		<title>A New Age for Trade &amp; Supply Chain Finance</title>
+		<link>https://demo.thepunte.com/punte-pro/ecommerce-furniture/a-new-age-for-trade-supply-chain-finance/</link>
+		<pubDate>Mon, 06 Jul 2020 03:13:03 +0000</pubDate>
+		<dc:creator><![CDATA[Access]]></dc:creator>
+		<guid isPermaLink="false">https://demo.thepunte.com/punte-pro/ecommerce-furniture/?p=280</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Cybercrime is a threat to all the organizations, but when we take in consideration the financial market the level of menace increases exponentially. Today banks and other financial organizations face the need of providing the bestincreases exponentially. Today banks and other financial organizations face the need of providing the best possible services in the best possible way and reachable by everyone everywhere. We are watching to a spread of different products and services being available through the use.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>By 2030—little more than a decade from now—the global economy will likely be in the midst of a major transformation. Companies and investors grapple with changing conditions constantly, but our research points to an unusual level of volatility in the decades ahead. To understand why, we look at the three major forces that will shape the 2020s: demographics, automation and inequality. These forces are already in motion and set to collide.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:gallery {"ids":[151,152,150],"columns":2} -->
+<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_02.jpg" alt="" data-id="151" data-full-url="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_02.jpg" data-link="https://demo.thepunte.com/punte/sass/?attachment_id=151" class="wp-image-151"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_01.jpg" alt="" data-id="152" data-full-url="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_01.jpg" data-link="https://demo.thepunte.com/punte/sass/?attachment_id=152" class="wp-image-152"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_03.jpg" alt="" data-id="150" data-full-url="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_03.jpg" data-link="https://demo.thepunte.com/punte/sass/?attachment_id=150" class="wp-image-150"/></figure></li></ul></figure>
+<!-- /wp:gallery -->
+
+<!-- wp:heading -->
+<h2>The New Rules for Marketing Your Brand</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Consumer products marketing has experienced a profound change over the last 5 to 10 years, from a world dominated by large global brands and established TV and big-box retail models to a world that’s quickly much more complex, with a proliferation of brands, channels and marketing tools. Technology’s disrupted the industry in three ways. Firstly, it’s disrupted the way consumers engage with brands. In the UK and the US now, over 60% of consumers discover brands.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There are five areas that we encourage CMOs to look at. The first is, what are my future-back platforms that will lead growth for the next 5 to 10 years? Taking today’s profit pools and forecasting them present forward just won’t capture the level of disruption that’s impacting these industries.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>“There are no secrets to success. It is the result of preparation, hard work, and learning failure.”</p><cite>– OLIVER SANDERO</cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>Secondly, given those growth platforms, what is the brand portfolio, business portfolio that I’ll use to address them? Brand portfolio strategy is definitely rising in importance. And thirdly, when I’m clear on those platforms and those brands, how am I going to implement modern marketing to engage with the consumer? We’re seeing an extreme rise in profitable growth from the clients that we’re supporting to reset their marketing model. But that isn’t straightforward. So actually, areas four and five are enablers. Four, what’s the data and technology strategy and the roadmap to implement that? The leaders are owning their own data, refreshing it constantly and, more importantly, using it to inform the business decisions. And they’re making the technology that underpins that a priority.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>280</wp:post_id>
+		<wp:post_date><![CDATA[2020-07-06 03:13:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-07-06 03:13:03]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[a-new-age-for-trade-supply-chain-finance]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="business"><![CDATA[Business]]></category>
+		<category domain="category" nicename="news"><![CDATA[News]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[283]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mb-post-background]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:7:{s:16:"background-color";s:0:"";s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";s:16:"background-image";s:0:"";s:5:"media";a:4:{s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mb-post-header-bg]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:7:{s:16:"background-color";s:7:"#f5f4f4";s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";s:16:"background-image";s:0:"";s:5:"media";a:4:{s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mb-post-header-overlay-color]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{s:5:"color";s:7:"#000000";s:5:"alpha";s:3:"0.3";s:4:"rgba";s:15:"rgba(0,0,0,0.3)";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mb-post-header-padding]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{s:11:"padding-top";s:4:"20px";s:14:"padding-bottom";s:4:"20px";s:5:"units";s:2:"px";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rs_page_bg_color]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#ffffff]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Blogs</title>
+		<link>https://demo.thepunte.com/punte-pro/ecommerce-furniture/blogs/</link>
+		<pubDate>Mon, 06 Jul 2020 03:19:12 +0000</pubDate>
+		<dc:creator><![CDATA[Access]]></dc:creator>
+		<guid isPermaLink="false">https://demo.thepunte.com/punte-pro/ecommerce-furniture/?page_id=284</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>284</wp:post_id>
+		<wp:post_date><![CDATA[2020-07-06 03:19:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-07-06 03:19:12]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blogs]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mb-page-background]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:7:{s:16:"background-color";s:7:"#FFFFFF";s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";s:16:"background-image";s:0:"";s:5:"media";a:4:{s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mb-page-header-bg]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:7:{s:16:"background-color";s:7:"#f5f4f4";s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";s:16:"background-image";s:0:"";s:5:"media";a:4:{s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mb-page-header-overlay-color]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{s:5:"color";s:7:"#000000";s:5:"alpha";s:3:"0.3";s:4:"rgba";s:15:"rgba(0,0,0,0.3)";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mb-page-header-padding]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{s:11:"padding-top";s:4:"20px";s:14:"padding-bottom";s:4:"20px";s:5:"units";s:2:"px";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rs_page_bg_color]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#ffffff]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Asia’s Health-Care Industry Outlook</title>
+		<link>https://demo.thepunte.com/punte-pro/ecommerce-furniture/asias-health-care-industry-outlook/</link>
+		<pubDate>Mon, 06 Jul 2020 03:22:12 +0000</pubDate>
+		<dc:creator><![CDATA[Access]]></dc:creator>
+		<guid isPermaLink="false">https://demo.thepunte.com/punte-pro/ecommerce-furniture/?p=287</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Cybercrime is a threat to all the organizations, but when we take in consideration the financial market the level of menace increases exponentially. Today banks and other financial organizations face the need of providing the bestincreases exponentially. Today banks and other financial organizations face the need of providing the best possible services in the best possible way and reachable by everyone everywhere. We are watching to a spread of different products and services being available through the use.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>By 2030—little more than a decade from now—the global economy will likely be in the midst of a major transformation. Companies and investors grapple with changing conditions constantly, but our research points to an unusual level of volatility in the decades ahead. To understand why, we look at the three major forces that will shape the 2020s: demographics, automation and inequality. These forces are already in motion and set to collide.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:gallery {"ids":[151,152,150],"columns":2} -->
+<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_02.jpg" alt="" data-id="151" data-full-url="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_02.jpg" data-link="https://demo.thepunte.com/punte/sass/?attachment_id=151" class="wp-image-151"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_01.jpg" alt="" data-id="152" data-full-url="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_01.jpg" data-link="https://demo.thepunte.com/punte/sass/?attachment_id=152" class="wp-image-152"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_03.jpg" alt="" data-id="150" data-full-url="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_03.jpg" data-link="https://demo.thepunte.com/punte/sass/?attachment_id=150" class="wp-image-150"/></figure></li></ul></figure>
+<!-- /wp:gallery -->
+
+<!-- wp:heading -->
+<h2>The New Rules for Marketing Your Brand</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Consumer products marketing has experienced a profound change over the last 5 to 10 years, from a world dominated by large global brands and established TV and big-box retail models to a world that’s quickly much more complex, with a proliferation of brands, channels and marketing tools. Technology’s disrupted the industry in three ways. Firstly, it’s disrupted the way consumers engage with brands. In the UK and the US now, over 60% of consumers discover brands.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There are five areas that we encourage CMOs to look at. The first is, what are my future-back platforms that will lead growth for the next 5 to 10 years? Taking today’s profit pools and forecasting them present forward just won’t capture the level of disruption that’s impacting these industries.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>“There are no secrets to success. It is the result of preparation, hard work, and learning failure.”</p><cite>– OLIVER SANDERO</cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>Secondly, given those growth platforms, what is the brand portfolio, business portfolio that I’ll use to address them? Brand portfolio strategy is definitely rising in importance. And thirdly, when I’m clear on those platforms and those brands, how am I going to implement modern marketing to engage with the consumer? We’re seeing an extreme rise in profitable growth from the clients that we’re supporting to reset their marketing model. But that isn’t straightforward. So actually, areas four and five are enablers. Four, what’s the data and technology strategy and the roadmap to implement that? The leaders are owning their own data, refreshing it constantly and, more importantly, using it to inform the business decisions. And they’re making the technology that underpins that a priority.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>287</wp:post_id>
+		<wp:post_date><![CDATA[2020-07-06 03:22:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-07-06 03:22:12]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[asias-health-care-industry-outlook]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="business"><![CDATA[Business]]></category>
+		<category domain="category" nicename="news"><![CDATA[News]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[289]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mb-post-background]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:7:{s:16:"background-color";s:0:"";s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";s:16:"background-image";s:0:"";s:5:"media";a:4:{s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mb-post-header-bg]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:7:{s:16:"background-color";s:7:"#f5f4f4";s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";s:16:"background-image";s:0:"";s:5:"media";a:4:{s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mb-post-header-overlay-color]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{s:5:"color";s:7:"#000000";s:5:"alpha";s:3:"0.3";s:4:"rgba";s:15:"rgba(0,0,0,0.3)";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mb-post-header-padding]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{s:11:"padding-top";s:4:"20px";s:14:"padding-bottom";s:4:"20px";s:5:"units";s:2:"px";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rs_page_bg_color]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#ffffff]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>How Companies are Re-configuring Supply</title>
+		<link>https://demo.thepunte.com/punte-pro/ecommerce-furniture/how-companies-are-re-configuring-supply/</link>
+		<pubDate>Mon, 06 Jul 2020 03:23:04 +0000</pubDate>
+		<dc:creator><![CDATA[Access]]></dc:creator>
+		<guid isPermaLink="false">https://demo.thepunte.com/punte-pro/ecommerce-furniture/?p=291</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Cybercrime is a threat to all the organizations, but when we take in consideration the financial market the level of menace increases exponentially. Today banks and other financial organizations face the need of providing the bestincreases exponentially. Today banks and other financial organizations face the need of providing the best possible services in the best possible way and reachable by everyone everywhere. We are watching to a spread of different products and services being available through the use.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>By 2030—little more than a decade from now—the global economy will likely be in the midst of a major transformation. Companies and investors grapple with changing conditions constantly, but our research points to an unusual level of volatility in the decades ahead. To understand why, we look at the three major forces that will shape the 2020s: demographics, automation and inequality. These forces are already in motion and set to collide.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:gallery {"ids":[151,152,150],"columns":2} -->
+<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_02.jpg" alt="" data-id="151" data-full-url="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_02.jpg" data-link="https://demo.thepunte.com/punte/sass/?attachment_id=151" class="wp-image-151"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_01.jpg" alt="" data-id="152" data-full-url="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_01.jpg" data-link="https://demo.thepunte.com/punte/sass/?attachment_id=152" class="wp-image-152"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_03.jpg" alt="" data-id="150" data-full-url="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_03.jpg" data-link="https://demo.thepunte.com/punte/sass/?attachment_id=150" class="wp-image-150"/></figure></li></ul></figure>
+<!-- /wp:gallery -->
+
+<!-- wp:heading -->
+<h2>The New Rules for Marketing Your Brand</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Consumer products marketing has experienced a profound change over the last 5 to 10 years, from a world dominated by large global brands and established TV and big-box retail models to a world that’s quickly much more complex, with a proliferation of brands, channels and marketing tools. Technology’s disrupted the industry in three ways. Firstly, it’s disrupted the way consumers engage with brands. In the UK and the US now, over 60% of consumers discover brands.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There are five areas that we encourage CMOs to look at. The first is, what are my future-back platforms that will lead growth for the next 5 to 10 years? Taking today’s profit pools and forecasting them present forward just won’t capture the level of disruption that’s impacting these industries.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>“There are no secrets to success. It is the result of preparation, hard work, and learning failure.”</p><cite>– OLIVER SANDERO</cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>Secondly, given those growth platforms, what is the brand portfolio, business portfolio that I’ll use to address them? Brand portfolio strategy is definitely rising in importance. And thirdly, when I’m clear on those platforms and those brands, how am I going to implement modern marketing to engage with the consumer? We’re seeing an extreme rise in profitable growth from the clients that we’re supporting to reset their marketing model. But that isn’t straightforward. So actually, areas four and five are enablers. Four, what’s the data and technology strategy and the roadmap to implement that? The leaders are owning their own data, refreshing it constantly and, more importantly, using it to inform the business decisions. And they’re making the technology that underpins that a priority.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>291</wp:post_id>
+		<wp:post_date><![CDATA[2020-07-06 03:23:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-07-06 03:23:04]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[how-companies-are-re-configuring-supply]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="business"><![CDATA[Business]]></category>
+		<category domain="category" nicename="news"><![CDATA[News]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[288]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mb-post-background]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:7:{s:16:"background-color";s:0:"";s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";s:16:"background-image";s:0:"";s:5:"media";a:4:{s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mb-post-header-bg]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:7:{s:16:"background-color";s:7:"#f5f4f4";s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";s:16:"background-image";s:0:"";s:5:"media";a:4:{s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mb-post-header-overlay-color]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{s:5:"color";s:7:"#000000";s:5:"alpha";s:3:"0.3";s:4:"rgba";s:15:"rgba(0,0,0,0.3)";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[mb-post-header-padding]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{s:11:"padding-top";s:4:"20px";s:14:"padding-bottom";s:4:"20px";s:5:"units";s:2:"px";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rs_page_bg_color]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#ffffff]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title>Wooden Stand</title>
 		<link>https://demo.thepunte.com/punte-pro/ecommerce-furniture/product/sure-fit-sofa/</link>
 		<pubDate>Wed, 01 Mar 2017 09:18:55 +0000</pubDate>
@@ -7567,346 +8019,6 @@ Weather-resistant with a completely foldable teak wood frame, Junction is the pe
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[rs_page_bg_color]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>A New Age for Trade &amp; Supply Chain Finance</title>
-		<link>https://demo.thepunte.com/punte-pro/ecommerce-furniture/a-new-age-for-trade-supply-chain-finance/</link>
-		<pubDate>Mon, 06 Jul 2020 03:13:03 +0000</pubDate>
-		<dc:creator><![CDATA[Access]]></dc:creator>
-		<guid isPermaLink="false">https://demo.thepunte.com/punte-pro/ecommerce-furniture/?p=280</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Cybercrime is a threat to all the organizations, but when we take in consideration the financial market the level of menace increases exponentially. Today banks and other financial organizations face the need of providing the bestincreases exponentially. Today banks and other financial organizations face the need of providing the best possible services in the best possible way and reachable by everyone everywhere. We are watching to a spread of different products and services being available through the use.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>By 2030—little more than a decade from now—the global economy will likely be in the midst of a major transformation. Companies and investors grapple with changing conditions constantly, but our research points to an unusual level of volatility in the decades ahead. To understand why, we look at the three major forces that will shape the 2020s: demographics, automation and inequality. These forces are already in motion and set to collide.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:gallery {"ids":[151,152,150],"columns":2} -->
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_02.jpg" alt="" data-id="151" data-full-url="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_02.jpg" data-link="https://demo.thepunte.com/punte/sass/?attachment_id=151" class="wp-image-151"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_01.jpg" alt="" data-id="152" data-full-url="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_01.jpg" data-link="https://demo.thepunte.com/punte/sass/?attachment_id=152" class="wp-image-152"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_03.jpg" alt="" data-id="150" data-full-url="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_03.jpg" data-link="https://demo.thepunte.com/punte/sass/?attachment_id=150" class="wp-image-150"/></figure></li></ul></figure>
-<!-- /wp:gallery -->
-
-<!-- wp:heading -->
-<h2>The New Rules for Marketing Your Brand</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Consumer products marketing has experienced a profound change over the last 5 to 10 years, from a world dominated by large global brands and established TV and big-box retail models to a world that’s quickly much more complex, with a proliferation of brands, channels and marketing tools. Technology’s disrupted the industry in three ways. Firstly, it’s disrupted the way consumers engage with brands. In the UK and the US now, over 60% of consumers discover brands.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>There are five areas that we encourage CMOs to look at. The first is, what are my future-back platforms that will lead growth for the next 5 to 10 years? Taking today’s profit pools and forecasting them present forward just won’t capture the level of disruption that’s impacting these industries.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>“There are no secrets to success. It is the result of preparation, hard work, and learning failure.”</p><cite>– OLIVER SANDERO</cite></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>Secondly, given those growth platforms, what is the brand portfolio, business portfolio that I’ll use to address them? Brand portfolio strategy is definitely rising in importance. And thirdly, when I’m clear on those platforms and those brands, how am I going to implement modern marketing to engage with the consumer? We’re seeing an extreme rise in profitable growth from the clients that we’re supporting to reset their marketing model. But that isn’t straightforward. So actually, areas four and five are enablers. Four, what’s the data and technology strategy and the roadmap to implement that? The leaders are owning their own data, refreshing it constantly and, more importantly, using it to inform the business decisions. And they’re making the technology that underpins that a priority.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>280</wp:post_id>
-		<wp:post_date><![CDATA[2020-07-06 03:13:03]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-07-06 03:13:03]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[a-new-age-for-trade-supply-chain-finance]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="business"><![CDATA[Business]]></category>
-		<category domain="category" nicename="news"><![CDATA[News]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[283]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mb-post-background]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:16:"background-color";s:0:"";s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";s:16:"background-image";s:0:"";s:5:"media";a:4:{s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mb-post-header-bg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:16:"background-color";s:7:"#f5f4f4";s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";s:16:"background-image";s:0:"";s:5:"media";a:4:{s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mb-post-header-overlay-color]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:3:{s:5:"color";s:7:"#000000";s:5:"alpha";s:3:"0.3";s:4:"rgba";s:15:"rgba(0,0,0,0.3)";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mb-post-header-padding]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:3:{s:11:"padding-top";s:4:"20px";s:14:"padding-bottom";s:4:"20px";s:5:"units";s:2:"px";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[rs_page_bg_color]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#ffffff]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Blogs</title>
-		<link>https://demo.thepunte.com/punte-pro/ecommerce-furniture/blogs/</link>
-		<pubDate>Mon, 06 Jul 2020 03:19:12 +0000</pubDate>
-		<dc:creator><![CDATA[Access]]></dc:creator>
-		<guid isPermaLink="false">https://demo.thepunte.com/punte-pro/ecommerce-furniture/?page_id=284</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>284</wp:post_id>
-		<wp:post_date><![CDATA[2020-07-06 03:19:12]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-07-06 03:19:12]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[blogs]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mb-page-background]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:16:"background-color";s:7:"#FFFFFF";s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";s:16:"background-image";s:0:"";s:5:"media";a:4:{s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mb-page-header-bg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:16:"background-color";s:7:"#f5f4f4";s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";s:16:"background-image";s:0:"";s:5:"media";a:4:{s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mb-page-header-overlay-color]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:3:{s:5:"color";s:7:"#000000";s:5:"alpha";s:3:"0.3";s:4:"rgba";s:15:"rgba(0,0,0,0.3)";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mb-page-header-padding]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:3:{s:11:"padding-top";s:4:"20px";s:14:"padding-bottom";s:4:"20px";s:5:"units";s:2:"px";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[rs_page_bg_color]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#ffffff]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Asia’s Health-Care Industry Outlook</title>
-		<link>https://demo.thepunte.com/punte-pro/ecommerce-furniture/asias-health-care-industry-outlook/</link>
-		<pubDate>Mon, 06 Jul 2020 03:22:12 +0000</pubDate>
-		<dc:creator><![CDATA[Access]]></dc:creator>
-		<guid isPermaLink="false">https://demo.thepunte.com/punte-pro/ecommerce-furniture/?p=287</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Cybercrime is a threat to all the organizations, but when we take in consideration the financial market the level of menace increases exponentially. Today banks and other financial organizations face the need of providing the bestincreases exponentially. Today banks and other financial organizations face the need of providing the best possible services in the best possible way and reachable by everyone everywhere. We are watching to a spread of different products and services being available through the use.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>By 2030—little more than a decade from now—the global economy will likely be in the midst of a major transformation. Companies and investors grapple with changing conditions constantly, but our research points to an unusual level of volatility in the decades ahead. To understand why, we look at the three major forces that will shape the 2020s: demographics, automation and inequality. These forces are already in motion and set to collide.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:gallery {"ids":[151,152,150],"columns":2} -->
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_02.jpg" alt="" data-id="151" data-full-url="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_02.jpg" data-link="https://demo.thepunte.com/punte/sass/?attachment_id=151" class="wp-image-151"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_01.jpg" alt="" data-id="152" data-full-url="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_01.jpg" data-link="https://demo.thepunte.com/punte/sass/?attachment_id=152" class="wp-image-152"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_03.jpg" alt="" data-id="150" data-full-url="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_03.jpg" data-link="https://demo.thepunte.com/punte/sass/?attachment_id=150" class="wp-image-150"/></figure></li></ul></figure>
-<!-- /wp:gallery -->
-
-<!-- wp:heading -->
-<h2>The New Rules for Marketing Your Brand</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Consumer products marketing has experienced a profound change over the last 5 to 10 years, from a world dominated by large global brands and established TV and big-box retail models to a world that’s quickly much more complex, with a proliferation of brands, channels and marketing tools. Technology’s disrupted the industry in three ways. Firstly, it’s disrupted the way consumers engage with brands. In the UK and the US now, over 60% of consumers discover brands.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>There are five areas that we encourage CMOs to look at. The first is, what are my future-back platforms that will lead growth for the next 5 to 10 years? Taking today’s profit pools and forecasting them present forward just won’t capture the level of disruption that’s impacting these industries.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>“There are no secrets to success. It is the result of preparation, hard work, and learning failure.”</p><cite>– OLIVER SANDERO</cite></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>Secondly, given those growth platforms, what is the brand portfolio, business portfolio that I’ll use to address them? Brand portfolio strategy is definitely rising in importance. And thirdly, when I’m clear on those platforms and those brands, how am I going to implement modern marketing to engage with the consumer? We’re seeing an extreme rise in profitable growth from the clients that we’re supporting to reset their marketing model. But that isn’t straightforward. So actually, areas four and five are enablers. Four, what’s the data and technology strategy and the roadmap to implement that? The leaders are owning their own data, refreshing it constantly and, more importantly, using it to inform the business decisions. And they’re making the technology that underpins that a priority.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>287</wp:post_id>
-		<wp:post_date><![CDATA[2020-07-06 03:22:12]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-07-06 03:22:12]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[asias-health-care-industry-outlook]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="business"><![CDATA[Business]]></category>
-		<category domain="category" nicename="news"><![CDATA[News]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[289]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mb-post-background]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:16:"background-color";s:0:"";s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";s:16:"background-image";s:0:"";s:5:"media";a:4:{s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mb-post-header-bg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:16:"background-color";s:7:"#f5f4f4";s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";s:16:"background-image";s:0:"";s:5:"media";a:4:{s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mb-post-header-overlay-color]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:3:{s:5:"color";s:7:"#000000";s:5:"alpha";s:3:"0.3";s:4:"rgba";s:15:"rgba(0,0,0,0.3)";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mb-post-header-padding]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:3:{s:11:"padding-top";s:4:"20px";s:14:"padding-bottom";s:4:"20px";s:5:"units";s:2:"px";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[rs_page_bg_color]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#ffffff]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>How Companies are Re-configuring Supply</title>
-		<link>https://demo.thepunte.com/punte-pro/ecommerce-furniture/how-companies-are-re-configuring-supply/</link>
-		<pubDate>Mon, 06 Jul 2020 03:23:04 +0000</pubDate>
-		<dc:creator><![CDATA[Access]]></dc:creator>
-		<guid isPermaLink="false">https://demo.thepunte.com/punte-pro/ecommerce-furniture/?p=291</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Cybercrime is a threat to all the organizations, but when we take in consideration the financial market the level of menace increases exponentially. Today banks and other financial organizations face the need of providing the bestincreases exponentially. Today banks and other financial organizations face the need of providing the best possible services in the best possible way and reachable by everyone everywhere. We are watching to a spread of different products and services being available through the use.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>By 2030—little more than a decade from now—the global economy will likely be in the midst of a major transformation. Companies and investors grapple with changing conditions constantly, but our research points to an unusual level of volatility in the decades ahead. To understand why, we look at the three major forces that will shape the 2020s: demographics, automation and inequality. These forces are already in motion and set to collide.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:gallery {"ids":[151,152,150],"columns":2} -->
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_02.jpg" alt="" data-id="151" data-full-url="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_02.jpg" data-link="https://demo.thepunte.com/punte/sass/?attachment_id=151" class="wp-image-151"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_01.jpg" alt="" data-id="152" data-full-url="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_01.jpg" data-link="https://demo.thepunte.com/punte/sass/?attachment_id=152" class="wp-image-152"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_03.jpg" alt="" data-id="150" data-full-url="https://demo.thepunte.com/punte/sass/wp-content/uploads/sites/27/2020/04/blog-single_03.jpg" data-link="https://demo.thepunte.com/punte/sass/?attachment_id=150" class="wp-image-150"/></figure></li></ul></figure>
-<!-- /wp:gallery -->
-
-<!-- wp:heading -->
-<h2>The New Rules for Marketing Your Brand</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Consumer products marketing has experienced a profound change over the last 5 to 10 years, from a world dominated by large global brands and established TV and big-box retail models to a world that’s quickly much more complex, with a proliferation of brands, channels and marketing tools. Technology’s disrupted the industry in three ways. Firstly, it’s disrupted the way consumers engage with brands. In the UK and the US now, over 60% of consumers discover brands.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>There are five areas that we encourage CMOs to look at. The first is, what are my future-back platforms that will lead growth for the next 5 to 10 years? Taking today’s profit pools and forecasting them present forward just won’t capture the level of disruption that’s impacting these industries.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>“There are no secrets to success. It is the result of preparation, hard work, and learning failure.”</p><cite>– OLIVER SANDERO</cite></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>Secondly, given those growth platforms, what is the brand portfolio, business portfolio that I’ll use to address them? Brand portfolio strategy is definitely rising in importance. And thirdly, when I’m clear on those platforms and those brands, how am I going to implement modern marketing to engage with the consumer? We’re seeing an extreme rise in profitable growth from the clients that we’re supporting to reset their marketing model. But that isn’t straightforward. So actually, areas four and five are enablers. Four, what’s the data and technology strategy and the roadmap to implement that? The leaders are owning their own data, refreshing it constantly and, more importantly, using it to inform the business decisions. And they’re making the technology that underpins that a priority.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>291</wp:post_id>
-		<wp:post_date><![CDATA[2020-07-06 03:23:04]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-07-06 03:23:04]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[how-companies-are-re-configuring-supply]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="business"><![CDATA[Business]]></category>
-		<category domain="category" nicename="news"><![CDATA[News]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[288]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mb-post-background]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:16:"background-color";s:0:"";s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";s:16:"background-image";s:0:"";s:5:"media";a:4:{s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mb-post-header-bg]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:16:"background-color";s:7:"#f5f4f4";s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";s:16:"background-image";s:0:"";s:5:"media";a:4:{s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mb-post-header-overlay-color]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:3:{s:5:"color";s:7:"#000000";s:5:"alpha";s:3:"0.3";s:4:"rgba";s:15:"rgba(0,0,0,0.3)";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[mb-post-header-padding]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:3:{s:11:"padding-top";s:4:"20px";s:14:"padding-bottom";s:4:"20px";s:5:"units";s:2:"px";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[rs_page_bg_color]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#ffffff]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
