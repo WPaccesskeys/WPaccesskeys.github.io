@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.4.2" created="2020-07-22 07:08" -->
+	<!-- generator="WordPress/5.4.6" created="2021-06-15 06:16" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Magazine</title>
 	<link>https://demo.thepunte.com/punte-pro/magazine</link>
 	<description>Modern News &#38; Magazine Theme</description>
-	<pubDate>Wed, 22 Jul 2020 07:08:55 +0000</pubDate>
+	<pubDate>Tue, 15 Jun 2021 06:16:17 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.thepunte.com/punte-pro/</wp:base_site_url>
@@ -87,7 +87,7 @@
 	<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[secondary-menu]]></wp:term_slug><wp:term_name><![CDATA[Secondary Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<generator>https://wordpress.org/?v=5.4.6</generator>
 
 		<item>
 		<title>bnr3</title>

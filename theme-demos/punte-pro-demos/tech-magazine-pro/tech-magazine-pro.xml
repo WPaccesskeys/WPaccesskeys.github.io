@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.4.2" created="2020-07-22 07:00" -->
+	<!-- generator="WordPress/5.4.6" created="2021-06-15 05:43" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Tech Magazine</title>
 	<link>https://demo.thepunte.com/punte-pro/tech-magazine</link>
 	<description>Modern Tech. Magazine Template</description>
-	<pubDate>Wed, 22 Jul 2020 07:00:49 +0000</pubDate>
+	<pubDate>Tue, 15 Jun 2021 05:43:25 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.thepunte.com/punte-pro/</wp:base_site_url>
@@ -78,7 +78,7 @@
 	<wp:term><wp:term_id>8</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-header-menu]]></wp:term_slug><wp:term_name><![CDATA[Top Header Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<generator>https://wordpress.org/?v=5.4.6</generator>
 
 		<item>
 		<title>sports-car-1349153_1280</title>
