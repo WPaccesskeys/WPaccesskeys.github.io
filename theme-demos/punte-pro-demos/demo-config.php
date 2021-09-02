@@ -5,18 +5,18 @@
 *
 */
 
-function punte_demo_config(){
+// function punte_demo_config(){
 	
 			$git_url 		= 'https://raw.githubusercontent.com/WPaccesskeys/WPaccesskeys.github.io/master/theme-demos/punte-pro-demos/';
 			$data = array(
 
 				'agency-pro' => array(
-					'demo_name'			=> esc_html__('Agency Demo','access-demo-importer'),
-					'xml_file'     		=> $git_url . 'agency/agency.xml',
-					'theme_settings' 	=> $git_url . 'agency/agency.dat',
-					'widgets_file'  	=> $git_url . 'agency/agency.wie',
+					'demo_name'			=> ('Agency Demo'),
+					'xml_file'     		=> $git_url . 'agency-pro/agency.xml',
+					'theme_settings' 	=> $git_url . 'agency-pro/agency.dat',
+					'widgets_file'  	=> $git_url . 'agency-pro/agency.wie',
 					'import_redux'		=> array(
-											'file_url'		=> $git_url .'agency/agency.json',
+											'file_url'		=> $git_url .'agency-pro/agency.json',
 											'option_name' 	=> 'punte_options',
 										),
 					'screen'			=> $git_url . 'agency-pro/agency-pro.jpg',
@@ -59,12 +59,12 @@ function punte_demo_config(){
 				),
 
 				'corporate-pro' => array(
-					'demo_name'			=> esc_html__('Corporate Demo','access-demo-importer'),
-					'xml_file'     		=> $git_url . 'corporate/corporate.xml',
-					'theme_settings' 	=> $git_url . 'corporate/corporate.dat',
-					'widgets_file'  	=> $git_url . 'corporate/corporate.wie',
+					'demo_name'			=> ('Corporate Demo'),
+					'xml_file'     		=> $git_url . 'corporate-pro/corporate.xml',
+					'theme_settings' 	=> $git_url . 'corporate-pro/corporate.dat',
+					'widgets_file'  	=> $git_url . 'corporate-pro/corporate.wie',
 					'import_redux'		=> array(
-											'file_url'		=> $git_url .'corporate/corporate.json',
+											'file_url'		=> $git_url .'corporate-pro/corporate.json',
 											'option_name' 	=> 'punte_options',
 										),
 					'screen'			=> $git_url . 'corporate-pro/corporate-pro.jpg',
@@ -108,7 +108,7 @@ function punte_demo_config(){
 
 
 				'corporate-v2-pro' => array(
-					'demo_name'			=> esc_html__('Corporate Demo','access-demo-importer'),
+					'demo_name'			=> ('Corporate Demo'),
 					'xml_file'     		=> $git_url . 'corporate-v2-pro/corporate-v2-pro.xml',
 					'theme_settings' 	=> $git_url . 'corporate-v2-pro/corporate-v2-pro.dat',
 					'widgets_file'  	=> $git_url . 'corporate-v2-pro/corporate-v2-pro.wie',
@@ -162,7 +162,7 @@ function punte_demo_config(){
 
 
 				'digital-corporate-pro' => array(
-					'demo_name'			=> esc_html__('Corporate Demo','access-demo-importer'),
+					'demo_name'			=> ('Corporate Demo'),
 					'xml_file'     		=> $git_url . 'digital-corporate-pro/digital-corporate-pro.xml',
 					'theme_settings' 	=> $git_url . 'digital-corporate-pro/digital-corporate-pro.dat',
 					'widgets_file'  	=> $git_url . 'digital-corporate-pro/digital-corporate-pro.wie',
@@ -215,7 +215,7 @@ function punte_demo_config(){
 
 
 				'ecommerce-furniture-pro' => array(
-					'demo_name'			=> esc_html__('Furniture Store','access-demo-importer'),
+					'demo_name'			=> ('Furniture Store'),
 					'xml_file'     		=> $git_url . 'ecommerce-furniture-pro/ecommerce-furniture-pro.xml',
 					'theme_settings' 	=> $git_url . 'ecommerce-furniture-pro/ecommerce-furniture-pro.dat',
 					'widgets_file'  	=> $git_url . 'ecommerce-furniture-pro/ecommerce-furniture-pro.wie',
@@ -287,7 +287,7 @@ function punte_demo_config(){
 
 
 				'kindergarten-pro' => array(
-					'demo_name'			=> esc_html__('Kindergarten','access-demo-importer'),
+					'demo_name'			=> ('Kindergarten'),
 					'xml_file'     		=> $git_url . 'kindergarten-pro/kindergarten-pro.xml',
 					'theme_settings' 	=> $git_url . 'kindergarten-pro/kindergarten-pro.dat',
 					'widgets_file'  	=> $git_url . 'kindergarten-pro/kindergarten-pro.wie',
@@ -335,7 +335,7 @@ function punte_demo_config(){
 
 
 				'magazine-pro' => array(
-					'demo_name'			=> esc_html__('Magazine','access-demo-importer'),
+					'demo_name'			=> ('Magazine'),
 					'xml_file'     		=> $git_url . 'magazine-pro/magazine-pro.xml',
 					'theme_settings' 	=> $git_url . 'magazine-pro/magazine-pro.dat',
 					'widgets_file'  	=> $git_url . 'magazine-pro/magazine-pro.wie',
@@ -381,7 +381,7 @@ function punte_demo_config(){
 
 
 				'newspaper-pro' => array(
-					'demo_name'			=> esc_html__('Newspaper','access-demo-importer'),
+					'demo_name'			=> ('Newspaper'),
 					'xml_file'     		=> $git_url . 'newspaper-pro/newspaper-pro.xml',
 					'theme_settings' 	=> $git_url . 'newspaper-pro/newspaper-pro.dat',
 					'widgets_file'  	=> $git_url . 'newspaper-pro/newspaper-pro.wie',
@@ -435,7 +435,7 @@ function punte_demo_config(){
 
 
 				'onepage-pro' => array(
-					'demo_name'			=> esc_html__('Onepage','access-demo-importer'),
+					'demo_name'			=> ('Onepage'),
 					'xml_file'     		=> $git_url . 'onepage-pro/onepage-pro.xml',
 					'theme_settings' 	=> $git_url . 'onepage-pro/onepage-pro.dat',
 					'widgets_file'  	=> $git_url . 'onepage-pro/onepage-pro.wie',
@@ -482,7 +482,7 @@ function punte_demo_config(){
 
 
 				'tech-magazine-pro' => array(
-					'demo_name'			=> esc_html__('Tech Magazine','access-demo-importer'),
+					'demo_name'			=> ('Tech Magazine'),
 					'xml_file'     		=> $git_url . 'tech-magazine-pro/tech-magazine-pro.xml',
 					'theme_settings' 	=> $git_url . 'tech-magazine-pro/tech-magazine-pro.dat',
 					'widgets_file'  	=> $git_url . 'tech-magazine-pro/tech-magazine-pro.wie',
@@ -528,7 +528,7 @@ function punte_demo_config(){
 				),
 				
 				'saas' => array(
-					'demo_name'			=> esc_html__('Saas Demo','access-demo-importer'),
+					'demo_name'			=> ('Saas Demo'),
 					'xml_file'     		=> $git_url . 'saas/saas.xml',
 					'theme_settings' 	=> $git_url . 'saas/saas.dat',
 					'widgets_file'  	=> $git_url . 'saas/saas.wie',
@@ -569,7 +569,7 @@ function punte_demo_config(){
 
 
 				'business' => array(
-					'demo_name'			=> esc_html__('Business Demo','access-demo-importer'),
+					'demo_name'			=> ('Business Demo'),
 					'xml_file'     		=> $git_url . 'business/business.xml',
 					'theme_settings' 	=> $git_url . 'business/business.dat',
 					'widgets_file'  	=> $git_url . 'business/business.wie',
@@ -611,7 +611,7 @@ function punte_demo_config(){
 				),
 
 				'construction' => array(
-					'demo_name'			=> esc_html__('Construction Demo','access-demo-importer'),
+					'demo_name'			=> ('Construction Demo'),
 					'xml_file'     		=> $git_url . 'construction/construction.xml',
 					'theme_settings' 	=> $git_url . 'construction/construction.dat',
 					'widgets_file'  	=> $git_url . 'construction/construction.wie',
@@ -652,7 +652,7 @@ function punte_demo_config(){
 
 
 				'gym' => array(
-					'demo_name'			=> esc_html__('Gym Demo','access-demo-importer'),
+					'demo_name'			=> ('Gym Demo'),
 					'xml_file'     		=> $git_url . 'gym/gym.xml',
 					'theme_settings' 	=> $git_url . 'gym/gym.dat',
 					'widgets_file'  	=> $git_url . 'gym/gym.wie',
@@ -693,7 +693,7 @@ function punte_demo_config(){
 
 
 				'hotel' => array(
-					'demo_name'			=> esc_html__('Hotel Demo','access-demo-importer'),
+					'demo_name'			=> ('Hotel Demo'),
 					'xml_file'     		=> $git_url . 'hotel/hotel.xml',
 					'theme_settings' 	=> $git_url . 'hotel/hotel.dat',
 					'widgets_file'  	=> $git_url . 'hotel/hotel.wie',
@@ -734,7 +734,7 @@ function punte_demo_config(){
 
 
 				'kids' => array(
-					'demo_name'			=> esc_html__('Kids Demo','access-demo-importer'),
+					'demo_name'			=> ('Kids Demo'),
 					'xml_file'     		=> $git_url . 'kids/kids.xml',
 					'theme_settings' 	=> $git_url . 'kids/kids.dat',
 					'widgets_file'  	=> $git_url . 'kids/kids.wie',
@@ -775,7 +775,7 @@ function punte_demo_config(){
 
 
 				'blog' => array(
-					'demo_name'			=> esc_html__('Blog Demo','access-demo-importer'),
+					'demo_name'			=> ('Blog Demo'),
 					'xml_file'     		=> $git_url . 'blog/blog.xml',
 					'theme_settings' 	=> $git_url . 'blog/blog.dat',
 					'widgets_file'  	=> $git_url . 'blog/blog.wie',
@@ -816,7 +816,7 @@ function punte_demo_config(){
 
 
 				'one-product' => array(
-					'demo_name'			=> esc_html__('One Product Demo','access-demo-importer'),
+					'demo_name'			=> ('One Product Demo'),
 					'xml_file'     		=> $git_url . 'one-product/one-product.xml',
 					'theme_settings' 	=> $git_url . 'one-product/one-product.dat',
 					'widgets_file'  	=> $git_url . 'one-product/one-product.wie',
@@ -857,7 +857,7 @@ function punte_demo_config(){
 
 
 				'restaurant' => array(
-					'demo_name'			=> esc_html__('Restaurant Demo','access-demo-importer'),
+					'demo_name'			=> ('Restaurant Demo'),
 					'xml_file'     		=> $git_url . 'restaurant/restaurant.xml',
 					'theme_settings' 	=> $git_url . 'restaurant/restaurant.dat',
 					'widgets_file'  	=> $git_url . 'restaurant/restaurant.wie',
@@ -898,7 +898,7 @@ function punte_demo_config(){
 
 
 				'wedding' => array(
-					'demo_name'			=> esc_html__('Wedding Demo','access-demo-importer'),
+					'demo_name'			=> ('Wedding Demo'),
 					'xml_file'     		=> $git_url . 'wedding/wedding.xml',
 					'theme_settings' 	=> $git_url . 'wedding/wedding.dat',
 					'widgets_file'  	=> $git_url . 'wedding/wedding.wie',
@@ -939,7 +939,7 @@ function punte_demo_config(){
 
 
 				'yoga' => array(
-					'demo_name'			=> esc_html__('Yoga Demo','access-demo-importer'),
+					'demo_name'			=> ('Yoga Demo'),
 					'xml_file'     		=> $git_url . 'yoga/yoga.xml',
 					'theme_settings' 	=> $git_url . 'yoga/yoga.dat',
 					'widgets_file'  	=> $git_url . 'yoga/yoga.wie',
@@ -979,7 +979,7 @@ function punte_demo_config(){
 				),
 
 				'charity' => array(
-					'demo_name'			=> esc_html__('Charity Demo','access-demo-importer'),
+					'demo_name'			=> ('Charity Demo'),
 					'xml_file'     		=> $git_url . 'charity/charity.xml',
 					'theme_settings' 	=> $git_url . 'charity/charity.dat',
 					'widgets_file'  	=> $git_url . 'charity/charity.wie',
@@ -1024,7 +1024,7 @@ function punte_demo_config(){
 				),
 
 				'online-store' => array(
-					'demo_name'			=> esc_html__('Online Store','access-demo-importer'),
+					'demo_name'			=> ('Online Store'),
 					'xml_file'     		=> $git_url . 'online-store/online-store.xml',
 					'theme_settings' 	=> $git_url . 'online-store/online-store.dat',
 					'widgets_file'  	=> $git_url . 'online-store/online-store.wie',
@@ -1083,14 +1083,11 @@ function punte_demo_config(){
 					),
 				),
 
-
-				
-
-
-
-
-
 			);
+echo (json_encode($data));
 
-	return $data;
-}
+$fp = fopen('config.json', 'w');
+fwrite($fp, json_encode($data));
+fclose($fp);
+
+echo "<h2>Check the folder (http://localhost/Accesskeys/config.json) and find config.json downloaded there.</h2>";
