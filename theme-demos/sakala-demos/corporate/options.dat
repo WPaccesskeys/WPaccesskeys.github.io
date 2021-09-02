@@ -1,0 +1,432 @@
+a:4:{s:8:"template";s:6:"sakala";s:4:"mods";a:19:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:6:"menu-1";i:5;}s:18:"custom_css_post_id";i:983;s:31:"sakala_dragndrop_sections_order";s:684:"{"header":{"top-header":[{"panel":"title_tagline","section":"site-branding","enable":"1"}],"main-header":[{"panel":"sakala_headercustom_section","section":"customhtml","enable":"1"},{"panel":"sakala_headermenu_section","section":"nav-menu","enable":"1"}],"bottom-header":[{"panel":"sakala_headerphone_section","section":"phone","enable":"1"},{"panel":"sakala_headersearch_section","section":"search","enable":"1"}]},"footer":{"top-footer":[],"main-footer":[{"panel":"sakala_footer_copyright_section","section":"copyright","enable":"1"},{"panel":"sakala_footer_menu_section","section":"footermenu","enable":"0"},{"panel":"sakala_footer_social","section":"footersocial","enable":"0"}]}}";s:28:"sakala_header_layout_setting";s:4:"lay5";s:19:"title_tagline_width";i:100;s:19:"sakala_headercustom";s:79:"<b>Now Hiring</b>: Are you a driven and motivated 1st Line IT Support Engineer?";s:33:"sakala_headercustom_section_width";i:100;s:31:"sakala_headermenu_section_width";i:100;s:19:"sakala_header_phone";s:49:"Have any Questions? <br />
+<b>+977 9841234567</b>";s:33:"sakala_headersearch_section_width";i:100;s:34:"sakala_footer_bkgcolor_main_footer";s:7:"#155153";s:31:"sakala_footer_style_main_footer";s:16:"sakala-fullwidth";s:28:"sakala_footer_copyright_text";s:46:"Copyright © 2021 Sakala. All rights reserved.";s:39:"sakala_footer_marginpadding_main_footer";s:24:"-, -, 0, -, 20, -, 30, -";s:28:"sakala_footer_layout_setting";s:4:"lay2";s:11:"custom_logo";i:1304;s:16:"header_textcolor";s:5:"blank";s:39:"sakala_header_marginpadding_main_header";s:23:"0, -, 0, -, 0, 0, 20, 0";}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:13163:".top-header-sakala-wrapper {
+    margin-top: 0;
+}
+header-wrap .site-customhtml {
+    padding: 15px 0 10px 0;
+}
+.header-main-menu {
+    padding-top: 10px;
+}
+.sakala-law-footer-rec-post ul li span.post-date {
+    color: #ffffff;
+}
+.sakala-law-footer-rec-post ul li span.post-date:before {
+    color: #ffffff;
+}
+.footer-lay2 footer .main-footer .main-footer-elem-wrap div a, .footer-lay2 footer .main-footer .main-footer-elem-wrap div {
+    color: #ffffff !important;
+}
+.footer-lay2 footer .main-footer .main-footer-elem-wrap .menu li a {
+    color: #ffffff;
+}
+.bing-law-message textarea {
+	  height: 220px;
+    min-height: 150px;
+}
+.ap-companion-team.default .slick-arrow:hover {
+    background: #ff0000 !important;
+    border-color: #ffffff !important;
+}
+.bing-law-submit-btn input:hover {
+    background: #ff0000 !important;
+    cursor: pointer;
+}
+.footer-lay2 footer .main-footer .main-footer-elem-wrap div {
+    padding-top: 15px;
+	padding-bottom: 0;
+}
+.elementor-counter-number-wrapper {
+    padding-bottom: 10px;
+}
+.elementor-position-top .elementor-image-box-img {
+    margin-bottom: 0 !important;
+}
+.ap-companion-testimonials.layout5 .slick-dots li.slick-active button:before, .ap-companion-testimonials.layout5 .slick-dots li:hover button:before, .footer-lay2 footer .main-footer .main-footer-elem-wrap div a:hover, #secondary ul li a:hover, .blog .entry-header .entry-title a:hover, .search .entry-header .entry-title a:hover, .archive .entry-header .entry-title a:hover {
+    color: #2c41b4 !important;
+}
+.blog .entry-header .entry-title, .search .entry-header .entry-title, .archive .entry-header .entry-title {
+    margin: 0;
+    line-height: 1.625;
+    font-size: 32px;
+    font-weight: 400;
+    font-family: "Prata", sans-serif;
+}
+.blog .entry-content p, .search .entry-content p, .archive .entry-content p {
+    margin: 0;
+    display: block;
+    width: 100%;
+    line-height: 1.7;
+    color: #272b2e;
+	font-family: "lato", Sans-serif;
+	font-size: 18px;
+}
+.blog .entry-header .author a, .search .entry-header .author a, .archive .entry-header .author a, .single .entry-header .author a, .blog .entry-header .posted-on a, .search .entry-header .posted-on a, .archive .entry-header .posted-on a, .single .entry-header .posted-on a {
+    width: 100%;
+    line-height: 1.7;
+    color: #7d7e80;
+	font-family: "lato", Sans-serif;
+	font-size: 18px;
+}
+.blog .entry-header .byline:before, .search .entry-header .byline:before, .archive .entry-header .byline:before, .single .entry-header .byline:before {
+    font-size: 18px;
+    font-weight: 400;
+    color: #272b2e;
+}
+#secondary .widget-title {
+    font-weight: 400;
+    margin-bottom: 25px;
+    color: #223645;
+    letter-spacing: normal;
+    text-transform: none;
+    font-size: 32px;
+    font-family: "Prata", sans-serif;
+}
+.blog .entry-content a.read-more, .search .entry-content a.read-more, .archive .entry-content a.read-more {
+    border-radius: 0;
+}
+.bing-cont-name input[type="text"], .bing-cont-email input[type="email"], .bing-cont-phone input[type="tel"], .bing-cont-message textarea {
+    -webkit-border-radius: 0;
+    border-radius: 0px;
+    font-size: 16px;
+    color: #ffffff !important;
+    font-weight: 300;
+}
+.sakala-cont-inner-left-wrapp {
+    margin-top: 0px;
+}
+.bing-cont-name {
+    margin-bottom: 15px;
+}
+.sakala-cont-sub-btn {
+    margin-top: 30px;
+}
+.sakala-cont-sub-btn input[type="submit"] {
+    -webkit-border-radius: 0;
+    border-radius: 0;
+}
+::placeholder {
+  opacity: 1; 
+}
+.ap-companion-testimonials.layout5 .slick-dots li.slick-active button:before, .ap-companion-testimonials.layout5 .slick-dots li:hover button:before, .footer-lay2 footer .main-footer .main-footer-elem-wrap div a:hover, #secondary ul li a:hover, .blog .entry-header .entry-title a:hover, .search .entry-header .entry-title a:hover, .archive .entry-header .entry-title a:hover {
+    color: #c3c4ca !important;
+}
+.header-main-menu {
+    padding: 10px 0;
+}
+.header-lay5 .sakala-header-wrap .site-customhtml {
+    padding: 10px 0;
+}
+.main-header.sakala-header-container {
+    margin: 0px auto 0px auto;
+    padding: 0px 0px 0px 0px;
+}
+.header-lay5 .main-navigation li a {
+    padding: 0;
+}
+.bing-cont-name input[type="text"], .bing-cont-email input[type="email"], .bing-cont-phone input[type="tel"], .bing-cont-message textarea {
+    background: none !important;
+    border: 1px solid #dcdcdc;
+}
+::placeholder {
+    color: #515151;
+}
+.ap-companion-testimonials.layout5 .slick-dots li.slick-active button:before, .ap-companion-testimonials.layout5 .slick-dots li:hover button:before, .footer-lay2 footer .main-footer .main-footer-elem-wrap div a:hover, #secondary ul li a:hover, .blog .entry-header .entry-title a:hover, .search .entry-header .entry-title a:hover, .archive .entry-header .entry-title a:hover {
+    color: #755fc6 !important;
+}
+#secondary .widget-title:hover{
+	color: none;
+}
+.bingle-minimal-subscribe .wpcf7-submit:hover, .bingle-cont-sub-btn input[type="submit"]:hover, .blog .entry-content a.read-more:hover, .search .entry-content a.read-more:hover, .archive .entry-content a.read-more:hover, #secondary .widget_search input[type="submit"]:hover, .comments-area form.comment-form .form-submit input[type="submit"]:hover {
+    background: #091975 !important;
+}
+.blog .entry-content a.read-more:hover, .search .entry-content a.read-more:hover, .archive .entry-content a.read-more:hover {
+    background: #091975 !important;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.bing-cont-name {
+    margin-top: -8px;
+    margin-bottom: 35px;
+}
+.sakala-cont-sub-btn input[type="submit"]:hover {
+    background: #091975 !important;
+}
+body:not(.home) .site-header {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.single article .entry-header .entry-title {
+    color: #110729;
+    font-size: 32px;
+	font-weight: 400;
+	font-family: "Prata", sans-serif;
+}
+article#post-939, article#post-965, article#post-97, article#post-92 p{
+	margin: 0;
+    display: block;
+    width: 100%;
+    line-height: 1.7;
+    color: #272b2e;
+    font-family: "lato", Sans-serif;
+    font-size: 18px;
+}
+article#post-939, article#post-965, article#post-97, article#post-92 h2{
+	color: #110729;
+    font-size: 28px;
+	font-weight: 400;
+	font-family: "Prata", sans-serif;
+}
+article#post-939, article#post-965, article#post-97, article#post-92 #secondary .widget a {
+   width: 100%;
+    line-height: 1.7;
+    color: #272b2e;
+    font-family: "lato", Sans-serif;
+    font-size: 16px;
+}
+q:before, blockquote:before {
+    left: -10px;
+    top: -20px;
+}
+article#post-941 p{
+	margin: 0;
+    display: block;
+    width: 100%;
+    line-height: 1.7;
+    color: #272b2e;
+    font-family: "lato", Sans-serif;
+    font-size: 18px;
+}
+article#post-941 h2{
+	color: #110729;
+    font-size: 28px;
+	font-weight: 400;
+	font-family: "Prata", sans-serif;
+}
+article#post-941 .widget a {
+   width: 100%;
+    line-height: 1.7;
+    color: #272b2e;
+    font-family: "lato", Sans-serif;
+    font-size: 16px;
+}
+article#post-939 p{
+	margin: 0;
+    display: block;
+    width: 100%;
+    line-height: 1.7;
+    color: #272b2e;
+    font-family: "lato", Sans-serif;
+    font-size: 18px;
+}
+article#post-939 h2{
+	color: #110729;
+    font-size: 28px;
+	font-weight: 400;
+	font-family: "Prata", sans-serif;
+}
+article#post-939 .widget a {
+   width: 100%;
+    line-height: 1.7;
+    color: #272b2e;
+    font-family: "lato", Sans-serif;
+    font-size: 16px;
+}
+article#post-965 p{
+	margin: 0;
+    display: block;
+    width: 100%;
+    line-height: 1.7;
+    color: #272b2e;
+    font-family: "lato", Sans-serif;
+    font-size: 18px;
+}
+article#post-965 h2{
+	color: #110729;
+    font-size: 28px;
+	font-weight: 400;
+	font-family: "Prata", sans-serif;
+}
+article#post-965 .widget a {
+   width: 100%;
+    line-height: 1.7;
+    color: #272b2e;
+    font-family: "lato", Sans-serif;
+    font-size: 16px;
+}
+article#post-97 p{
+	margin: 0;
+    display: block;
+    width: 100%;
+    line-height: 1.7;
+    color: #272b2e;
+    font-family: "lato", Sans-serif;
+    font-size: 18px;
+}
+article#post-97 h2{
+	color: #110729;
+    font-size: 28px;
+	font-weight: 400;
+	font-family: "Prata", sans-serif;
+}
+article#post-97 .widget a {
+   width: 100%;
+    line-height: 1.7;
+    color: #272b2e;
+    font-family: "lato", Sans-serif;
+    font-size: 16px;
+}
+figure.wp-block-image {
+    margin-top: 20px;
+}
+footer.entry-footer span.cat-links {
+    margin: 20px 0;
+}
+article#post-92 figure.wp-block-gallery.columns-3.is-cropped {
+    margin-top: 20px;
+}
+.wp-block-quote {
+    margin-top: 20px;
+}
+b, strong {
+    padding-left: 20px;
+}
+.blocks-gallery-grid, .wp-block-gallery {
+    margin-top: 20px;
+}
+article#post-97 input#submit {
+    margin-bottom: 20px;
+}
+p.form-submit input#submit {
+    margin-bottom: 20px;
+}
+.comments-area form.comment-form .comment-form-email {
+    padding-left: 0;
+}
+article#post-939, article#post-965, article#post-97, article#post-92 p {
+    margin-bottom: 10px;
+}
+.comments-area form.comment-form .comment-form-cookies-consent input {
+    vertical-align: middle;
+}
+q:before, blockquote:before {
+	display: none !important;
+}
+q:before, blockquote:before {
+	display: none !important;
+}
+q:before, blockquote:before {
+    content: "“";
+    font-size: 64px;
+    left: 15px;
+    position: absolute;
+    top: -12px;
+    color: #ccc;
+	display: none;
+}
+.bing-cont-name input[type="text"], .bing-cont-email input[type="email"], .bing-cont-phone input[type="tel"], .bing-cont-message textarea {
+    padding: 0 15px;
+}
+.bing-cont-message textarea {
+    padding: 10px 15px;
+}
+.entry-content ul{
+	display: none;
+}
+@media screen and (max-width: 768px) {
+	.bingle-footer-wrap{
+		padding: 0 !important;
+	}
+	footer .footer-elements-wrap{
+		padding-left: 10px !important;
+		padding-right: 10px !important;
+	}
+	.sakala-mobile-header a.custom-logo-link {
+    padding-top: 15px;
+}
+	.sakala-mobile-header button.menu-toggle {
+    margin-top: -67px;
+}
+}
+	
+	
+.bingle-cont-sub-btn input[type="submit"], .bingle-cont-sub-btn input[type="submit"]:hover {
+    background: #2c41b4;
+}
+.bing-cont-name input[type="text"], .bing-cont-email input[type="email"], .bing-cont-phone input[type="tel"], .bing-cont-message textarea {
+    background: #2c41b4;
+}
+.ap-companion-testimonials.layout5 .slick-dots li.slick-active button:before, .ap-companion-testimonials.layout5 .slick-dots li:hover button:before, .footer-lay2 footer .main-footer .main-footer-elem-wrap div a:hover, #secondary ul li a:hover, .blog .entry-header .entry-title a:hover, .search .entry-header .entry-title a:hover, .archive .entry-header .entry-title a:hover{
+    color: #155153;
+}
+.footer-lay2 footer .main-footer .main-footer-elem-wrap div a, .footer-lay2 footer .main-footer .main-footer-elem-wrap div {
+    color: #cca876;
+}
+.bingle-cont-sub-btn input[type="submit"], .blog .entry-content a.read-more, .search .entry-content a.read-more, .archive .entry-content a.read-more, #secondary .widget_search input[type="submit"], .comments-area form.comment-form .form-submit input[type="submit"] {
+    background: #2c41b4;
+}
+.bingle-minimal-subscribe .wpcf7-submit:hover, .bingle-cont-sub-btn input[type="submit"]:hover, .blog .entry-content a.read-more:hover, .search .entry-content a.read-more:hover, .archive .entry-content a.read-more:hover, #secondary .widget_search input[type="submit"]:hover, .comments-area form.comment-form .form-submit input[type="submit"]:hover {
+    background: #2c41b4;
+}
+.sakala-cont-sub-btn input[type="submit"] {
+    color: #FFF;
+    background: #2c41b4;
+}
+.sakala-cont-sub-btn input[type="submit"]:hover {
+    background: #2c41b4;
+}
+
+.main-footer-elem-wrap {
+    background-color: #2c41b4;
+}
+.bing-law-submit-btn input {
+    background: #2c41b4;
+}
+.ap-companion-testimonials.layout4 .slick-dots li.slick-active button:before {
+    color: #2c41b4;
+}
+.elementor-19 .elementor-element.elementor-element-0d7a338.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-19 .elementor-element.elementor-element-0d7a338.elementor-drop-cap-view-default .elementor-drop-cap {
+    color: #2c41b4;
+   
+}
+.header-lay5 .main-navigation li a {
+    color: #2c41b4; 
+}
+.header-lay5 .main-navigation li.current_page_item > a, .header-lay5 .main-navigation li.current-menu-item > a, .header-lay5 .main-navigation li.current-menu-ancestor > a, .header-lay5 .main-navigation li:hover > a {
+    color: #2c41b4;
+}
+.header-lay5 .site-phone .phone b {
+    color: #2c41b4;
+}
+.ap-companion-team.default .slick-arrow:hover {
+    background: #12227B !important;
+    border-color: #12227B !important;
+}
+.bing-law-submit-btn input {
+    background: #2C41B4 !important;
+}
+.bing-law-submit-btn input:hover {
+    background: #12227b !important;
+}
+.sakala-mobile-header button.menu-toggle {
+    background: none;
+    margin-right: 15px;
+}
+.sakala-new-container button.menu-toggle .nav-svg path {
+    stroke: #000000 !important;
+}
+.sakala-new-container button.menu-toggle .nav-svg .dots, button.menu-toggle .nav-svg .dots:before, button.menu-toggle .nav-svg .dots:after {
+    background: #000000;
+}
+.custom-logo-link {
+    display: inline-block;
+    padding-top: 0;
+}
+@media screen and (max-width:425px){
+	h2.elementor-heading-title.elementor-size-default {
+    text-align: center;
+}
+	.sakala-footer-wrap {
+    padding: 0;
+}
+}";}

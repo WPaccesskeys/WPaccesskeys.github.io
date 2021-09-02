@@ -1,0 +1,242 @@
+a:4:{s:8:"template";s:6:"sakala";s:4:"mods";a:16:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:6:"menu-1";i:2;}s:18:"custom_css_post_id";i:958;s:31:"sakala_dragndrop_sections_order";s:815:"{"header":{"top-header":[{"panel":"sakala_headercustom_section","section":"customhtml","enable":"0"},{"panel":"sakala_headersocial_section","section":"social","enable":"0"}],"main-header":[{"panel":"title_tagline","section":"site-branding","enable":"1"},{"panel":"sakala_headermenu_section","section":"nav-menu","enable":"1"},{"panel":"sakala_headerbutton_section","section":"button","enable":"1"},{"panel":"sakala_headersearch_section","section":"search","enable":"1"},{"panel":"sakala_headersidemenu_section","section":"sidemenu","enable":"1"}]},"footer":{"top-footer":[{"panel":"sakala_footer_menu_section","section":"footermenu","enable":"1"},{"panel":"sakala_footer_copyright_section","section":"copyright","enable":"1"}],"main-footer":[{"panel":"sakala_footer_social","section":"footersocial","enable":"0"}]}}";s:28:"sakala_header_layout_setting";s:4:"lay9";s:19:"title_tagline_width";i:21;s:31:"sakala_headermenu_section_width";i:59;s:33:"sakala_headerbutton_section_width";i:11;s:25:"sakala_header_button_text";s:9:"Get Token";s:25:"sakala_header_button_link";s:1:"#";s:28:"sakala_footer_layout_setting";s:4:"lay1";s:28:"sakala_footer_copyright_text";s:52:"© Copyright 2020 Sakala theme. All rights reserved.";s:32:"sakala_footer_menu_section_width";i:50;s:37:"sakala_footer_copyright_section_width";i:50;s:16:"header_textcolor";s:5:"blank";s:11:"custom_logo";i:1416;}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:9219:".header-lay9 .main-header-sakala-wrapper{
+	border-bottom: none;
+}
+footer .footermenu ul li a,
+footer .main-footer .site-info,
+footer .main-footer .site-info a{
+	font-size: 13px;
+	color: #000000;
+	font-family: "Poppins", Sans-serif;
+}
+.sakala-cont-sub-btn input[type="submit"], .sakala-cont-sub-btn input[type="submit"]:hover {
+    background: #00d1a9;
+}
+.bing-cont-name input[type="text"], .bing-cont-email input[type="email"], .bing-cont-phone input[type="tel"], .bing-cont-message textarea {
+    background: rgba(0, 209, 169, 0.2);
+}
+.ap-companion-testimonials.layout5 .slick-dots li.slick-active button:before, .ap-companion-testimonials.layout5 .slick-dots li:hover button:before, .footer-lay2 footer .main-footer .main-footer-elem-wrap div a:hover, #secondary ul li a:hover, .blog .entry-header .entry-title a:hover, .search .entry-header .entry-title a:hover, .archive .entry-header .entry-title a:hover{
+    color: #00d1a9;
+}
+.footer-lay2 footer .main-footer .main-footer-elem-wrap div a, .footer-lay2 footer .main-footer .main-footer-elem-wrap div {
+    color: #00d1a9;
+}
+.sakala-cont-sub-btn input[type="submit"], .blog .entry-content a.read-more, .search .entry-content a.read-more, .archive .entry-content a.read-more, #secondary .widget_search input[type="submit"], .comments-area form.comment-form .form-submit input[type="submit"], .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt {
+    background: #00d1a9;
+}
+.sakala-minimal-subscribe .wpcf7-submit:hover, .sakala-cont-sub-btn input[type="submit"]:hover, .blog .entry-content a.read-more:hover, .search .entry-content a.read-more:hover, .archive .entry-content a.read-more:hover, #secondary .widget_search input[type="submit"]:hover, .comments-area form.comment-form .form-submit input[type="submit"]:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover {
+    background: #00d1a9;
+	-webkit-box-shadow: 0 0 12px 4px rgba(0, 209, 169, 0.5);
+    box-shadow: 0 0 12px 4px rgba(0, 209, 169, 0.5);
+}
+.home button.sidewidget-icon .nav-svg path {
+    stroke: #fff;
+}
+
+.home button.sidewidget-icon .nav-svg .dots {
+    background: #fff;
+}
+
+.home button.sidewidget-icon .nav-svg .dots:before {
+    background: #fff;
+}
+
+.home button.sidewidget-icon .nav-svg .dots:after  {
+    background: #fff;
+}
+.sakala-mobile-header button.menu-toggle {
+    background: none;
+}
+.header-lay9 .site-button a:focus {
+    background-color: #353964 !important;
+    border: none !important;
+}
+.sakala-header-wrap .site-button a{
+	background-color: #f24570 !important;
+	 border: solid 2px #f24570;
+}
+.sakala-header-wrap .site-button a:hover{
+	background-color: #353964 !important;
+	 border: solid 2px #353964 !important;
+}
+button.btn-transparent-tottle:hover div#circle{
+	border-color: #f24570 !important;
+}
+button.btn-transparent-tottle:hover div#bar{
+	background: #f24570 !important;
+}
+.header-lay9 .main-navigation li.current-menu-ancestor > a, .header-lay9 .main-navigation li.current-menu-item > a, .header-lay9 .main-navigation li.current_page_item > a, .header-lay9 .main-navigation li:hover > a {
+    color: #d4506f !important;
+}
+.header-lay9.admin-bar header.site-header {
+    margin-top: 0;
+}
+.main-header.sakala-header-container {
+    padding: 0;
+}
+.header-lay9 .main-header-sakala-wrapper {
+    padding: 0;
+}
+h1.page-title {
+    color: #000;
+    font-family: "poppins", sans-serif;
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 1.5em;
+}
+.blog .entry-header .entry-title a, .search .entry-header .entry-title a, .archive .entry-header .entry-title a{
+	font-family: "poppins", sans-serif;
+	font-size: 24px;
+	font-weight: 400;
+}
+.blog .entry-content p, .search .entry-content p, .archive .entry-content p{
+	font-size: 16px;
+	line-height: 34px;
+	font-weight: 400
+	font-family: "rubik";
+	color: #2f2f2f;
+}
+.sakala-cont-sub-btn input[type="submit"], .blog .entry-content a.read-more, .search .entry-content a.read-more, .archive .entry-content a.read-more, #secondary .widget_search input[type="submit"], .comments-area form.comment-form .form-submit input[type="submit"], .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt {
+    background: #f24570;
+	border-radius: 0;
+}
+.ap-companion-testimonials.layout5 .slick-dots li.slick-active button:before, .ap-companion-testimonials.layout5 .slick-dots li:hover button:before, .footer-lay2 footer .main-footer .main-footer-elem-wrap div a:hover, #secondary ul li a:hover, .blog .entry-header .entry-title a:hover, .search .entry-header .entry-title a:hover, .archive .entry-header .entry-title a:hover {
+    color: #f24570;
+}
+#secondary .widget-title {
+    font-family: "poppins", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+	color: #2f2f2f;
+}
+#secondary .widget a {
+    font-size: 16px;
+}
+#secondary .widget_recent_entries a {
+    font-weight: 400;
+}
+body:not(.home).header-lay9 .site-header .site-button a {
+    color: #fff;
+}
+.bing-cont-name input[type="text"], .bing-cont-email input[type="email"], .bing-cont-phone input[type="tel"], .bing-cont-message textarea {
+    border-radius: 0;
+    color: #fff;
+	background: none;
+    border-radius: 0;
+    color: #515151;
+    border-bottom: 2px solid #ccc;
+}
+.placeholder{
+	color: #ffffff;
+}
+.sakala-minimal-subscribe .wpcf7-submit:hover, .sakala-cont-sub-btn input[type="submit"]:hover, .blog .entry-content a.read-more:hover, .search .entry-content a.read-more:hover, .archive .entry-content a.read-more:hover, #secondary .widget_search input[type="submit"]:hover, .comments-area form.comment-form .form-submit input[type="submit"]:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover {
+    background-color: #353964;
+/*     -webkit-box-shadow: 0 0 12px 4px rgb(0 209 169 / 50%);
+    box-shadow: 0 0 12px 4px rgb(0 209 169 / 50%); */
+	box-shadow: none;
+}
+.bing-cont-name {
+    width: 100%;
+    margin-bottom: 15px;
+}
+.sakala-cont-inner-left-wrapp {
+    margin-top: -5px;
+}
+.sakala-cont-sub-btn {
+    margin-top: 30px;
+}
+body:not(.home).header-lay9 .site-header .main-navigation li a, body:not(.home).header-lay2 .site-header .main-navigation li a {
+    font-weight: 400;
+}
+.bing-cont-name input[type="text"], .bing-cont-email input[type="email"], .bing-cont-phone input[type="tel"], .bing-cont-message textarea {
+    padding: 0 10px;
+}
+.elementor-text-editor.elementor-clearfix b {
+    color: #f24570 !important;
+}
+.bing-cont-name {
+    width: 100%;
+    margin-top: -16px;
+    margin-bottom: 49px;
+}
+body:not(.home) .site-header {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+footer.entry-footer span.cat-links{
+	margin-bottom: 20px;
+}
+.wp-block-quote {
+    padding-left: 3em;
+}
+blockquote.wp-block-quote::before{
+	display: none;
+}
+@media screen and (max-width:768px){
+		footer .top-footer-sakala-wrapper > div:first-of-type, footer .main-footer > .main-footer-elem-wrap div:first-of-type, .footer-lay1 footer .site-info, .footer-lay1 footer .footermenu, .footer-lay3 footer .site-info, .footer-lay3 footer .footermenu {
+    width: 100%;
+    text-align: center !important;
+			display: block;
+		font-size: 10px;
+}
+	.top-footer-sakala-wrapper.top-footer-elem-wrap.footer-elements-wrap {
+    display: block;
+    width: 100%;
+}
+}
+@media screen and (max-width: 425px){
+	h2.elementor-heading-title.elementor-size-default {
+    text-align: center;
+}
+	footer .top-footer-sakala-wrapper > div:first-of-type, footer .main-footer > .main-footer-elem-wrap div:first-of-type, .footer-lay1 footer .site-info, .footer-lay1 footer .footermenu, .footer-lay3 footer .site-info, .footer-lay3 footer .footermenu {
+    width: 100%;
+    text-align: left !important;
+		font-size: 10px;
+}
+	footer .footermenu ul li a, footer .main-footer .site-info, footer .main-footer .site-info a {
+    font-size: 10px !important;
+}
+}
+.site-title a, .site-description {
+    color: #f24570;
+}
+.header-lay9 .main-navigation li.current-menu-ancestor > a, .header-lay9 .main-navigation li.current-menu-item > a, .header-lay9 .main-navigation li.current_page_item > a, .header-lay9 .main-navigation li:hover > a {
+    color: #f24570;
+}
+.header-lay9 .site-button a {
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 300;
+	 background: #f24570;
+    border: solid 2px #f24570;
+    padding: 8px 20px;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+    background: none;
+    color: #FFF;
+    -webkit-transition: all ease 0.35s;
+    -moz-transition: all ease 0.35s;
+    -ms-transition: all ease 0.35s;
+    -o-transition: all ease 0.35s;
+    transition: all ease 0.35s;
+}
+.header-lay9 .site-button a:hover {
+  background: #353964;
+	border: solid 2px #353964;
+}
+.sakala-wresume-contact-form input[type="submit"] {
+    background: #f24570;
+}
+.sakala-wresume-contact-form input[type="submit"]:hover {
+    background: #353964;
+}
+
+#sakala-top {
+    border: 2px solid #f24570;
+}
+#sakala-top:hover {
+    background: #353964;
+	border: solid 2px #353964;
+}
+span.dashicons.dashicons-arrow-up-alt2 {
+    color: #f24570;
+}";}

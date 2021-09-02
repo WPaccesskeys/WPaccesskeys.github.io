@@ -1,0 +1,184 @@
+a:4:{s:8:"template";s:6:"sakala";s:4:"mods";a:14:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:6:"menu-1";i:3;}s:18:"custom_css_post_id";i:1036;s:31:"sakala_dragndrop_sections_order";s:1047:"{"header":{"top-header":[{"panel":"sakala_headercustom_section","section":"customhtml","enable":"0"},{"panel":"sakala_headersocial_section","section":"social","enable":"0"}],"main-header":[{"panel":"sakala_headeraddress_section","section":"address","enable":"0"},{"panel":"sakala_headerphone_section","section":"phone","enable":"0"},{"panel":"sakala_headeremail_section","section":"email","enable":"0"},{"panel":"sakala_headersidemenu_section","section":"sidemenu","enable":"0"},{"panel":"sakala_headersearch_section","section":"search","enable":"0"}],"bottom-header":[{"panel":"title_tagline","section":"site-branding","enable":"1"},{"panel":"sakala_headermenu_section","section":"nav-menu","enable":"1"},{"panel":"sakala_headerbutton_section","section":"button","enable":"1"}]},"footer":{"top-footer":[{"panel":"sakala_footer_menu_section","section":"footermenu","enable":"0"}],"main-footer":[{"panel":"sakala_footer_copyright_section","section":"copyright","enable":"1"},{"panel":"sakala_footer_social","section":"footersocial","enable":"0"}]}}";s:28:"sakala_header_layout_setting";s:5:"lay11";s:25:"sakala_header_button_text";s:10:"Get Quotes";s:25:"sakala_headerbutton_color";s:7:"#5154ff";s:31:"sakala_headerbutton_hover_color";s:7:"#cf040c";s:25:"sakala_header_button_link";s:1:"#";s:33:"sakala_headerbutton_section_width";i:12;s:31:"sakala_headermenu_section_width";i:68;s:11:"custom_logo";i:1489;s:16:"header_textcolor";s:5:"blank";s:19:"title_tagline_width";i:20;}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:4787:".sakala-header-wrap {
+    margin-top: 20px !important;
+}
+.sakala-new-container .main-navigation li a {
+    display: inline-block;
+    padding: 0 10px 0 0px;
+    font-size: 16px;
+    font-family: 'Rubik';
+    font-weight: 400;
+}
+h3.elementor-image-box-title {
+    font-size: 1.17em;
+}
+.site-button a {
+    background: #FF5E15 !important;
+}
+
+.site-button a:hover {
+    background: #00235A !important;
+}
+.sakala-new-container p {
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+    font-family: "Rubik";
+    margin: 0;
+}
+.ap-companion-testimonials .inner-wrapp .desc-wrapp {
+    margin-top: 40px;
+}
+.footer-lay2 footer .main-footer .main-footer-elem-wrap div {
+    padding: 15px 0;
+}
+.sakala-header-title {
+    background-color: rgba(255, 94, 21, 1) !important;
+}
+.bing-cont-name input[type="text"], .bing-cont-email input[type="email"], .bing-cont-phone input[type="tel"], .bing-cont-message textarea {
+    -webkit-border-radius: 0;
+    border-radius: 0;
+    background: no-repeat;
+    color: #515151;
+    border: 1px solid #dcdcdc;
+}
+.sakala-cont-sub-btn input[type="submit"] {
+    -webkit-border-radius: 0;
+    border-radius: 0;
+	background-color: #FF5E15;
+}
+.sakala-cont-sub-btn input[type="submit"]:hover{
+	background: #00235A;
+} 
+.sakala-cont-inner-left-wrapp {
+    margin-top: 0;
+}
+.sakala-cont-sub-btn {
+    margin-top: 20px;
+}
+.header-lay11 .site-button a {
+    -webkit-border-radius: 0;
+    border-radius: 0;
+}
+.blog .entry-content a.read-more, .search .entry-content a.read-more, .archive .entry-content a.read-more {
+    background: #FF5E15;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+}
+#secondary .widget_search input[type="submit"] {
+    background: #FF5E15;
+}
+body:not(.home) .page-title {
+    margin-top: 0;
+    color: #00235a;
+    font-family: 'Rubik';
+    line-height: 1.66;
+}
+.blog .entry-header .entry-title a, .search .entry-header .entry-title a, .archive .entry-header .entry-title a {
+    color: #00235a;
+    font-family: 'Rubik';
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 1.3;
+}
+.blog .entry-content p, .search .entry-content p, .archive .entry-content p {
+    color: #5a5a5a;
+    font-family: 'Rubik';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+}
+#secondary .widget a {
+    color: #5a5a5a;
+    font-family: 'Rubik';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+}
+#secondary .widget-title {
+    color: #030303;
+    font-family: 'Rubik';
+    font-size: 20px;
+    font-weight: 500;
+}
+#sakala-top {
+    border: 2px solid #ff5e15;
+}
+span.dashicons.dashicons-arrow-up-alt2 {
+    color: #ff5e15;
+}
+#sakala-top:hover {
+    background: #ff5e15;
+}
+.blog .entry-header .entry-title a:hover, .search .entry-header .entry-title a:hover, .archive .entry-header .entry-title a:hover {
+    color: #ff5e15;
+}
+#secondary .widget_search input[type="submit"]:hover {
+    background: #00235A !important;
+}
+.blog .entry-content a.read-more:hover, .search .entry-content a.read-more:hover, .archive .entry-content a.read-more:hover {
+    background: #00235A !important;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+body:not(.home) .site-header {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.sakala-header-wrap {
+    margin: 20px 0 !important;
+}
+blockquote.wp-block-quote p{
+	margin-left: 40px !important;
+}
+footer.entry-footer span.cat-links{
+	margin-bottom: 20px;
+}
+.bing-cont-name input[type="text"], .bing-cont-email input[type="email"], .bing-cont-phone input[type="tel"]{
+    padding: 0 15px;
+}
+.bing-cont-message textarea {
+    padding: 10px 15px;
+}
+blockquote.wp-block-quote::before{
+	display: none;
+}
+#secondary ul li a:hover {
+    color: #FF5E15;
+}
+@media screen and (max-width: 768px){
+	.elementor-widget-image img {
+    width: 100%;
+}
+	header#masthead .sakala-mobile-header .site-branding img {
+    height: 60px !important;
+    width: 180px !important;
+}
+	.sakala-new-container button.menu-toggle .nav-svg path {
+    stroke: #000 !important;
+}
+	.sakala-new-container button.menu-toggle .nav-svg .dots, button.menu-toggle .nav-svg .dots:before, button.menu-toggle .nav-svg .dots:after {
+    background: #000;
+}
+	.sakala-mobile-header button.menu-toggle {
+    background: none;
+    margin-right: 15px;
+}
+}
+@media screen and (max-width: 425px){
+	h2.elementor-heading-title.elementor-size-default {
+    text-align: center;
+}
+	button.menu-toggle .nav-svg .dots, button.menu-toggle .nav-svg .dots:before, button.menu-toggle .nav-svg .dots:after {
+    background: #000 !important;
+		
+}
+	button.sidewidget-icon .nav-svg .dots:before, button.menu-toggle .nav-svg .dots:before {
+    top: -7px;
+    background: #000 !important;
+    color: #000 !important;
+}
+	header#masthead .sakala-mobile-header .site-branding img {
+    height: 60px !important;
+    width: 180px !important;
+}
+}";}

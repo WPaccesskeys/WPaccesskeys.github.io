@@ -1,0 +1,143 @@
+a:4:{s:8:"template";s:6:"sakala";s:4:"mods";a:21:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:6:"menu-1";i:3;}s:18:"custom_css_post_id";i:967;s:31:"sakala_dragndrop_sections_order";s:576:"{"header":{"main-header":[{"panel":"title_tagline","section":"site-branding","enable":"1"},{"panel":"sakala_headermenu_section","section":"nav-menu","enable":"1"},{"panel":"sakala_headersocial_section","section":"social","enable":"1"},{"panel":"sakala_headersearch_section","section":"search","enable":"1"}]},"footer":{"top-footer":[{"panel":"sakala_footer_menu_section","section":"footermenu","enable":"1"},{"panel":"sakala_footer_copyright_section","section":"copyright","enable":"1"}],"main-footer":[{"panel":"sakala_footer_social","section":"footersocial","enable":"0"}]}}";s:28:"sakala_header_layout_setting";s:4:"lay4";s:19:"title_tagline_width";i:15;s:31:"sakala_headermenu_section_width";i:50;s:33:"sakala_headersearch_section_width";i:3;s:34:"sakala_header_social_icon_facebook";s:32:"dashicons dashicons-facebook-alt";s:33:"sakala_headersocial_section_width";i:12;s:29:"sakala_header_social_facebook";s:1:"#";s:33:"sakala_header_social_icon_twitter";s:27:"dashicons dashicons-twitter";s:28:"sakala_header_social_twitter";s:1:"#";s:35:"sakala_header_social_icon_instagram";s:29:"dashicons dashicons-instagram";s:30:"sakala_header_social_instagram";s:1:"#";s:28:"sakala_footer_layout_setting";s:4:"lay1";s:28:"sakala_footer_copyright_text";s:46:"Copyright © 2020 Sakala. All rights reserved.";s:11:"custom_logo";i:1090;s:16:"header_textcolor";s:5:"blank";s:32:"sakala_footer_menu_section_width";i:50;s:37:"sakala_footer_copyright_section_width";i:45;}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:4022:"/* footer{
+	background: #ebf2ff;
+	padding: 10px;
+}
+body footer .social-links a:last-child{
+	margin-right: 0;
+}
+
+.sakala-new-container .main-navigation li a {
+  
+    padding: 25px 0;
+    
+} */
+.header-lay4 .main-navigation li a:before {
+    background: none;
+}
+footer .top-footer-sakala-wrapper > div:first-of-type, footer .main-footer > .main-footer-elem-wrap div:first-of-type {
+    text-align: center;
+}
+footer .top-footer-sakala-wrapper > div:last-of-type, footer .main-footer > .main-footer-elem-wrap div:last-of-type {
+    text-align: left;
+}
+.header-lay4 .main-navigation li:hover > a {
+    color: #2550df;
+}
+.header-lay4 .social-links a:hover {
+    color: #2550df;
+}
+.sakala-new-container .main-navigation li a {
+    text-transform: uppercase;
+}
+.blog .entry-content a.read-more, .search .entry-content a.read-more, .archive .entry-content a.read-more{
+	border-radius: 0;
+	box-shadow: none;
+}
+.blog .entry-content a.read-more, .search .entry-content a.read-more, .archive .entry-content a.read-more:hover{
+	box-shadow: none;
+}
+h1.page-title {
+    font-size: 56px;
+    font-weight: 600;
+    line-height: 1em;
+}
+.blog .entry-header .entry-title a, .search .entry-header .entry-title a, .archive .entry-header .entry-title a {
+    color: #353f59;
+    font-family: "Rubik", sans-serif;
+    font-size: 38px;
+    font-weight: 400;
+    line-height: 1.26em;
+}
+.blog .entry-content p, .search .entry-content p, .archive .entry-content p {
+    color: #828282;
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+}
+#secondary .widget-title {
+    font-family: "Rubik", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 1.6em;
+}
+#secondary .widget a {
+    color: #828282;
+    display: block;
+    line-height: 1.33;
+    letter-spacing: normal;
+    font-size: 16px;
+    font-family: "Roboto", sans-serif;
+}
+.bing-cont-name input[type="text"], .bing-cont-email input[type="email"], .bing-cont-phone input[type="tel"], .bing-cont-message textarea {
+    -webkit-border-radius: 0px;
+    border-radius: 0px;
+}
+.sakala-cont-sub-btn input[type="submit"] {
+    -webkit-border-radius: 0px;
+    border-radius: 0px;
+}
+.bing-cont-name input[type="text"], .bing-cont-email input[type="email"], .bing-cont-phone input[type="tel"], .bing-cont-message textarea {
+    background: none;
+    border: 1px solid #dcdcdc;
+    color: #515151;
+}
+.sakala-cont-inner-left-wrapp {
+    margin-top: -8px;
+}
+.sakala-cont-sub-btn {
+    margin-top: 30px;
+}
+.header-lay4 .main-navigation li a {
+    text-transform: uppercase;
+}
+body:not(.home) .site-header {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+blockquote.wp-block-quote p{
+	margin-left: 40px !important;
+}
+footer.entry-footer span.cat-links {
+    margin-bottom: 20px;
+}
+.bing-cont-name input[type="text"], .bing-cont-email input[type="email"], .bing-cont-phone input[type="tel"]{
+    padding: 0 15px;
+}
+.bing-cont-message textarea {
+    padding: 10px 15px;
+}
+blockquote.wp-block-quote::before{
+	display: none;
+}
+@media screen and (max-width:768px){
+	footer .top-footer-sakala-wrapper > div:first-of-type, footer .main-footer > .main-footer-elem-wrap div:first-of-type {
+    text-align: center;
+}
+	footer .top-footer-sakala-wrapper > div:last-of-type, footer .main-footer > .main-footer-elem-wrap div:last-of-type {
+    text-align: center;
+}
+	.top-footer-sakala-wrapper.top-footer-elem-wrap.footer-elements-wrap {
+    display: block;
+    width: 100%;
+    margin: 15px 0;
+}
+	.sakala-new-container button.menu-toggle .nav-svg .dots, button.menu-toggle .nav-svg .dots:before, button.menu-toggle .nav-svg .dots:after {
+    background: #000;
+}
+	.sakala-new-container button.menu-toggle .nav-svg path {
+    stroke: #000 !important;
+}
+.sakala-mobile-header button.menu-toggle {
+    background: none !important;
+    margin-right: 15px;
+}
+}
+@media screen and (max-width: 425px){
+	h2.elementor-heading-title.elementor-size-default {
+    text-align: center;
+}
+	.sakala-mobile-header .site-branding img {
+    height: 60px !important;
+    width: 180px;
+}
+}";}
